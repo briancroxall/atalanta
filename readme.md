@@ -1,1 +1,1 @@
-Files related to the [Brown University Library's](http://library.brown.edu/) project about Michael Maier's _Atalanta Fugiens_ (1617).
+Files related to the [Brown University Library's](http://library.brown.edu/) [Mellon-funded](https://news.brown.edu/articles/2015/01/digital) project about Michael Maier's _Atalanta Fugiens_ (1617).
