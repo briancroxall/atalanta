@@ -20,7 +20,69 @@
    
   <text>
       <body>
-         <p>Some text here.</p>
+         <div type="emblem" n="e14">
+            <pb n="64"/>
+            <head>
+               <lb/>FUGA XIV. in 8. infrà.
+               <lb/>Diß ist der Drache<pc>/</pc><!-- BC: There's a back slash between "Drache" and "welcher" that is unclear for its intent -->welcher sein eigenen Schwanz <!--BC: unclear what this following word is.-->aussfrißt.
+            </head>
+        
+            
+            <div type="fugue">
+               <head>
+                  
+               </head>
+               
+            </div>
+            
+            <div type="epigram" xml:lang="de">
+               <head>XIV. Epigrammatis Latini versio Germanica.</head>
+               <lg>
+                  <l>Der hunger zwingt dem viels...<pc>/</pc></l>
+                  <l></l>
+                  <l></l>
+                  <l></l>
+                  <l></l>
+                  <l></l>
+               </lg>
+            </div>
+            <fw type="catchword">Emble-</fw>
+            
+            <pb n="65"/>
+            
+            <div type="image-caption">
+               <head>
+                  <lb/>Emblema XIV. De Secretis Naturæ.<!-- BC: how do we want to handle ligatures? -->
+                  <lb/>Hic est Draco caudam suam devorans
+               </head>
+               
+            </div>
+            
+            <figure><graphic url=""></graphic></figure>
+            
+            <div type="epigram" xml:lang="la">
+               <head>Epigramma XIV.</head>
+               <lg>
+                  <l>Dira fames Polypos docuit sua rodere crura,</l>
+                  <l></l>
+                  <l></l>
+                  <l></l>
+                  <l></l>
+                  <l></l>
+               </lg>
+            </div>
+            
+            <fw type="catchword">Vete-</fw>
+            
+            <div type="discourse">
+               <pb n="66"/>
+               <ab>Veteres dixêre, <!-- What do we do with the circonflex over the e and the other typographical marks in here? -->quod serpens, qui serpentem devorarit, fiat draco...</ab>
+               
+               <pb n="67"/>
+                  <ab>midam ab...</ab>
+            </div>
+            
+         </div>
       </body>
   </text>
 </TEI>
