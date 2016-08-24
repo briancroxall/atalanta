@@ -24,7 +24,7 @@
             <pb n="64"/>
             <head>
                <lb/>FUGA XIV. in 8. infrà.
-               <lb/>Diß ist der Drache<pc>/</pc><!-- BC: There's a back slash between "Drache" and "welcher" that is unclear for its intent -->welcher sein eigenen Schwanz <!--BC: unclear what this following word is.-->aussfrißt.
+               <lb/>Diß ist der Drache<pc>/</pc><!-- BC: There's a back slash between "Drache" and "welcher" that is unclear for its intent -->welcher sein eigenen Schwanz aufffrißt.
             </head>
             
             <div type="fugue">
@@ -63,11 +63,11 @@
                <head>Epigramma XIV.</head>
                <lg>
                   <l>Dira fames Polypos docuit sua rodere crura,</l>
-                  <l></l>
-                  <l></l>
-                  <l></l>
-                  <l></l>
-                  <l></l>
+                  <l>Humanáque homines se nutriisse dape.</l>
+                  <l>Dente Draco caudam dum mordet &amp; ingerit alvo,</l>
+                  <l>Magnâ parte sui fit cibus ipse sibi.</l>
+                  <l>Ille domandus erit ferro fame, carcere, donec</l>
+                  <l>Se voret &amp; revomat se necet &amp; pariat.</l>
                </lg>
             </div>
             
@@ -75,7 +75,7 @@
             
             <div type="discourse">
                <pb n="66"/>
-               <ab>Veteres dixêre, <!-- What do we do with the circonflex over the e and the other typographical marks in here? -->quod serpens, qui serpentem devorarit, fiat draco...</ab>
+               <ab>Veteres dixêre, <!-- What do we do with the circonflex over the e and the other typographical marks in here? -->quod serpens, qui serpentem devorarit, fiat draco:...</ab>
                
                <pb n="67"/>
                   <ab>midam ab...</ab>
