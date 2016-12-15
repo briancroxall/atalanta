@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Title</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   
+   
+   <text>
+      <body>
+         <div type="emblem" n="e03">
+            <pb n="14"/>
+            
+            
+    
+      
+            
+            <div type="image-caption">
+               <head>
+                  <lb/>Embleme 3. Of the Secrets of Nature
+                  <lb/>Goe to the woman washing cloaths, and doe you after the same manner.
+               </head>
+               
+            </div>
+            
+            
+            <div type="epigram" xml:lang="en">
+               <head>Epigramme 3.</head>
+               <lg>
+                  <l>If you delight to <unclear>dive</unclear> in things abstruse,</l>
+                  <l>Be vigilant, observe what may <unclear>conduse.</unclear></l>
+                  <l>Doe you not see, how women wash and boyle</l>
+                  <l>Their <unclear>cloaths</unclear> in waters hott, if they gott soyle!</l>
+                  <l>Pursue their steps, you cannot goe astray,</l>
+                  <l>For water washeth any filth away.</l>
+               </lg>
+            </div>
+            
+            <fw type="catchword">Vete-</fw>
+            
+            <div type="discourse">
+               <pb n="66"/>
+               <ab>Veteres dixêre, <!-- What do we do with the circonflex over the e and the other typographical marks in here? -->quod serpens, qui serpentem devorarit, fiat draco:...</ab>
+               
+               <pb n="67"/>
+               <ab>midam ab...</ab>
+            </div>
+            
+         </div>
+      </body>
+   </text>
+</TEI>
