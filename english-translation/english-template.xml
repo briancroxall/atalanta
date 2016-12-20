@@ -19,14 +19,14 @@
    
    <text>
       <body>
-         <div type="emblem" n="e03">
-            <pb n="14"/>
+         <div type="emblem" n="e03"><!-- Change the value of n to "e" followed by the number of the emblem. Use two digits for all numbers. -->
+            <pb n="14"/><!-- Page number of the actual manuscript -->
             
             
             <div type="image-caption">
                <head>
-                  <lb/>Embleme 3. Of the Secrets of Nature
-                  <lb/><choice><orig>Goe</orig><reg>Go</reg></choice> to the woman washing <choice><orig>cloaths</orig><reg>clothes</reg></choice>, and <choice><orig>doe</orig><reg>do</reg></choice> you after the same manner.
+                  <lb/>
+                  
                </head>
             </div>
             
@@ -35,46 +35,24 @@
                <head>Epigramme 3.</head>
                <lg>
                   <l>If you delight to <unclear reason="illegible">dive</unclear> in things abstruse,</l>
-                  <l>Be vigilant, observe what may <unclear reason="illegible">conduse.</unclear></l>
-                  <l><choice><orig>Doe</orig><reg>Do</reg></choice> you not see, how women wash and <choice><orig>boyle</orig><reg>boil</reg></choice></l>
-                  <l>Their cloaths in waters <choice><orig>hott</orig><reg>hot</reg></choice>, if they <choice><orig>gott</orig><reg>got</reg></choice> <choice><orig>soyle</orig><reg>soil</reg></choice>!</l>
-                  <l>Pursue their steps, you cannot <choice><orig>goe</orig><reg>go</reg></choice> astray,</l>
-                  <l>For water washeth any filth away.</l>
+                 
                </lg>
             </div>
             
             
-            <pb n="15"/>
+            <pb n="15"/> <!-- Page number of the actual manuscript -->
             <div type="discourse" xml:lang="en">
                <head>Discourse 3.</head>
                <ab><!--Our convention will be that if we have break = "no" then it means that the word is broken across the line with a dash--> 
-                  <lb/><milestone unit="section" n="e03-01" />If <subst><del>some contains</del><add>any</add></subst> <orig>impurityes</orig> happen to <unclear><choice><orig>linnen</orig><reg>linen</reg></choice></unclear> cloaths, whereby they are spot
-                  <lb break="no" />ted and <orig>blacke</orig>, as with earthy recrements, they are washed away by the next
-                  <lb />Element, namely water, and the <orig>cloaths</orig> exposed to the <orig>aire</orig>, that the moisture
-                  <lb />together with the <choice><orig>fæces</orig><reg>feces</reg></choice> may be drawn out by the heat of the <orig>Sunne</orig>, as by
-                  <lb />fire, the fourth Elemnt, if this be often done the <orig>cloaths</orig>, which before were
-                  <lb /><orig>foule</orig> and <unclear reason="illegible"><orig>uncleane</orig></unclear>, <orig>doe</orig> become pure, and <subst><del>purged</del><add>free</add></subst> from spots: This is the art of
-                  <lb />women, which they learned from nature herself:<milestone unit="section" n="e03-02"/>
-                  
-                  <!-- Skipped some lines -->
+                  <lb/><milestone unit="section" n="e03-01" /> <!-- Change the value of n to "e" plus the number of the emblem (in two digits), followed by a hyphen and then a two-digit count of sentence -->
                   
                   
-                  <lb />vainly talks of the haires of the reptile Salamander, as if incombustible
                   
-                  <pb n="16"/><fw>Discourse 3.</fw>
-                  <lb />Elychnia <add>or <orig>lamp<unclear reason="illegible">-wiecks</unclear></orig><reg>lamp-wicks</reg></add> may be made thereof, is not to be regarded:<milestone unit=""/> Some there be who of a
-                  <lb />truth <orig>affirme</orig>
-                  
-                  <!-- Skipped some lines -->
-                  
-                  
-                  <lb />not obvious to all men: <milestone unit=""/><seg rend="underline">To wash them, they make a Lixivium, or Lye, not
-                     <lb />with the ashes, or salt of Oaks, but <orig>metallicco</orig>, which is more durable than
-                     <lb />the other, nor with <orig>comon</orig> water, but that, which hath been <choice><orig>congeled</orig><reg>congealed</reg></choice> into
-                     <lb />Ice and Snow under the <orig>signe</orig> <orig>Aquary</orig>, as that which is of thinner parts, than
-                     <lb />standing waters of ditches or marshes, and therefore can better penetrate into
-                     <lb />the more <orig>internall</orig> parts of the <orig>blacke</orig> and unclean <orig>philosophicall</orig> body, in
-                     <lb />order to the washing and purging thereof</seg><pc>- - - - - </pc>
+       
+                  <pb n="16"/><fw>Discourse 3.</fw><!-- Page number of the actual manuscript, followed by the header on the page. -->
+              
+                  <lb />
+                     <pc>- - - - - </pc>
                   
                </ab>   
             </div>
