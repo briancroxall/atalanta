@@ -23,7 +23,7 @@
             <pb n="14"/><!-- Page number of the actual manuscript -->
             
             
-            <div type="image-caption">
+            <div type="title" xml:lang="en">
                <head>
                   <lb/>
                   
@@ -35,7 +35,11 @@
                <head>Epigramme 3.</head>
                <lg>
                   <l>If you delight to <unclear reason="illegible">dive</unclear> in things abstruse,</l>
-                 
+                  <l></l>
+                  <l></l>
+                  <l></l>
+                  <l></l>
+                  <l></l>
                </lg>
             </div>
             
