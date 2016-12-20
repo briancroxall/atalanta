@@ -19,27 +19,27 @@
    
    <text>
       <body>
-         <div type="emblem" n="e03"><!-- Change the value of n to "e" followed by the number of the emblem. Use two digits for all numbers. -->
-            <pb n="14"/><!-- Page number of the actual manuscript -->
+         <div type="emblem" n="e04"><!-- Change the value of n to "e" followed by the number of the emblem. Use two digits for all numbers. -->
+            <pb n="17"/><!-- Page number of the actual manuscript -->
             
             
             <div type="title" xml:lang="en">
                <head>
-                  <lb/>
-                  
+                  <lb/>Embleme 4. Of the Secrets of Nature.
+                  <lb/>Joyne the Brother with the Sister and give them a cup of love.                  
                </head>
             </div>
             
             
             <div type="epigram" xml:lang="en">
-               <head>Epigramme 3.</head>
+               <head>Epigramme 4.</head>
                <lg>
-                  <l>If you delight to <unclear reason="illegible">dive</unclear> in things abstruse,</l>
-                  <l></l>
-                  <l></l>
-                  <l></l>
-                  <l></l>
-                  <l></l>
+                  <l>To multiply the world with humane race,</l>
+                  <l>The brother <subst><del>must</del><add>did</add></subst> his sister close embrace:</l>
+                  <l>Set therefore one the other <unclear reason="illegible">friendly</unclear> wed,</l>
+                  <l>That they may act as man and wife in bed:</l>
+                  <l>First to inbibe, prepare a cup o'th best,</l>
+                  <l>And then they both will freely doe the rest.</l>
                </lg>
             </div>
             
