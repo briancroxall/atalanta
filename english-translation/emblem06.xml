@@ -19,36 +19,48 @@
    
    <text>
       <body>
-         <div type="emblem" n="e03"><!-- Change the value of n to "e" followed by the number of the emblem. Use two digits for all numbers. -->
-            <pb n="14"/><!-- Page number of the actual manuscript -->
+         <div type="emblem" n="e06"><!-- Change the value of n to "e" followed by the number of the emblem. Use two digits for all numbers. -->
+            <pb n="23"/><!-- Page number of the actual manuscript -->
             
             
             <div type="title" xml:lang="en">
                <head>
-                  <lb/>
+                 <lb/><choice><orig>Embleme</orig><reg>Emblem</reg></choice> 6. Of the Secrets of Nature.
+                 <lb/><choice><orig>Sowe</orig><reg>sow</reg></choice> your gold in the white foliated earth.
                   
                </head>
             </div>
             
             
             <div type="epigram" xml:lang="en">
-               <head>Epigramme 3.</head>
+               <head>Epigramme 6.</head>
                <lg>
-                  <l>If you delight to <unclear reason="illegible">dive</unclear> in things abstruse,</l>
-                  <l></l>
-                  <l></l>
-                  <l></l>
-                  <l></l>
-                  <l></l>
+                  <l>Rusticks their seed to th' fertile earth committ,</l>
+                  <l>When with their harrows they have made it fitt:</l>
+                  <l>The Sophi thus their golden seed due sowe</l>
+                  <l>In foliated earth as white as Snow:</l>
+                  <l>This method well observed, and you'le behold,</l>
+                  <l>As in a glasse, by wheat, your budding gold.</l>
                </lg>
             </div>
             
             
-            <pb n="15"/> <!-- Page number of the actual manuscript -->
+            <pb n="24"/> <!-- Page number of the actual manuscript -->
             <div type="discourse" xml:lang="en">
-               <head>Discourse 3.</head>
+               <head>Discourse 6.</head>
                <ab><!--Our convention will be that if we have break = "no" then it means that the word is broken across the line with a dash--> 
-                  <lb/><milestone unit="section" n="e03-01" /> <!-- Change the value of n to "e" plus the number of the emblem (in two digits), followed by a hyphen and then a two-digit count of sentence -->
+                  <lb/><milestone unit="section" n="e06-01" />A City sayth plato subsiste not by physician and physician, but by physician and
+                  <lb/>husbandman, that is, men of divers functions, but here mentions the husbandman
+                  <lb/>and physician first, because their worke are very conspicuous in the imitation,
+                  <lb/>emendation, and perfection of nature: for they both <unclear reason="illegible">take</unclear> a naturall subject,
+                  <lb/>in which they attending to art add some certaine things necessary being wanting,
+                  <lb/>or allso remove those things which are superfluous: soe that the art of both may
+                  <lb/>(as medicine by Hippocrates) be defined by the addition of defect, and subtract
+                  <lb break="no"/>tion of superfluity: for what <unclear reason="illegible">do</unclear> the husbandman more than add ploughing, ridging
+                  <lb/>furrowing, harrowing, dunging or manuring, sowing, et. to land left by nature, that
+                  <lb/>is, commit the increase and good successe to nature, which administreth the heat
+                  <lb/>of the Sunne, and raine, and multiplyes the seeds by them, and promotes them to
+                  <lb/>standing corne soon after to be reeped: in the<!-- Change the value of n to "e" plus the number of the emblem (in two digits), followed by a hyphen and then a two-digit count of sentence -->
                   
                   
                   
