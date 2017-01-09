@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Title</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   
+   <text>
+      <body>
+         <div type="emblem" n="e03"><!-- Change the value of n to "e" followed by the number of the emblem. Use two digits for all numbers. -->
+            <pb n="14"/><!-- Page number of the actual manuscript -->
+            
+            
+            <div type="title" xml:lang="en">
+               <head>
+                  <lb/>
+                  
+               </head>
+            </div>
+            
+            
+            <div type="epigram" xml:lang="en">
+               <head>Epigramme 3.</head>
+               <lg>
+                  <l>If you delight to <unclear reason="illegible">dive</unclear> in things abstruse,</l>
+                  <l></l>
+                  <l></l>
+                  <l></l>
+                  <l></l>
+                  <l></l>
+               </lg>
+            </div>
+            
+            
+            <pb n="15"/> <!-- Page number of the actual manuscript -->
+            <div type="discourse" xml:lang="en">
+               <head>Discourse 3.</head>
+               <ab><!--Our convention will be that if we have break = "no" then it means that the word is broken across the line with a dash--> 
+                  <lb/><milestone unit="section" n="e03-01" /> <!-- Change the value of n to "e" plus the number of the emblem (in two digits), followed by a hyphen and then a two-digit count of sentence -->
+                  
+                  
+                  
+       
+                  <pb n="16"/><fw>Discourse 3.</fw><!-- Page number of the actual manuscript, followed by the header on the page. -->
+              
+                  <lb />
+                     <pc>- - - - - </pc>
+                  
+               </ab>   
+            </div>
+            
+         </div>
+      </body>
+   </text>
+</TEI>
