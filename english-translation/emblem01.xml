@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Title</title>
+            </titleStmt>
+            <publicationStmt>
+                <p>Publication Information</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Information about the source</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    
+    <text>
+        <body>
+            <div type="emblem" n="e01"><!-- Change the value of n to "e" followed by the number of the emblem. Use two digits for all numbers. -->
+                <pb n="8"/><!-- Change to page number of the actual manuscript -->
+                
+                
+                <div type="title" xml:lang="en">
+                    <head>
+                        <lb/>the first Embleme. Of the Secrets of Nature.
+                        <lb/><unclear reason="illegible">Wine</unclear> carres him in his belly
+                        
+                    </head>
+                </div>
+                
+                
+                <div type="epigram" xml:lang="en">
+                    <head>the first Epigramme.</head>
+                    <lg>
+                        <l>If Boreas <unclear reason="illegible">onto</unclear> expand his windy wombe,</l>
+                        <l>That th' Infant in the world alive may come,</l>
+                        <l>His prowesse will the Heroes all outlive</l>
+                        <l>In art, in hand, in mind, and body too.</l>
+                        <l>Thinke him noe Caeso, nor abortive brood,</l>
+                        <l>Nor yet Agrippa, for his starre was good.</l>
+                    </lg>
+                </div>
+                
+                
+                <pb n="9"/> <!-- Change to page number of the actual manuscript -->
+                <div type="discourse" xml:lang="en">
+                    <head>Discourse 1.</head>
+                    <ab><!--Our convention will be that if we have break = "no" then it means that the word is broken across the line with a dash--> 
+                        <lb/><milestone unit="section" n="e01-01" />Hermes the most industrious inquisitor into every naturall secret doth<!-- Change the value of n to "e" plus the number of the emblem (in two digits), followed by a hyphen and then a two-digit count of sentence -->
+                        <lb/>in his Smaragdine table elegantly, though concisely, describe the naturalle
+                        <lb/>worke, where amongst other things hee sayth: the wind carrys him in his
+                        <lb/>belly: as if hee should say, Hee, whose father is Sol, and mother Luna,
+                        <lb/>must, before hee can be brought to light, be carryed by windy fumes, even
+                        <lb/>as a bird is caryed by the aire, when it flyes: now from fumes or winds, (which
+                        <lb/>are nothing els but aire moves) coagulated is produced water, from which mixed
+                        <lb/>with earth doe proceed all mineralls and metalls: yea these very things are
+                        <lb/>determined to consist and be imediately coagulates of fumes: whether
+                        <lb/>therefore it be ascribed to water or fume, the thing is the same, because
+                        <lb/>they are both the matter of wind: the same may be sayd of mineralls
+                        <lb/>and metalls, though more remotely: now the question is, who hee is, what
+                        <lb/>ought to be carryd by wind! I answer, Chymically, it is Sulphur, which is
+                        <lb/>carryd in Argent vive, as Lully in his booke, Chapt 32 attest, and alle the <note place="margin">Lully there. <lb/>The wind carryd <lb/>him in his belly, that <lb/>is, Sulphur is carryd <lb/>in <!-- need to insert chymical symbol somehow -->. and Chap. 47 <lb/>The Stone is fire <lb/>carryd in the belly <lb/>of aire</note>
+                        <lb/>rest: physically, it is an infant, which ought in a little time to be borne into
+                        <lb/>the world: I say allso Arithmetically, that it is the root of a Cube; Musically,
+                        <lb/>that it is the Disdiapason; Geometrically, that it is a punctum the begining
+                        <lb/>of a running line; Astronomically, the center of the planets, Saturne,
+                        <lb/>Jupiter, and Mars: though these be different subjects, yet if they be
+                        <lb/>well compard together, they will easily demonstrate the offspring of wind,
+                        <lb/>which must be left to everymans industry more or lesse. But I indigitate
+                        <lb/>the matter more plainly thus: every Mercury is compounded of fumes, 
+                        <lb/>that is, of water elevating earth with it into an airy rarity, and of earth
+                        <lb/>forcing aire to returne into a watry earth or earthy water: for the Ele=
+                        <lb break="no"/>ments being alltogether in it, and mixes, and subdued and reduced together
+                        <lb/>into a viscous nature, they doe not easily recede one from the other; but <!-- numbers above several words in next line -->
+                        <lb/>either the volatile doe follow above, or remayne below with the fixes, the
+                        <lb/>first whereof is evident in comon Mercury, the other in the philosophicall
+                        <lb/>and fixes metalls: in these the fixes Elements doe predominate the volatile,
+                        <lb/>in that the volatile oversway the fixes: nor indeed is it without reason, that 
+                        <lb/>Mercury is calld and reputed the mossenger, interpreter, and as it were the
+                        <lb/>running intermediate minister of the other Gods, with wings fitted to his
+                        <lb/>head and feet: for hee is windy, and flyes through the aire as wind itselfe,
+                        <lb/>as is comonly <!-- is is putting something consistly above the second o in comon? -->and really confirmes to the damage of many men; but car=
+                        <lb break="no"/>rying a white wand girt with two Serpents crossewise, which can draw soules
+                        <lb/>out of bodyes, and bring them backe againe, and doe many such contrary
+                        <lb/>things, hee exquisitely repraesents the philosophicall Mercury. Mercury there=
+                        <lb break="no"/>fore is wind, which takes Sulphur or Dionysius, or, if you had rasher, Ascu
+                        <lb break="no"/>lapius, being yet an imperfect Embryo, out of the mothers belly, or even out
+                        <lb/>of the ashes of the mothers body burned, and carryes it thither, where it
+                        <lb/>may be matured; and the Embryo is Sulphur, which is infused into
+                        <lb/>the belly of Boreas by the caelestialle Sunne, that hee may bring it
+                        <lb/>forth being matured, who in the compleat time of his cariage produceth
+                        <lb/>twins, one with white haire, called Calais, the other with red, named
+                        <lb/>Zethe: these Sonns of Boreas were (as Orphens the Chymicall poet writes)
+                        
+                        
+                        <pb n="16"/><fw>Discourse 3.</fw><!-- Page number of the actual manuscript, followed by the header on the page. -->
+                        
+                        <lb />
+                        <pc>- - - - - </pc>
+                        
+                    </ab>   
+                </div>
+                
+            </div>
+        </body>
+    </text>
+</TEI>
+
