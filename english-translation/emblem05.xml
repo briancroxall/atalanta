@@ -19,37 +19,68 @@
     
     <text>
         <body>
-            <div type="emblem" n="e03"><!-- Change the value of n to "e" followed by the number of the emblem. Use two digits for all numbers. -->
-                <pb n="14"/><!-- Change to page number of the actual manuscript -->
+            <div type="emblem" n="e05"><!-- Change the value of n to "e" followed by the number of the emblem. Use two digits for all numbers. -->
+                <pb n="20"/><!-- Change to page number of the actual manuscript -->
                 
                 
                 <div type="title" xml:lang="en">
                     <head>
-                        <lb/>
+                        <lb/>Embleme 5. Of the Secrets of Nature.
+                        <lb/>Put a Toad <subst><del>upon</del><add>to</add></subst>the womans breasts, that shee may give it sucke,
+                        <lb/>and <del>the woman</del>dye <add>herselfe</add>, and the Toad <subst><del>be <unclear reason="illegible">grasse</unclear></del><add>grow fatt</add></subst>with milke.
                         
                     </head>
                 </div>
                 
                 
                 <div type="epigram" xml:lang="en">
-                    <head>Epigramme 3.</head>
+                    <head>Epigramme 5.</head>
                     <lg>
-                        <l>If you delight to <unclear reason="illegible">dive</unclear> in things abstruse,</l>
-                        <l></l>
-                        <l></l>
-                        <l></l>
-                        <l></l>
-                        <l></l>
+                        <l>Lay the cold Toad to th' womans milky breast,</l>
+                        <l>That as an infant hee himselfe may feast,</l>
+                        <l>And thereby grow in bignesse and in strength,</l>
+                        <l>Till hee hath killd his dry: suckd nurce at length:</l>
+                        <l>An antidote, from theme praepare, the heart</l>
+                        <l>Intoxicates cures, and pocks with art.</l>
                     </lg>
                 </div>
                 
                 
-                <pb n="15"/> <!-- Change to page number of the actual manuscript -->
+                <pb n="21"/> <!-- Change to page number of the actual manuscript -->
                 <div type="discourse" xml:lang="en">
-                    <head>Discourse 3.</head>
+                    <head>Discourse 5.</head>
                     <ab><!--Our convention will be that if we have break = "no" then it means that the word is broken across the line with a dash--> 
-                        <lb/><milestone unit="section" n="e03-01" /> <!-- Change the value of n to "e" plus the number of the emblem (in two digits), followed by a hyphen and then a two-digit count of sentence -->
-                        
+                        <lb/>The whole troop of <del>the</del>philosophers doe herein consent, that their worke is<milestone unit="section" n="e05-01" /> <!-- Change the value of n to "e" plus the number of the emblem (in two digits), followed by a hyphen and then a two-digit count of sentence -->
+                        <lb/>nothing els, but man and wife: the mans part is indeed to generate, and governe
+                        <lb/>the wife, hers to conceive, be impraegnated, bring forth, give sucke, and educate
+                        <lb/>the offspring, and be subject to the mans comand: for as shee sustaines and
+                        <lb/>nourisheth the conceived Embryo, before it be brought to light, with blood, soe
+                        <lb/>being brought forth with milke. To this end Nature hath praepared for the
+                        <lb/>tender infant a digestible and proportioned food in the mothers breasts, which
+                        <lb/>waits his coming, as the first provision and viaticum in this race of the world:
+                        <lb/>by milke therefore hee is nourished, growes, and is increased, till hee be furnished
+                        <lb/>with instruments to chaw bread, that is, teeth, then is hee deservedly weaned, be
+                        <lb break="no"/>cause nature hath provided him other nutriment more solid: But here the phi
+                        <lb break="no"/>losophers say, that a Toad must be put to the womans breasts, that shee may
+                        <lb/>nourish it, as an infant, with her milke: This is a miserable and horrible spectacle,
+                        <lb/>yea and a wicked thing, that milke designed for an infant should be given to a
+                        <lb/>Toad, being a venomous beast, and contrary to the nature of man: Wee have
+                        <lb/>heard and read of Serpents and Dragons sucking the teats of cowes: Toads might
+                        <lb/>perhaps desire the same thing, if ocasion should be offered in beasts. There is a 
+                        <lb/>noted story of a Toad, who seated himselfe upon the mouth, and inside of the
+                        <lb/>lipps of a certaine countryman being asleep, soe that hee could not be driven of
+                        <lb/>by any contrivance, unlesse by violence, which being accompanys with danger of
+                        <lb/>death, by the spitting of poyson (which hee is sayd to use for defensive or offensive
+                        <lb/>weapons) was therefore not to be attempted; but a remedy being found for the
+                        <lb/>miserable man by antipathy, namely, of a very great Spider and the Toad,
+                        <lb/>who hate one another mortally, hee was therefore carryd with the Toad di
+                        <lb break="no"/>rectly to the place, where an <subst><del>overcome</del><add>overgrowne</add></subst>Spider has made its webs, which
+                        <lb/>seing the Toad, praesently came downe upon the backe of the Toad, and
+                        <lb/>prickd him with its sting: but hee having received noe harme thereby, it
+                        <lb/>descended a second time, and strucke him againe more strongly, where
+                        <lb break="no"/>upon the Toad began imediately to swell, and fell downe dead from the
+                        <lb/>mans mouth, without any hurt to him. But here a thing contrary happens, be
+                        <lb break="no"/>
                         
                         
                         
