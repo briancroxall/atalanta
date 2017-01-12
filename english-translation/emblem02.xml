@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Title</title>
+            </titleStmt>
+            <publicationStmt>
+                <p>Publication Information</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Information about the source</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    
+    <text>
+        <body>
+            <div type="emblem" n="e02"><!-- Change the value of n to "e" followed by the number of the emblem. Use two digits for all numbers. -->
+                <pb n="11"/><!-- Change to page number of the actual manuscript -->
+                
+                
+                <div type="title" xml:lang="en">
+                    <head>
+                        <lb/>Embleme 2. Of the Secrets of Nature.
+                        <lb/>the earth is his Nurce.
+                        
+                    </head>
+                </div>
+                
+                
+                <div type="epigram" xml:lang="en">
+                    <head>Epigramme 2.</head>
+                    <lg>
+                        <l>A courteous Wolfe to Romulus displaye</l>
+                        <l>Her milky duggs, to Jove a Goat, tis sayd:</l>
+                        <l>Nor is it strange to assert our mother Earth</l>
+                        <l>Gave sucke to th' tender philosophicke birth;</l>
+                        <l>If beasts soe small Heroes soe great could breed,</l>
+                        <l>How great will hee be, whome the <del>whose</del> earth doth feed!</l>
+                    </lg>
+                </div>
+                
+                
+                <pb n="12"/> <!-- Change to page number of the actual manuscript -->
+                <div type="discourse" xml:lang="en">
+                    <head>Discourse 2.</head>
+                    <ab><!--Our convention will be that if we have break = "no" then it means that the word is broken across the line with a dash--> 
+                        <lb/>It is concluded by the peripaleticks, and orthodox philosophers, that the<milestone unit="section" n="e02-01" /> <!-- Change the value of n to "e" plus the number of the emblem (in two digits), followed by a hyphen and then a two-digit count of sentence -->
+                        <lb/>thing nourishing is converted into the substance of the thing nourishes, and
+                        <lb/>assimilated to it, not indeed before; but after the alteration of it, and that is ac
+                        <lb break="no"/>counted an infallible axiome: for how would the thing nourishing (which is all
+                        <lb break="no"/>ready before the like: or how should those things, which, cannot be assimilated
+                        <lb/>to the thing nourished, be taken for nutriment, such as are wood, stones and
+                        <lb/>the like! as therefore the first is vayne, soe the other is contrary to nature, but
+                        <lb/>for an infant now borne to be nourished by the milke of animalls, is a thing
+                        <lb/>not repugnant to nature: because assimilation of it may be made, but far
+                        <lb/>more easily of the mothers, than of anothers: wherefore physicians doe con
+                        <lb break="no"/>clude, that it conduceth to the health, similitude of substance and manners,
+                        <lb/>as allso strength of an infant, if it be allways nourishes by the milke of its
+                        <lb/>owne mother, on the contrary if by another. This is the harmony of every 
+                        <lb/>nature, that like delights in its like, and followes its footsteps, foe farre as it
+                        <lb/>is able, in all things, with a contains tacit consent and conspiration: the same
+                        <lb/>thing usually happens in the naturall worke of the philosophers, which is aequally
+                        <lb/>governed by nature in the conformation of it, as an infant in the mothers
+                        <lb/>wombe, and though a father and mother, and nurce <del>Asecfe<unclear reason="illegible"></unclear></del>be by way of si
+                        <lb break="no"/>militude ascribed to it, yet it is not more artificiall, than the generation of
+                        <lb/>every animall: two seeds are by a certaine pleasant artifice joynd together
+                        <lb/>by animalls, and both humane sexes, which being united doe by successive
+                        <lb/>alteration produce an Embryo, which growes and is increased, acquires life
+                        <lb/>and motion, and then is nourished by milke: but nocessary it is for the wo
+                        <lb break="no"/>man in time of conception and impregnation to carry herselfe temperately
+                        
+                        
+                        
+                        <pb n="16"/><fw>Discourse 3.</fw><!-- Page number of the actual manuscript, followed by the header on the page. -->
+                        
+                        <lb />
+                        <pc>- - - - - </pc>
+                        
+                    </ab>   
+                </div>
+                
+            </div>
+        </body>
+    </text>
+</TEI>
