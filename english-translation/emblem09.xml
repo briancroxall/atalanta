@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Title</title>
+            </titleStmt>
+            <publicationStmt>
+                <p>Publication Information</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Information about the source</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    
+    <text>
+        <body>
+            <div type="emblem" n="e09"><!-- Change the value of n to "e" followed by the number of the emblem. Use two digits for all numbers. -->
+                <pb n="32"/><!-- Change to page number of the actual manuscript -->
+                
+                
+                <div type="title" xml:lang="en">
+                    <head>
+                        <lb/>Embleme 9. Of the Secrets of Nature.
+                        <lb/>Shut up the tree with the old man in the house of dew, and eating
+                        <lb/>of the fruit thereof hee will become young.  
+                    </head>
+                </div>
+                
+                
+                <div type="epigram" xml:lang="en">
+                    <head>Epigramme 9.</head>
+                    <lg>
+                        <l>The Sophi have a tree with golden fruit,</l>
+                        <l>And an old senior of noe mean repute:</l>
+                        <l>For which you must provide a house of glasse</l>
+                        <l>Replete with dew, therein some time to passe:</l>
+                        <l>That hee, solating nature with that fare,</l>
+                        <l>May shake of age, and be as young men are.</l>
+                    </lg>
+                </div>
+                
+                
+                <pb n="33"/> <!-- Change to page number of the actual manuscript -->
+                <div type="discourse" xml:lang="en">
+                    <head>Discourse 9.</head>
+                    <ab><!--Our convention will be that if we have break = "no" then it means that the word is broken across the line with a dash--> 
+                        <lb/>All things whatsoever doe grow in length, breadth, and depth, that is, are<milestone unit="section" n="e03-01" /> <!-- Change the value of n to "e" plus the number of the emblem (in two digits), followed by a hyphen and then a two-digit count of sentence -->
+                        <lb/>propagates, nourished, and augmented to maturity, the same things doe all
+                        <lb break="no"/>so decrease, that is, are diminished in facultyes, dye, and are wholly demo
+                        <lb break="no"/>lished, as is manifestly evident in all vegetables and animalls: wherefore man
+                        <lb/>allso having arrives at full growth admitts of decrement, that is, old age, whereby
+                        <lb/>his strength is gradually diminished even till the approach of death: now the
+                        <lb/>cause of old age is the same as is of a lampe decaying, and shining obscurely
+                        <lb/>the oyle being allmost consumed: For as there are three things in a lampe, the
+                        <lb/>match, fattnesse, and flame, soe in man the vitall parts, bowells, and ligaments
+                        <lb/>are the match, fattnesse the radicall moisture, flame the naturall heat; all
+                        <lb/>the difference is that the flame of a lampe shines, the naturall heat not at all,
+                        <lb/>it not being fire, but onely heat, and that fattnesse is oyley, the radicall mois
+                        <lb break="no"/>ture viscous, as being of a seminall principle: As allso a lampe is extinguished
+                        <lb/>through want of oyle, soe man by old age, without any other disease, falls
+                        <lb/>into a marasme, and aged consumption, and lastly death: They relate
+                        <lb/>of the Eagle, that in old age being hindred by a crooked beake it would
+                        <lb/>be famished to death, if it were not restord by nature as it were to
+                        <lb/>youth by casting the beake: soe Harts seem to grow young againe by
+                        <lb/>throwing of their homes, serpents their skinns, and crabs their shells;
+                        <lb/>not indeed really, because the consumed radicall moisture is not restored
+                        <lb/>to them, but as to appearance: that which can make a man grow young
+                        <lb/>againe is nothing, but death itselfe, and the begining of aeternall life
+                        <lb/>ensuing: as to externall forme, and the restauration of strength in
+                        <lb/>some measure, together with the taking away of wrinkles and gray
+                        <lb/>haires, some there are that say a remedy may be found, which Lully
+                        <lb/>affirms of the Quintessence, Arnold of praepared gold: But here
+                        <lb/>the philosophers say, that an old man, to become young, must be
+                        <lb/>shutt up with a certaine tree in a house of dew, and then hee will
+                        <lb/>eat of the fruit of the tree, and soe recover youth: It is scarce be
+                        <lb break="no"/>leivd by the vulgar that such trees are now in the nature of things:
+                        <lb/>Of Myrobalans, the fruit of a tree, physicians write wonders, as if
+                        <lb/>they could performe such a thing, take away gray haires, purify the
+                        <lb/>blood, and prolong life: but these things are doubled by many men,
+                        <lb/>unlesse they are sayd to effect it by accident, as allso other things, which
+                        <lb/>purge the masse of blood from faeces mixd with it, and dye gray haire
+                        <lb/>with blacknesse, with which Myrobalans are reported to colour the
+                        <lb/>haire and ball of the eyes. Marsilius Ficinus in his booke of praeser
+                        <lb break="no"/>ving the life of students, writes, that in order to attaine to long life
+                        <lb/>it is comodious for a man dayly to sucke the milke of some certaine
+                        <lb/>beautifull and young woman, instead of which others doe comend
+                        <lb/>the eating of vipers flesh: but indeed these means are themselves
+                        
+                        
+                        
+                        <pb n="34"/><fw>Discourse 9.</fw><!-- Page number of the actual manuscript, followed by the header on the page. -->
+                        <lb/>more rigid than old age, and scarce to be used by one of a thousand,
+                        <lb/>though they should not be without certaine effect: It is written by Para
+                        <lb break="no"/>celsus in his booke of long life, that a sicke man may attract to him
+                        <lb break="no"/>selfe the health of another by imagination alone, as allso an old man
+                        <lb/>youth, but this Author seems in this to use his imagination onely, not
+                        <lb/>experience: It is thing certaine of the Psylli who have two balls of the
+                        <lb/>eye, and of witches, that they bewitch children and cattle by aspect alone,
+                        <lb/>from whence that of Virgill: Nescio quis teneros oculus mihi fascinet agnos:
+                        <lb/>but these things are done without contact, whereby the tree restores the
+                        <lb/>old man to youth: for this tree hath sweet fruit, ripe and red, which doe
+                        <lb/>easily turne into pure blood, being of easy digestion and excellent nutri
+                        <lb break="no"/>ment, soe as to leave nothing superfluous or faeculent in the body: but
+                        <lb/>the old man abounds with white phlegme, and is of a white colour and
+                        <lb/>hairy, which humor, colour, and haire are changed by eating these
+                        <lb/>fruits, and become red, as those are of young men. For this reason say the
+                        <lb/>philosophers, the stone is first old, that is white, then young, that is, red, because
+                        <lb/>this is the colour of youth, as that of old age: It is added, that the old man
+                        <lb/>ought to be shutt up with the tree, not in the open aire, but in a house, not
+                        <lb/>dry, but moist with dew. It is accounted a miracle for trees to spring or vegetate
+                        <lb/>in a close a place, but if it be moist, there is noe doubt of their long duration:
+                        <lb/>for the nutriment of a tree is moisture, and airy earth, that is, fatt, which
+                        <lb/>canascend into the trunke and boughes, and there produce leaves, flowers,
+                        <lb/>and fruit, in which naturall worke all the Elements doe concurre, fire
+                        <lb/>giving the first motion, as the efficient, aire tenuity and penetrability, water
+                        <lb/>lubricity, earth coagulation: for aire returns into water, and water into
+                        <lb/>earth, if any of their superfluity ascend: By fire I meane the naturall
+                        <lb/>heat, which being propagated with the seed doth by the power of the starrs
+                        <lb/>as it were a smith fabricate and forme fruit like to those things from whence
+                        <lb/>the seed ariseth: But a dewy evaporation is not <add>onely</add> good and expedient to moisten
+                        <lb/>the tree, that it may more easily yeild fruit, but allso the old man, that by
+                        <lb/>those fruits hee may become youg againe, that is to say, the dewy evapo
+                        <lb break="no"/>ration mollifying, filling up, and restoring his wrinkled and dry skinne
+                        <lb/>with temperate heat and moisture: for physicians doe advisedly and with
+                        <lb/>great utility enjoyne and praescribe warme baths in the marasme and
+                        <lb/>aged consumption: but if the thing be well considered that tree is the
+                        <lb/>daughter of the old man, which as Daphne is transmuted into a vegetable
+                        <lb/>of the like sort, and therefore the old man doth not without reason expect
+                        <lb/>youth from it, which caused it to be effected
+                        
+                        <pc>- - - - - </pc>
+                        
+                    </ab>   
+                </div>
+                
+            </div>
+        </body>
+    </text>
+</TEI>
