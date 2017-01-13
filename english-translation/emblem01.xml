@@ -25,15 +25,15 @@
                 
                 <div type="title" xml:lang="en">
                     <head>
-                        <lb/>the first Embleme. Of the Secrets of Nature.
-                        <lb/><unclear reason="illegible">Wine</unclear> carres him in his belly
+                        <lb/>the first <choice><orig>Embleme</orig><reg>Emblem</reg></choice>. Of the Secrets of Nature.
+                        <lb/><unclear reason="illegible">Thes</unclear> Wind <choice><orig>carryed</orig><reg>carried</reg></choice> him in his belly
                         
                     </head>
                 </div>
                 
                 
                 <div type="epigram" xml:lang="en">
-                    <head>the first Epigramme.</head>
+                    <head>the first <choice><orig>Epigramme</orig><reg>Epigram</reg></choice>.</head>
                     <lg>
                         <l>If Boreas <unclear reason="illegible">onto</unclear> expand his windy wombe,</l>
                         <l>That th' Infant in the world alive may come,</l>
