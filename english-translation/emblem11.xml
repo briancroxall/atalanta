@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Title</title>
+            </titleStmt>
+            <publicationStmt>
+                <p>Publication Information</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Information about the source</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    
+    <text>
+        <body>
+            <div type="emblem" n="e11"><!-- Change the value of n to "e" followed by the number of the emblem. Use two digits for all numbers. -->
+                <pb n="38"/><!-- Change to page number of the actual manuscript -->
+                
+                
+                <div type="title" xml:lang="en">
+                    <head>
+                        <lb/>Embleme 11. Of the Secrets of Nature.
+                        <lb/>Whiten Latona and tear your books.
+                        
+                    </head>
+                </div>
+                
+                
+                <div type="epigram" xml:lang="en">
+                    <head>Epigramme 11.</head>
+                    <lg>
+                        <l>Ancestors (of truth noe doubt) to us relate</l>
+                        <l>Latona's twinns producd from Jove the great.</l>
+                        <l>Some say shee's Sol with fair fair Diana mixt,</l>
+                        <l>Having a face most white, some blacke betwixt:</l>
+                        <l>Study my dear! to wash these spots away,</l>
+                        <l>Then burne those books which led your thoughts astray.</l>
+                    </lg>
+                </div>
+                
+                
+                <pb n="39"/> <!-- Change to page number of the actual manuscript -->
+                <div type="discourse" xml:lang="en">
+                    <head>Discourse 11.</head>
+                    <ab><!--Our convention will be that if we have break = "no" then it means that the word is broken across the line with a dash--> 
+                        <lb/>Soe great is the diversity of Authors in writing, that the explorators of<milestone unit="section" n="e03-01" /> <!-- Change the value of n to "e" plus the number of the emblem (in two digits), followed by a hyphen and then a two-digit count of sentence -->
+                        <lb/>truth doe allmost despaire of finding the end of art: for Allegoricall speeches
+                        <lb/>being of themselves difficult to be understood, and the causes of many errors,
+                        <lb/>especially then, if the same words be applyd to different things, and diffe
+                        <lb break="no"/>rent words to the same things: out of which if a man would extricate him
+                        <lb break="no"/>selfe, hee must either be of a divine genius, to perceive the truth invol
+                        <lb break="no"/>ved in soe great darkenesse, or of endlesse pains and charge in proving what
+                        <lb/>is true, what not: But the philosophers say one is not sufficient  without the
+                        <lb/>other, an acute genius without hand=labour, or this without that, as neither
+                        <lb/>the theory without the practice, and contrarywise: for noe man is of soe
+                        <lb/>discreet an understanding as to avoyd a hundred thousand circumvagations,
+                        <lb/>errors, falsityes as to the word, digressions, and ambiguityes, and persist in the
+                        <lb/>true path of nature: wherefore say the philosophers, hee that hath not as
+                        <lb/>yet erred, hath not yet begun, and that errors are the informes of those
+                        <lb/>things which ought to be done or not. Soe the same doe inculcate, that a
+                        <lb/>man may spend his whole life, though hee should live a thousand years, in
+                        <lb/>distilling and redistilling, before hee can attaine to truth by experimentation
+                        <lb/>alone: That little benefit can be had without study and reading of au
+                        <lb break="no"/>thors, the corrector of fools signifyes, saying: Study removeth ignorance,
+                        <lb/>and reduceth a mans genius to true understanding, and the knowledge of
+                        <lb/>every thing: It is therefore principally necessary to acquire the knowledge of
+                        <lb/>this delectable worke by study, and to sharpen the witt by philosophicall
+                        <lb/>sayings, the knowledge of truth being centred in them: If therefore oper
+                        <lb break="no"/>tors despise not study, they will sweetly relish the fruit from theme pro
+                        <lb break="no"/>ceding: but they that abhorre study, and yet are willing to operate, let them
+                        <lb/>soe whether that art be the imitation of nature herselfe, which the art of
+                        <lb/>her desires to amend: because it is impossible for it to praepare the philoso
+                        <lb break="no"/>phers secrets to a perfect end: Of these men say the Sophi, that they runne to
+                        <lb/>practice as an asse to hay, not knowing what to lay his nose to, onely soe far
+                        <lb/>as the outward senses doe without understanding lead him to food by sight
+                        <lb/>and tast: these are his words. But lest a man should macerate himselfe with
+                        <lb/>overmuch study, which is an inexhaustible sea and of immense profundity
+                        <lb/>and endeavour (though in vaine) to bring every letter, agreeing allso with ma
+                        <lb break="no"/>ny other things, into act, in the meane time consuming or diminishing his
+                        <lb/>strength, time, reputation, wealth and riches, the philosophers doe use this
+                        <lb/>Emblematicall speech, that Latona must be whitened, and those books
+                        <lb/>torne, lest their hearts be broken, for there are many books soe obscurely
+                        <lb/>written, as to be understood by their owne Authors onely: not a few left out<note place="margin">!!</note>
+                        <lb/>of envy to seduce others, or rather to retard them, that they may not attain
+                        <lb/>to their end without difficulty, or to obscure those things written before by
+                        <lb/>themselves: But what is the meaning of whitening Latona? this is the
+                        <lb/>worke this the labour to inquire: Clangor buccinae affirms Latona to be an
+                        
+                        
+                        
+                        <pb n="40"/><fw>Discourse 11.</fw><!-- Page number of the actual manuscript, followed by the header on the page. -->
+                        <lb/>imperfect body compounded of Sol and Luna. The most ancient poets and
+                        <lb/>writes affirme Latona to be the mother of Sol and Luna, or Apollo and
+                        <lb/>Diana, others the Nurce; and that Diana was first borne (for Luna and
+                        <lb/>whitenesse first appears) and did then performe the office of a midwife
+                        <lb/>the same day in bringing forth her brother Apollo. Latona was indeed one
+                        <lb/>of the twelve divine Hieroglyphicks of the Aegyptians, by whome these
+                        <lb/>and other Allegoryes were propagated amongst other nations, very few of
+                        <lb/>the Aegyptians preists, and those onely understanding the true meaning
+                        <lb/>and sense of them, all the rest referring them to other subjects, which were
+                        <lb/>not in the nature of things, namely various Gods, Goddesses, and the like:
+                        <lb/>Hereupon Latona had there the the most sumptuous temple next to Vulcan, cove
+                        <lb break="no"/>red and adorned with gold, as shee that was the mother of the philosophicall
+                        <lb/>Apollo and Diana: but this Latona is browne and blackish, and hath many
+                        <lb/>moles and blemishes in her face, which must be taken away by art, namely
+                        <lb/>by dealbation: some doe make dealbations of Cerufe, Mercury sublimate,
+                        <lb/>Talke, reduced into oyle, and the like, with which they incrust, cover, and
+                        <lb/>soe whiten the outside of the skinne; but these whitening incrustations
+                        <lb/>fall of with every wind or liquor, because they doe not penetrate to the more
+                        <lb/>inward parts: But the philosophers care not for such colorations, which are
+                        <lb/>usd more to deceive the eyes, than to tinge the internall substance of the
+                        <lb/>body: For they would have the face of Latona whitened thoroughly, and
+                        <lb/>the skinne itselfe altered, that is, truely, and not superficially: a Quaestion
+                        <lb/>might be asked how it can be? I answer, Latona must be first sought out
+                        <lb/>and knowne, which though shee be taken out of a vile place, must not
+                        <lb break="no"/>withstanding be sublimed to a more worthy, but if shee be taken out
+                        <lb/>of a more worthy place, shee must be throwne into a place more vile,
+                        <lb/>namely into dung: for there will shee become truely white, and be
+                        <lb/>made white lead, which being had, there is noe need to doubt of suc
+                        <lb break="no"/>cesse, or red lead, which is the begining and end of the worke
+                        
+                        <pc>- - - - - </pc>
+                        
+                    </ab>   
+                </div>
+                
+            </div>
+        </body>
+    </text>
+</TEI>
+
