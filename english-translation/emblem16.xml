@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Title</title>
+            </titleStmt>
+            <publicationStmt>
+                <p>Publication Information</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Information about the source</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    
+    <text>
+        <body>
+            <div type="emblem" n="e16"><!-- Change the value of n to "e" followed by the number of the emblem. Use two digits for all numbers. -->
+                <pb n="53"/><!-- Change to page number of the actual manuscript -->
+                
+                
+                <div type="title" xml:lang="en">
+                    <head>
+                        <lb/>Embleme 16. Of the Secrets of Nature.
+                        <lb/>One Lyon hath wings, the other none.
+                    </head>
+                </div>
+                
+                
+                <div type="epigram" xml:lang="en">
+                    <head>Epigramme 16.</head>
+                    <lg>
+                        <l>The Lyon prince of beasts in might and sway</l>
+                        <l>Fights without fear, and scornes to runne away:</l>
+                        <l>Give him a Spouse with wings of his owne race,</l>
+                        <l>To mount him with herselfe from place to place;</l>
+                        <l>But hee immoved stands, and nulls her force,</l>
+                        <l>By Embleme to demonstrate Natures course.</l>
+                    </lg>
+                </div>
+                
+                
+                <pb n="54"/> <!-- Change to page number of the actual manuscript -->
+                <div type="discourse" xml:lang="en">
+                    <head>Discourse 16.</head>
+                    <ab><!--Our convention will be that if we have break = "no" then it means that the word is broken across the line with a dash--> 
+                        <lb/>It is a thing knowne by experience that a Lyon excells other animalls not<milestone unit="section" n="e03-01" /> <!-- Change the value of n to "e" plus the number of the emblem (in two digits), followed by a hyphen and then a two-digit count of sentence -->
+                        <lb/>soe much in bignesse and strength of body, as generosity: if hee be seen in
+                        <lb/>hunting, being ashamd to runne away, hee releaseth himselfe by degrees,
+                        <lb/>if hee be oppressd by a multitude: being removed from the view of the
+                        <lb/>hunters, hee makes hast away, thinking it a dishonour to be excusd by ab
+                        <lb break="no"/>sconding: hee desires a wood in flight, which hee useth, when anything
+                        <lb/>pursues: his bones are solid and not at all empty, which are sayd to be
+                        
+                        
+                        
+                        
+                        <pb n="16"/><fw>Discourse 3.</fw><!-- Page number of the actual manuscript, followed by the header on the page. -->
+                        
+                    </ab>   
+                </div>
+                
+            </div>
+        </body>
+    </text>
+</TEI>
+
