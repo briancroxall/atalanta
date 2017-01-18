@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Title</title>
+            </titleStmt>
+            <publicationStmt>
+                <p>Publication Information</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Information about the source</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    
+    <text>
+        <body>
+            <div type="emblem" n="e18"><!-- Change the value of n to "e" followed by the number of the emblem. Use two digits for all numbers. -->
+                <pb n="59"/><!-- Change to page number of the actual manuscript -->
+                
+                
+                <div type="title" xml:lang="en">
+                    <head>
+                        <lb/>Embleme 18. Of the Secrets of Nature.
+                        <lb/>Fire loves to burne, not to aurify, but gold.
+                    </head>
+                </div>
+                
+                
+                <div type="epigram" xml:lang="en">
+                    <head>Epigramme 18.</head>
+                    <lg>
+                        <l>All Natures agents doe their seed diffuse,</l>
+                        <l>That thus they may their species produce:</l>
+                        <l>Soe fire makes all things fire, nor ever was</l>
+                        <l>A true effect without its proper cause:</l>
+                        <l>Gold generates noe fire, fire noe gold indeed;</l>
+                        <l>All things are propagated by their seed.</l>
+                    </lg>
+                </div>
+                
+                
+                <pb n="60"/> <!-- Change to page number of the actual manuscript -->
+                <div type="discourse" xml:lang="en">
+                    <head>Discourse 18.</head>
+                    <ab><!--Our convention will be that if we have break = "no" then it means that the word is broken across the line with a dash--> 
+                        <lb/>Natures way of operating in all individualls of the universe is to use one<milestone unit="section" n="e03-01" /> <!-- Change the value of n to "e" plus the number of the emblem (in two digits), followed by a hyphen and then a two-digit count of sentence -->
+                        <lb/>single processe to complete and perfect one single motion, as appears in the
+                        <lb/>Anatomy of mans body, in which one muscle serves onely for one motion,
+                        <lb/>that is, the attractive, but for the expansive another opposite to the first, soe
+                        <lb/>that if any part or member be to be brought into a circular forme, it must
+                        <lb/>be effected by various muscles placed circle=wise: soe the operation of fire
+                        <lb/>is one and single, that is to say, to heat and fire, yea assimilate to itselfe, and
+                        <lb/>burne all things, to which it is applyed, if they be combustible: Hereupon
+                        <lb/>Sayth Avicenne in his booke of the congelation of stones: That which falls into Salt
+                        <lb break="no"/>pitts, becomes Salt, and that which into fire, becomes fire, but somethings sooner,
+                        <lb/>some Slower, according to the power of atives <!-- should be actives? -->, and the resisteme of passives: And
+                        <lb/>there is a place in Arabia, which coloureth all bodyes in it of its owne colour: Soe
+                        <lb/>every naturall thing possesseth the virtue infusd into it by nature, by which
+                        <lb/>it acts upon things mixd or applyed to it, assimilating and altering their nature
+                        <lb/>and forme: That which is generation in vegetables and animalls by the pro
+                        <lb break="no"/>pagation of seeds, is the infusion of virtue and assimilation in single bodyes
+                        <lb/>or singly mixd: the Sunne, the light of heaven, projects its rayes upon the
+                        <lb/>earth, which, being gathered together in concavous or burning glasses, doe demon
+                        <lb break="no"/>strate themselves to be produced from such a cause, as to appear to be the
+                        <lb/>projectible formes of the Sunne: Whereby it is manifest that the rayes of the
+                        <lb/>Sunne are nothing els, but a fiery flame extended and dispersed into an ample
+                        <lb/>latitude, which being dilated and againe contracted by concavous, diaphanous
+                        <lb/>and circular or repercussive instruments, doth in concavous and steele mirrors
+                        <lb/>Shine as a flame, and burne things obvious to it: after the same manner, a
+                        <lb/>certaine virtue is as a vapour dispersed in a certaine elemented body, which,
+                        <lb/>if it be gathered together, and attracted into one, turnes into water, and that
+                        <lb/>water into earth: For this reason sayth Avicenne in the booke before alleadged,
+                        <lb/>Earth is made of water, when the qualityes of earth overcome it, and soe on
+                        <lb/>the contrary: But there is a certaine thing, which some ingenious men doe
+                        <lb/>use when they have a mind to coagulate a dry substance, which is com
+                        <lb break="no"/>pounded of two waters, and is called Lac virginis, which is the most certaine
+                        <lb/>effect of it: this Sayth hee: Some <del><unclear reason="illegible">are</unclear></del>there are that assure themselves
+                        <lb/>able to increase or multiply virtues in the Load=stone, as the like wee have
+                        <lb/>seen sett in Silver, which being scarce one pound weight attracted and held up an
+                        <lb/>iron anchor of 28 pounds, which would have been impossible, if the virtue
+                        <lb/>had not been increasd and made stronger in it, which without doubt was
+                        <lb/>done by revocation of the dispersed virtues as it were into one point or pole,
+                        <lb/>or by the attraction of the same out of a great body into a lesse: Others are
+                        <lb/>found, who say that a plumbifying Stone may be made by the Sulphurous
+                        <lb/>breath of Saturne, infused and retained, till it be thereby converted into
+                        <lb/>comon Mercury, which continually converts comon Mercury into lead.
+                        <lb/>Some boast that they can by Antimony, or the stellated Regulus there
+                        <lb break="no"/>of make Copper from the fume of Copper, in that time wherein a
+                        <lb/>man may eat an egge, yea that they have made all metalls: but
+                        <lb/>I will not detract from their reputation, though to mee it seems not
+                        
+                        
+                        
+                        <pb n="6i"/><fw>Discourse 18.</fw><!-- Page number of the actual manuscript, followed by the header on the page. -->
+                        <lb/>likely to be true: I know not whether they are more confident or
+                        <lb/>successefull, who endeavour to deduce gold from gold, according to the
+                        <lb/>saying of the golden poett: Hee that desires barley sowes onely barley,
+                        <lb/>in gold is the seed of gold: Every naturall thing hath indeed a certaine
+                        <lb/>virtue of multiplying itselfe, but these things are brought into action
+                        <lb/>in Vegetables and animalls onely, not at all in Metalls, Mineralls, things
+                        <lb/>dugge out of the earth, or Meteor: Some plants sprung from a small
+                        <lb/>graine of seed doe oftentimes yeild a thousand or more grains of seed,
+                        <lb/>and soe multiply and propagate themselves, and that yearly; Ani
+                        <lb break="no"/>malls allso have their products of greater or lesse number, according
+                        <lb/>to the nature of every one: But gold, Silver, lead, tinne, iron, copper, or
+                        <lb/>Argent vive are never found to have multiplyd themselves or their species
+                        <lb/>after that manner, though one may be very often found commuted and
+                        <lb/>nobilitated into another: Neverthelesse the Philosophers affirme that the
+                        <lb/>principle of ignifying is in fire, soe of aurifying in gold: but where is
+                        <lb/>the tincture, by which gold must be made? This must be sought in
+                        <lb/>its owne principles and generations, not in things of another nature: For
+                        <lb/>if fire produceth fire, a Pear, a horse a horse, then lead must
+                        <lb/>generate lead and not Silver, gold gold and not the tincture: Moreover
+                        <lb/>the Philosophers have a peculiar gold, which they doe not onely not
+                        <lb/>deny that it ought (but allso affirme it necessarily requisite) to be
+                        <lb/>added to the aurificke Stone as a ferment as the end of the worke. The
+                        <lb/>ferment, converting the thing fermented into its owne nature, without
+                        <lb/>which the whole composition would never come to perfection
+                        
+                    </ab>   
+                </div>
+                
+            </div>
+        </body>
+    </text>
+</TEI>
+
