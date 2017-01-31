@@ -26,21 +26,21 @@
             <div type="title" xml:lang="en">
                <head>
                  <lb/><choice><orig>Embleme</orig><reg>Emblem</reg></choice> 6. Of the Secrets of Nature.
-                 <lb/><choice><orig>Sowe</orig><reg>sow</reg></choice> your gold in the white foliated earth.
+                 <lb/><choice><orig>Sowe</orig><reg>Sow</reg></choice> your gold in the white foliated earth.
                   
                </head>
             </div>
             
             
             <div type="epigram" xml:lang="en">
-               <head>Epigramme 6.</head>
+               <head><orig>Epigramme</orig> 6.</head>
                <lg>
-                  <l>Rusticks their seed to th' fertile earth committ,</l>
-                  <l>When with their harrows they have made it fitt:</l>
-                  <l>The Sophi thus their golden seed due sowe</l>
+                  <l><orig>Rusticks</orig> their seed to <choice><orig>th'</orig><reg>the</reg></choice> fertile earth <orig>committ</orig>,</l>
+                  <l>When with their harrows they have made it <orig>fitt</orig>:</l>
+                  <l>The Sophi thus their golden seed <orig>doe</orig> <orig>sowe</orig></l>
                   <l>In foliated earth as white as Snow:</l>
-                  <l>This method well observed, and you'le behold,</l>
-                  <l>As in a glasse, by wheat, your budding gold.</l>
+                  <l>This method well observe, and <choice><orig>you'le</orig><reg>you'll</reg></choice> behold,</l>
+                  <l>As in a <orig>glasse</orig>, by wheat, your budding gold.</l>
                </lg>
             </div>
             
@@ -49,86 +49,81 @@
             <div type="discourse" xml:lang="en">
                <head>Discourse 6.</head>
                <ab><!--Our convention will be that if we have break = "no" then it means that the word is broken across the line with a dash--> 
-                  <lb/><milestone unit="section" n="e06-01" />A City sayth plato subsiste not by physician and physician, but by physician and
-                  <lb/>husbandman, that is, men of divers functions, but here mentions the husbandman
-                  <lb/>and physician first, because their worke are very conspicuous in the imitation,
-                  <lb/>emendation, and perfection of nature: for they both take a naturall subject,
-                  <lb/>in which they attending to art add some certaine things necessary being wanting,
-                  <lb/>or allso remove those things which are superfluous: soe that the art of both may
+                  <lb/><milestone unit="section" n="e06-01" />A City <orig>sayth</orig> Plato <choice><orig>subsiste</orig><reg>subsist</reg></choice> not by Physician and Physician, but by Physician and
+                  <lb/>husbandman, that is, men of <orig>divers</orig> functions, but here mentions the Husbandman
+                  <lb/>and Physician first, because their <orig>worke</orig> are very conspicuous in the imitation,<pc>-</pc>
+                  <lb/>emendation, and perfection of nature: for they both take a <orig>naturall</orig> subject,
+                  <lb/>in which they attending to art add some <orig>certaine</orig> things necessary being wanting,
+                  <lb/>or <orig>allso</orig> remove those things which are superfluous: <orig>soe</orig> that the art of both may
                   <lb/>(as medicine by Hippocrates) be defined by the addition of defect, and subtract
-                  <lb break="no"/>tion of superfluity: for what dos the husbandman more than add ploughing, ridging
+                  <lb break="no"/>tion of superfluity: for what <orig>dos</orig> the Husbandman more than add ploughing, ridging
                   <lb/>furrowing, harrowing, dunging or manuring, sowing, et. to land left by nature, that
-                  <lb/>is, commit the increase and good successe to nature, which administreth the heat
-                  <lb/>of the Sunne, and raine, and multiplyes the seeds by them, and promotes them to
-                  <lb/>standing corne soon after to be reaped: in the meane time whilst the herbe is
-                  <lb/>springing the husbandman weeds out thistles and all impediments, gashes
-                  <lb/>the corne being ripe, takes away things superfluous from it being reaped, namely<!-- Change the value of n to "e" plus the number of the emblem (in two digits), followed by a hyphen and then a two-digit count of sentence -->
-                  <lb/>straw, chaffe, and such other things: Soe allso a physician (as allso a Chymist in
-                  <lb/>a different respect) teacheth how to praserve præsent health to many body, being
-                  <lb/>wanting to recover it by severall remedyes, takes away the morbificke cause,
-                  <lb/>cures the disease, assuageth symptoms, abates superfluous blood by opening
-                  <lb/>a veyne, being wanting restores it by apointing good order of dyet, evacua
-                  <lb break="no"/>ates noxious humors by purgation, and soe imitates, supplyes, and amends
+                  <lb/>is, commit the increase and good <orig>successe</orig> to nature, which <orig>administreth</orig> the heat
+                  <lb/>of the <orig>Sunne</orig>, and <orig>raine</orig>, and <choice><orig>multiplyes</orig><reg>multiplies</reg></choice> the seeds by them, and promotes them to
+                  <lb/>standing <orig>corne</orig> soon after to be reaped: in the <orig>meane</orig> time whilst the <orig>herbe</orig> is<pc>-</pc>
+                  <lb/>Springing the husbandman weeds out thistles and all impediments, gathers<pc>-</pc>
+                  <lb/>the <orig>corne</orig> being ripe, takes away things superfluous from it being reaped, namely
+                  <lb/>straw, <choice><orig>chaffe</orig><reg>chaff</reg></choice>, and such other things: <orig>Soe</orig> <orig>allso</orig> a Physician (as <orig>allso</orig> a <orig>Chymist</orig> in
+                  <lb/>a different respect) <choice><orig>teacheth</orig><reg>teaches</reg></choice> how to <orig>præserve</orig> <orig>præsent</orig> health to many body, being
+                  <lb/>wanting to recover it by <orig>severall</orig> <choice><orig>remedyes</orig><reg>remedies</reg></choice>, takes away the <choice><orig>morbificke</orig><reg>morbific</reg></choice> cause,
+                  <lb/>cures the disease, <choice><orig>assuageth</orig><reg>assuages</reg></choice> symptoms, abates superfluous blood by opening
+                  <lb/>a <orig>veyne</orig>, being wanting restores it by <choice><orig>apointing</orig><reg>appointing</reg></choice> good order of <choice><orig>dyet</orig><reg>diet</reg></choice>, evacua
+                  <lb break="no"/>ates noxious humors by purgation, and <orig>soe</orig> imitates, <choice><orig>supplyes</orig><reg>supplies</reg></choice>, and amends
                   <lb/>nature a thousand ways by the works of the understanding and art; which
-                  <lb/>being notorious, Chymicall things are rather to be considered by us: for Chy
-                  <lb break="no"/>mistry doth first declare the operations of agriculture by its secret bounds
-                  <lb/>and wayes of operating: Husbandmen have land, wherein to sow seed, soe allso
-                  <lb/>the Chymists: they have dung wherewith to manure their ground, soe
-                  <lb/>allso these, without which nothing could be done, nor any successe expected:
-                  <lb/>They have seed, the multiplication of which they desire: if Chymists
-                  <lb/>had not the like, they would (as Lully sayth) imitate the painter, that
-                  <lb/>endeavoures to expresse the fate of a certaine man, whome hee had never
-                  <lb/>seen, nor the image of him: Husbandmen expect raine, and heat of the
-                  <lb/>Sunne, soe allso doe the Chymists truely administer heat convenient to
-                  <lb/>their worke, and raine: I need say noe more: <note place="margin" n="X">X Chymistry is exactly parallell to agriculture, and its deputy,
-                  <lb/>which in all things expresseth its offices, but under a most absolute alle
+                  <lb/>being notorious, <orig>Chymicall</orig> things are rather to be considered by us: for <orig>Chy
+                  <lb break="no"/>mistry</orig> <orig>doth</orig> first declare the operations of agriculture by its secret bounds<pc>-</pc>
+                  <lb/>and <orig>wayes</orig> of operating: Husbandmen have land, wherein to sow seed, <orig>soe</orig> <orig>allso</orig>
+                  <lb/>the <orig>Chymists</orig>: They have dung wherewith to manure their ground, <orig>soe</orig><pc>-</pc>
+                  <lb/><orig>allso</orig> these, without which nothing could be done, nor any successe expected:
+                  <lb/>They have seed, the multiplication of which they desire: <seg rend="underline">if <orig>Chymists</orig><pc>-</pc>
+                  <lb/>had not the like</seg>, they would (as Lully <orig>sayth</orig>) imitate the painter, that<pc>-</pc>
+                  <lb/><choice><orig>endeavoures</orig><reg>endeavors</reg></choice> to <choice><orig>expresse</orig><reg>express</reg></choice> the fate of a <orig>certaine</orig> man, <orig>whome</orig> <orig>hee</orig> had never
+                  <lb/>seen, nor the image of him: Husbandmen expect <orig>raine</orig>, and heat of the<pc>-</pc>
+                  <lb/><orig>Sunne</orig>, <orig>soe</orig> <orig>allso</orig> <orig>doe</orig> the <orig>Chymists</orig> <orig>truely</orig> administer <seg rend="underline">heat convenient to
+                  <lb/>their <orig>worke</orig>, and <orig>raine</orig></seg>: I need say <orig>noe</orig> more: <note place="margin" n="X">X <orig>Chymistry</orig> is exactly parallell to agriculture, and its deputy,
+                  <lb/>which in all things <choice><orig>expresseth</orig><reg>expresses</reg></choice> its offices, but under a most absolute alle
                   <lb break="no"/>gory<pc>-----</pc></note>From hence the Ancients pro
-                  <lb break="no"/>duces Ceres, Triptolemus, Osiris, Dionysus, the golden Gods, as relating to Chy
-                  <lb break="no"/>mistry, teaching as it were men how to cast the seeds of fruits into their
-                  <lb/>earth, showing tillage, with the propagation of vines, and use of wine,
-                  <lb/>all which things the ignorant have interpreted to rusticall operations, but
-                  <lb/>erroneously: for those things, which are absconded from the vulgar, and
-                  <lb/>declares to the Learned under these veils of agriculture, are most abstruse
-                  <lb/>mysteryes of nature: To this end say the philosophers that their gold must
-                  <lb/>be sowed upon white foliated earth, as if they meant that the sowing of corne
-                  <lb/>should be observed and imitated for example, which the author of the trea=
-                  <lb break="no"/>tise of corne and Jodoc. Greverus have most excellently performed in their
-                  <lb/>descriptions, for they have both most elegantly accomodated every operation of
-                  <lb/>agriculture in the producing of corne to the semination of gold, or generation of
+                  <lb break="no"/>duces Ceres, Triptolemus, Osiris, Dionysus, the golden Gods, as relating to <orig>Chy
+                  <lb break="no"/>mistry</orig>, teaching as it were men how to cast the seeds of fruits into their<pc>-</pc>
+                  <lb/>earth, showing tillage, with the propagation of vines, and use of wine,<pc>-</pc>
+                  <lb/>all which things the ignorant have interpreted to <choice><orig>rusticall</orig><reg>rustical</reg></choice> operations, but
+                  <lb/>erroneously: for those things, which are absconded from the vulgar, and<pc>-</pc>
+                  <lb/>declares to the Learned under these veils of agriculture, are most abstruse<pc>-</pc>
+                  <lb/><choice><orig>mysteryes</orig><reg>mysteries</reg></choice> of nature: To this end say the Philosophers that their gold must<pc>-</pc>
+                  <lb/>be sowed upon white foliated earth, as if they meant that the Sowing of <orig>corne</orig>
+                  <lb/>Should be observed and imitated for example, <seg rend="underline">which the author of the trea
+                  <note place="margin">?</note><lb break="no"/>tise of <orig>corne</orig> and Jodoc. Greverus have most excellently performed in their</seg><pc>-</pc>
+                  <lb/>descriptions, for they have both most elegantly <choice><orig>accomodated</orig><reg>accommodated</reg></choice> every operation of
+                  <lb/>agriculture in the producing of <orig>corne</orig> to the semination of gold, or generation of
                   
        
                   <pb n="25"/><fw>Discourse 6.</fw><!-- Page number of the actual manuscript, followed by the header on the page. -->
-                  <lb/>the hincture: White earth, because sandy, yields little fruit to the countrymen, by
-                  <lb/>whome that which is blacke and fatt is more desired, but the white principally
-                  <lb/>conduceth to the philosophers, if it be foliated, that is well praepared, because
+                  <lb/>the tincture: White earth, because sandy, <orig>yeilds</orig> little fruit to the countrymen, by
+                  <lb/><orig>whome</orig> that which is <orig>blacke</orig> and <orig>fatt</orig> is more desired, but the white principally
+                  <lb/><choice><orig>conduceth</orig><reg>conduces</reg></choice> to the Philosophers, if it be foliated, that is well præpared, because<pc>-</pc>
                   <lb/>they know how to enrich it with their dung, the other not at all: Now sowing is
                   <lb/>the propagation of the world, whereby that, which cannot long endure in an
-                  <lb/>individuall, is caused to persist in the species: This is in man, animalls, and
+                  <lb/><orig>individuall</orig>, is caused to persist in the Species: This is in man, <orig>animalls</orig>, and
                   <lb/>plants, in these hermaphroditically, in them under two distinct sexes: but in
-                  <lb/>metalls farre otherwise: for in them a line is made of the flux of a point, a
-                  <lb/>superficies of the flux of a line, a body of the flux of a superficies: But
-                  <lb/>the starrs produced that point before the line, superficies, and body, because
-                  <lb/>it is the principle of them all: Nature added the flux a long time after, that is,
-                  <lb/>the caelestiall Sunne did in the earth generate a Sonne, whome Mercury comitted
-                  <lb/>to Vulcan and Chiron to be educated, that is, to manuall artifice, to be instructed,
+                  <lb/><orig>metalls</orig> <orig>farre</orig> otherwise: <seg rend="underline">for in them a line is made of the flux of a point, a<pc>-</pc>
+                  <lb/>superficies of the flux of a line, a body of the flux of a superficies:</seg> But<pc>-</pc>
+                  <lb/>the <orig>Starrs</orig> produced that point before the line, superficies, and body, because<pc>-</pc>
+                  <lb/>it is the principle of them all: Nature added the flux a long time after, that is,<pc>-</pc>
+                  <lb/>the <orig>cælestiall</orig> <orig>Sunne</orig> did in the earth generate a <orig>Sonne</orig>, <orig>whome</orig> Mercury <choice><orig>comitted</orig><reg>committed</reg></choice>
+                  <lb/>to Vulcan and Chiron to be educated, that is, to <orig>manuall</orig> artifice, to be instructed,
                   <lb/>even as they write of Achilles, who was held and hardened in fire by his mother
-                  <lb/>Thetys: hee, amongst other things, Learned Musicke, and the art of playing on the <note place="margin">For this reason sayth <lb/>Ovid. Phyllirides <lb/>made the youth <lb/>Achilles an excellent <lb/>Harpe</note>
-                  <lb/>Harp from Chiron: but Achilles being noe other than the philosphicall subject (
-                  <lb/>whose Sonne was was pyrrhus with red haire, without which two Troy could not be
-                  <lb/>taken and subdued, as wee have abundantly demonstrated in our Hieroglyphicks
-                  <lb/>booke 6.) therefore doe wee not without reason touch (though cursorily) upon Musicke
-                  <lb/>in this our worke, where wee describe Achilles, and his heroicke virtues and en=
-                  <lb break="no"/>terprises: For if Musicke adorned soe great a Heroe, why may it not allso
-                  <lb/>make this our worke more complete and acceptable: For the Angells sing (as the
-                  <lb/>sacred scriptures attest<supplied>)</supplied>, the heavens sing, as Pythagoras affirmes, and, as the
-                  <lb/>Psalmist sayth, declare the glory of God, the Muses and Apollo sing, as
-                  <lb/>the poett, men even infants sing, birds sing, sheep and geese sing in
-                  <lb/>musicall instruments, if therefore wee allso sing, there is reason for it
-               
-              
-                  <lb />
-                     <pc>- - - - - </pc>
-                  
+                  <lb/>Thetys: <orig>hee</orig>, amongst other things, learned <orig>Musicke</orig>, and the art of playing on the <note place="margin">For this reason <orig>sayth</orig> <lb/>Ovid. Phyllirides <lb/>made the youth <lb/>Achilles an excellent <lb/><orig>Harpe</orig></note>
+                  <lb/>Harp from Chiron: but Achilles being <orig>noe</orig> other than the <orig>Philosphicall</orig> subject (
+                  <lb/>whose <orig>Sonne</orig> was was Pyrrhus with red <orig>haire</orig>, without which two Troy could not be<pc>-</pc>
+                  <lb/>taken and subdued, as <orig>wee</orig> have abundantly demonstrated in our <choice><orig>Hieroglyphicks</orig><reg>Hieroglyphics</reg></choice><pc>-</pc>
+                  <lb/>booke 6.) therefore <orig>doe</orig> <orig>wee</orig> not without reason touch (though cursorily) upon <orig>Musicke</orig>
+                  <lb/>in this our <orig>worke</orig>, where <orig>wee</orig> describe Achilles, and his <orig>heroicke</orig> virtues and en
+                  <lb break="no"/>terprises: For if <orig>Musicke</orig> adorned <orig>soe</orig> great a <orig>Heroe</orig>, why may it not <orig>allso</orig><pc>-</pc>
+                  <lb/>make this our <orig>worke</orig> more complete and acceptable: For the <choice><orig>Angells</orig><reg>Angels</reg></choice> sing (as the
+                  <lb/>sacred scriptures attest<supplied>)</supplied>, the heavens sing, as Pythagoras <choice><orig>affirmes</orig><reg>affirms</reg></choice>, and, as the<pc>-</pc>
+                  <lb/>Psalmist <orig>sayth</orig>, declare the glory of God, the Muses and Apollo sing, as<pc>-</pc>
+                  <lb/>the <orig>Poetts</orig>, men even infants sing, birds sing, Sheep and geese sing in<pc>-</pc>
+                  <lb/><orig>musicall</orig> instruments, if therefore <orig>wee</orig> <orig>allso</orig> sing, there is reason for it<pc>. . .</pc>
                </ab>   
             </div>
             
