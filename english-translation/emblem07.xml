@@ -25,22 +25,22 @@
                 
                 <div type="title" xml:lang="en">
                     <head>
-                        <lb/>Embleme 7. Of the Secrets of Nature.
-                        <lb/>A chicken is flying out of the nest, which falls againe into the nest.
+                        <lb/><orig>Embleme</orig> 7. Of the Secrets of Nature.
+                        <lb/>A chicken is flying out of the nest, which falls <orig>againe</orig> into the nest.
                         
                     </head>
                 </div>
                 
                 
                 <div type="epigram" xml:lang="en">
-                    <head>Epigramme 7.</head>
+                    <head><orig>Epigramme</orig> 7.</head>
                     <lg>
-                        <l>The bird of Jove had nested on a rocke,</l>
-                        <l>Where shee brought forth, and fed her tender flocke:</l>
-                        <l>Out flyes the eldest having wings and trayne,</l>
-                        <l>pulls by the naked nestling backe againe</l>
-                        <l>To the deserted nest: you hitt the nayle,</l>
-                        <l>If you know how to joyne them head and tayle.</l>
+                        <l>The bird of Jove had nested on a <choice><orig>rocke</orig><reg>rock</reg></choice>,</l>
+                        <l>Where <orig>Shee</orig> brought forth, and fed her tender <orig>flocke</orig>:</l>
+                        <l>Out <orig>flyes</orig> the eldest having wings and <choice><orig>trayne</orig><reg>train</reg></choice>,</l>
+                        <l><choice><orig>Pulld</orig><reg>Pulled</reg></choice> by the naked nestling <orig>backe</orig> <orig>againe</orig></l>
+                        <l>To the deserted nest: you <orig>hitt</orig> the <orig>nayle</orig>,</l>
+                        <l>If you know how to <orig>joyne</orig> them head and <orig>tayle</orig>.</l>
                     </lg>
                 </div>
                 
@@ -49,81 +49,77 @@
                 <div type="discourse" xml:lang="en">
                     <head>Discourse 7.</head>
                     <ab><!--Our convention will be that if we have break = "no" then it means that the word is broken across the line with a dash--> 
-                        <lb/>What Hippocrates, the defender and propugnator of physicians, affirms of hu<milestone unit="section" n="e03-01" /> <!-- Change the value of n to "e" plus the number of the emblem (in two digits), followed by a hyphen and then a two-digit count of sentence -->
-                        <lb break="no"/>mors, that they are different and many in man, and not one onely, otherwise
-                        <lb/>various diseases, could not arise, that wee perceive to be true of the elements
-                        <lb/>of the world: for if there was but one onely element, there could be noe
-                        <lb/>mutation of it into another, noe generation nor corruption, yea all things
-                        <lb/>would be one immutable thing, and noe meteors, mineralls, plants, and
-                        <lb/>animalls could be naturally from theme produced. For this reason the su
-                        <lb break="no"/>preme Creator composed the whole systeme of this world of divers and
-                        <lb/>contrary natures, namely of light and heavy, hott and cold, moist and dry
-                        <lb/>that one might be affinity passe into the other, and soe acomposition be
-                        <lb/>made of bodyes, which might be very different one from another in essence,
-                        <lb/>qualityes, virtues, and effects: for in things perfectly mixed are the light Ele
-                        <lb break="no"/>ments, as fire and aire, and allso the heavy, as earth and water, which are soe
-                        <lb/>aequally tempered together, that one recedes not from the other, but suffers itselfe
-                        <lb/>to be easily taken and held by the other as neighbour by neighbour: Earth and aire
-                        <lb/>are contrary one to the other, soe fire and water, yea notwithstanding fire main
-                        <lb break="no"/>taines freindship with aire by heat comon to both, with earth by siccity: soe
-                        <lb/>aire with water, and water with earth: by which means they are all joyned
-                        <lb/>by bonds of affinity or rather consanguinity, and doe remayne together in
-                        <lb/>one composition, which, if it abound with the light Elements, elevates the
-                        <lb/>heavy with it, if with the heavy, weighs downe the light with it: This is decla
-                        <lb break="no"/>red by the two Eagles, one with wings, the other without, of which that
-                        <lb/>which endeavoured to fly is restrained by the <add>other</add> an example hereof is evident
-                        <lb/>in the fight of the Falcon and Heron, for the Falcon soaring higher in
-                        <lb/>the aire by his speedy flying, takes and tears the Heron with his Talons, by
-                        <lb/>whose weight both fall to the ground: The contrary appeared in the
-                        <lb/>artificiall dove or Automa of Archytas, where heavy things were lifted up
-                        <lb/>by light, that is, the wooden body of it caryed into the aire by the
-                        <lb/>spirit includes within: In the philosophicall subject the light things doe
-                        <lb/>first praedominate the heavy, as to plenty, but they are overcome by vir
-                        <lb break="no"/>tue of the heavy things, and in processe of time the Eagles wings are cut
+                        <lb/>What Hippocrates, the defender and propugnator of Physicians, affirms of hu<milestone unit="section" n="e03-01" /> <!-- Change the value of n to "e" plus the number of the emblem (in two digits), followed by a hyphen and then a two-digit count of sentence -->
+                        <lb break="no"/>mors, that they are different and many in man, and not one <orig>onely</orig>, otherwise
+                        <lb/>various diseases, could not arise, that <orig>wee</orig> perceive to be true of the elements
+                        <lb/>of the world: for if there was but one <orig>onely</orig> element, there could be <orig>noe</orig><pc>-</pc>
+                        <lb/>mutation of it into another, <orig>noe</orig> generation nor corruption, yea all things
+                        <lb/>would be one immutable thing, and <orig>noe</orig> meteors, <orig>mineralls</orig>, plants, and
+                        <lb/><orig>animalls</orig> could be naturally from <orig>theme</orig> produced. For this reason the su
+                        <lb break="no"/>preme Creator composed the whole <orig>systeme</orig> of this world of <orig>divers</orig> and<pc>-</pc>
+                        <lb/>contrary natures, namely of light and heavy, <orig>hott</orig> and cold, moist and dry<pc>-</pc>
+                        <lb/>that one might be affinity <orig>passe</orig> into the other, and <orig>soe</orig> a composition be
+                        <lb/>made of <orig>bodyes</orig>, which might be very different one from another in essence,
+                        <lb/><orig>qualityes</orig>, virtues, and effects: for in things perfectly mixed are the light Ele
+                        <lb break="no"/>ments, as fire and <orig>aire</orig>, and <orig>allso</orig> the heavy, as earth and water, which are <orig>soe</orig>
+                        <lb/><orig>æqually</orig> tempered together, that one recedes not from the other, but suffers <orig>itselfe</orig>
+                        <lb/>to be easily taken and held by the other as <orig>neighbour</orig> by <orig>neighbour</orig>: Earth and <orig>aire</orig>
+                        <lb/>are contrary one to the other, <orig>soe</orig> fire and water, yea notwithstanding fire <choice><orig>main
+                        <lb break="no"/>taines</orig><reg>maintains</reg></choice> <orig>freindship</orig> with <orig>aire</orig> by heat <orig>comon</orig> to both, with earth by siccity: <orig>soe</orig>
+                        <lb/><orig>aire</orig> with water, and water with earth: by which means they are all <orig>joyned</orig>
+                        <lb/>by bonds of affinity or rather consanguinity, and <orig>doe</orig> <orig>remayne</orig> together in
+                        <lb/>one composition, which, if it abound with the light Elements, elevates the<pc>-</pc>
+                        <lb/>heavy with it, if with the heavy, weighs <orig>downe</orig> the light with it: This is decla
+                        <lb break="no"/>red by the two Eagles, one with wings, the other without, of which that<pc>-</pc>
+                        <lb/>which <orig>endeavoured</orig> to fly is restrained by the <add>other</add> an example hereof is evident
+                        <lb/>in the fight of the Falcon and Heron, for the Falcon soaring higher in<pc>-</pc>
+                        <lb/>the <orig>aire</orig> by his Speedy flying, takes and tears the Heron with his Talons, by
+                        <lb/>whose weight both fall to the ground: The contrary appeared in the<pc>-</pc>
+                        <lb/><orig>artificiall</orig> dove or Automa of Archytas, where heavy things were lifted up
+                        <lb/>by light, that is, the wooden body of it <choice><orig>caryed</orig><reg>carried</reg></choice> into the <orig>aire</orig> by the<pc>-</pc>
+                        <lb/>Spirit includes within: In the <orig>Philosophicall</orig> subject the light things <orig>doe</orig>
+                        <lb/>first <choice><orig>prædominate</orig><reg>predominate</reg></choice> the heavy, as to plenty, but they are overcome by vir
+                        <lb break="no"/>tue of the heavy things, and in processe of time the Eagles wings are cut<pc>-</pc>
                         <lb/>of, and one very great bird (namely an Ostrich) is made of two, which
-                        <lb/>can consume iron, and which being impeded by weight runns more upon
-                        <lb/>the earth, than flyes in the aire, though it hath goodly wings: Concerning
+                        <lb/>can consume iron, and which being impeded by weight <choice><orig>runns</orig><reg>runs</reg></choice> more upon
+                        <lb/>the earth, than <orig>flyes</orig> in the <orig>aire</orig>, though it <orig>hath</orig> goodly wings: Concerning
                         <lb/>this or the like Hermes (as the Author of Aurora chapt. 5. affirms) writes thus:
                         <lb/>I have considered a bird worthy to be had in estimation by the wise, which
-                        <lb/>flyes when it is in Aries, Cancer, Libra, or Capricorne, and you will never
-                        <lb/>fayle of it in pure mynes, and rocky mountains: Concerning the same Se
+                        <lb/><orig>flyes</orig> when it is in Aries, Cancer, Libra, or Capricorne, and you will never
+                        <lb/><choice><orig>fayle</orig><reg>fail</reg></choice> of it in pure <choice><orig>mynes</orig><reg>mines</reg></choice>, and rocky mountains: Concerning the same Se
                         <lb break="no"/>nior in Tabula, where two are soon, one volatile the other without wings,
-                        <lb/>whereof one holds the others tayle by its beake, that they cannot easily be
-                        <lb/>seperated: For this is the device and machination of universall nature,
-                        <lb/>allwayes to rayse heavy things by light, and likewise to depresse light
-                        <lb/>things by heavy, as the Author of the perfect Magistery declareth, who
-                        <lb/>constitutes seven minerall spirits, as it were erraticke starrs, and
+                        <lb/>whereof one holds the others <orig>tayle</orig> by its <choice><orig>beake</orig><reg>beak</reg></choice>, that they cannot easily be
+                        <lb/>seperated: For this is the device and machination of <orig>universall</orig> nature,
+                        <lb/><orig>allwayes</orig> to <choice><orig>rayse</orig><reg>raise</reg></choice> heavy things by light, and likewise to <choice><orig>depresse</orig><reg>depress</reg></choice> light
+                        <lb/>things by heavy, as the Author of the perfect Magistery <choice><orig>declareth</orig><reg>declares</reg></choice>, who
+                        <lb/>constitutes seven <orig>minerall</orig> spirits, as it were <choice><orig>erraticke</orig><reg>erratic</reg></choice> <orig>Starrs</orig>, and<pc>-</pc>
                         
                         
                         
                         
                         <pb n="28"/><fw>Discourse 7.</fw><!-- Page number of the actual manuscript, followed by the header on the page. -->
-                        <lb/>soe many metallicke bodyes, as fixed starrs, and enjoyns these to be
-                        <lb/>wedded to those: from theme allso Aristotle the Chymist, the spirit, sayth hee,
-                        <lb/>having dissolved the body and soule, soe as to exist in their forme, doth not
-                        <lb/>remaine a fixed thing, unlesse you operate upon it: now operation is to joyne
-                        <lb/>it with the body, from which you praepared it at first: because the spirit is
-                        <lb/>thereby prevented from flight being mixed with the supersistences of the
-                        <lb/>body: the light Elements, namely aire and fire, as a learned man declares,
-                        <lb/>doe in Camphore oversway the heavy; and therefore it is sayd wholy to ex
-                        <lb break="no"/>hale and evaporate into aire. In Argent vive, the flowers of Sulphur, Anti
-                        <lb break="no"/>mony, the salt of Harts blood, Sal Armoniacke, and such others, the earth
-                        <lb/>flyes with the aire into the Alembicke, and is not seperated from it. In Gold,
-                        <lb/>glasse, Diamond, the stone Smyris, Granats, and the like, the Elements
-                        <lb/>doe notwithstanding fire remayne along time joyned without detriment,
-                        <lb/>and the earth retaines those things which are left in itselfe. In other com
-                        <lb break="no"/>bustibles division and separation of one thing from another is effected, soe
-                        <lb/>that the ashes are left in the bottome, the water, aire, and fire fly up
-                        <lb break="no"/>wards: wee must not therefore have respect to the unaequall composition of
-                        <lb/>these last, being not soe strongly mixd, nor to the comixtion of the first,
+                        <lb/><orig>soe</orig> many <orig>metallicke</orig> <orig>bodyes</orig>, as fixed <orig>Starrs</orig>, and <choice><orig>enjoyns</orig><reg>enjoins</reg></choice> these to be
+                        <lb/>wedded to those: from <orig>theme</orig> <orig>allso</orig> <seg rend="underline">Aristotle</seg> the <seg rend="underline"><orig>Chymist</orig></seg>, the Spirit, <orig>sayth</orig> <orig>hee</orig>,
+                        <lb/>having dissolved the body and <orig>Soule</orig>, <orig>soe</orig> as to exist in their <orig>forme</orig>, <orig>doth</orig> not
+                        <lb/><orig>remaine</orig> a fixed thing, <orig>unlesse</orig> you operate upon it: now operation is to <orig>joyne</orig><pc>-</pc>
+                        <lb/>it with the body, from which you <orig>præpared</orig> it at first: because the Spirit is<pc>-</pc>
+                        <lb/>thereby prevented from flight being mixed with the supersistences of the<pc>-</pc>
+                        <lb/>body: the light Elements, namely <orig>aire</orig> and fire, as a learned man declares,
+                        <lb/><orig>doe</orig> in Camphore oversway the heavy; and therefore it is <orig>sayd</orig> <choice><orig>wholy</orig><reg>wholly</reg></choice> to ex
+                        <lb break="no"/>hale and evaporate into <orig>aire</orig>. In Argent vive, the flowers of Sulphur, Anti
+                        <lb break="no"/>mony, the Salt of Harts blood, Sal Armoniacke, and such others, the earth<pc>-</pc>
+                        <lb/><orig>flyes</orig> with the <orig>aire</orig> into the <choice><orig>Alembicke</orig><reg>Alembic</reg></choice>, and is not seperated from it. In Gold,
+                        <lb/><orig>glasse</orig>, Diamond, the Stone Smyris, Granats, and the like, the Elements<pc>-</pc>
+                        <lb/><orig>doe</orig> notwithstanding fire <orig>remayne</orig> along time <orig>joyned</orig> without detriment,<pc>-</pc>
+                        <lb/>and the earth <choice><orig>retaines</orig><reg>retains</reg></choice> those things which are left in <orig>itselfe</orig>. In other com
+                        <lb break="no"/>bustibles division and separation of one thing from another is effected, <orig>soe</orig>
+                        <lb/>that the ashes are left in the <choice><orig>bottome</orig><reg>bottom</reg></choice>, the water, <orig>aire</orig>, and fire fly up
+                        <lb break="no"/>wards: <orig>wee</orig> must not therefore have respect to the <choice><orig>unæquall</orig><reg>unequal</reg></choice> composition of
+                        <lb/>these last, being not <orig>soe</orig> strongly <orig>mixd</orig>, nor to the <choice><orig>comixtion</orig><reg>commixtion</reg></choice> of the first,
                         <lb/>though more durable, yet volatile, but to the solidity, constancy, and fixity
-                        <lb/>of the midle: for soe the bird without wings will detaine that which hath,
+                        <lb/>of the <orig>midle</orig>: for <orig>soe</orig> the bird without wings will <choice><orig>detaine</orig><reg>detain</reg></choice> that which <orig>hath</orig>,<pc>-</pc>
                         <lb/>and the fixed substance will fix the volatile, which must necessarily be
-                        <lb/>done
-                        
-                        <lb />
-                        <pc>- - - - - </pc>
-                        
+                        <lb/>done<pc>. . . . . . . . . .</pc>
                     </ab>   
                 </div>
                 
