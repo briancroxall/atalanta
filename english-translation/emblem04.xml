@@ -32,7 +32,7 @@
             
             
             <div type="epigram" xml:lang="en">
-               <head>Epigramme 4.</head>
+               <head><orig>Epigramme</orig> 4.</head>
                <lg>
                   <l>To multiply the world with <choice><orig>humane</orig><reg>human</reg></choice> race,</l>
                   <l>The brother <subst><del>must</del><add>did</add></subst> his sister close embrace:</l>
