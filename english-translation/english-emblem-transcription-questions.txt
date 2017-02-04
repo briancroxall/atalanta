@@ -1,5 +1,8 @@
 # Questions about Emblems
 
+comon
+imediate
+
 ## Emblem 1
 -strange symbols on first page of emblem in title, look like tracks
 "comon" with lengtehning mark present
@@ -20,3 +23,13 @@ some underlining
 Emblem 5
 many shortening marks, imediately, comon, etc
 unusual word seireth
+
+Emblem 6
+no issues
+
+Emblem 7
+no issues
+
+Emblem 8
+no issues
+
