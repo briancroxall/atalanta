@@ -25,22 +25,22 @@
                 
                 <div type="title" xml:lang="en">
                     <head>
-                        <lb/>Embleme 13. Of the Secrets of Nature.
-                        <lb/>The Philosophers brasse is hydropicall, and desires to be seven
-                        <lb/>times washd in a river, as Naaman the leper in jordan.
+                        <lb/><orig>Embleme</orig> 13. Of the Secrets of Nature.
+                        <lb/>The Philosophers <orig>brasse</orig> is <choice><orig>hydropicall</orig><reg>hydropical</reg></choice>, and desires to be seven
+                        <lb/>times <choice><orig>washd</orig><reg>washed</reg></choice> in a river, as Naaman the leper in jordan.
                     </head>
                 </div>
                 
                 
                 <div type="epigram" xml:lang="en">
-                    <head>Epigramme 13.</head>
+                    <head><orig>Epigramme</orig> 13.</head>
                     <lg>
-                        <l>Humors Hydropicall the Sophian brasse</l>
-                        <l>Infesting, has noe cure but one alas:</l>
-                        <l>Naaman the leper did himselfe restore,</l>
-                        <l>Bathing his limbs in Jordan 'ore and 'ore;</l>
-                        <l>Soe if your brasse be washd in water pure,</l>
-                        <l>Its praesent, Hydropsy will not endure.</l>
+                        <l>Humors <choice><orig>Hydropicall</orig><reg>Hydropical</reg></choice> the Sophian <orig>brasse</orig></l>
+                        <l>Infesting, has <orig>noe</orig> cure but one alas:</l>
+                        <l>Naaman the leper did <orig>himselfe</orig> restore,</l>
+                        <l>Bathing his limbs in Jordan <choice><orig>o're</orig><reg>over</reg></choice> and <choice><orig>o're</orig><reg>over</reg></choice>;</l>
+                        <l><orig>Soe</orig> if your <orig>brasse</orig> be <choice><orig>washd</orig><reg>washed</reg></choice> in water pure,</l>
+                        <l>Its <orig>præsent</orig>, Hydropsy will not endure.</l>
                     </lg>
                 </div>
                 
@@ -49,83 +49,82 @@
                 <div type="discourse" xml:lang="en">
                     <head>Discourse 13.</head>
                     <ab><!--Our convention will be that if we have break = "no" then it means that the word is broken across the line with a dash--> 
-                        <lb/>That Naaman the Syrian betooke himselfe to Judea as the perswasion of the<milestone unit="section" n="e03-01" /> <!-- Change the value of n to "e" plus the number of the emblem (in two digits), followed by a hyphen and then a two-digit count of sentence -->
-                        <lb/>prophet, and washd himselfe seven times in the river Jordan, is to be ascribd
-                        <lb/>to his confidence in the Prophets words, but that hee was freed from the Le
+                        <lb/>That Naaman the Syrian <choice><orig>betooke</orig><reg>betook</reg></choice> <orig>himselfe</orig> to Judea as the <choice><orig>perswasion</orig><reg>persuasion</reg></choice> of the<milestone unit="section" n="e03-01" /> <!-- Change the value of n to "e" plus the number of the emblem (in two digits), followed by a hyphen and then a two-digit count of sentence -->
+                        <lb/>Prophet, and <choice><orig>washd</orig><reg>washed</reg></choice> <orig>himselfe</orig> seven times in the river Jordan, is to be <choice><orig>ascribd</orig><reg>ascribed</reg></choice>
+                        <lb/>to his confidence in the Prophets words, but that <orig>hee</orig> was freed from the Le
                         <lb break="no"/>prosy by that washing, is a miracle of divine omnipotence: For the Leprosy,
-                        <lb/>which being seated in the blood, and radicall parts of mans body, is as it were
-                        <lb/>an universall Canker, cannot be cured or taken away by any externall
-                        <lb/>washings, much lesse of cold water, such as was of Jordan. After the same
-                        <lb/>manner that the Philosophers brasse diseased with an Hydropsy, should be
-                        <lb/>freed from it by the washings of water, yea that being imperfect it should be
-                        <lb/>reduced to perfection, and being sicke to health, soe as to be able to comunicate
-                        <lb/>the same to other sicke bodyes, is next to a miracle: For such an example is
-                        <lb/>not elswhere extant in nature, nor is it the ordinary way of nature to pro
-                        <lb break="no"/>duce the Philosophers most absolute tincture, unlesse it be governed by art,
-                        <lb/>and fitt subjects administred to it with the externall efficient. Soe the resti
-                        <lb break="no"/>tution of luxations or dislocations is not peculiar to nature, but art: Neverthe
-                        <lb break="no"/>lesse the Os Sacrum opens itselfe miraculously in the birth of a child, that
-                        <lb/>the infant may thereby have egresse, as by a door, and herein the most great
-                        <lb/>and mercifull God operates by nature above nature: Soe that the stone
-                        <lb/>should be perfected, may seeme to be a thing supernaturall, though really
-                        <lb/>it is naturall: Wherefore sayth a Philosopher in the Rosary, You must know
-                        <lb/>that our stone is airy and volatile, externally cold and moist, internally
-                        <lb/>hott and dry: and that coldnesse and moisture which is externall, is a watry
-                        <lb/>fume, corrupting, blacking, and destroying itselfe and all things, and flyes
-                        <lb/>from fire: and that heat and siccity which is internall, is gold hott and dry,
-                        <lb/>and is a most pure oyle, penetrating bodyes, and is not fugitive, because the
-                        <lb/>heat and siccity of Alchymy tingeth, and nothing els: Cause therefore the
-                        <lb/>externall, coldnesse and watry moisture, to be like to the internall heat and
-                        <lb/>siccity, soe that they may agree and be united together, and all at once be
+                        <lb/>which being seated in the blood, and <orig>radicall</orig> parts of mans body, is as it were
+                        <lb/>an <orig>universall</orig> Canker, cannot be cured or taken away by any <orig>externall</orig><pc>-</pc>
+                        <lb/>washings, much <orig>lesse</orig> of cold water, such as was of Jordan. After the same<pc>-</pc>
+                        <lb/>manner that the Philosophers <orig>brasse</orig> diseased with an Hydropsy, Should be
+                        <lb/>freed from it by the washings of water, yea that being imperfect it Should be
+                        <lb/>reduced to perfection, and being <orig>sicke</orig> to health, <orig>soe</orig> as to be able to <choice><orig>comunicate</orig><reg>communicate</reg></choice>
+                        <lb/>the same to other <orig>sicke</orig> <orig>bodyes</orig>, is next to a miracle: For such an example is
+                        <lb/>not <orig>elswhere</orig> extant in nature, nor is it the ordinary way of nature to pro
+                        <lb break="no"/>duce the Philosophers most absolute tincture, <orig>unlesse</orig> it be governed by art,<pc>-</pc>
+                        <lb/>and <choice><orig>fitt</orig><reg>fit</reg></choice> subjects <choice><orig>administred</orig><reg>administered</reg></choice> to it with the <orig>externall</orig> efficient. <orig>Soe</orig> the resti
+                        <lb break="no"/>tution of luxations or dislocations is not peculiar to nature, but art: <orig>Neverthe
+                        <lb break="no"/>lesse</orig> the Os Sacrum opens <orig>itselfe</orig> miraculously in the birth of a child, that<pc>-</pc>
+                        <lb/>the infant may thereby have <choice><orig>egresse</orig><reg>egress</reg></choice>, as by a door, and herein the most great
+                        <lb/>and <choice><orig>mercifull</orig><reg>merciful</reg></choice> God operates by nature above nature: <orig>Soe</orig> that the Stone<pc>-</pc>
+                        <lb/>should be perfected, may <choice><orig>seeme</orig><reg>seem</reg></choice> to be a thing <choice><orig>supernaturall</orig><reg>supernatural</reg></choice>, though really
+                        <lb/>it is <orig>naturall</orig>: Wherefore <orig>sayth</orig> a Philosopher in the Rosary, You must know<pc>-</pc>
+                        <lb/>that our stone is airy and volatile, externally cold and moist, internally<pc>-</pc>
+                        <lb/><orig>hott</orig> and dry: and that <orig>coldnesse</orig> and moisture which is <orig>externall</orig>, is a <choice><orig>watry</orig><reg>watery</reg></choice>
+                        <lb/>fume, corrupting, blacking, and destroying <orig>itselfe</orig> and all things, and <choice><orig>flyes</orig><reg>flies</reg></choice>
+                        <lb/>from fire: and that heat and siccity which is <orig>internall</orig>, is gold <orig>hott</orig> and dry,
+                        <lb/>and is a most pure <orig>oyle</orig>, penetrating <orig>bodyes</orig>, and is not fugitive, because the
+                        <lb/>heat and siccity of <orig>Alchymy</orig> <choice><orig>tingeth</orig><reg>tinges</reg></choice>, and nothing <orig>els</orig>: Cause therefore the
+                        <lb/><orig>externall</orig>, <orig>coldnesse</orig> and <orig>watry</orig> moisture, to be like to the <orig>internall</orig> heat and
+                        <lb/>siccity, <orig>soe</orig> that they may agree and be united together, and all at once be
                         <lb break="no"/>made one penetrating, tinging, and fixing body: but these moistures must be
-                        <lb/>destroyd by fire, and degrees of fire with soft temperament, and a congruous
-                        <lb/>and moderate digestion: These there: But if true, how can it be freed from
-                        <lb/>water by water? but it may be answered, that some certaine waters are
-                        <lb/>hott and dry in quality, such as are many baths, in which it must be Phi
-                        <lb break="no"/>losophically washed: For this is that which they say, wash with fire, and
-                        <lb/>burne with water; for that fire, which washeth, and that water, which bur
-                        <lb break="no"/>neth, differ one from the other in name onely, but agree in effect and ope
-                        <lb break="no"/>ration: That brasse therefore must be washd, that is, dryed from its super
-                        <lb break="no"/>fluous moistures by this water, or this fire: Wee have knowne experiments
-                        <lb/>of Hydropicall bodyes cured by six moneths absence from any drinke,
-                        <lb/>by being buryed in hott sand, or Cowes dung, by being put in a a hott fur
-                        <lb break="no"/>nace, and sweating, and innumerable other helps, yea allso by drying
-                        <lb/>baths, such as are at Carolina and Wisbadenses not farre from Mentz:
-                        <lb/>By the same wayes must this Patient be cured, sometimes by waters,
+                        <lb/><choice><orig>destroyd</orig><reg>destroyed</reg></choice> by fire, and degrees of fire with soft temperament, and a congruous
+                        <lb/>and moderate digestion: These there: But if true, how can it be freed from<pc>-</pc>
+                        <lb/>water by water? but it may be answered, that some <orig>certaine</orig> waters are<pc>-</pc>
+                        <lb/><orig>hott</orig> and dry in quality, such as are many baths, in which it must be Phi
+                        <lb break="no"/>losophically washed: For this is that which they say, wash with fire, and<pc>-</pc>
+                        <lb/><orig>burne</orig> with water; for that fire, which <choice><orig>washeth</orig><reg>washes</reg></choice>, and that water, which <choice><orig>bur
+                        <lb break="no"/>neth</orig><reg>burns</reg></choice>, differ one from the other in name <orig>onely</orig>, but agree in effect and ope
+                        <lb break="no"/>ration: That <orig>brasse</orig> therefore must be <choice><orig>washd</orig><reg>washed</reg></choice>, that is, <orig>dryed</orig> from its super
+                        <lb break="no"/>fluous moistures by this water, or this fire: Wee have <orig>knowne</orig> experiments<pc>-</pc>
+                        <lb/>of <choice><orig>Hydropicall</orig><reg>Hydropical</reg></choice> <orig>bodyes</orig> cured by six <choice><orig>moneths</orig><reg>months</reg></choice> absence from any <choice><orig>drinke</orig><reg>drink</reg></choice>,<pc>-</pc>
+                        <lb/>by being <choice><orig>buryed</orig><reg>buried</reg></choice> in <seg rend="underline"><orig>hott</orig> sand</seg>, or <choice><orig>Cowes</orig><reg>Cows</reg></choice> dung, by being put in a <seg rend="underline"><orig>hott</orig> fur
+                        <lb break="no"/>nace, and sweating, and innumerable</seg> other helps, yea <orig>allso</orig> <seg rend="underline">by drying<pc>-</pc>
+                        <lb/>baths, such as are at Carolina and Wisbadenses not <orig>farre</orig></seg> from Mentz:
+                        <lb/>By the same <choice><orig>wayes</orig><reg>ways</reg></choice> must this Patient be cured, sometimes by waters,<pc>-</pc>
                         
                         
                         <pb n="46"/><fw>Discourse 13.</fw><!-- Page number of the actual manuscript, followed by the header on the page. -->
-                        <lb/>sometimes by the hott aire of furnaces, sometimes by dung, sometimes sand,
-                        <lb/>and by abstaining from drinke: for these are most effectuall remedyes in both
-                        <lb/>cases, here and there to be used: but in all these things heat is the operator,
-                        <lb/>which drawes forth and consumes the superfluous water by the Emunctoryes
-                        <lb/>or allso pores of the body: For externall heat quickens the internall, that is,
-                        <lb/>the vitall Spirits, to expell that moisture which is noxious to it, as an unpro
-                        <lb break="no"/>fitable excrement, by which the naturall heat was before suppressd as by
-                        <lb/>an enemy: In this cure there is need of great diligence and praecaution,
-                        <lb/>lest whilst one bowell is helpd, another be hurt: In a Quartan (the Plato
-                        <lb break="no"/>micke probation of a Physician) wee find, that thicke and viscous humors,
-                        <lb/>like the gumme or glew of trees, being gathered together from all the veins
-                        <lb/>and masse of blood, doe descend through the hollow or great veins even to the
-                        <lb/>bottome of the backe, where obstructing the emulgent veins, which draw
-                        <lb/>the serous humor out of the blood, or the passages of them, they are lesse
-                        <lb/>able to operate, and more serous liquor remaines in the body, and soe in
-                        <lb/>a short time, if care be not taken, a Dropsy may happen, the other bowells
-                        <lb/>being allso untainted at first: Diureticks doe here little or noe good, purgatives
-                        <lb/>yet lesse, unlesse diminution and eduction be made in some certaine series of
-                        <lb/>time: Sudorificks are allso manifestly hurtfull, because they draw out the more
-                        <lb/>subtill parts, leaving the thicker, and being continued debilitate the body: for
-                        <lb/>the custome of nature is to find that way to evacuate serosityes through the pores
-                        <lb/>when shee is obstructed about the bladder: This therefore is Scylla, the other
-                        <lb/>Charybdis, both which hee that has a mind to praeserve himselfe ought to
-                        <lb/>avoyd: But that Dropsy which proceeds from an impaired Liver or Spleen,
-                        <lb/>if it be confirmed, is of most difficult cure: Now in the Philosophicall
-                        <lb/>brasse the cure is not impossible, the distemper being rather by accident,
-                        <lb/>and secundary, than essentiall or primary, provided it be cautiously be
-                        <lb break="no"/>gun, as wee have sayd concerning the plenty of serum in a Quartan, to
-                        <lb/>witt, that it may not by overmuch exiccation fall into a consumption, or
-                        <lb/>by humectation into a Dropsy difficult to be cured
-                        
+                        <lb/>sometimes by the <orig>hott</orig> <orig>aire</orig> of furnaces, sometimes by dung, sometimes Sand,
+                        <lb/>and by abstaining from <orig>drinke</orig>: for these are most <choice><orig>effectuall</orig><reg>effectual</reg></choice> <orig>remedyes</orig> in both
+                        <lb/>cases, here and there to be used: but in all these things heat is the operator,<pc>-</pc>
+                        <lb/>which <choice><orig>drawes</orig><reg>draws</reg></choice> forth and consumes the superfluous water by the <choice><orig>Emunctoryes</orig><reg>Emunctories</reg></choice>
+                        <lb/>or <orig>allso</orig> pores of the body: For <orig>externall</orig> heat quickens the <orig>internall</orig>, that is,
+                        <lb/>the <orig>vitall</orig> Spirits, to <choice><orig>expell</orig><reg>expel</reg></choice> that moisture which is noxious to it, as an unpro
+                        <lb break="no"/>fitable excrement, by which the <orig>naturall</orig> heat was before <choice><orig>suppressd</orig><reg>suppressed</reg></choice> as by<pc>-</pc>
+                        <lb/>an enemy: In this cure there is need of great diligence and <orig>præcaution</orig>,<pc>-</pc>
+                        <lb/>lest whilst one <orig>bowell</orig> is <choice><orig>helpd</orig><reg>helped</reg></choice>, another be hurt: In a Quartan (the <choice><orig>Plato
+                        <lb break="no"/>micke</orig><reg>Platonic</reg></choice> probation of a Physician) <orig>wee</orig> find, that <orig>thicke</orig> and viscous humors,
+                        <lb/>like the <choice><orig>gumme</orig><reg>gum</reg></choice> or <choice><orig>glew</orig><reg>glue</reg></choice> of trees, being gathered together from all the veins<pc>-</pc>
+                        <lb/>and <choice><orig>masse</orig><reg>mass</reg></choice> of blood, <orig>doe</orig> descend through the hollow or great veins even to the
+                        <lb/><choice><orig>bottome</orig><reg>bottom</reg></choice> of the <orig>backe</orig>, where obstructing the emulgent veins, which draw
+                        <lb/>the serous humor out of the blood, or the passages of them, they are <orig>lesse</orig><pc>-</pc>
+                        <lb/>able to operate, and more serous liquor <choice><orig>remaines</orig><reg>remains</reg></choice> in the body, and <orig>soe</orig> in
+                        <lb/>a short time, if care be not taken, a Dropsy may happen, the other <orig>bowells</orig>
+                        <lb/>being <orig>allso</orig> untainted at first: <choice><orig>Diureticks</orig><reg>Diuretics</reg></choice> <orig>doe</orig> here little or <orig>noe</orig> good, purgatives
+                        <lb/>yet <orig>lesse</orig>, <orig>unlesse</orig> diminution and eduction be made in some <orig>certaine</orig> series of<pc>-</pc>
+                        <lb/>time: <choice><orig>Sudorificks</orig><reg>Sudorifics</reg></choice> are <orig>allso</orig> manifestly <choice><orig>hurtfull</orig><reg>hurtful</reg></choice>, because they draw out the more<pc>-</pc>
+                        <lb/><choice><orig>subtill</orig><reg>subtle</reg></choice> parts, leaving the thicker, and being continued debilitate the body: for<pc>-</pc>
+                        <lb/>the <orig>custome</orig> of nature is to find that way to evacuate <choice><orig>serosityes</orig><reg>serosities</reg></choice> through the pores
+                        <lb/>when <orig>shee</orig> is obstructed about the bladder: This therefore is Scylla, the other<pc>-</pc>
+                        <lb/>Charybdis, both which <orig>hee</orig> that has a mind to <orig>præserve</orig> <orig>himselfe</orig> ought to<pc>-</pc>
+                        <lb/><orig>avoyd</orig>: But that Dropsy which proceeds from an impaired Liver or Spleen,<pc>-</pc>
+                        <lb/>if it be confirmed, is of most difficult cure: Now in the <orig>Philosophicall</orig><pc>-</pc>
+                        <lb/><orig>brasse</orig> the cure is not impossible, the distemper being rather by accident,<pc>-</pc>
+                        <lb/>and secundary, than <orig>essentiall</orig> or primary, provided it be cautiously be
+                        <lb break="no"/>gun, as <orig>wee</orig> have <orig>sayd</orig> concerning the plenty of serum in a Quartan, to<pc>-</pc>
+                        <lb/><orig>witt</orig>, that it may not by overmuch exiccation fall into a consumption, or
+                        <lb/>by humectation into a Dropsy difficult to be cured<pc>. . . . . .</pc>
                     </ab>   
                 </div>
                 

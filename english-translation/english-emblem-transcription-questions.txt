@@ -3,6 +3,7 @@
 comon
 comonly
 comitted
+comunicate
 imediate
 imediately
 comodious
