@@ -2,6 +2,7 @@
 
 comon
 comonly
+comitted
 imediate
 imediately
 comodious
@@ -9,6 +10,7 @@ comend
 comended
 comand
 Comonwealth
+
 
 ## Emblem 1
 -strange symbols on first page of emblem in title, look like tracks
@@ -39,4 +41,20 @@ no issues
 
 Emblem 8
 no issues
+
+Emblem 9
+no issues
+
+Emblem 10
+no issues
+
+Emblem 11
+hand=labour
+
+Emblem 23
+earth=quake
+spells rayne raine sometimes Is he differentiating between rein, reign, rain?
+
+Emblem 24
+swan=like
 
