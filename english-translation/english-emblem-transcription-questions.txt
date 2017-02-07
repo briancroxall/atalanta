@@ -11,6 +11,7 @@ comend
 comended
 comand
 Comonwealth
+comemoration
 
 
 ## Emblem 1
@@ -58,4 +59,7 @@ spells rayne raine sometimes Is he differentiating between rein, reign, rain?
 
 Emblem 24
 swan=like
+
+Emblem 25
+line indented, how to code this?
 
