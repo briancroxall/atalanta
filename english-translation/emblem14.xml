@@ -25,21 +25,21 @@
                 
                 <div type="title" xml:lang="en">
                     <head>
-                        <lb/>Embleme 14. Of the Secrets of Nature.
-                        <lb/>This is the Dragon which devours his tayle.
+                        <lb/><orig>Embleme</orig> 14. Of the Secrets of Nature.
+                        <lb/>This is the Dragon which devours his <orig>tayle</orig>.
                     </head>
                 </div>
                 
                 
                 <div type="epigram" xml:lang="en">
-                    <head>Epigramme 14.</head>
+                    <head><orig>Epigramme</orig> 14.</head>
                     <lg>
                         <l>Hunger taught Polypus his flesh to eat,</l>
                         <l>And man with man his appetite to treat:</l>
-                        <l>The hungry Dragon feeding on his tayle,</l>
-                        <l>His fainting soule releives, which els would fayle;</l>
-                        <l>Hold him to hard meat, till himselfe hee doe</l>
-                        <l>Eat and devoure, kill and revive anew.</l>
+                        <l>The hungry Dragon feeding on his <orig>tayle</orig>,</l>
+                        <l>His fainting <orig>soule</orig> <choice><orig>releives</orig><reg>relieves</reg></choice>, which <orig>els</orig> would <choice><orig>fayle</orig><reg>fail</reg></choice>;</l>
+                        <l>Hold him to hard meat, till <orig>himselfe</orig> <orig>hee</orig> <orig>doe</orig></l>
+                        <l>Eat and <choice><orig>devoure</orig><reg>devour</reg></choice>, kill and revive anew.</l>
                     </lg>
                 </div>
                 
@@ -48,70 +48,69 @@
                 <div type="discourse" xml:lang="en">
                     <head>Discourse 14.</head>
                     <ab><!--Our convention will be that if we have break = "no" then it means that the word is broken across the line with a dash--> 
-                        <lb/>It is a saying of the Ancients, that a Serpent, which hath devourd a Serpent, be<milestone unit="section" n="e03-01" /> <!-- Change the value of n to "e" plus the number of the emblem (in two digits), followed by a hyphen and then a two-digit count of sentence -->
-                        <lb break="no"/>comes a Dragon: for it is cruell to its kind, as a theife and Murderer to his: It is
-                        <lb/>evident that such are in Africa, of soe great bignesse and plenty, that they
-                        <lb/>destroyed a great part of Alexanders army: Amongst the Asachaei a people
-                        <lb/>of Aethiopia are very great produced, which being wrapd together after
-                        <lb/>the manner of hurdles doe with their heads lifted up make way to better
-                        <lb/>pasture. They report that the Kings of India maintaind two Dragons, one
-                        <lb/>of eighty, and the other of minely cubits in bignesse: by the observation of
-                        <lb/>later writers and now adayes it is knowne, that near Angola are found such
-                        <lb/>as are aequall to the great masts of ships: Soe they report that in some cer
-                        <lb break="no"/>taine mountains of India and Africa there is great store of gold, but kept by
-                        <lb/>dragons, lest any one come thither and take it away: For dragons doe resort
-                        <lb/>to fountains or rivers, which fall from the mountains, and soe are sayd to watch
-                        <lb/>the gold by accident: for this reason doe the Philosophers ascribe soe many
-                        <lb/>dragons or serpents to their treasures, as to the golden Fleece, the garden of the
-                        <lb/>Hesperides, and to other persons or Chymicall subjects, to Cadmus, Saturne, Aescu
-                        <lb break="no"/>lapius, Mercury, whose wand is begirt with two serpents, make and female: but
-                        <lb/>doe they meane nothing els by Dragons, but Chymicall subjects? Hereupon
-                        <lb/>say they, the Dragons yeild mountains, and the earth fountains to Rebis,
-                        <lb/>and denoting the extreme hunger of the dragon in devouring his tayle: which
-                        <lb/>though others may interpret of the year returning into itselfe, and resembling
-                        <lb/>a circle, yet it was accomodated by the Philosophers to their things, who
-                        <lb/>by this dragon would have a Serpent understood, which devoures another of
-                        <lb/>its owne kind, and this is properly called Sulphur, as they all attest in innume
-                        <lb break="no"/>rable places: Lully in his little booke chapt. 31. This is, sayth hee, Sulphur,
-                        <lb/>my Sonne! and this the serpent and dragon devouring his tayle, the roar
-                        <lb break="no"/>ing lyon, and sharp sword, cutting, mortifying, and tearing all things. And
-                        <lb/>the Rosary: The Dragon dyes not, unlesse hee be killd with his brother
-                        <lb/>and sister. And a little after: The Dragon is Argent vive extracted from
-                        <lb/>bodyes, having in it a body, soule, and spirit: This is in the same place
-                        <lb/>called by another name ffectid <!-- odd spelling -->water, which is produced after the separation
-                        <lb/>of the Elements: Now the Dragon is sayd to devour his tayle, in consuming
-                        <lb/>the voluble, venomous, and moist part, that after without a tayle hee
-                        <lb/>may seem more corpulent and of lesse speed, for the motion and volu
-                        <lb break="no"/>bility of him consisted cheifely in his tayle: Other animalls depend upon
-                        <lb/>feet, but dragons, serpents, and wormes of that kind doe use constriction and
-                        <lb/>explication of body instead of feet, and as it were water poure out doe di
-                        <lb break="no"/>vide into certaine courses, inclining themselves sometimes this way some
-                        <lb break="no"/>times that, as you may see in allmost all rivers, how they turne their
-                        <lb/>courses like serpents, and runne obliguely in circuits: they did not there
+                        <lb/>It is a saying of the Ancients, that a Serpent, which <orig>hath</orig> <choice><orig>devourd</orig><reg>devoured</reg></choice> a Serpent, be<milestone unit="section" n="e03-01" /> <!-- Change the value of n to "e" plus the number of the emblem (in two digits), followed by a hyphen and then a two-digit count of sentence -->
+                        <lb break="no"/>comes a Dragon: for it is <choice><orig>cruell</orig><reg>cruel</reg></choice> to its kind, as a <choice><orig>theife</orig><reg>thief</reg></choice> and Murderer to his: It is<pc>-</pc>
+                        <lb/>evident that such are in Africa, of <orig>soe</orig> great <choice><orig>bignesse</orig><reg>bigness</reg></choice> and plenty, that they<pc>-</pc>
+                        <lb/>destroyed a great part of Alexanders army: Amongst the Asachæi a people<pc>-</pc>
+                        <lb/>of <choice><orig>Æthiopia</orig><reg>Ethiopia</reg></choice> are very great produced, which being <choice><orig>wrapd</orig><reg>wrapped</reg></choice> together after<pc>-</pc>
+                        <lb/>the manner of hurdles <orig>doe</orig> with their heads lifted up make way to better<pc>-</pc>
+                        <lb/>pasture. They report that the Kings of India <choice><orig>maintaind</orig><reg>maintained</reg></choice> two Dragons, one
+                        <lb/>of eighty, and the other of ninety cubits in <choice><orig>bignesse</orig><reg>bigness</reg></choice>: by the observation of
+                        <lb/>later writers and <choice><orig>now adayes</orig><reg>nowadays</reg></choice> it is <orig>knowne</orig>, that near Angola are found such
+                        <lb/>as are <orig>æquall</orig> to the great masts of ships: <orig>Soe</orig> they report that in some <orig>cer
+                        <lb break="no"/>taine</orig> mountains of India and Africa there is great store of gold, but kept by
+                        <lb/>dragons, lest any one come thither and take it away: For dragons <orig>doe</orig> resort<pc>-</pc>
+                        <lb/>to fountains or rivers, which fall from the mountains, and <orig>soe</orig> are <orig>sayd</orig> to watch
+                        <lb/>the gold by accident: for this reason <orig>doe</orig> the Philosophers ascribe <orig>soe</orig> many<pc>-</pc>
+                        <lb/>dragons or serpents to their treasures, as to the golden Fleece, the garden of the<pc>-</pc>
+                        <lb/>Hesperides, and to other persons or <orig>Chymicall</orig> subjects, to Cadmus, Saturne, <choice><orig>Æscu
+                        <lb break="no"/>lapius</orig><reg>Esculapius</reg></choice>, Mercury, whose wand is begirt with two Serpents, male and female: but
+                        <lb/><orig>doe</orig> they <orig>meane</orig> nothing <orig>els</orig> by Dragons, but <orig>Chymicall</orig> subjects? Hereupon<pc>-</pc>
+                        <lb/>say they, the Dragons <orig>yeild</orig> mountains, and the earth fountains to Rebis,<pc>-</pc>
+                        <lb/>and denoting the extreme hunger of the dragon in devouring his <orig>tayle</orig>: which
+                        <lb/>though others may interpret of the year returning into <orig>itselfe</orig>, and resembling
+                        <lb/>a circle, yet it was <choice><orig>accomodated</orig><reg>accommodated</reg></choice> by the Philosophers to their things, who<pc>-</pc>
+                        <lb/>by this dragon would have a Serpent understood, which <choice><orig>devoures</orig><reg>devours</reg></choice> another of
+                        <lb/>its <orig>owne</orig> kind, and this is properly called Sulphur, as they all attest in innume
+                        <lb break="no"/>rable places: Lully in his little <orig>booke</orig> chapt. 31. This is, <orig>sayth</orig> <orig>hee</orig>, Sulphur,
+                        <lb/>my <orig>Sonne</orig>! and this the Serpent and dragon devouring his <orig>tayle</orig>, the roar
+                        <lb break="no"/>ing <orig>lyon</orig>, and sharp sword, cutting, mortifying, and tearing all things. And
+                        <lb/>the Rosary: The Dragon <orig>dyes</orig> not, <orig>unlesse</orig> <orig>hee</orig> be <orig>killd</orig> with his brother<pc>-</pc>
+                        <lb/>and Sister. And a little after: The Dragon is Argent vive extracted from
+                        <lb/><orig>bodyes</orig>, having in it a body, <orig>Soule</orig>, and spirit: This is in the same place
+                        <lb/>called by another name <choice><orig>ffæctid</orig><reg>fetid</reg></choice> water, which is produced after the separation
+                        <lb/>of the Elements: Now the Dragon is <orig>sayd</orig> to devour his <orig>tayle</orig>, in consuming
+                        <lb/>the voluble, venomous, and moist part, that after without a <orig>tayle</orig> <orig>hee</orig><pc>-</pc>
+                        <lb/>may seem more corpulent and of <orig>lesse</orig> Speed, for the motion and volu
+                        <lb break="no"/>bility of him consisted <orig>cheifely</orig> in his <orig>tayle</orig>: Other <orig>animalls</orig> depend upon
+                        <lb/>feet, but dragons, Serpents, and <choice><orig>wormes</orig><reg>worms</reg></choice> of that kind <orig>doe</orig> use constriction and
+                        <lb/>explication of body instead of feet, and as it were water <choice><orig>poure</orig><reg>pour</reg></choice> out <orig>doe</orig> di
+                        <lb break="no"/>vide into <orig>certaine</orig> courses, inclining themselves sometimes this way some
+                        <lb break="no"/>times that, as you may see in <orig>allmost</orig> all rivers, how they <orig>turne</orig> their<pc>-</pc>
+                        <lb/>courses like Serpents, and <orig>runne</orig> obliquely in circuits: they did not there
                         <lb break="no"/>fore without reason call Argent vive a Serpent, and and add serpents to Mer
-                        <lb break="no"/>cury, it allso drawing as it were a tayle, and running sometimes this
-                        <lb/>sometimes that way with a voluble poise: For as a Serpent creeps soe
-                        <lb/>allso Mercury, who hath therefore wings upon his feet and head.
+                        <lb break="no"/>cury, it <orig>allso</orig> drawing as it were a <orig>tayle</orig>, and running sometimes this<pc>-</pc>
+                        <lb/>sometimes that way with a voluble poise: For as a Serpent creeps <orig>soe</orig>
+                        <lb/><orig>allso</orig> Mercury, who <orig>hath</orig> therefore wings upon his feet and head.<pc>-</pc>
                         
                         
                         
                         <pb n="49"/><fw>Discourse 14.</fw><!-- Page number of the actual manuscript, followed by the header on the page. -->
-                        <lb/>In Affrica they say are flying Serpents, which would waste and depopu
-                        <lb break="no"/>late all things, if they were not destroyd by the bird calld Ibis: For which
-                        <lb/>cause Ibis is erected amongst the sacred Aegyptian images, both for the mani
-                        <lb break="no"/>fest utility, which it performes to the whole country, and for an occult
-                        <lb/>reason, which very few men have understood. This dragon biting of his
-                        <lb/>tayle, and casting his old skinne is sayd to acquire a new one together with
-                        <lb/>youth, as nature hath granted longer life not onely to Crows, Ravens, Eagles,
-                        <lb/>and Harts, but allso to the Serpentine kind: The Ant growing old acquireth
-                        <lb/>wings, soe allso many wormes: Man growing old is put into the earth, but
-                        <lb/>being revived from the earth will be consecrated to aeternall life. Of every
-                        <lb/>Serpent burned is made a powder, which is taken safely against all poy
-                        <lb break="no"/>sons with great effect: Such an Alexipharmacum ought allso to be made
-                        <lb/>of this dragon (who hath allready devoured his tayle, which is usually cutt
-                        <lb/>of in Vipers) a most effectuall remedy against the adversityes of for
-                        <lb break="no"/>tune and body
-                        
+                        <lb/>In <choice><orig>Affrica</orig><reg>Africa</reg></choice> they say are flying Serpents, which would waste and depopu
+                        <lb break="no"/>late all things, if they were not <orig>destroyd</orig> by the bird calld Ibis: For which
+                        <lb/>cause Ibis is erected amongst the sacred <orig>Ægyptian</orig> images, both for the mani
+                        <lb break="no"/>fest utility, which it <choice><orig>performes</orig><reg>performs</reg></choice> to the whole country, and for an occult<pc>-</pc>
+                        <lb/>reason, which very few men have understood. This dragon biting of his<pc>-</pc>
+                        <lb/><orig>tayle</orig>, and casting his old <orig>skinne</orig> is <orig>sayd</orig> to acquire a new one together with
+                        <lb/>youth, as nature <orig>hath</orig> granted longer life not <orig>onely</orig> to Crows, Ravens, Eagles,
+                        <lb/>and Harts, but <orig>allso</orig> to the Serpentine kind: The Ant growing old <choice><orig>acquireth</orig><reg>acquires</reg></choice><pc>-</pc>
+                        <lb/>wings, <orig>soe</orig> <orig>allso</orig> many <orig>wormes</orig>: Man growing old is put into the earth, but
+                        <lb/>being revived from the earth will be consecrated to <orig>æternall</orig> life. Of every<pc>-</pc>
+                        <lb/>Serpent burned is made a powder, which is taken safely against all <orig>poy
+                        <lb break="no"/>sons</orig> with great effect: Such an Alexipharmacum ought <orig>allso</orig> to be made<pc>-</pc>
+                        <lb/>of this dragon (who <orig>hath</orig> <orig>allready</orig> devoured his <orig>tayle</orig>, which is usually <orig>cutt</orig>
+                        <lb/>of in Vipers) a most <orig>effectuall</orig> remedy against the <choice><orig>adversityes</orig><reg>adversities</reg></choice> of for
+                        <lb break="no"/>tune and body<pc>. . . . . . . . . . . .</pc>                       
                     </ab>   
                 </div>
                 
