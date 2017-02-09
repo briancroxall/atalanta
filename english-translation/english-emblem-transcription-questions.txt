@@ -60,6 +60,9 @@ Emblem 18
 load=stone
 circle=wise
 
+Emblem 20
+monster=killing
+
 Emblem 23
 earth=quake
 spells rayne raine sometimes Is he differentiating between rein, reign, rain?
