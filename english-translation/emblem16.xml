@@ -25,21 +25,21 @@
                 
                 <div type="title" xml:lang="en">
                     <head>
-                        <lb/>Embleme 16. Of the Secrets of Nature.
-                        <lb/>One Lyon hath wings, the other none.
+                        <lb/><orig>Embleme</orig> 16. Of the Secrets of Nature.
+                        <lb/>One <orig>Lyon</orig> <orig>hath</orig> wings, the other none.
                     </head>
                 </div>
                 
                 
                 <div type="epigram" xml:lang="en">
-                    <head>Epigramme 16.</head>
+                    <head><orig>Epigramme</orig> 16.</head>
                     <lg>
-                        <l>The Lyon prince of beasts in might and sway</l>
-                        <l>Fights without fear, and scornes to runne away:</l>
-                        <l>Give him a Spouse with wings of his owne race,</l>
-                        <l>To mount him with herselfe from place to place;</l>
-                        <l>But hee immoved stands, and nulls her force,</l>
-                        <l>By Embleme to demonstrate Natures course.</l>
+                        <l>The <orig>Lyon</orig> prince of beasts in might and sway</l>
+                        <l>Fights without fear, and <choice><orig>scornes</orig><reg>scorns</reg></choice> to <orig>runne</orig> away:</l>
+                        <l>Give him a Spouse with wings of his <orig>owne</orig> race,</l>
+                        <l>To mount him with <orig>herselfe</orig> from place to place;</l>
+                        <l>But <orig>hee</orig> immoved stands, and nulls her force,</l>
+                        <l>By <orig>Embleme</orig> to demonstrate Natures course.</l>
                     </lg>
                 </div>
                 
@@ -48,72 +48,71 @@
                 <div type="discourse" xml:lang="en">
                     <head>Discourse 16.</head>
                     <ab><!--Our convention will be that if we have break = "no" then it means that the word is broken across the line with a dash--> 
-                        <lb/>It is a thing knowne by experience that a Lyon excells other animalls not<milestone unit="section" n="e03-01" /> <!-- Change the value of n to "e" plus the number of the emblem (in two digits), followed by a hyphen and then a two-digit count of sentence -->
-                        <lb/>soe much in bignesse and strength of body, as generosity: if hee be seen in
-                        <lb/>hunting, being ashamd to runne away, hee releaseth himselfe by degrees,
-                        <lb/>if hee be oppressd by a multitude: being removed from the view of the
-                        <lb/>hunters, hee makes hast away, thinking it a dishonour to be excusd by ab
-                        <lb break="no"/>sconding: hee desires a wood in flight, which hee useth, when anything
-                        <lb/>pursues: his bones are solid and not at all empty, which are sayd to be
-                        <lb/>soe hard, that being shakd together they yeild fire as out of a sheet and
-                        <lb/>flint. Hee fears fire above all things. Hee seems to derive his substance
-                        <lb/>from the nature of the sunne, for in force and heat hee excells other
-                        <lb/>animalls, as the Sunne doth the Starrs: Besides hee is allways beheld with
-                        <lb/>fiery and open eyes, as the Sunne beholds the earth with an open and
-                        <lb/>fiery eye: a Lionesse fighting for her whelps fixeth her eyes upon the
-                        <lb/>ground, that Shee may not be afrayd of the hunters Staffs and Spears.
-                        <lb/>where a Lyon perceives the coition of a Leopard, hee takes revenge
-                        <lb/>upon the Lionesse for adultery, and infeicts severe punnishment;
-                        <lb/>The Lionesse therefore washeth away the offence and scent in a river,
-                        <lb/>or being conscious of the trespasse doth allso accompany the adulterer
-                        <lb/>flying for fear of the make: Which wonderfull nature of this beast the
-                        <lb/>Philosophers contemplating, have produced severall allegoryes of the
-                        <lb/>Lyon, as it were hieroglyphicall writings testifying of their secret
-                        <lb/>worke, observing the Lyon to be a constant, firme animall, without
-                        <lb/>deceipt and suspicion, they assimilated the better part of their Phi
-                        <lb break="no"/>losophicall composition to him: for as hee flyes not, soe neither this:
-                        <lb/>hee with solid bones, soe this fixed and not to be overcome: and as
-                        <lb/>the Lionesse is not allways innocent and free from adultery, soe
-                        <lb/>is neither Luna nor Mercury without some blemish, but is joyned
+                        <lb/>It is a thing <orig>knowne</orig> by experience that a <orig>Lyon</orig> <orig>excells</orig> other <orig>animalls</orig> not<milestone unit="section" n="e03-01" /> <!-- Change the value of n to "e" plus the number of the emblem (in two digits), followed by a hyphen and then a two-digit count of sentence -->
+                        <lb/><orig>soe</orig> much in <orig>bignesse</orig> and strength of body, as generosity: if <orig>hee</orig> be seen in<pc>-</pc>
+                        <lb/>hunting, being <choice><orig>ashamd</orig><reg>ashamed</reg></choice> to <orig>runne</orig> away, <orig>hee</orig> <choice><orig>releaseth</orig><reg>releases</reg></choice> <orig>himselfe</orig> by degrees,
+                        <lb/>if <orig>hee</orig> be <orig>oppressd</orig> by a multitude: being removed from the view of the<pc>-</pc>
+                        <lb/>hunters, <orig>hee</orig> makes hast away, thinking it a <choice><orig>dishonour</orig><reg>dishonor</reg></choice> to be <choice><orig>excusd</orig><reg>excused</reg></choice> by ab
+                        <lb break="no"/>sconding: <orig>hee</orig> desires a wood in flight, which <orig>hee</orig> <choice><orig>useth</orig><reg>uses</reg></choice>, when anything
+                        <lb/>pursues: his bones are solid and not at all empty, which are <orig>sayd</orig> to be
+                        <lb/><orig>soe</orig> hard, that being <choice><orig>shakd</orig><reg>shaked</reg></choice> together they <orig>yeild</orig> fire as out of a Steel and<pc>-</pc>
+                        <lb/>flint. <orig>Hee</orig> fears fire above all things. <orig>Hee</orig> seems to derive his substance
+                        <lb/>from the nature of the <orig>Sunne</orig>, for in force and heat <orig>hee</orig> <orig>excells</orig> other<pc>-</pc>
+                        <lb/><orig>animalls</orig>, as the <orig>Sunne</orig> <orig>doth</orig> the <orig>Starrs</orig>: Besides <orig>hee</orig> is <orig>allways</orig> beheld with
+                        <lb/>fiery and open eyes, as the <orig>Sunne</orig> beholds the earth with an open and<pc>-</pc>
+                        <lb/>fiery eye: a <choice><orig>Lionesse</orig><reg>Lioness</reg></choice> fighting for her whelps <choice><orig>fixeth</orig><reg>fixes</reg></choice> her eyes upon the<pc>-</pc>
+                        <lb/>ground, that <orig>Shee</orig> may not be <orig>afrayd</orig> of the hunters Staffs and Spears.<pc>-</pc>
+                        <lb/>where a <orig>Lyon</orig> perceives the coition of a Leopard, <orig>hee</orig> takes revenge<pc>-</pc>
+                        <lb/>upon the <orig>Lionesse</orig> for adultery, and inflicts severe punnishment;<pc>-</pc>
+                        <lb/>The <orig>Lionesse</orig> therefore <choice><orig>washeth</orig><reg>washes</reg></choice> away the <choice><orig>offence</orig><reg>offense</reg></choice> and scent in a river,<pc>-</pc>
+                        <lb/>or being conscious of the <choice><orig>trespasse</orig><reg>trespass</reg></choice> <orig>doth</orig> <orig>allso</orig> accompany the adulterer<pc>-</pc>
+                        <lb/>flying for fear of the make: Which <orig>wonderfull</orig> nature of this beast the
+                        <lb/>Philosophers contemplating, have produced <orig>severall</orig> <orig>allegoryes</orig> of the
+                        <lb/><orig>Lyon</orig>, as it were <orig>hieroglyphicall</orig> writings testifying of their secret<pc>-</pc>
+                        <lb/><orig>worke</orig>, observing the <orig>Lyon</orig> to be a constant, <orig>firme</orig> <orig>animall</orig>, without<pc>-</pc>
+                        <lb/><choice><orig>deceipt</orig><reg>deceit</reg></choice> and suspicion, they assimilated the better part of their <orig>Phi
+                        <lb break="no"/>losophicall</orig> composition to him: for as <orig>hee</orig> <orig>flyes</orig> not, <orig>soe</orig> neither this:<pc>-</pc>
+                        <lb/><orig>hee</orig> with solid bones, <orig>soe</orig> this fixed and not to be overcome: and as<pc>-</pc>
+                        <lb/>the <orig>Lionesse</orig> is not <orig>allways</orig> innocent and free from adultery, <orig>soe</orig><pc>-</pc>
+                        <lb/>is neither Luna nor Mercury without some blemish, but is <orig>joyned</orig>
                         <lb/>by the ignorant sometimes to this, sometimes to that matter, where
                         <lb break="no"/>by an adulterous conjunction of things discrepant and different in
                         <lb/>nature rather than true matrimony is established: for the products
-                        <lb/>of a Leopard and Lionesse have noe specious and comely mains
-                        <lb/>about the necke and Shoulders; with which ensigne those generated
-                        <lb/>by the Lyon are alone adorned. The Philosophicall Lionesse must
-                        <lb/>therefore be joyned to her proper mate or male, and a genuine
-                        <lb/>and generous whelp will from theme Spring, which may easily
-                        <lb/>be knowne by his paw. But the Lionesse must not be any or
+                        <lb/>of a Leopard and <orig>Lionesse</orig> have <orig>noe</orig> specious and comely mains<pc>-</pc>
+                        <lb/>about the <orig>necke</orig> and Shoulders; with which <choice><orig>ensigne</orig><reg>ensign</reg></choice> those generated
+                        <lb/>by the <orig>Lyon</orig> are alone adorned. The <orig>Philosophicall</orig> <orig>Lionesse</orig> must
+                        <lb/>therefore be <orig>joyned</orig> to her proper mate or male, and a genuine<pc>-</pc>
+                        <lb/>and generous whelp will from <orig>theme</orig> Spring, which may easily
+                        <lb/>be <orig>knowne</orig> by his paw. But the <orig>Lionesse</orig> must not be any or<pc>-</pc>
                         <lb/>what you pledge, but winged, which may be able to fight and
-                        <lb/>contest with the Lyon, depending upon the Swiftnesse of her
-                        <lb/>plumes, lest (to witt) Shee Should be oppressed by his extraordi
-                        <lb break="no"/>nary wrath, but to thinke upon escape, if at any time hee fall
-                        <lb/>into fury without cause, for hee when hee stops her flying
+                        <lb/>contest with the <orig>Lyon</orig>, depending upon the <choice><orig>Swiftnesse</orig><reg>Swiftness</reg></choice> of her<pc>-</pc>
+                        <lb/>plumes, lest (to <orig>witt</orig>) <orig>Shee</orig> Should be oppressed by his extraordi
+                        <lb break="no"/>nary wrath, but to <orig>thinke</orig> upon escape, if at any time <orig>hee</orig> fall
+                        <lb/>into fury without cause, for <orig>hee</orig> when <orig>hee</orig> stops her flying<pc>-</pc>
                         
                         
                         
                         <pb n="55"/><fw>Discourse 16.</fw><!-- Page number of the actual manuscript, followed by the header on the page. -->
-                        <lb/>is incited with greater love toward her, freindship being made after discord.
-                        <lb/>But you will say who ever saw a Lionesse with wings, or what can the plumes
-                        <lb/>of a Lionesse avayle? There is a deep valley near the mountaine Cythaeren,
-                        <lb/>in which are seen none but flying Lionesse, and at the top of the same
-                        <lb/>mountaine resorts a red Lyon of that kind, which Hercules killed. The
-                        <lb/>Lyon therefore must be taken, and brought into the valley, and forthwith
-                        <lb/>coupled to the winged Lionesse: Shee allso will easily suffer herselfe to
+                        <lb/>is incited with greater love toward her, <orig>freindship</orig> being made after discord.<pc>-</pc>
+                        <lb/>But you will say who ever saw a <orig>Lionesse</orig> with wings, or what can the plumes
+                        <lb/>of a <orig>Lionesse</orig> <orig>avayle</orig>? There is a deep valley near the <orig>mountaine</orig> <choice><orig>Cythæren</orig><reg>Cytheran</reg></choice>,
+                        <lb/>in which are seen none but flying <choice>Lionesse</choice>, and at the top of the same<pc>-</pc>
+                        <lb/><choice>mountaine</choice> resorts a red <choice>Lyon</choice> of that kind, which Hercules killed. The<pc>-</pc>
+                        <lb/><choice>Lyon</choice> therefore must be taken, and brought into the valley, and forthwith
+                        <lb/>coupled to the winged <choice>Lionesse</choice>: <choice>Shee</choice> <choice>allso</choice> will easily suffer <choice>herselfe</choice> to
                         <lb/>be overcome, as like by like: afterwards they must be both advanced
-                        <lb/>out of the sayd valley to the top of the mountaine, and henceforth they
-                        <lb/>will never desert one another, but allwayes remaine together in inviolable
-                        <lb/>amity: The taking of Lyons. I confesse, is not easy, but obnoxious to many
-                        <lb/>dangers, neverthelesse it must be attempted: a Lyon feeds not with the
-                        <lb/>Lionesse, but strayes apart, as story relates, therefore they are to be found and
-                        <lb/>hunted severally: But if the Lyons whelps be obtaind in their infancy, when
-                        <lb/>they first begin to goe, which is at two moneths age, and be joyned, as afore
-                        <lb break="no"/>sayd, being come to good growth and stature, the thing will be free from
-                        <lb/>any danger. Moreover they breed in the Spring time, which must be well
-                        <lb/>observed: but Lyons after whelping using crosse and winding wayes, to
-                        <lb/>praevent the discovery of their denne, therefore must they be sought and
-                        <lb/>their whelps taken away very great diligence and care
-                        
+                        <lb/>out of the <choice>sayd</choice> valley to the top of the <choice>mountaine</choice>, and henceforth they
+                        <lb/>will never desert one another, but <choice>allwayes</choice> <choice>remaine</choice> together in inviolable
+                        <lb/>amity: The taking of <choice>Lyons</choice>. I <choice><orig>confesse</orig><reg>confess</reg></choice>, is not easy, but obnoxious to many<pc>-</pc>
+                        <lb/>dangers, <orig>neverthelesse</orig> it must be attempted: a <orig>Lyon</orig> feeds not with the<pc>-</pc>
+                        <lb/><orig>Lionesse</orig>, but <choice><orig>strayes</orig><reg>strays</reg></choice> apart, as story relates, therefore they are to be found and
+                        <lb/>hunted severally: But if the <orig>Lyons</orig> whelps be <orig>obtaind</orig> in their infancy, when
+                        <lb/>they first begin to <orig>goe</orig>, which is at two <orig>moneths</orig> age, and be <orig>joyned</orig>, as <orig>afore
+                        <lb break="no"/>sayd</orig>, being come to good growth and stature, the thing will be free from<pc>-</pc>
+                        <lb/>any danger. Moreover <seg rend="underline">they breed in the Spring time, which must be well
+                        <lb/>observed:</seg> but <orig>Lyons</orig> after whelping using <orig>crosse</orig> and winding <orig>wayes</orig>, to
+                        <lb/><orig>prævent</orig> the discovery of their <choice><orig>denne</orig><reg>den</reg></choice>, therefore must they be sought and
+                        <lb/>their whelps taken away very great diligence and care<pc>. . . .</pc>
                     </ab>   
                 </div>
                 
