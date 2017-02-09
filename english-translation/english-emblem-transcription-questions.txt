@@ -56,6 +56,10 @@ no issues
 Emblem 11
 hand=labour
 
+Emblem 18
+load=stone
+circle=wise
+
 Emblem 23
 earth=quake
 spells rayne raine sometimes Is he differentiating between rein, reign, rain?
