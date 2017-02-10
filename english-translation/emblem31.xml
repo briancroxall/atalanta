@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Title</title>
+            </titleStmt>
+            <publicationStmt>
+                <p>Publication Information</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Information about the source</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    
+    <text>
+        <body>
+            <div type="emblem" n="e31"><!-- Change the value of n to "e" followed by the number of the emblem. Use two digits for all numbers. -->
+                <pb n="98"/><!-- Change to page number of the actual manuscript -->
+                
+                
+                <div type="title" xml:lang="en">
+                    <head>
+                        <lb/>Embleme 31. Of the Secrets of Nature.
+                        <lb/>The King swimming in the Sea cryes out with a loud voyce, hee that
+                        <lb/>will deliver mee shall have great reward.
+                    </head>
+                </div>
+                
+                
+                <div type="epigram" xml:lang="en">
+                    <head>Epigramme 31.</head>
+                    <lg>
+                        <l>The King oppressed with a weighty Crowne,</l>
+                        <l>Floting ith Sea, and being like to drowne,</l>
+                        <l>Cryes out for helpe, O helpe without delay,</l>
+                        <l>And I wish thanks your service will repay:</l>
+                        <l>Be wise, and to my kingdoms mee restore,</l>
+                        <l>That I may favour shew to rich and poore.</l>
+                    </lg>
+                </div>
+                
+                
+                <pb n="99"/> <!-- Change to page number of the actual manuscript -->
+                <div type="discourse" xml:lang="en">
+                    <head>Discourse 31.</head>
+                    <ab><!--Our convention will be that if we have break = "no" then it means that the word is broken across the line with a dash--> 
+                        <lb/>The first rudiments of all discipline were anciently the knowledge of <pc>-</pc><milestone unit="section" n="e03-01" /> <!-- Change the value of n to "e" plus the number of the emblem (in two digits), followed by a hyphen and then a two-digit count of sentence -->
+                        <lb/>swimming, and instruction in learning hereupon because the proverb of an
+                        <lb/>ignorant and unpolishd men; that hee could neither swimme nor read:
+                        <lb/>For the Ancients considerd swimming as a means often times to save and<pc>-</pc>
+                        <lb/>deliver the body from the dangers of water, and the knowledge of learning
+                        <lb/>the mind from the warres of fortune: Moreover swimming is very ser
+                        <lb break="no"/>viceable in time of warre, the knowledge of learning in time of peace at<pc>-</pc>
+                        <lb/>home: And as wee observe that brutes have their weapons in readinesse, pro
+                        <lb break="no"/>vided by nature, man hands and witt administred instead thereof against<pc>-</pc>
+                        <lb/>externall violence, witt 
+                        
+                        
+                        
+                        <pb n="16"/><fw>Discourse 3.</fw><!-- Page number of the actual manuscript, followed by the header on the page. -->
+                    </ab>   
+                </div>
+                
+            </div>
+        </body>
+    </text>
+</TEI>
