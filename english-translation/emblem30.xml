@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Title</title>
+            </titleStmt>
+            <publicationStmt>
+                <p>Publication Information</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Information about the source</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    
+    <text>
+        <body>
+            <div type="emblem" n="e30"><!-- Change the value of n to "e" followed by the number of the emblem. Use two digits for all numbers. -->
+                <pb n="95"/><!-- Change to page number of the actual manuscript -->
+                
+                
+                <div type="title" xml:lang="en">
+                    <head>
+                        <lb/>Embleme 30. Of the Secrets of Nature.
+                        <lb/>Luna is as requisite to Sol as a henne to a cocke.
+                    </head>
+                </div>
+                
+                
+                <div type="epigram" xml:lang="en">
+                    <head>Epigramme 30.</head>
+                    <lg>
+                        <l>What can you doe dear Sol! alone, if I</l>
+                        <l>Joyne not as henne with cocke to multiply?</l>
+                        <l>Or can I Luna Natures guifts expresse</l>
+                        <l>Without your ayde? noe, grant mee some redresse.</l>
+                        <l>Hee's but a foole those to confine apart</l>
+                        <l>Whome Nature would have joynd in mind and heart.</l>
+                    </lg>
+                </div>
+                
+                
+                <pb n="96"/> <!-- Change to page number of the actual manuscript -->
+                <div type="discourse" xml:lang="en">
+                    <head>Discourse 30.</head>
+                    <ab><!--Our convention will be that if we have break = "no" then it means that the word is broken across the line with a dash--> 
+                        <lb/>Avicenne in his booke of the Soule divers times admonisheth, that noe<pc>-</pc><milestone unit="section" n="e03-01" /> <!-- Change the value of n to "e" plus the number of the emblem (in two digits), followed by a hyphen and then a two-digit count of sentence -->
+                        <lb/>eggs are to be taken for art, but onely of those henns, which had a cock:
+                        <lb/>that is, the fæminine subject avayles nothing without the masculine<pc>-</pc>
+                        <lb/>virtue, and on the contrary, nor a cocke profitable without a henne:
+                        <lb/>for both these sexes must be joynd together in the Philosophicall coupe,
+                        <lb/>that multiplication may be made: The Philosophers doe indeed use
+                        <lb/>the similitude taken from a cocke, because in the first place hee is<pc>-</pc>
+                        <lb/>more correspondent to the power of Sulphur, than any other male of
+                        <lb/>birds, one being able to serve many henns, and not easily suffering a
+                        <lb/>rivall in the same dunghill, thinking himselfe convenient and suffi
+                        <lb break="no"/>cient for everyone. Hee is the bird of Mars, transformd, as the Poets
+                        <lb/>fable, from the youth Gallus, who was entrusted to observe Sol, that<pc>-</pc>
+                        <lb/>hee might not discover the adultery of Mars with Venus, and very
+                        <lb/>Martiall in fight, contending with his adversary even to death: In<pc>-</pc>
+                        <lb/>the Philosophicall worke hee repræsents Sol, as the henne doth Luna:
+                        <lb/>there is therefore the same necessity of joyning Sol with Luna, as a<pc>-</pc>
+                        <lb/>cocke with a henne: The cocke is allso consecrated to Sol, at whose<pc>-</pc>
+                        <lb/>approach hee riseth, and goes to sleep with him: hee often looks up to<pc>-</pc>
+                        <lb/>heaven, and erects his hooked tayle upright: hee fights against Serpents in
+                        <lb/>defence of his henns: hee is an acceptable messenger of light and Latona<pc>-</pc>
+                        <lb/>being præsent at her labour: Latona indeed brought forth Sol and Luna,
+                        <lb/>and therefore hee is appropriated to the mother and Sonne: But Sol,<pc>-</pc>
+                        <lb/>Luna, and Latona doe in Chymicall subjects agree, soe allso the cocke
+                        <lb/>and henne: but these allso proceded from an egge, and againe doe<pc>-</pc>
+                        <lb/>lay eggs for the production of young chickens; soe allso doe the Philoso
+                        <lb break="no"/>phers eggs turne into birds of the same kind, provided they be kept<pc>-</pc>
+                        <lb/>warme with temperate heat, as is the heat of a brooding henne, which
+                        <lb/>endures continually: For whereas amongst other birds the male allso
+                        <lb/>
+                        
+                        
+                        
+                        <pb n="16"/><fw>Discourse 3.</fw><!-- Page number of the actual manuscript, followed by the header on the page. -->
+                    </ab>   
+                </div>
+                
+            </div>
+        </body>
+    </text>
+</TEI>

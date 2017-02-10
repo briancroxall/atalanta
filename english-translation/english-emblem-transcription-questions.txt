@@ -73,3 +73,6 @@ swan=like
 Emblem 25
 line indented, how to code this?
 
+Emblem 29
+four=footed
+contraction on first page, unsure of what it is
