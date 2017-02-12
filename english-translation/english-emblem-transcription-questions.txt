@@ -83,3 +83,8 @@ Noble=men
 Emblem 32
 Sea=plant
 ambar=grise
+note at the end of the second page?
+
+Emblem 33
+horse=leeches
+abbreviation ct.?

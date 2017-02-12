@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Title</title>
+            </titleStmt>
+            <publicationStmt>
+                <p>Publication Information</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Information about the source</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    
+    <text>
+        <body>
+            <div type="emblem" n="e33"><!-- Change the value of n to "e" followed by the number of the emblem. Use two digits for all numbers. -->
+                <pb n="104"/><!-- Change to page number of the actual manuscript -->
+                
+                
+                <div type="title" xml:lang="en">
+                    <head>
+                        <lb/>Embleme 33. of the Secrets of Nature.
+                        <lb/>The Hermaphrodite lying like a dead man in darknesse, wants fire.
+                    </head>
+                </div>
+                
+                
+                <div type="epigram" xml:lang="en">
+                    <head>Epigramme 33.</head>
+                    <lg>
+                        <l>See here the cold and dry Hermaphrodite,</l>
+                        <l>Appears as dismall as a ghost by night:</l>
+                        <l>Fire is the thing hee wants, if that you give,</l>
+                        <l>His Spirits feeling warmth will soone revive.</l>
+                        <l>The Stone's whole virtue in God Vulcan lyes,</l>
+                        <l>Sulphurs in Sol, in Luna Mercurye's.</l>
+                    </lg>
+                </div>
+                
+                
+                <pb n="105"/> <!-- Change to page number of the actual manuscript -->
+                <div type="discourse" xml:lang="en">
+                    <head>Discourse 33.</head>
+                    <ab><!--Our convention will be that if we have break = "no" then it means that the word is broken across the line with a dash--> 
+                        <lb/>It is one of the secrets of Nature, that in the cold winter Froggs and<pc>-</pc><milestone unit="section" n="e03-01" /> <!-- Change the value of n to "e" plus the number of the emblem (in two digits), followed by a hyphen and then a two-digit count of sentence -->
+                        <lb/>Horse=leeches lye as it were dead under water, and in the Spring new<pc>-</pc>
+                        <lb/>heat of the Sunne operating recover sense and motion, or performe<pc>-</pc>
+                        <lb/>the actions of a sensitive life: But if they be found in the waters<pc>-</pc>
+                        <lb/>in the winter time, and brought into the aire or a warme house, they
+                        <lb/>presently begin to move themselves, as in the Summer: From whence
+                        <lb/>it appears, that they want nothing but externall heat, to excite the
+                        <lb/>naturall internall heat, and bring it to action: After the same man
+                        <lb break="no"/>ner doe the Philosophers speake of their Hermaphrodite, who, if hee
+                        <lb/>appears dead lying in darkenesse, requires the heat of fire: Now hee<pc>-</pc>
+                        <lb/>is sayd to lye in darkenesse, being left in a darke and most cold win
+                        <lb break="no"/>ters night, that is, remaining in blacknesse, which is a signe of coldnesse,
+                        <lb/>from which hee ought to be brought to whitenesse by a greater intension
+                        <lb/>of fire, and by yet a greater, to rednesse: For, as Bodillus in Turba sayth,
+                        <lb/>nothing is generated without heat, and a bath of vehement heat causeth<pc>-</pc>
+                        <lb/>a body to perish, if it be cold it drives it away, but if it be temperate, it
+                        <lb/>becomes agreable and pleasant to the body. Bonellus in the same sayth,
+                        <lb/>All things that live doe allso (God soe pleasing) dye: that nature there
+                        <lb break="no"/>fore, which is depriv'd of moisture, being exposd by night, seems like
+                        <lb/>a dead man, and then that nature requires fire, till the body and Spi
+                        <lb break="no"/>rit of it be turned into earth, and then it becomes dust like to a dead
+                        <lb/>man in his tombe: these things being accomplished God restores a Spirit
+                        <lb/>and Soule to it, and all infirmity being taken away our nature is com
+                        <lb break="no"/>forted and amended: It is therefore requisite to burne that matter without
+                        <lb/>fear Ct: Fire therefore, which destroyes all other things, repaires this, that
+                        <lb/>which yeilds death to others gives life to this. One onely Phænix there is,
+                        <lb/>which is restored by fire, which is renewed by flames, and revives out of
+                        <lb/>ashes, and this being knowne to the Philosophers onely is burnt and
+                        <lb/>restored to life, whatsoever other men dreame of a bird, I know not<pc>-</pc>
+                        <lb/>what, that flyeth, residing noe where, nor seen, but aas a fable. The
+                        <lb/>Hermaphrodite, of which the Philosophers speake, is of a mixd na
+                        <lb break="no"/>ture, male and female, whereof one passeth into another by the<pc>-</pc>
+                        <lb/>operation of heat, for the female is converted into a male, which<pc>-</pc>
+                        <lb/>ought not to seem soe strange in the Philosophers worke, it being<pc>-</pc>
+                        <lb/>found, if wee may beleive historyes, that many men have allso<pc>-</pc>
+                        <lb/>changd their sex: The Poetts make mention of Ceneus, Iphis, and
+                        <lb/>Tiresias, as Pontanus in the Starrs.
+                        <lb/>Pæniteat generis tamen et se Cenea malint,
+                        <lb/>Aut in fæmineam penitus transire figuram: And Ausonius:
+                        <lb/>Mæret in antiquam Ceneus revocata figuram.
+                        <lb/>Soe in the Consulship of Licinius Crassus, and Caius Cassius Longinus
+                        
+                        
+                        
+                        <pb n="16"/><fw>Discourse 3.</fw><!-- Page number of the actual manuscript, followed by the header on the page. -->
+                    </ab>   
+                </div>
+                
+            </div>
+        </body>
+    </text>
+</TEI>
