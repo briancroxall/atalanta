@@ -79,3 +79,7 @@ contraction on first page, unsure of what it is
 
 Emblem 31
 Noble=men
+
+Emblem 32
+Sea=plant
+ambar=grise
