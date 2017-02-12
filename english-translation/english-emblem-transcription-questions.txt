@@ -76,3 +76,6 @@ line indented, how to code this?
 Emblem 29
 four=footed
 contraction on first page, unsure of what it is
+
+Emblem 31
+Noble=men
