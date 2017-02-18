@@ -107,3 +107,6 @@ splits word Whoever
 
 Emblem 39
 country=man
+
+Emblem 40
+luke=warme
