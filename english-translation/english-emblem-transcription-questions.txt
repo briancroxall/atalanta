@@ -98,3 +98,9 @@ Emblem 36
 track marks on the emblem page again
 Touch=stone
 foot=man
+
+Emblem 37
+indentation on several lines
+
+Emblem 38
+splits word Whoever
