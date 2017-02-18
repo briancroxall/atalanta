@@ -104,3 +104,6 @@ indentation on several lines
 
 Emblem 38
 splits word Whoever
+
+Emblem 39
+country=man
