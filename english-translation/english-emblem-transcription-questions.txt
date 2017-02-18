@@ -1,5 +1,7 @@
 # Questions about Emblems
 
+
+
 comon
 comonly
 comitted
@@ -88,3 +90,11 @@ note at the end of the second page?
 Emblem 33
 horse=leeches
 abbreviation ct.?
+
+Emblem 35
+Law=maker
+
+Emblem 36
+track marks on the emblem page again
+Touch=stone
+foot=man
