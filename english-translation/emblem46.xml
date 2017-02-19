@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Title</title>
+            </titleStmt>
+            <publicationStmt>
+                <p>Publication Information</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Information about the source</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    
+    <text>
+        <body>
+            <div type="emblem" n="e46"><!-- Change the value of n to "e" followed by the number of the emblem. Use two digits for all numbers. -->
+                <pb n="143"/><!-- Change to page number of the actual manuscript -->
+                
+                
+                <div type="title" xml:lang="en">
+                    <head>
+                        <lb/>Embleme 46. Of the Secrets of Nature.
+                        <lb/>Two Eagles come together, one from the East, the other from the West.
+                    </head>
+                </div>
+                
+                
+                <div type="epigram" xml:lang="en">
+                    <head>Epigramme 46.</head>
+                    <lg>
+                        <l>Great Jove two Eagles out of Delphi sent</l>
+                        <l>To th' East and Western parts, for this intent,</l>
+                        <l>That hee the midle of the earth might find;</l>
+                        <l>Which there returning, well resolv'd his mind.</l>
+                        <l>But those two Eagles are two stones, which hast</l>
+                        <l>One from the East, the other from the West.</l>
+                    </lg>
+                </div>
+                
+                
+                <pb n="144"/> <!-- Change to page number of the actual manuscript -->
+                <div type="discourse" xml:lang="en">
+                    <head>Discourse 46.</head>
+                    <ab><!--Our convention will be that if we have break = "no" then it means that the word is broken across the line with a dash--> 
+                        <lb/>Cicero in his booke of the nature of the Gods declares the most ancient<pc>-</pc><milestone unit="section" n="e03-01" /> <!-- Change the value of n to "e" plus the number of the emblem (in two digits), followed by a hyphen and then a two-digit count of sentence -->
+                        <lb/>Apollo to be the Sonne of Vulcan, and keeper of Athens: Which opinion,
+                        <lb/>if it be, as it ought, transferrd to an Allegory, is indeed most true; because
+                        <lb/>Vulcan produceth the Philosophicall Sol, which is Apollo. But it hath<pc>-</pc>
+                        <lb/>prævayld, that hee was borne of Jupiter; and that Latona having two
+                        <lb/>children in her wombe, Apollo and Diana, which shee conceivd of Ju
+                        <lb break="no"/>piter, Juno being jealous sent Python a Serpent of prodigious magni
+                        <lb break="no"/>tude and malice, to persecute and perplex her being great with child.<pc>-</pc>
+                        <lb/>The miserable woman after tedious wandrings was at length brought
+                        <lb/>by a Shipp to the Island Ortygia, to her sister Asteries, who therein
+                        <lb/>reigned: And that Island, being allmost all overflowed with the Sea,
+                        <lb/>gave place to Latona being in travell, whereupon it was called Delos,<pc>-</pc>
+                        <lb/>which before was <seg rend="superscript">11</seg> A<!-- Greek here, how to write -->: There therefore being in labour, first came forth
+                        <lb/>Diana, and shee did the office of a midwife to her mother labouring<pc>-</pc>
+                        <lb/>to bring forth her brother Apollo; From whence it came to passe<pc>-</pc>
+                        <lb/>that women going with Child did in the time of their labour
+                        <lb/>invoke her deity, and calld her either Lucina or Ilithya, be
+                        <lb break="no"/>cause shee shewd light to infants borne their eyes being opened:
+                        <lb/>Apollo therefore being borne and growne up slew Python the tor
+                        <lb break="no"/>menter of his mother wiht arrows, and killd the Cyclopes because<pc>-</pc>
+                        <lb/>they made lightening for Jupiter to destroy his Sonne Æsculapius,
+                        <lb/>whome Jupiter condemned to hell blasted with lightening, because
+                        <lb/>hee had restord Hippolytus to life being torne in peices by horses.
+                        <lb/>Wee have in many places demonstrated these things to be merely
+                        <lb/>Chymicall: For Latona, Cynthia, Apollo, and Python are requisites of
+                        <lb/>the art, which have such a relation one to the other, as hath been
+                        <lb/>declared; but these things being divulged in the writings of the most
+                        <lb/>ancient Poetts, as Orphens, Linus, Musæus, Homer, Ct. have given the
+                        <lb/>ignorant occasion to ascribe religion and veneration to Apollo: Here
+                        <lb break="no"/>upon Apollo is in many places of Europe and Asia worshipped,<pc>-</pc>
+                        <lb/>and innumerable temples erected to him; And especially at Delphos
+                        <lb/>hee had a temple to be worshipped by ancient religion, wherein a great
+                        <lb/>number of statues made of solid gold and silver or great weight<pc>-</pc>
+                        <lb/>and artifice was reposited by Kings and Princes, with other most
+                        <lb/>pretious gifts, which were hidden in sacred places for religion sake
+                        <lb/>by men of all degrees. Pausanias reports that a brazen Skeleton of
+                        <lb/>admirable artifice was hung at the top of the temple by Hippocrates.
+                        <lb/>That famous Tripos was allso consecrated to Apollo by Pelops, at the
+                        <lb/>time when hee marryed Hippodamia the daughter Œnomaus King
+                        <lb/>of Elis, which Tripos Mulciber made, and gave to Pelops: It was
+                        <lb/>erected in the midle of the temple, in which Pythia sitting
+                        
+                        
+                        
+                        <pb n="145"/><fw>Discourse 46.</fw><!-- Page number of the actual manuscript, followed by the header on the page. -->
+                        <lb/>receiv'd the inspiration of the Devill gaping with a wide mouth, and then<pc>-</pc>
+                        <lb/>prophesyd, and gave responses to those that desird to know the events of things
+                        <lb/>to come: Delphos was indeed in Bœotica seated about the foot of Parnassus.<pc>-</pc>
+                        <lb/>Near to the temple was the divining fountaine, named Cassiotis, which, if bur
+                        <lb break="no"/>ning torches was brought to it did extinguish them: if they were removed
+                        <lb/>farre of, they were suddenly kindled, and tooke fire; and the water of<pc>-</pc>
+                        <lb/>that fountaine being dranke yeilded the virtue of divining, but not
+                        <lb break="no"/>withstanding the drinkers of that water were made of shorter life. Con
+                        <lb break="no"/>course therefore being made from all parts of Europe and Asia to the<pc>-</pc>
+                        <lb/>Delphicke Oracle, the Poets feigne that place, namely Parnassus to be<pc>-</pc>
+                        <lb/>in the midle of the earth, and that they proed by an example of Jupi
+                        <lb break="no"/>ter, who had experimented it by sending forth two Eagles: But this thing
+                        <lb/>not being supported by the reputation of history, it is not derogatory from the
+                        <lb/>truth, to ascribe it to Chymicall matters, especially Apollo being, as hath been<pc>-</pc>
+                        <lb/>declared, alltogether Chymicall by originall, though the Devill afterwards<pc>-</pc>
+                        <lb/>confirmed the superstition of men, and gave prophesyes under that name.
+                        <lb/>The two Eagles are two stones, whereof one comes from the East, the<pc>-</pc>
+                        <lb/>other from the West, which the Philosophers have many wayes demonstra
+                        <lb break="no"/>ted. Jupiter sends them forth, as his Ensigne=bearers. The Eagle seems in
+                        <lb break="no"/>deed a freind to Apollo or the Sunne, in proving her chickens at the Sunne,<pc>-</pc>
+                        <lb/>which if they cannot endure, Shee disownes them as illegitimate. Its feathers
+                        <lb/>being joyned with other things are sayd not to putrefy, and to devoure
+                        <lb/>the feathers of other birds, easily admitting gilding allso: By old age, or
+                        <lb/>sicknesse it dyes not, but by famine; For the upper beake growes soe
+                        <lb/>crooked that it cannot receive food: Which having cast off it plungeth it
+                        <lb break="no"/>selfe three times in a fountaine, and soe is sayd to returne to youth.<pc>-</pc>
+                        <lb/>Hereupon sayth the Psalmist: Your youth shall be renewed as the<pc>-</pc>
+                        <lb/>youth of an Eagle: This of all birds is never affected with Lightening:
+                        <lb/>It warrs with the dragon, which hunts after its eggs for the sake of<pc>-</pc>
+                        <lb/>them: All the endowments of whose nature have affoarded the Philo
+                        <lb break="no"/>sophers reason to prædicate the Eagle in their art, and assimilate the
+                        <lb/>stone to it, whereof innumerable examples being obvious in their<pc>-</pc>
+                        <lb/>books, wee will not here alleadye more<pc>. . . . . . . . . .</pc>
+                    </ab>   
+                </div>
+                
+            </div>
+        </body>
+    </text>
+</TEI>
