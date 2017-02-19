@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Title</title>
+            </titleStmt>
+            <publicationStmt>
+                <p>Publication Information</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Information about the source</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    
+    <text>
+        <body>
+            <div type="emblem" n="e43"><!-- Change the value of n to "e" followed by the number of the emblem. Use two digits for all numbers. -->
+                <pb n="134"/><!-- Change to page number of the actual manuscript -->
+                
+                
+                <div type="title" xml:lang="en">
+                    <head>
+                        <lb/>Embleme 43. Of the Secrets of Nature.
+                        <lb/>Give ear to the Vultur's words, which are noewise false.
+                    </head>
+                </div>
+                
+                
+                <div type="epigram" xml:lang="en">
+                    <head>Epigramme 43.</head>
+                    <lg>
+                        <l>The Vultur on the mountaine stands in sight,</l>
+                        <l>Himselfe proclaiming daily, blacke, and white,</l>
+                        <l>Citrine, and red; nor false: The Raven is</l>
+                        <l>The same, which without wings by nature flyes</l>
+                        <l>In dismall darkenesse, and in glorious light,</l>
+                        <l>For either will to th' art conduct you right.</l>
+                    </lg>
+                </div>
+                
+                
+                <pb n="135"/> <!-- Change to page number of the actual manuscript -->
+                <div type="discourse" xml:lang="en">
+                    <head>Discourse 43.</head>
+                    <ab><!--Our convention will be that if we have break = "no" then it means that the word is broken across the line with a dash--> 
+                        <lb/>Wee daily in many places hear birds prattling or imitating the voyce<milestone unit="section" n="e03-01" /> <!-- Change the value of n to "e" plus the number of the emblem (in two digits), followed by a hyphen and then a two-digit count of sentence -->
+                        <lb/>of man, such as Parrotts, Ravens, Dawes, and Pyes. Soe Pliny writes<pc>-</pc>
+                        <lb/>that, at the time wherein hee published his history, Agrippina the<pc>-</pc>
+                        <lb/>wife of Claudius Cæsar had a thrush, imitating the speech of men.<pc>-</pc>
+                        <lb/>The young Cæsars had allso a Starling and Nightingales accustomed to
+                        <lb/>the Greeke and Latine tongue, and daily speaking new things, with<pc>-</pc>
+                        <lb/>a long forme of words allso. But such birds now frequently happening
+                        <lb/>they are thought lesse worthy of admiration, for all birds endu'd<pc>-</pc>
+                        <lb/>with a broad tongue may by use and custome be brought to speake
+                        <lb/>and babble. But that Vultur, which the Philosophers make mention
+                        <lb/>of, did not learne words, if any hee utters, by use, but his nature tacit
+                        <lb break="no"/>ly expresseth them. The Philosophers doe indeed say, that hee<pc>-</pc>
+                        <lb/>continually cryes out, and with a loud Voyce pronounceth, who and
+                        <lb/>what hee is, wherein hee imitates great Princes, who in the begining
+                        <lb/>of their intimations will allwayes make their titles and inheritances<pc>-</pc>
+                        <lb/>knowne, not in token of any pride, but for other reasons, that they<pc>-</pc>
+                        <lb/>allso themselves may know, what principalityes they governe, or<pc>-</pc>
+                        <lb/>right of inheritance they prætend to: Soe it is very materiall to<pc>-</pc>
+                        <lb/>know, what colours, as ensigns of armes and titles, the Philosophi
+                        <lb break="no"/>call bird is adornd with, and wherein hee excells all others. I, Sayth hee,
+                        <lb/>as Rosarius hath it from Hermes, am the blacke of white, and the ci
+                        <lb break="no"/>trine of red, and certainly I speake truth and lye not. Hee affirmes
+                        <lb/>himselfe blacke, white, citrine, and red, and such hee really is, for<pc>-</pc>
+                        <lb/>though hee doth not as yet actually possesse the last colours, yet hee
+                        <lb/>expects the inheritance of them: Hereupon Sayth Rosinus in his booke
+                        <lb/>of divine interpretations; Take the Stone, which is blacke, white,<pc>-</pc>
+                        <lb/>red, citrine, that admirable bird, which flyes without wings in the
+                        <lb/>darknesse of the night, and clearnesse of the day: For coloration<pc>-</pc>
+                        <lb/>ariseth from the bitternesse which is in his throat, but mere water<pc>-</pc>
+                        <lb/>proceeds from his blood, as Alexander sayd. Take (My Sonne) the
+                        <lb/>Stone of four colours. The Philosophers books doe abundantly de
+                        <lb break="no"/>clare and insinuate that the Stone hath all these colours, which
+                        <lb/>are principall, in a successive order. But why the Philosophicall
+                        <lb/>subject is calld a Vultur, there is reason to be alleadged. Of Vulturs<pc>-</pc>
+                        <lb/>the blacke are of most esteem, they are rapacious, but fly Slowly, be
+                        <lb break="no"/>cause of the bignesse of body. They say that this bird conceives<pc>-</pc>
+                        <lb/>without the seed of the males, and generates without coition, and
+                        <lb/>that their offspring doe arrive to a great age even to a hundred<pc>-</pc>
+                        <lb/>years. Their nests they build in high rocks, noe man hath attained
+                        <lb/>to them. Two chickens are for the most part seen: They are helpe
+                        <lb break="no"/>full and commodious agaynst Serpents. They are offended and<pc>-</pc>
+                        
+                        
+                        
+                        <pb n="136"/><fw>Discourse 43.</fw><!-- Page number of the actual manuscript, followed by the header on the page. -->
+                        <lb/>perplexed with the East wind. When they begin to lay eggs, they<pc>-</pc>
+                        <lb/>bring a thing out of the Indyes, which is as a nutt, having within a<pc>-</pc>
+                        <lb/>thing that may be moved, and forthwith yeild a sound, which when
+                        <lb/>they have applyed to them, they produce many young chickens,<pc>-</pc>
+                        <lb/>but one onely remayns, which is calld Immusulus. Hermodorus Fon
+                        <lb break="no"/>ticus in Cælius is a wittnesse, that Vulturs of all animalls are the<pc>-</pc>
+                        <lb/>most innocent, because they doe not at all meddle with any of those
+                        <lb/>things which men sow, plant, and breed. Moreover they kill noe<pc>-</pc>
+                        <lb/>
+                    </ab>   
+                </div>
+                
+            </div>
+        </body>
+    </text>
+</TEI>
