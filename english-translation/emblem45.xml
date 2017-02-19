@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Title</title>
+            </titleStmt>
+            <publicationStmt>
+                <p>Publication Information</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Information about the source</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    
+    <text>
+        <body>
+            <div type="emblem" n="e45"><!-- Change the value of n to "e" followed by the number of the emblem. Use two digits for all numbers. -->
+                <pb n="140"/><!-- Change to page number of the actual manuscript -->
+                
+                
+                <div type="title" xml:lang="en">
+                    <head>
+                        <lb/>Embleme 45. Of the Secrets of Nature.
+                        <lb/>The worke is perfected by Sol and his shade.
+                    </head>
+                </div>
+                
+                
+                <div type="epigram" xml:lang="en">
+                    <head>Epigramme 45.</head>
+                    <lg>
+                        <l>The Sunne noe bodyes dense can penetrate,</l>
+                        <l>And soe the adverse parts a shade create:</l>
+                        <l>Which, though it be of all things least sett by,</l>
+                        <l>Is much conducing to Astronomy;</l>
+                        <l>But more to th' Sophi are the Sunne and shade,</l>
+                        <l>Because they perfect the auriferous trade.</l>
+                    </lg>
+                </div>
+                
+                
+                <pb n="141"/> <!-- Change to page number of the actual manuscript -->
+                <div type="discourse" xml:lang="en">
+                    <head>Discourse 45.</head>
+                    <ab><!--Our convention will be that if we have break = "no" then it means that the word is broken across the line with a dash--> 
+                        <lb/>As in a round or Sphericall Palace, a fire kindled in one place illustrates<milestone unit="section" n="e03-01" /> <!-- Change the value of n to "e" plus the number of the emblem (in two digits), followed by a hyphen and then a two-digit count of sentence -->
+                        <lb/>the parts above and below round about all the walls, except those, where
+                        <lb/>a table or the like standing in the midle may by its objection and inter
+                        <lb break="no"/>position impede, and admitt a darke shadow; Soe allso the Sunne being<pc>-</pc>
+                        <lb/>placed in that great Palace or carved theater of the heaven dos by its<pc>-</pc>
+                        <lb/>rayes illuminate evry concavity of heaven, the bodyes containd therein
+                        <lb/>which are diaphanous and receptive of light, that is, all starrs whatsoever
+                        <lb/>both erraticke and fixed, except where the density of the earth in the<pc>-</pc>
+                        <lb/>midle may prohibit: For there a blacke and darke shadow, which is called
+                        <lb/>night, continues soe long, till it be driven away by the præsence of<pc>-</pc>
+                        <lb/>the Sunne, and light established and made conspicuous in stead thereof:
+                        <lb/>A shadow therefore and night is the privation or absence (as day on the<pc>-</pc>
+                        <lb/>contrary is the irradiation and circumfusion) of the Solar light. A shadow
+                        <lb/>is that which cannot endure the aspect of the Sunne, and therefore<pc>-</pc>
+                        <lb/>avoyds and absconds itselfe sometimes in this sometimes in that part of
+                        <lb/>the earth, as the Sunne is in opposition. The Sunne and shadow never
+                        <lb/>saw themselves together, though, if nature would admitt, they might in
+                        <lb/>every moment, but the Sunne considering her as an enemy to himselfe,
+                        <lb/>allwayes pursues her flying, and can never take her weary, <seg rend="underline">as Buchanan<note place="margin">Buchanan?</note>
+                        <lb/>in his booke of Spheres</seg> ingeniously hath declared: For imitation and<pc>-</pc>
+                        <lb/>example of that great Sunne, and shadow thereof, the Philosophers have
+                        <lb/>observed that their Sunne hath allso a blacke, cloudy, and flying Shadow:
+                        <lb/>Hereupon Sayth Hermes, My Sonne! take from the ray its shadow, that is,
+                        <lb/>see that you bring your Sunne round about the primum mobile, of<pc>-</pc>
+                        <lb/>which Vulcan is made overseer, that even that part of your Earth, which
+                        <lb/>is now covered with a shady night, may obtaine the clear light of the<pc>-</pc>
+                        <lb/>Sunne: for if the whole Firmament of the heaven with all things con
+                        <lb break="no"/>tained were not every naturall day, that is, in twenty four houres alltogether
+                        <lb/>circumvolved by the first motion, but the Sunne onely moved by its owne
+                        <lb/>(calld the second and annuall) motion, it would happen that they, which
+                        <lb/>are Antipodes below us, would for the Space of allmost six moneths have
+                        <lb/>a night, and wee a day, and afterwards on the contrary they a day and<pc>-</pc>
+                        <lb/>wee a night; soe that the whole year would consist of one night and<pc>-</pc>
+                        <lb/>day, as now these courses are by experience and reason confirmed to be<pc>-</pc>
+                        <lb/>most true under both the Poles: But it seemd farre otherwise to divine provi
+                        <lb break="no"/>dence, which therefore hath ordained two motions of the Planets, the first
+                        <lb/>and second, and soe distributed the year into many dayes: Now that sha
+                        <lb break="no"/>dow and Sunne doe together make day and night, which the Sunne by
+                        <lb/>itselfe alone could not effect, whose property it is to illuminate all opposite
+                        <lb/>places and bodyes, but not make a shadow, except accidentally by his absence:
+                        <lb/>Soe allso the Philosophicall Sunne dos with its shadow make a day, that
+                        <lb/>is, light and night or darkenesse, namely Latona or Magnesia, whose<pc>-</pc>
+                        <lb/>Shadow Democritus teacheth, as appears in the third booke of his<pc>-</pc>
+                        
+                        
+                        
+                        <pb n="142"/><fw>Discourse 45.</fw><!-- Page number of the actual manuscript, followed by the header on the page. -->
+                        <lb/>Golden table at the begining, must be extinguished and consumed by a fiery
+                        <lb/>medicine. The utility of shadows in Astronomicall affairs is soe great, that<pc>-</pc>
+                        <lb/>without them that Science can scarce be perfected; Chymists doe allso ascribe
+                        <lb/>it to their shadows, that their art comes to perfection; for what is this Sunne<pc>-</pc>
+                        <lb/>without a shadow? As a clapper without a bell: That indeed makes the first
+                        <lb/>motion to a sound, but this gives the sound; that is the quill, this the instru
+                        <lb break="no"/>ment; that the tongue, this the great mouth: A shadow is a most contemptible
+                        <lb/>thing, not next to a Being, soe allso the Philosophers shadow is a thing<pc>-</pc>
+                        <lb/>blacke blacker than blacke, as they terme it, or of lesse esteem than weeds,<pc>-</pc>
+                        <lb/>not in respect of itselfe, but the opinion of men and plenty; What more<pc>-</pc>
+                        <lb/>comodious than fire, what more pretious than water, what more amiable<pc>-</pc>
+                        <lb/>than earth, which yeilds flowers and all amiable things, what more plea
+                        <lb break="no"/>sant than aire, which being restraind and obstructed, all things cease to be
+                        <lb/>pleasant? Yet neverthelesse, because they are exposd to mens uses in their
+                        <lb/>large Spheres, they are esteemed most vile, by a præposterous imagination:<pc>-</pc>
+                        <lb/>Soe allso is both the common and Philosophicall shadow undervalued; They<pc>-</pc>
+                        <lb/>that live long in subterranean shadows, if brought suddenly to the clear<pc>-</pc>
+                        <lb/>light of the Sunne, doe loose their eye=sight; Soe they that reside and
+                        <lb/>operate in the Philosophicall shadow alone, and doe not joyne the<pc>-</pc>
+                        <lb/>Sunne with it, are deprived of judgement and the sight of the mind, and
+                        <lb/>frustrated of the effect: The cælestiall Sunne being elevated upon the<pc>-</pc>
+                        <lb/>South there is greater heat and lesse shadow; soe allso here heat being in
+                        <lb break="no"/>creased the shadow is diminished, and on the contrary; Wee must there
+                        <lb break="no"/>fore begin the Sunne being from the meridionall side bending itselfe<pc>-</pc>
+                        <lb/>againe to the top of our head, in Capricorne; and the first operation will<pc>-</pc>
+                        <lb/>be even finished at Aries, then begins the womens worke, even to Leo;<pc>-</pc>
+                        <lb/>and afterwards labour proceeds from labour, till the year take the tayle
+                        <lb/>with the head, as a Snake, that is to say, is completed<pc>. . . . . . .</pc>
+                    </ab>   
+                </div>
+                
+            </div>
+        </body>
+    </text>
+</TEI>
