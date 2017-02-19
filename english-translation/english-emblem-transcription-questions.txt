@@ -1,5 +1,6 @@
 # Questions about Emblems
 
+decision use of "i" instead of "1"
 
 
 comon
@@ -110,3 +111,7 @@ country=man
 
 Emblem 40
 luke=warme
+
+Emblem 42
+back=slide
+glasse=maker
