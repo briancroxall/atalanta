@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Title</title>
+            </titleStmt>
+            <publicationStmt>
+                <p>Publication Information</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Information about the source</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    
+    <text>
+        <body>
+            <div type="emblem" n="e44"><!-- Change the value of n to "e" followed by the number of the emblem. Use two digits for all numbers. -->
+                <pb n="137"/><!-- Change to page number of the actual manuscript -->
+                
+                
+                <div type="title" xml:lang="en">
+                    <head>
+                        <lb/>Embleme 44. Of the Secrets of Nature.
+                        <lb/>Typhon kills Osyris by deceipt, and disperseth the parts of his body on
+                        <lb/>all sides, but the famous Isis gathered them together.
+                    </head>
+                </div>
+                
+                
+                <div type="epigram" xml:lang="en">
+                    <head>Epigramme 44.</head>
+                    <lg>
+                        <l>Adonis Syria, Greece, hath Dionyse,</l>
+                        <l>Ægypt, Osyris, all the Sunne o'th wise:</l>
+                        <l>Isis, Osyris into peices cutt</l>
+                        <l>By cruell Typhon, all together putt:</l>
+                        <l>But the productive part is lost i'th Sea,</l>
+                        <l>For Sulphur Sulphur's father's fled away.</l>
+                    </lg>
+                </div>
+                
+                
+                <pb n="138"/> <!-- Change to page number of the actual manuscript -->
+                <div type="discourse" xml:lang="en">
+                    <head>Discourse 44.</head>
+                    <ab><!--Our convention will be that if we have break = "no" then it means that the word is broken across the line with a dash--> 
+                        <lb/>The allegory of Osyris wee have elswhere (namely in the first<milestone unit="section" n="e03-01" /> <!-- Change the value of n to "e" plus the number of the emblem (in two digits), followed by a hyphen and then a two-digit count of sentence -->
+                        <lb/>booke of Hieroglyphicks) reduced to its true originall, which is
+                        <lb/>Chymicall, and fully explaind it: Wherefore here to repeat the
+                        <lb/>same things (though the same things ought to be spoken of the<pc>-</pc>
+                        <lb/>same things) wee judge superfluous: but neverthelesse wee will
+                        <lb/>here forme a parallell discourse, which will allwayes be and re
+                        <lb break="no"/>maine within the prisons of that ancient Chymy, which is solely
+                        <lb/>decanted and decipered by the Poetts: Will you perswade mee<pc>-</pc>
+                        <lb/>that Osyris was a God, or King of the Ægyptians? I will not be
+                        <lb break="no"/>leive, though you perswade mee to beleive; For doggs (as it is in<pc>-</pc>
+                        <lb/>the Proverb) smell farre otherwise, farre otherwise Swine: I doe
+                        <lb/>plainly deny him to be a God, and you will ascent to mee, unlesse
+                        <lb/>you be a heathen, or of an opinion contradictory to right reason:
+                        <lb/>And that hee was noe King, is demonstrated by all the circum
+                        <lb break="no"/>stances which are elswhere considered: The Sunne hee is, but<pc>-</pc>
+                        <lb/>Philosophicall, the name of which being in many authors often at
+                        <lb break="no"/>tributed to it, the vulgar, who know noe other light but that of the<pc>-</pc>
+                        <lb/>world, have interpreted for it. The Philosophers Sunne hath denomi
+                        <lb break="no"/>nation from the Sunne of the World, because it contains the propertyes
+                        <lb/>of nature descending from that cælestiall Sunne, or agreable to it: Osyris
+                        <lb/>therefore, Dionysus, Bacchus, Jupiter, Mars, Adonis, Œdipus, Perseus, Achil
+                        <lb break="no"/>les, Triptolemus, Pelops, Hippomenes, and Pollux are the Sunne: but<pc>-</pc>
+                        <lb/>Isis, Juno, Venus, the mother of Œdipus, Danaë, Deidamia, Atalanta,
+                        <lb/>Helena, the Moone; as allso Latona, Semele, Europa, Leda, Antiope<pc>-</pc>
+                        <lb/>Thalia. And these are the parts of the compound, which before ope
+                        <lb break="no"/>ration is called Stone, and by the name of every metall, Magnesia:<pc>-</pc>
+                        <lb/>After operation, Orcus, Pyrrhus, Apollo, Æsculapius. The adjuncts are<pc>-</pc>
+                        <lb/>Typhon, Python, the Boar: The Artists are Hercules, Ulissess, Jason,<pc>-</pc>
+                        <lb/>Theseus, Pyrithous: The labours and perills, which were undergone by
+                        <lb/>these artists, are innumerable: The labours of Hercules, the errours of
+                        <lb/>Ulysses, the perills of Jason, the attempts of Theseus, and the remora's of
+                        <lb/>Pyrithous may be seen: This is the great volume of matter and doc
+                        <lb break="no"/>trine, through which in every page Vulcan, Mercury, and Saturne doe
+                        <lb/>runne backwards and forwards, the first, as the father and cause of all,
+                        <lb/>without which nothing is effected, the second, as the matter and forme,
+                        <lb/>the third, as the efficient. Sol takes his sister Luna to wife: Jupiter Juno,
+                        <lb/>as Saturne Rhea, and Osyris Isis: Dionysus is rippd out of his mother Se
+                        <lb break="no"/>mele being burnt by the lightening of Jove to be matured in the<pc>-</pc>
+                        <lb/>thigh of Jupiter his father, Æsculapius out of Coronis his Mother: Dio
+                        <lb break="no"/>nysus coming to maturity shews men a new way of drinking wine, un
+                        <lb break="no"/>dertaking an expedition even to the Indyes; Osyris and Triptolemus,
+                        <lb/>the sowing and use of fruit, Æsculapius, the administration of Me
+                        
+                        
+                        
+                        <pb n="139"/><fw>Discourse 44.</fw><!-- Page number of the actual manuscript, followed by the header on the page. -->
+                        <lb break="no"/>dicine: Dionysus soe calld by the Greeks, is Bacchus with the Romans,<pc>-</pc>
+                        <lb/>with the Ægyptians Osyris, with the Syrians Adonis. Œdipus killd his father
+                        <lb/>and marryd his mother; Perseus slew his Grand=father, Typhon his bro
+                        <lb break="no"/>ther Osyris, a Boar Adonis, Ceres the nurce of Triptolemus his father
+                        <lb/>Eleusius; Hippomenes <subst><del>obtained</del><add>overcame</add></subst> Atalanta by a golden apple. Tantalus
+                        <lb/>the father of Pelops obtained Hippodamia by the dispute of a Chariott.
+                        <lb/>Osyris was cutt in peices, and joyned together againe by Isis his mother,
+                        <lb/>sister, and wife. The child Pelops was boyld and dressd, and his shoulder
+                        <lb/>eaten by Ceres, and againe restord to life, an ivory shoulder being added:
+                        <lb/>Achilles and Triptolemus were put under coals of fire by night, and in
+                        <lb/>the day time nourished with milke, Achilles by Ceres his Nurce, <subst><del>Tripto</del><add>Achillis</add></subst>
+                        <lb break="no"/>lemus by his mother Thetis: Achilles and Helena were the causes of the
+                        <lb/>Trojane warre, <seg rend="superscript">1</seg> Achilles, <seg rend="superscript">5</seg> as <seg rend="superscript">6</seg> impulsive, <seg rend="superscript">4</seg> Helena, <seg rend="superscript">2</seg> as <seg rend="superscript">3</seg> efficient; Helena was
+                        <lb/>hatchd of an egge, and at the nuptialls of Peleus and Thetis, from whom
+                        <lb/>Achilles descended, the apple of Eris, the first cause of the rape of<pc>-</pc>
+                        <lb/>Helena, was throwne about. Pollux was with the Argonauts, who (if they
+                        <lb/>lived) are præsupposed to have lived near fifty years before the be
+                        <lb break="no"/>gining of the Trojane warre, and Helena with Pollux came both
+                        <lb/>out of one egge; Helena therefore was an old woman when she was
+                        <lb/>ravishd by Paris: Medea was marryd to Achilles in the Elysian feilds,
+                        <lb/>then an old toothlesse woman: unlesse perhaps Shee restored youth to
+                        <lb/>herselfe, as Shee did to Æson, the father of Jason, and as Ceres to Pe
+                        <lb break="no"/>lops, for which reason hee is sayd to become twice young: Perseus re
+                        <lb break="no"/>ceivd a flying horse from Pallas, and in recompence brought her
+                        <lb/>the head of Medusa, to whome Mercury gave a Semitar, and
+                        <lb/>other Gods other weapons; Ceres gave Triptolemus a chariot<pc>-</pc>
+                        <lb/>with flying Dragons: When Pallas was borne of Jupiters braine,
+                        <lb/>as allso when Sol lay with Venus it rained gold at Rhodes;<pc>-</pc>
+                        <lb/>And Jupiter in the forme of a golden shower had coition with
+                        <lb/>Danae, as a Swanne compressed Leda, as a Cuckow his Sister<pc>-</pc>
+                        <lb/>Juno, as a Bull Europa, as a Satyre Antiope, and soe there
+                        <lb/>is cohærente in all<pc>. . . . . . . . . .</pc>
+                    </ab>   
+                </div>
+                
+            </div>
+        </body>
+    </text>
+</TEI>
