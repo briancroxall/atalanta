@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Title</title>
+            </titleStmt>
+            <publicationStmt>
+                <p>Publication Information</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Information about the source</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    
+    <text>
+        <body>
+            <div type="emblem" n="e41"><!-- Change the value of n to "e" followed by the number of the emblem. Use two digits for all numbers. -->
+                <pb n="128"/><!-- Change to page number of the actual manuscript -->
+                
+                
+                <div type="title" xml:lang="en">
+                    <head>
+                        <lb/>Embleme 41. Of the Secrets of Nature.
+                        <lb/>Adonis is killd by a Boar, to whome Venus hasting tinged the
+                        <lb/>Roses with her blood.
+                    </head>
+                </div>
+                
+                
+                <div type="epigram" xml:lang="en">
+                    <head>Epigramme 4i.</head>
+                    <lg>
+                        <l>Myrrha, conspiring with her Sire, gave breath</l>
+                        <l>To th' fair Adonis, tushd by a Boar to death:</l>
+                        <l>Fond Venus runns, with thorne in foot, which bled,</l>
+                        <l>And therewith tingd the lilly Roses red;</l>
+                        <l>The Goddesse weeps, the Syrians can't refraine,</l>
+                        <l>Hee's layd amongst the lettice being Slayne</l>
+                    </lg>
+                </div>
+                
+                
+                <pb n="129"/> <!-- Change to page number of the actual manuscript -->
+                <div type="discourse" xml:lang="en">
+                    <head>Discourse 4i.</head>
+                    <ab><!--Our convention will be that if we have break = "no" then it means that the word is broken across the line with a dash--> 
+                        <lb/>How improperly some of the Mythologists resolve the Allegory of<pc>-</pc><milestone unit="section" n="e03-01" /> <!-- Change the value of n to "e" plus the number of the emblem (in two digits), followed by a hyphen and then a two-digit count of sentence -->
+                        <lb/>Adonis, and ascribe him sometimes to the Sunne, the Boare, by which
+                        <lb/>hee was slayne, to a hard winter, sometimes to the seed of wheat,<pc>-</pc>
+                        <lb/>which is six moneths with Proserpina under the earth, and as many
+                        <lb/>above the earth with Venus, is elswhere sufficiently explained and
+                        <lb/>refuted by us. Here wee doe with the consent of all men declare the
+                        <lb/>Philosophicall Sunne to be meant by Adonis: From whence the Versicle:
+                        <lb/>Omnia sunt idem, Dionysus, Sol, et Adonis:
+                        <lb/>And Orphens:<pc>------</pc>Qui vario Cætaris nomine Adoni,
+                        <lb/>Germinum et idem author, pariter puer atq puella.
+                        <lb/>All which are by noe means to be understood of the cælestiall, but<pc>-</pc>
+                        <lb/>Philosophicall Sunne; for this expresseth both sexes, that not: Soe all
+                        <lb break="no"/>so they attribute the very same thing to Dionysus, and the Sunne,<pc>-</pc>
+                        <lb/>as to Adonis, and on the contrary, as allso to Osiris. Adonis is killd by a
+                        <lb/>Boare, that is, by Acetum acerrimum, or the solutive water, which hath
+                        <lb/>terrible teeth like a boar, with which hee tusheth Adonis; because the<pc>-</pc>
+                        <lb/>Philosophicall Sol is mortalls wounded by that boar, loosened in the
+                        <lb/>members and cutt of; But Venus endeavours to helpe her Paramour,<pc>-</pc>
+                        <lb/>who being dead, shee layd him amongst Lettices, and watchd him. After
+                        <lb/>the same manner is Osiris killd by Typhon, and cut into severall peices,
+                        <lb/>which Isis, the wife of Osiris, gathered up, and being joynd together bu
+                        <lb break="no"/>ryed. The same mourning, which followed the death of Osiris every<pc>-</pc>
+                        <lb/>year in Ægypt, was allso celebrated after the death of Adonis in Syria
+                        <lb/>and the bordering kingdoms; where for some dayes weeping and wailing
+                        <lb/>being heard, afterwards were signs of joy given, and dancing, as if hee,
+                        <lb/>that was dead, now lived anew being conveyed to heaven: From whence
+                        <lb/>arose the vanity of their religion or heathenish superstition, which<pc>-</pc>
+                        <lb/>grew to an excessive height, the Devill giving occasion, and procuring
+                        <lb/>false miracles. Adonis was (as they feigne) borne of Cinyre King of
+                        <lb/>Cyprus, and Myrrha his daughter, hee is sayd to be borne in incæst (if
+                        <lb/>history be considered) wicked, if an allegory, not unlawfull, but prin
+                        <lb break="no"/>cipally necessary: For if the mother and Sonne, or the father and<pc>-</pc>
+                        <lb/>daughter be not joynd together, and an offspring produced from thence,
+                        <lb/>nothing is perfected in this art. For here, the nearer the man and
+                        <lb/>wife are one to the other in blood, in the first degree of consan
+                        <lb break="no"/>guinity, or second, the more fruitfull they are, and on the con
+                        <lb break="no"/>trary, the more remote, the more unfruitfull, which is not tolerable
+                        <lb/>in the matrimony of men. For this cause Œdypus marryd his owne
+                        <lb/>mother, Jupiter his Sister, soe allso Osiris, Saturne, Sol, the red
+                        <lb/>servant, Gabritius; Sol (in a Metaphor of Belinus in the Rosary)<pc>-</pc>
+                        
+                        
+                        
+                        <pb n="130"/><fw>Discourse 4i.</fw><!-- Page number of the actual manuscript, followed by the header on the page. -->
+                        <lb/>speaks thus of Adonis, that is, of himselfe: Know yee, that my father Sol
+                        <lb/>hath given mee power above all power, and cloathed mee with the gar
+                        <lb break="no"/>ment of glory: And a little after: For I am his onely Sonne and more
+                        <lb/>like my father, Ct: I divest my servants of their power and nature,<pc>-</pc>
+                        <lb/>and cloath them with my beautifull splendour and light (which my
+                        <lb/>father gave mee) in all their works: For I am excellent, who doe exalt
+                        <lb/>and depresse all things, and none of my servants is above mee, but one,<pc>-</pc>
+                        <lb/>who is permitted to be repugnant and contrary to mee: And hee destroyes
+                        <lb/>mee, yet destroyes not my nature: And hee is Saturne, who separates all
+                        <lb/>my parts: Afterwards I goe to my mother, who gathers together all my<pc>-</pc>
+                        <lb/>divided and separated members: I illuminate all those things that<pc>-</pc>
+                        <lb/>appertaine to mee, and cause light to appear openly in the way from
+                        <lb/>my father Saturne, as allso from my mother, who is an enemy to mee.
+                        <lb/>The words hitherto spoken are soe clear, as to discusse darkenesse from
+                        <lb/>the eyes of the mind even to him that is but meanly conversant in<pc>-</pc>
+                        <lb/>the reading of authors, and discover the light of the Sunne, which is
+                        <lb/>abundantly perspicuous in the cohærencyes insinuated of things and per
+                        <lb break="no"/>sons: For those things which are true, though shaded under the veyle
+                        <lb/>of an allegory, doe consent in wonderfull harmony one with another,<pc>-</pc>
+                        <lb/>but those things which are false are repugnant, and inconsistent with
+                        <lb/>themselves, and others<pc>. . . . . . . . .</pc>
+                    </ab>   
+                </div>
+                
+            </div>
+        </body>
+    </text>
+</TEI>
