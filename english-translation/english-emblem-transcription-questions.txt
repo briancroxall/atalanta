@@ -129,3 +129,6 @@ eye=sight
 Emblem 46
 greek included in document, how to write?
 Ensigne=bearers
+
+Emblem 48
+breast=plate
