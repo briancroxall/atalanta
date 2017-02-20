@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Title</title>
+            </titleStmt>
+            <publicationStmt>
+                <p>Publication Information</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Information about the source</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    
+    <text>
+        <body>
+            <div type="emblem" n="e49"><!-- Change the value of n to "e" followed by the number of the emblem. Use two digits for all numbers. -->
+                <pb n="152"/><!-- Change to page number of the actual manuscript -->
+                
+                
+                <div type="title" xml:lang="en">
+                    <head>
+                        <lb/>Embleme 49. Of the Secrets of Nature.
+                        <lb/>The Philosophicall infant is, as Orion, the Sonne of three fathers.
+                    </head>
+                </div>
+                
+                
+                <div type="epigram" xml:lang="en">
+                    <head>Epigramme 49.</head>
+                    <lg>
+                        <l>Vulcan with Hermes and Apollo did</l>
+                        <l>Their seed inject into an oxes hide,</l>
+                        <l>Whence produced was the great Orion:</l>
+                        <l>Three fathers allso hath the Sophicke Sonne;</l>
+                        <l>The Sunne is first, Vulcan the next is stil'd</l>
+                        <l>The artist is third father of this Child.</l>
+                    </lg>
+                </div>
+                
+                
+                <pb n="153"/> <!-- Change to page number of the actual manuscript -->
+                <div type="discourse" xml:lang="en">
+                    <head>Discourse 49.</head>
+                    <ab><!--Our convention will be that if we have break = "no" then it means that the word is broken across the line with a dash--> 
+                        <lb/>Those women, which prostitute themselves to variety of men, doe sel<milestone unit="section" n="e03-01" /> <!-- Change the value of n to "e" plus the number of the emblem (in two digits), followed by a hyphen and then a two-digit count of sentence -->
+                        <lb break="no"/>dome conceive lively children through the confusion of divers seeds:<pc>-</pc>
+                        <lb/>for nature in the generation of man and the most part of animalls ad
+                        <lb break="no"/>mitts noe superfætation, except perhaps very rarely: and therefore<pc>-</pc>
+                        <lb/>every offspring is produced from one onely father and mother, whether
+                        <lb/>it be one or more, as is allso manifest by historyes and the event of<pc>-</pc>
+                        <lb/>some supposing otherwise; in the first place of Margarett the wife of
+                        <lb/>Herman Earle of Henneberge, who, in the year 1276, brought forth
+                        <lb/>three hundred and sixty five children, which were all baptized,<pc>-</pc>
+                        <lb/>and the males called by the name of John, and the females Eliza
+                        <lb break="no"/>beth, their grave being dead is yet to be seen in the Church of Laus
+                        <lb break="no"/>dune, one mile distant from the Hague towards the Sea in Holland,
+                        <lb/>together with the brazen bason, in which they were baptized, and an
+                        <lb/>inscription of the story: The cause alleadyd was, that the Countesse,
+                        <lb/>seing a poor woman carry two children twinns in her armes, calld her
+                        <lb/>adulteresse, as if it was impossible for more children to be borne at one
+                        <lb/>conception by one man, but necessarily by severall: Whereupon an im
+                        <lb break="no"/>precation being made by the poor woman, who knew her selfe clear<pc>-</pc>
+                        <lb/>of that accusation, the Countesse conceived in her wombe at one time
+                        <lb/>and by one man soe many children, as there are dayes in the year:
+                        <lb/>This is indeed a miracle, but a naturall worke, which happened<pc>-</pc>
+                        <lb/>through the vengeance of God: But in the Philosophicall worke<pc>-</pc>
+                        <lb/>that, which is otherwise contrary to nature, is easily admitted under
+                        <lb/>the veyle of an allegory: For here one infant is sayd to have three fa
+                        <lb break="no"/>thers, or allso two, as allso mothers: Hereupon sayth Raymund cited by the<pc>-</pc>
+                        <lb/>Rosary; Our infant hath two fathers and two mothers, and because hee
+                        <lb/>with his whole substance is tenderly nourished in fire, hee therefore<pc>-</pc>
+                        <lb/>never dyes: Soe Dionysus or Bacchus is sayd to have two mothers, who<pc>-</pc>
+                        <lb/>was rip'd out of his mothers belly (being burned) before the time of his
+                        <lb/>maturity, and matured in his fathers thigh, soe that the father became
+                        <lb/>a mother: But these things are better declared in the conception of<pc>-</pc>
+                        <lb/>Orion, who is sayd to be produced from the seed of Apollo, Vulcan,<pc>-</pc>
+                        <lb/>and Mercury mixd together, and præservd in the hide of an Oxe for
+                        <lb/>the space of tenne moneths: These things would be alltogether mon<note place="margin"><unclear reason="illegible">NBow</unclear></note>
+                        <lb break="no"/>strous, not onely fabulous, if a secret of nature were not compre
+                        <lb break="no"/>hended under these shrouds, not obvious to all Men. Lully in the<pc>-</pc>
+                        <lb/>Theoricke of his Testament attributes to the same Philosophicall<pc>-</pc>
+                        <lb/>infant soe many and allmost the same fathers, namely Sol, who
+                        <lb/>is Apollo, or the cælestiall Sol is the first author of this generation,<pc>-</pc>
+                        <lb/>certaine matter knowne to the Philosophers, as upon the matrix<pc>-</pc>
+                        
+                        
+                        
+                        <pb n="154"/><fw>Discourse 49.</fw><!-- Page number of the actual manuscript, followed by the header on the page. -->
+                        <lb/>of a woman, and therein produceth a Sonne or infant like to himselfe,
+                        <lb/>to whome afterwards hee will leave and resigne his armes and ensigns<pc>-</pc>
+                        <lb/>of virtues, by paternall right, that is, the faculty of maturing things im
+                        <lb break="no"/>mature, and the energy of tinging and purging things not tinged nor
+                        <lb/>purged. For whatsoever Sol is able to perfect in a thousand years, that
+                        <lb/>will his Sonne performe in halfe an houre; That therefore virtue<pc>-</pc>
+                        <lb/>may be made a thousand times stronger in him, than in Sol, his fa
+                        <lb break="no"/>ther delivers him to Vulcan and the Artist together for education, that<pc>-</pc>
+                        <lb/>his generous disposition may be polished and multiplyd in virtues by
+                        <lb/>their means; for manifest it is that to practice from a child conduceth
+                        <lb/>much: Soe Achilles, Jason, Hercules were comitted to Chiron to be in
+                        <lb break="no"/>structed for the same end. For Milo
+                    </ab>   
+                </div>
+                
+            </div>
+        </body>
+    </text>
+</TEI>
