@@ -27,7 +27,7 @@
                     <head>
                         <lb/><orig>Embleme</orig> 36. Of the Secrets of Nature.
                         <lb/>The Stone, that is, Mercury, is cast upon the earth, and exalted on
-                        <lb/>mountains, and resides in the <choice><orig>wee</orig><reg>we</reg></choice>aire</orig>, and is nourished in water
+                        <lb/>mountains, and resides in the <orig>aire</orig>, and is nourished in water
                     </head>
                 </div>
                 
@@ -36,9 +36,9 @@
                     <head><orig>Epigramme</orig> 36.</head>
                     <lg>
                         <l>The Stone, as refuse, is by some <choice><orig>suppos'd</orig><reg>supposed</reg></choice></l>
-                        <l><orig>Throwne</orig> <choice><orig>upo'</orig><reg>upon</reg></choice> <choice><orig>th'</orig><reg>the</reg></choice> earth, to rich and <choice><orig>wee</orig><reg>we</reg></choice>poore</orig> <choice><orig>disclosd</orig><reg>disclosed</reg></choice>:</l>
+                        <l><orig>Throwne</orig> <choice><orig>upo'</orig><reg>upon</reg></choice> <choice><orig>th'</orig><reg>the</reg></choice> earth, to rich and <orig>poore</orig> <choice><orig>disclosd</orig><reg>disclosed</reg></choice>:</l>
                         <l>Some say <choice><orig>'tis</orig><reg>it is</reg></choice> on the highest mountains <choice><orig>plac'd</orig><reg>placed</reg></choice></l>
-                        <l>Some say <choice><orig>ith'</orig><reg>in the</reg></choice> <choice><orig>wee</orig><reg>we</reg></choice>aire</orig>, in water some at last;</l>
+                        <l>Some say <choice><orig>ith'</orig><reg>in the</reg></choice> <orig>aire</orig>, in water some at last;</l>
                         <l>What they all say is true, but <choice><orig>I'de</orig><reg>I'd</reg></choice> have you</l>
                         <l>That noble prize in mountains to pursue.</l>
                     </lg>
@@ -50,78 +50,78 @@
                     <head>Discourse 36.</head>
                     <ab><!--Our convention will be that if we have break = "no" then it means that the word is broken across the line with a dash--> 
                         <lb/>All men, that have but once heard the name and power of the Stone,<milestone unit="section" n="e03-01" /> <!-- Change the value of n to "e" plus the number of the emblem (in two digits), followed by a hyphen and then a two-digit count of sentence -->
-                        <lb/><orig>unlesse</orig>, they be such as are <choice><orig>wee</orig><reg>we</reg></choice>alltogther</orig> incredulous, <choice><orig>wee</orig><reg>we</reg></choice>doe</orig> <choice><orig>wee</orig><reg>we</reg></choice>comonly</orig> <choice><orig>wee</orig><reg>we</reg></choice>aske</orig><pc>-</pc>
-                        <lb/>where it is to be found, that they may <choice><orig>wee</orig><reg>we</reg></choice>runne</orig> as it were by a straight line
+                        <lb/><orig>unlesse</orig>, they be such as are <orig>alltogther</orig> incredulous, <orig>doe</orig> <orig>comonly</orig> <orig>aske</orig><pc>-</pc>
+                        <lb/>where it is to be found, that they may <orig>runne</orig> as it were by a straight line
                         <lb/>to it? The Philosophers answer in two places: first, that Adam brought it
-                        <lb/>with him out of Paradise, that it is in you, in <choice><orig>wee</orig><reg>we</reg></choice>mee</orig>, and in every man,<pc>-</pc>
-                        <lb/>that birds flying carry it with them out of <choice><orig>wee</orig><reg>we</reg></choice>farre</orig> <choice><orig>wee</orig><reg>we</reg></choice>countryes</orig>: Secondly
-                        <lb/>that it may be found in the earth, mountains, <choice><orig>wee</orig><reg>we</reg></choice>aire</orig>, and water. Which
-                        <lb/>therefore must <choice><orig>wee</orig><reg>we</reg></choice>wee</orig> where to, whether to this, or that? To both, in my<pc>-</pc>
+                        <lb/>with him out of Paradise, that it is in you, in <orig>mee</orig>, and in every man,<pc>-</pc>
+                        <lb/>that birds flying carry it with them out of <orig>farre</orig> <orig>countryes</orig>: Secondly
+                        <lb/>that it may be found in the earth, mountains, <orig>aire</orig>, and water. Which
+                        <lb/>therefore must <orig>wee</orig> where to, whether to this, or that? To both, in my<pc>-</pc>
                         <lb/>opinion, but in a peculiar respect, though the last is more plausible, and
-                        <lb/>seems to us more safe. It is <choice><orig>wee</orig><reg>we</reg></choice>sayd</orig> to be throwne upon the earth, because
-                        <lb/>the Element of earth <choice><orig>wee</orig><reg>we</reg></choice>doth</orig> first appear in a <choice><orig>wee</orig><reg>we</reg></choice>darke</orig> and <choice><orig>wee</orig><reg>we</reg></choice>blacke</orig> body: Se
-                        <lb break="no"/>condly, because it is a thing of <choice><orig>wee</orig><reg>we</reg></choice>meane</orig> and small <choice><orig>wee</orig><reg>we</reg></choice>esteeme</orig>, which is trodden
-                        <lb/>upon in the <choice><orig>wee</orig><reg>we</reg></choice>wayes</orig> of travellers, and in dung <choice><orig>wee</orig><reg>we</reg></choice>itselfe</orig>; Whereupon <choice><orig>wee</orig><reg>we</reg></choice>sayth</orig>
-                        <lb/>Rosarius, if I should name it, <choice><orig>fooles</orig><reg>fools</reg></choice> would not <choice><orig>wee</orig><reg>we</reg></choice>beleive</orig> that to be it: And
-                        <lb/>Calis sifting Morienus, and trying to get much out of him, <choice><orig>wee</orig><reg>we</reg></choice>hee</orig> answers<pc>-</pc>
-                        <lb/>him thus: This, as a wise man <choice><orig>wee</orig><reg>we</reg></choice>sayth</orig>, <choice><orig>wee</orig><reg>we</reg></choice>hath</orig> both the rich and the <choice><orig>wee</orig><reg>we</reg></choice>poore</orig>,<pc>-</pc>
-                        <lb/>both the <choice><orig>liberall</orig><reg>liberal</reg></choice> and the covetous, going <choice><orig>wee</orig><reg>we</reg></choice>allso</orig> and sitting. For it is <choice><orig>wee</orig><reg>we</reg></choice>throwne</orig>
-                        <lb/>in the <choice><orig>wee</orig><reg>we</reg></choice>wayes</orig>, and trampled upon in dunghills, and many men have <choice><orig>wee</orig><reg>we</reg></choice>all
-                        <lb break="no"/>ready</orig> <choice><orig>diggd</orig><reg>digged</reg></choice> in dunghills for it, and herein have been deceived. Mundus <choice><orig>wee</orig><reg>we</reg></choice>all
-                        <lb break="no"/>so</orig> in Turba <choice><orig>wee</orig><reg>we</reg></choice>sayth</orig>, if the Sellers knew it, they would not sell it at <choice><orig>soe</orig><reg>so</reg></choice>
+                        <lb/>seems to us more safe. It is <orig>sayd</orig> to be throwne upon the earth, because
+                        <lb/>the Element of earth <orig>doth</orig> first appear in a <orig>darke</orig> and <orig>blacke</orig> body: Se
+                        <lb break="no"/>condly, because it is a thing of <orig>meane</orig> and small <orig>esteeme</orig>, which is trodden
+                        <lb/>upon in the <orig>wayes</orig> of travellers, and in dung <orig>itselfe</orig>; Whereupon <orig>sayth</orig>
+                        <lb/>Rosarius, if I should name it, <choice><orig>fooles</orig><reg>fools</reg></choice> would not <orig>beleive</orig> that to be it: And
+                        <lb/>Calis sifting Morienus, and trying to get much out of him, <orig>hee</orig> answers<pc>-</pc>
+                        <lb/>him thus: This, as a wise man <orig>sayth</orig>, <orig>hath</orig> both the rich and the <orig>poore</orig>,<pc>-</pc>
+                        <lb/>both the <choice><orig>liberall</orig><reg>liberal</reg></choice> and the covetous, going <orig>allso</orig> and sitting. For it is <orig>throwne</orig>
+                        <lb/>in the <orig>wayes</orig>, and trampled upon in dunghills, and many men have <orig>all
+                        <lb break="no"/>ready</orig> <choice><orig>diggd</orig><reg>digged</reg></choice> in dunghills for it, and herein have been deceived. Mundus <orig>all
+                        <lb break="no"/>so</orig> in Turba <orig>sayth</orig>, if the Sellers knew it, they would not sell it at <choice><orig>soe</orig><reg>so</reg></choice>
                         <lb/>mean a rate. And Arnold affirms, that the stone may be had gratis,<pc>-</pc>
-                        <lb/>as much as a man will, and for that reason <choice><orig>wee</orig><reg>we</reg></choice>noe</orig> man ought to be interro
+                        <lb/>as much as a man will, and for that reason <orig>noe</orig> man ought to be interro
                         <lb break="no"/>gated. All which things are true. For who, but an <choice><orig>inhumane</orig><reg>inhuman</reg></choice> wretch,<pc>-</pc>
                         <lb/>will deny water and earth to him that desires it? The most ancient
-                        <lb/>Cimbri having desired and not able to <choice><orig>wee</orig><reg>we</reg></choice>obtaine</orig> the same <choice><orig>guifts</orig><reg>gifts</reg></choice> from<pc>-</pc>
+                        <lb/>Cimbri having desired and not able to <orig>obtaine</orig> the same <choice><orig>guifts</orig><reg>gifts</reg></choice> from<pc>-</pc>
                         <lb/>the Romans, <choice><orig>entring</orig><reg>entering</reg></choice> Italy with a great army slew many thousands
                         <lb/>of the Romans with their Consuls, as <choice><orig>historyes</orig><reg>histories</reg></choice> declare. For earth, as
-                        <lb/>the mother of all things, is most <choice><orig>wee</orig><reg>we</reg></choice>pretious</orig>, as the last matter of things
-                        <lb/><orig>putrefyed</orig>, most despicable; <choice><orig>wee</orig><reg>we</reg></choice>Noe</orig> thing more vile than clay or dirt,<pc>-</pc>
-                        <lb/>which notwithstanding is nothing <choice><orig>wee</orig><reg>we</reg></choice>els</orig>, but earth <choice><orig>wee</orig><reg>we</reg></choice>mixd</orig> with water.<pc>-</pc>
-                        <lb/>What more <choice><orig>wee</orig><reg>we</reg></choice>comon</orig> than a <choice><orig>clodd</orig><reg>clod</reg></choice> of earth? Yet Euripylus the <choice><orig>wee</orig><reg>we</reg></choice>Sonne</orig>
-                        <lb/>of Neptune <choice><orig>offerd</orig><reg>offered</reg></choice> it as a present to the <choice><orig>wee</orig><reg>we</reg></choice>heroicke</orig> Argonauts, by<pc>-</pc>
+                        <lb/>the mother of all things, is most <orig>pretious</orig>, as the last matter of things
+                        <lb/><orig>putrefyed</orig>, most despicable; <orig>Noe</orig> thing more vile than clay or dirt,<pc>-</pc>
+                        <lb/>which notwithstanding is nothing <orig>els</orig>, but earth <orig>mixd</orig> with water.<pc>-</pc>
+                        <lb/>What more <orig>comon</orig> than a <choice><orig>clodd</orig><reg>clod</reg></choice> of earth? Yet Euripylus the <orig>Sonne</orig>
+                        <lb/>of Neptune <choice><orig>offerd</orig><reg>offered</reg></choice> it as a present to the <orig>heroicke</orig> Argonauts, by<pc>-</pc>
                         <lb/>which not refused, but thankfully accepted, afterwards being dis
                         <lb break="no"/>solved in water Medea divined many things. For earth must be
-                        <lb/>dissolvd in water, otherwise neither this, nor that <choice><orig>wee</orig><reg>we</reg></choice>avayles</orig> any thing:
+                        <lb/>dissolvd in water, otherwise neither this, nor that <orig>avayles</orig> any thing:
                         <lb/>After this manner is the Stone cast upon the earth, in which not
-                        <lb break="no"/>withstanding it <choice><orig>wee</orig><reg>we</reg></choice>doth</orig> not continue abject and contemptible, but is
+                        <lb break="no"/>withstanding it <orig>doth</orig> not continue abject and contemptible, but is
                         <lb/>exalted to the mountains, as the flammivomous Athos, Vesuvius,<pc>-</pc>
-                        <lb/><choice><orig>Ætna</orig><reg>Aetna</reg></choice>, and the like, whereof many such are seen in <choice><orig>wee</orig><reg>we</reg></choice>divers</orig> parts<pc>-</pc>
-                        <lb/>of the world: For a <choice><orig>wee</orig><reg>we</reg></choice>perpetuall</orig> fire <choice><orig>wee</orig><reg>we</reg></choice>burnes</orig> in them, which <choice><orig>subli
+                        <lb/><choice><orig>Ætna</orig><reg>Aetna</reg></choice>, and the like, whereof many such are seen in <orig>divers</orig> parts<pc>-</pc>
+                        <lb/>of the world: For a <orig>perpetuall</orig> fire <orig>burnes</orig> in them, which <choice><orig>subli
                         <lb break="no"/>meth</orig><reg>sublimes</reg></choice> the Stone, and <choice><orig>rayseth</orig><reg>raises</reg></choice> it to the highest dignity. As in
                         
                         
                         <pb n="115"/><fw>Discourse 36.</fw><!-- Page number of the actual manuscript, followed by the header on the page. -->
-                        <lb/>mountains it <choice><orig>wee</orig><reg>we</reg></choice>growes</orig> in a rude <choice><orig>wee</orig><reg>we</reg></choice>forme</orig> out of Sulphur and Argent vive, <choice><orig>soe</orig><reg>so</reg></choice>
-                        <lb/>is it matured and perfected at the top of the mountains, where <choice><orig>wee</orig><reg>we</reg></choice>allso</orig><pc>-</pc>
-                        <lb/>is an <choice><orig>wee</orig><reg>we</reg></choice>herbe</orig> produced, without which fire cannot be regulated, because
+                        <lb/>mountains it <orig>growes</orig> in a rude <orig>forme</orig> out of Sulphur and Argent vive, <choice><orig>soe</orig><reg>so</reg></choice>
+                        <lb/>is it matured and perfected at the top of the mountains, where <orig>allso</orig><pc>-</pc>
+                        <lb/>is an <orig>herbe</orig> produced, without which fire cannot be regulated, because
                         <lb/>being cold and moist if it be cast into fire, the vehemency of it is re
-                        <lb break="no"/>tunded by its contrary: From the mountains it <choice><orig>passeth</orig><reg>passes</reg></choice> to the <choice><orig>wee</orig><reg>we</reg></choice>aire</orig>,<pc>-</pc>
-                        <lb/>where it finds habitation. For the <choice><orig>wee</orig><reg>we</reg></choice>aire</orig> becomes a house to it, wherein it
-                        <lb/>is enclosed, which is nothing <choice><orig>wee</orig><reg>we</reg></choice>els</orig>, but to be <choice><orig>wee</orig><reg>we</reg></choice>carryed</orig> in the belly of<pc>-</pc>
-                        <lb/>wind, and <choice><orig>wee</orig><reg>we</reg></choice>borne</orig> in the <choice><orig>wee</orig><reg>we</reg></choice>aire</orig>, of which terms <choice><orig>wee</orig><reg>we</reg></choice>wee</orig> have spoken before.
+                        <lb break="no"/>tunded by its contrary: From the mountains it <choice><orig>passeth</orig><reg>passes</reg></choice> to the <orig>aire</orig>,<pc>-</pc>
+                        <lb/>where it finds habitation. For the <orig>aire</orig> becomes a house to it, wherein it
+                        <lb/>is enclosed, which is nothing <orig>els</orig>, but to be <orig>carryed</orig> in the belly of<pc>-</pc>
+                        <lb/>wind, and <orig>borne</orig> in the <orig>aire</orig>, of which terms <orig>wee</orig> have spoken before.
                         <lb/>At length it is nourished in rivers, that is, Mercury in waters: For that<pc>-</pc>
-                        <lb/>reason the Athenians in <choice><orig>wee</orig><reg>we</reg></choice>honour</orig> thereof instituted their <choice><orig>Hydrophoryes</orig><reg>Hydrophories</reg></choice>, be
-                        <lb break="no"/>cause the matter of the Philosophers stone is water, as Rosarius <choice><orig>wee</orig><reg>we</reg></choice>sayth</orig>, and
-                        <lb/>is understood of the water of those three. For which reason Mercury was <choice><orig>wee</orig><reg>we</reg></choice>all
-                        <lb break="no"/>so</orig> <choice><orig>wee</orig><reg>we</reg></choice>sayd</orig> to have three heads, as being marine, <choice><orig>wee</orig><reg>we</reg></choice>cælestiall</orig>, and <choice><orig>wee</orig><reg>we</reg></choice>terrestriall</orig>,<pc>-</pc>
-                        <lb/>because <choice><orig>wee</orig><reg>we</reg></choice>hee</orig> <choice><orig>recided</orig><reg>resided</reg></choice> in the water, earth, and <choice><orig>wee</orig><reg>we</reg></choice>aire</orig>. <choice><orig>wee</orig><reg>we</reg></choice>Hee</orig> is reported to be
-                        <lb/>educated by Vulcan, notorious for <choice><orig>theivery</orig><reg>thievery</reg></choice>, because Mercury is <choice><orig>wee</orig><reg>we</reg></choice>sayd</orig> to be
-                        <lb/><choice><orig>enurd</orig><reg>inured</reg></choice> to fire, which is volatile, and <choice><orig>wee</orig><reg>we</reg></choice>carryes</orig> away with it that wherewith
-                        <lb/>it is mixed: Mercury in the <choice><orig>wee</orig><reg>we</reg></choice>dayes</orig> of old gave <choice><orig>wee</orig><reg>we</reg></choice>lawes</orig> and discipline to
-                        <lb/>the <choice><orig>wee</orig><reg>we</reg></choice>Ægyptians</orig>, yea religion <choice><orig>wee</orig><reg>we</reg></choice>allso</orig> to the <choice><orig>Thebane</orig><reg>Theban</reg></choice> <choice><orig>wee</orig><reg>we</reg></choice>Preists</orig>, and to a<pc>-</pc>
-                        <lb/>great part of the world, because the <choice><orig>wee</orig><reg>we</reg></choice>Ægyptians</orig> received polity, and<pc>-</pc>
-                        <lb/>sacred things from <choice><orig>wee</orig><reg>we</reg></choice>Chymicall</orig> institutions, from them the Greeks, from<pc>-</pc>
-                        <lb/>them the Romans, from those many other nations, as <choice><orig>wee</orig><reg>we</reg></choice>hath</orig> been <choice><orig>elswher'</orig><reg>elsewhere</reg></choice>
-                        <lb/>more at large demonstrated. Argus <choice><orig>wee</orig><reg>we</reg></choice>hee</orig> slew with a stone, and conver
+                        <lb/>reason the Athenians in <orig>honour</orig> thereof instituted their <choice><orig>Hydrophoryes</orig><reg>Hydrophories</reg></choice>, be
+                        <lb break="no"/>cause the matter of the Philosophers stone is water, as Rosarius <orig>sayth</orig>, and
+                        <lb/>is understood of the water of those three. For which reason Mercury was <orig>all
+                        <lb break="no"/>so</orig> <orig>sayd</orig> to have three heads, as being marine, <orig>cælestiall</orig>, and <orig>terrestriall</orig>,<pc>-</pc>
+                        <lb/>because <orig>hee</orig> <choice><orig>recided</orig><reg>resided</reg></choice> in the water, earth, and <orig>aire</orig>. <orig>Hee</orig> is reported to be
+                        <lb/>educated by Vulcan, notorious for <choice><orig>theivery</orig><reg>thievery</reg></choice>, because Mercury is <orig>sayd</orig> to be
+                        <lb/><choice><orig>enurd</orig><reg>inured</reg></choice> to fire, which is volatile, and <orig>carryes</orig> away with it that wherewith
+                        <lb/>it is mixed: Mercury in the <orig>dayes</orig> of old gave <orig>lawes</orig> and discipline to
+                        <lb/>the <orig>Ægyptians</orig>, yea religion <orig>allso</orig> to the <choice><orig>Thebane</orig><reg>Theban</reg></choice> <orig>Preists</orig>, and to a<pc>-</pc>
+                        <lb/>great part of the world, because the <orig>Ægyptians</orig> received polity, and<pc>-</pc>
+                        <lb/>sacred things from <orig>Chymicall</orig> institutions, from them the Greeks, from<pc>-</pc>
+                        <lb/>them the Romans, from those many other nations, as <orig>hath</orig> been <choice><orig>elswher'</orig><reg>elsewhere</reg></choice>
+                        <lb/>more at large demonstrated. Argus <orig>hee</orig> slew with a stone, and conver
                         <lb break="no"/>ted Baltus into a Touch=stone called Index. What need many words? All<pc>-</pc>
-                        <lb/>the volumes of the <choice><orig>wee</orig><reg>we</reg></choice>Chymists</orig> <choice><orig>wee</orig><reg>we</reg></choice>doe</orig> inculcate nothing <choice><orig>wee</orig><reg>we</reg></choice>els</orig> but Mercury, and
-                        <lb/>sufficiently <choice><orig>wee</orig><reg>we</reg></choice>confirme</orig> his power in this one versicle; What wise men <choice><orig>wee</orig><reg>we</reg></choice>seeke</orig>
-                        <lb/>in Hermes is <choice><orig>containd</orig><reg>contained</reg></choice>. <choice><orig>wee</orig><reg>we</reg></choice>Hee</orig> therefore must be sought, till <choice><orig>wee</orig><reg>we</reg></choice>hee</orig> be found,<pc>-</pc>
-                        <lb/>whether his <choice><orig>harbour</orig><reg>harbor</reg></choice> be in the <choice><orig>wee</orig><reg>we</reg></choice>aire</orig>, fire, water, or earth. For <choice><orig>wee</orig><reg>we</reg></choice>hee</orig> is in
+                        <lb/>the volumes of the <orig>Chymists</orig> <orig>doe</orig> inculcate nothing <orig>els</orig> but Mercury, and
+                        <lb/>sufficiently <orig>confirme</orig> his power in this one versicle; What wise men <orig>seeke</orig>
+                        <lb/>in Hermes is <choice><orig>containd</orig><reg>contained</reg></choice>. <orig>Hee</orig> therefore must be sought, till <orig>hee</orig> be found,<pc>-</pc>
+                        <lb/>whether his <choice><orig>harbour</orig><reg>harbor</reg></choice> be in the <orig>aire</orig>, fire, water, or earth. For <orig>hee</orig> is in
                         <lb/><orig>perpetuall</orig> motion, running sometimes here sometimes there for the<pc>-</pc>
-                        <lb/>service of the <choice><orig>wee</orig><reg>we</reg></choice>Chymicall</orig> Gods, as their foot=man, which his office is de
+                        <lb/>service of the <orig>Chymicall</orig> Gods, as their foot=man, which his office is de
                         <lb break="no"/>noted, some men ascribing to him a daughter named Angelia<pc>. . .</pc>
                     </ab>   
                 </div>
