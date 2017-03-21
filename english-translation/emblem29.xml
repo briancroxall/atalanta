@@ -26,7 +26,7 @@
                 <div type="title" xml:lang="en">
                     <head>
                         <lb/><orig>Embleme</orig> the 29. Of the Secrets of Nature.
-                        <lb/>As the Salamander lives in fire <choice><orig>soe</orig><reg>so></reg></choice <orig>allso</orig> the Stone.
+                        <lb/>As the Salamander lives in fire <orig>soe</orig> <orig>allso</orig> the Stone.
                     </head>
                 </div>
                 
@@ -36,7 +36,7 @@
                     <lg>
                         <l>The Salamander sports in scorching heats,</l>
                         <l>And, Vulcan! bids <choice><orig>defyance</orig><reg>defiance</reg></choice> to your threats;</l>
-                        <l>The Stone <choice><orig>soe</orig><reg>so></reg></choice <orig>allso</orig> being thereto invr'd<!-- what contraction is this? -->,</l>
+                        <l>The Stone <orig>soe</orig> <orig>allso</orig> being thereto invr'd<!-- what contraction is this? -->,</l>
                         <l>Withstands the strongest flames were <choice><orig>e're</orig><reg>ever</reg></choice> endured:</l>
                         <l>That <choice><orig>vermine</orig><reg>vermin</reg></choice> cold and moist <choice><orig>congeales</orig><reg>congeals</reg></choice> the fire,</l>
                         <l>This stone with heat <orig>dos</orig> as its like conspire.</l>
@@ -50,9 +50,9 @@
                     <ab><!--Our convention will be that if we have break = "no" then it means that the word is broken across the line with a dash--> 
                         <lb/>Two Elements there are, in which <orig>animalls</orig> live, water and <orig>aire</orig>, and as ma<milestone unit="section" n="e03-01" /> <!-- Change the value of n to "e" plus the number of the emblem (in two digits), followed by a hyphen and then a two-digit count of sentence -->
                         <lb break="no"/>ny in which <orig>noe</orig> animated thing can live, earth and fire: For as those are
-                        <lb/>of a <orig>midle</orig> and temperate complexion in the first and second <orig>qualityes</orig>, <choice><orig>soe</orig><reg>so></reg></choice
-                        <lb/>these are extreme; <orig>bodyes</orig> either too <orig>thicke</orig> or too <choice><orig>subtill</orig><reg>subtle</reg></choice>, <choice><orig>soe</orig><reg>so></reg></choice <orig>thicke</orig> as not
-                        <lb/>to <orig>admitt</orig> other <orig>bodyes</orig>, <choice><orig>soe</orig><reg>so></reg></choice <orig>subtill</orig> as indeed to admit, but to penetrate and <orig>burne</orig>
+                        <lb/>of a <orig>midle</orig> and temperate complexion in the first and second <orig>qualityes</orig>, <orig>soe</orig>
+                        <lb/>these are extreme; <orig>bodyes</orig> either too <orig>thicke</orig> or too <choice><orig>subtill</orig><reg>subtle</reg></choice>, <orig>soe</orig> <orig>thicke</orig> as not
+                        <lb/>to <orig>admitt</orig> other <orig>bodyes</orig>, <orig>soe</orig> <orig>subtill</orig> as indeed to admit, but to penetrate and <orig>burne</orig>
                         <lb/>them: But the reason why men <orig>doe</orig> live in vaults and subterranean <orig>Mynes</orig> is
                         <lb/>because of the <orig>aire</orig> descending thitherto, and supplying the vacuity of those
                         <lb/>places: But here <orig>wee</orig> <orig>speake</orig> of every Element apart: In water fish <orig>doe</orig> live
@@ -96,7 +96,7 @@
                         <lb/>judges, and Salamanders are above his violence, which they <orig>doe</orig> not fear:<pc>-</pc>
                         <lb/>Avicenne in Porta reckons up the various temperaments of <orig>bodyes</orig>, which are
                         <lb/>all <orig>unæquall</orig>, and therefore corruptible by fire and other <choice><orig>injuryes</orig><reg>injuries</reg></choice>: but one
-                        <lb/><orig>hee</orig> affirms to be exactly <orig>æquall</orig>, which <orig>hath</orig> <choice><orig>soe</orig><reg>so></reg></choice much heat, as cold, <choice><orig>soe</orig><reg>so></reg></choice<pc>-</pc>
+                        <lb/><orig>hee</orig> affirms to be exactly <orig>æquall</orig>, which <orig>hath</orig> <orig>soe</orig> much heat, as cold, <orig>soe</orig><pc>-</pc>
                         <lb/>much siccity, as moisture, not as to weight, but justice, as the Physicians
                         <lb/><choice><orig>terme</orig><reg>term</reg></choice> it, and this is that which more patient, than agent; in which if
                         <lb/>fire <orig>endeavours</orig> to dissolve water its contrary into <orig>aire</orig> its familiar, the
@@ -108,7 +108,7 @@
                         <lb break="no"/>ter <choice><orig>adhæring</orig><reg>adhering</reg></choice> to it <choice><orig>prævayles</orig><reg>prevails</reg></choice> against exceptions, which <orig>Shews</orig> <orig>itselfe</orig> uni
                         <lb break="no"/>ted to the earth, and the <orig>aire</orig> to it, and fire to the earth on the other<pc>-</pc>
                         <lb/>side; <orig>hee</orig> therefore that would incinerate the earth, must <orig>allso</orig> incine
-                        <lb break="no"/>rate the other Elements: And <choice><orig>soe</orig><reg>so></reg></choice Vulcan being <choice><orig>disapointed</orig><reg>disappointed</reg></choice> suspends<pc>-</pc>
+                        <lb break="no"/>rate the other Elements: And <orig>soe</orig> Vulcan being <choice><orig>disapointed</orig><reg>disappointed</reg></choice> suspends<pc>-</pc>
                         <lb/>his <choice><orig>judgement</orig><reg>judgment</reg></choice>, lest hee Should be derided by all men. This body is like
                         <lb/>the <choice><orig>reall</orig><reg>real</reg></choice> Salamander, in which the Elements are exactly <choice><orig>æquallized</orig><reg>equalized</reg></choice> in vir
                         <lb break="no"/>tue: Of it <orig>Sayth</orig> the Rosary out of Geber; That Philosopher would have<pc>-</pc>

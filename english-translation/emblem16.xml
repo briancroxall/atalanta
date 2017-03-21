@@ -49,13 +49,13 @@
                     <head>Discourse 16.</head>
                     <ab><!--Our convention will be that if we have break = "no" then it means that the word is broken across the line with a dash--> 
                         <lb/>It is a thing <orig>knowne</orig> by experience that a <orig>Lyon</orig> <orig>excells</orig> other <orig>animalls</orig> not<milestone unit="section" n="e03-01" /> <!-- Change the value of n to "e" plus the number of the emblem (in two digits), followed by a hyphen and then a two-digit count of sentence -->
-                        <lb/><choice><orig>soe</orig><reg>so></reg></choice much in <orig>bignesse</orig> and strength of body, as generosity: if <orig>hee</orig> be seen in<pc>-</pc>
+                        <lb/><orig>soe</orig> much in <orig>bignesse</orig> and strength of body, as generosity: if <orig>hee</orig> be seen in<pc>-</pc>
                         <lb/>hunting, being <choice><orig>ashamd</orig><reg>ashamed</reg></choice> to <orig>runne</orig> away, <orig>hee</orig> <choice><orig>releaseth</orig><reg>releases</reg></choice> <orig>himselfe</orig> by degrees,
                         <lb/>if <orig>hee</orig> be <orig>oppressd</orig> by a multitude: being removed from the view of the<pc>-</pc>
                         <lb/>hunters, <orig>hee</orig> makes hast away, thinking it a <choice><orig>dishonour</orig><reg>dishonor</reg></choice> to be <choice><orig>excusd</orig><reg>excused</reg></choice> by ab
                         <lb break="no"/>sconding: <orig>hee</orig> desires a wood in flight, which <orig>hee</orig> <choice><orig>useth</orig><reg>uses</reg></choice>, when anything
                         <lb/>pursues: his bones are solid and not at all empty, which are <orig>sayd</orig> to be
-                        <lb/><choice><orig>soe</orig><reg>so></reg></choice hard, that being <choice><orig>shakd</orig><reg>shaked</reg></choice> together they <orig>yeild</orig> fire as out of a Steel and<pc>-</pc>
+                        <lb/><orig>soe</orig> hard, that being <choice><orig>shakd</orig><reg>shaked</reg></choice> together they <orig>yeild</orig> fire as out of a Steel and<pc>-</pc>
                         <lb/>flint. <orig>Hee</orig> fears fire above all things. <orig>Hee</orig> seems to derive his substance
                         <lb/>from the nature of the <orig>Sunne</orig>, for in force and heat <orig>hee</orig> <orig>excells</orig> other<pc>-</pc>
                         <lb/><orig>animalls</orig>, as the <orig>Sunne</orig> <orig>doth</orig> the <orig>Starrs</orig>: Besides <orig>hee</orig> is <orig>allways</orig> beheld with
@@ -71,9 +71,9 @@
                         <lb/><orig>Lyon</orig>, as it were <orig>hieroglyphicall</orig> writings testifying of their secret<pc>-</pc>
                         <lb/><orig>worke</orig>, observing the <orig>Lyon</orig> to be a constant, <orig>firme</orig> <orig>animall</orig>, without<pc>-</pc>
                         <lb/><choice><orig>deceipt</orig><reg>deceit</reg></choice> and suspicion, they assimilated the better part of their <orig>Phi
-                        <lb break="no"/>losophicall</orig> composition to him: for as <orig>hee</orig> <orig>flyes</orig> not, <choice><orig>soe</orig><reg>so></reg></choice neither this:<pc>-</pc>
-                        <lb/><orig>hee</orig> with solid bones, <choice><orig>soe</orig><reg>so></reg></choice this fixed and not to be overcome: and as<pc>-</pc>
-                        <lb/>the <orig>Lionesse</orig> is not <orig>allways</orig> innocent and free from adultery, <choice><orig>soe</orig><reg>so></reg></choice<pc>-</pc>
+                        <lb break="no"/>losophicall</orig> composition to him: for as <orig>hee</orig> <orig>flyes</orig> not, <orig>soe</orig> neither this:<pc>-</pc>
+                        <lb/><orig>hee</orig> with solid bones, <orig>soe</orig> this fixed and not to be overcome: and as<pc>-</pc>
+                        <lb/>the <orig>Lionesse</orig> is not <orig>allways</orig> innocent and free from adultery, <orig>soe</orig><pc>-</pc>
                         <lb/>is neither Luna nor Mercury without some blemish, but is <orig>joyned</orig>
                         <lb/>by the ignorant sometimes to this, sometimes to that matter, where
                         <lb break="no"/>by an adulterous conjunction of things discrepant and different in

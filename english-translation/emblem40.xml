@@ -48,7 +48,7 @@
                 <div type="discourse" xml:lang="en">
                     <head>Discourse 40.</head>
                     <ab><!--Our convention will be that if we have break = "no" then it means that the word is broken across the line with a dash--> 
-                        <lb/>The miracles of waters are <choice><orig>soe</orig><reg>so></reg></choice many and <choice><orig>soe</orig><reg>so></reg></choice great, as scarce to be<pc>-</pc><milestone unit="section" n="e03-01" /> <!-- Change the value of n to "e" plus the number of the emblem (in two digits), followed by a hyphen and then a two-digit count of sentence -->
+                        <lb/>The miracles of waters are <orig>soe</orig> many and <orig>soe</orig> great, as scarce to be<pc>-</pc><milestone unit="section" n="e03-01" /> <!-- Change the value of n to "e" plus the number of the emblem (in two digits), followed by a hyphen and then a two-digit count of sentence -->
                         <lb/>comprehended in a large volume, concerning which <orig>severall</orig> authors<pc>-</pc>
                         <lb/>have here and there treated: But above all the two <orig>Philosophicall</orig> wa
                         <lb break="no"/>ters are celebrated with that name, because they <orig>doe</orig> as it were not <orig>one
@@ -64,7 +64,7 @@
                         <lb/>luke=warme by <orig>turnes</orig>. <orig>Wee</orig> need not insist upon others, all things even
                         <lb/>contrary one to the other are <orig>performd</orig> by the Philosophers waters. Of
                         <lb/>which <orig>Sayth</orig> Lully in his <orig>booke</orig> of the Quintessence, distin: 3. of ince
-                        <lb break="no"/>ration<!-- not sure what this is -->; And <choice><orig>soe</orig><reg>so></reg></choice there is a twofold consideration in the act, that is, of
+                        <lb break="no"/>ration<!-- not sure what this is -->; And <orig>soe</orig> there is a twofold consideration in the act, that is, of
                         <lb/>the single nature of one <orig>metall</orig> to make two contrary <orig>liquours</orig> in the<pc>-</pc>
                         <lb/>composition; one, which <orig>hath</orig> a fixing, congealing, and <choice><orig>hardning</orig><reg>hardening</reg></choice> vir
                         <lb break="no"/>tue, and the other, which is volatile, unfixed, and soft. But that se
@@ -114,7 +114,7 @@
                         <lb/>dyes</orig>, there would be four Quintessences in every <seg rend="superscript">2</seg> composition <seg rend="superscript">1</seg> <orig>arti
                         <lb break="no"/>ficiall</orig>, according to the number of the order of the <orig>qualityes</orig>, first,<pc>-</pc>
                         <lb/>second Ct. without their <orig>bodyes</orig>, and separable; which they say
-                        <lb/>is not <choice><orig>soe</orig><reg>so></reg></choice with the coagulum of a hare, which being in flux<pc>-</pc>
+                        <lb/>is not <orig>soe</orig> with the coagulum of a hare, which being in flux<pc>-</pc>
                         <lb/>by the tenuity of the blood stops and as it were coagulates it,<pc>-</pc>
                         <lb/>but in the coagulation and concretion <choice><orig>cutts</orig><reg>cuts</reg></choice> and resolves the same;
                         <lb/>soe the operations of vinegar, lead, and many other things are con
