@@ -26,7 +26,7 @@
                 <div type="title" xml:lang="en">
                     <head>
                         <lb/><orig>Embleme</orig> 44. Of the Secrets of Nature.
-                        <lb/>Typhon kills <orig>Osyris</orig> by <choice><orig>deceipt</orig><reg>deceit</reg></choice>, and <choice><orig>disperseth</orig><reg>disperses</reg></choice> the parts of his body on
+                        <lb/>Typhon kills <choice><orig>wee</orig><reg>we</reg></choice>Osyris</orig> by <choice><orig>deceipt</orig><reg>deceit</reg></choice>, and <choice><orig>disperseth</orig><reg>disperses</reg></choice> the parts of his body on
                         <lb/>all sides, but the famous Isis gathered them together.
                     </head>
                 </div>
@@ -35,10 +35,10 @@
                 <div type="epigram" xml:lang="en">
                     <head><orig>Epigramme</orig> 44.</head>
                     <lg>
-                        <l>Adonis Syria, Greece, <orig>hath</orig> <orig>Dionyse</orig>,</l>
-                        <l><orig>Ægypt</orig>, <orig>Osyris</orig>, all the <orig>Sunne</orig> <choice><orig>o'th</orig><reg>of the</reg></choice> wise:</l>
-                        <l>Isis, <orig>Osyris</orig> into <orig>peices</orig> <orig>cutt</orig></l>
-                        <l>By <choice><orig>cruell</orig><reg>cruel</reg></choice> Typhon, all together <orig>putt</orig>:</l>
+                        <l>Adonis Syria, Greece, <choice><orig>wee</orig><reg>we</reg></choice>hath</orig> <choice><orig>wee</orig><reg>we</reg></choice>Dionyse</orig>,</l>
+                        <l><orig>Ægypt</orig>, <choice><orig>wee</orig><reg>we</reg></choice>Osyris</orig>, all the <choice><orig>wee</orig><reg>we</reg></choice>Sunne</orig> <choice><orig>o'th</orig><reg>of the</reg></choice> wise:</l>
+                        <l>Isis, <choice><orig>wee</orig><reg>we</reg></choice>Osyris</orig> into <choice><orig>wee</orig><reg>we</reg></choice>peices</orig> <choice><orig>wee</orig><reg>we</reg></choice>cutt</orig></l>
+                        <l>By <choice><orig>cruell</orig><reg>cruel</reg></choice> Typhon, all together <choice><orig>wee</orig><reg>we</reg></choice>putt</orig>:</l>
                         <l>But the productive part is lost <choice><orig>i'th</orig><reg>in the</reg></choice> Sea,</l>
                         <l>For Sulphur Sulphur's father's fled away.</l>
                     </lg>
@@ -49,81 +49,81 @@
                 <div type="discourse" xml:lang="en">
                     <head>Discourse 44.</head>
                     <ab><!--Our convention will be that if we have break = "no" then it means that the word is broken across the line with a dash--> 
-                        <lb/>The allegory of <orig>Osyris</orig> <orig>wee</orig> have <orig>elswhere</orig> (namely in the first<milestone unit="section" n="e03-01" /> <!-- Change the value of n to "e" plus the number of the emblem (in two digits), followed by a hyphen and then a two-digit count of sentence -->
-                        <lb/><orig>booke</orig> of <orig>Hieroglyphicks</orig>) reduced to its true <orig>originall</orig>, which is
+                        <lb/>The allegory of <choice><orig>wee</orig><reg>we</reg></choice>Osyris</orig> <choice><orig>wee</orig><reg>we</reg></choice>wee</orig> have <choice><orig>wee</orig><reg>we</reg></choice>elswhere</orig> (namely in the first<milestone unit="section" n="e03-01" /> <!-- Change the value of n to "e" plus the number of the emblem (in two digits), followed by a hyphen and then a two-digit count of sentence -->
+                        <lb/><orig>booke</orig> of <choice><orig>wee</orig><reg>we</reg></choice>Hieroglyphicks</orig>) reduced to its true <choice><orig>wee</orig><reg>we</reg></choice>originall</orig>, which is
                         <lb/><orig>Chymicall</orig>, and fully <choice><orig>explaind</orig><reg>explained</reg></choice> it: Wherefore here to repeat the
                         <lb/>same things (though the same things ought to be spoken of the<pc>-</pc>
-                        <lb/>same things) <orig>wee</orig> judge superfluous: but <orig>neverthelesse</orig> <orig>wee</orig> will
-                        <lb/>here forme a <choice><orig>parallell</orig><reg>parallel</reg></choice> discourse, which will <orig>allwayes</orig> be and <orig>re
-                        <lb break="no"/>maine</orig> within the prisons of that ancient <orig>Chymy</orig>, which is solely
-                        <lb/>decanted and decipered by the <orig>Poetts</orig>: Will you <orig>perswade</orig> <orig>mee</orig><pc>-</pc>
-                        <lb/>that <orig>Osyris</orig> was a God, or King of the <orig>Ægyptians</orig>? I will not <orig>be
-                        <lb break="no"/>leive</orig>, though you <orig>perswade</orig> <orig>mee</orig> to <orig>beleive</orig>; For <orig>doggs</orig> (as it is in<pc>-</pc>
-                        <lb/>the Proverb) smell <orig>farre</orig> otherwise, <orig>farre</orig> otherwise Swine: I <orig>doe</orig>
-                        <lb/>plainly deny him to be a God, and you will ascent to <orig>mee</orig>, <orig>unlesse</orig>
+                        <lb/>same things) <choice><orig>wee</orig><reg>we</reg></choice>wee</orig> judge superfluous: but <choice><orig>wee</orig><reg>we</reg></choice>neverthelesse</orig> <choice><orig>wee</orig><reg>we</reg></choice>wee</orig> will
+                        <lb/>here forme a <choice><orig>parallell</orig><reg>parallel</reg></choice> discourse, which will <choice><orig>wee</orig><reg>we</reg></choice>allwayes</orig> be and <choice><orig>wee</orig><reg>we</reg></choice>re
+                        <lb break="no"/>maine</orig> within the prisons of that ancient <choice><orig>wee</orig><reg>we</reg></choice>Chymy</orig>, which is solely
+                        <lb/>decanted and decipered by the <choice><orig>wee</orig><reg>we</reg></choice>Poetts</orig>: Will you <choice><orig>wee</orig><reg>we</reg></choice>perswade</orig> <choice><orig>wee</orig><reg>we</reg></choice>mee</orig><pc>-</pc>
+                        <lb/>that <choice><orig>wee</orig><reg>we</reg></choice>Osyris</orig> was a God, or King of the <choice><orig>wee</orig><reg>we</reg></choice>Ægyptians</orig>? I will not <choice><orig>wee</orig><reg>we</reg></choice>be
+                        <lb break="no"/>leive</orig>, though you <choice><orig>wee</orig><reg>we</reg></choice>perswade</orig> <choice><orig>wee</orig><reg>we</reg></choice>mee</orig> to <choice><orig>wee</orig><reg>we</reg></choice>beleive</orig>; For <choice><orig>wee</orig><reg>we</reg></choice>doggs</orig> (as it is in<pc>-</pc>
+                        <lb/>the Proverb) smell <choice><orig>wee</orig><reg>we</reg></choice>farre</orig> otherwise, <choice><orig>wee</orig><reg>we</reg></choice>farre</orig> otherwise Swine: I <choice><orig>wee</orig><reg>we</reg></choice>doe</orig>
+                        <lb/>plainly deny him to be a God, and you will ascent to <choice><orig>wee</orig><reg>we</reg></choice>mee</orig>, <choice><orig>wee</orig><reg>we</reg></choice>unlesse</orig>
                         <lb/>you be a heathen, or of an opinion contradictory to right reason:
-                        <lb/>And that <orig>hee</orig> was <orig>noe</orig> King, is demonstrated by all the circum
-                        <lb break="no"/>stances which are <orig>elswhere</orig> considered: The <orig>Sunne</orig> <orig>hee</orig> is, but<pc>-</pc>
+                        <lb/>And that <choice><orig>wee</orig><reg>we</reg></choice>hee</orig> was <choice><orig>wee</orig><reg>we</reg></choice>noe</orig> King, is demonstrated by all the circum
+                        <lb break="no"/>stances which are <choice><orig>wee</orig><reg>we</reg></choice>elswhere</orig> considered: The <choice><orig>wee</orig><reg>we</reg></choice>Sunne</orig> <choice><orig>wee</orig><reg>we</reg></choice>hee</orig> is, but<pc>-</pc>
                         <lb/><orig>Philosophicall</orig>, the name of which being in many authors often at
-                        <lb break="no"/>tributed to it, the vulgar, who know <orig>noe</orig> other light but that of the<pc>-</pc>
-                        <lb/>world, have interpreted for it. The Philosophers <orig>Sunne</orig> <orig>hath</orig> denomi
-                        <lb break="no"/>nation from the <orig>Sunne</orig> of the World, because it contains the <orig>propertyes</orig>
-                        <lb/>of nature descending from that <orig>cælestiall</orig> <orig>Sunne</orig>, or <orig>agreable</orig> to it: <orig>Osyris</orig>
-                        <lb/>therefore, Dionysus, Bacchus, Jupiter, Mars, Adonis, <orig>Œdipus</orig>, Perseus, Achil
-                        <lb break="no"/>les, Triptolemus, Pelops, Hippomenes, and Pollux are the <orig>Sunne</orig>: but<pc>-</pc>
-                        <lb/>Isis, Juno, Venus, the mother of <orig>Œdipus</orig>, Danaë, Deidamia, Atalanta,
-                        <lb/>Helena, the <orig>Moone</orig>; as <orig>allso</orig> Latona, Semele, Europa, Leda, Antiope<pc>-</pc>
+                        <lb break="no"/>tributed to it, the vulgar, who know <choice><orig>wee</orig><reg>we</reg></choice>noe</orig> other light but that of the<pc>-</pc>
+                        <lb/>world, have interpreted for it. The Philosophers <choice><orig>wee</orig><reg>we</reg></choice>Sunne</orig> <choice><orig>wee</orig><reg>we</reg></choice>hath</orig> denomi
+                        <lb break="no"/>nation from the <choice><orig>wee</orig><reg>we</reg></choice>Sunne</orig> of the World, because it contains the <choice><orig>wee</orig><reg>we</reg></choice>propertyes</orig>
+                        <lb/>of nature descending from that <choice><orig>wee</orig><reg>we</reg></choice>cælestiall</orig> <choice><orig>wee</orig><reg>we</reg></choice>Sunne</orig>, or <choice><orig>wee</orig><reg>we</reg></choice>agreable</orig> to it: <choice><orig>wee</orig><reg>we</reg></choice>Osyris</orig>
+                        <lb/>therefore, Dionysus, Bacchus, Jupiter, Mars, Adonis, <choice><orig>wee</orig><reg>we</reg></choice>Œdipus</orig>, Perseus, Achil
+                        <lb break="no"/>les, Triptolemus, Pelops, Hippomenes, and Pollux are the <choice><orig>wee</orig><reg>we</reg></choice>Sunne</orig>: but<pc>-</pc>
+                        <lb/>Isis, Juno, Venus, the mother of <choice><orig>wee</orig><reg>we</reg></choice>Œdipus</orig>, Danaë, Deidamia, Atalanta,
+                        <lb/>Helena, the <choice><orig>wee</orig><reg>we</reg></choice>Moone</orig>; as <choice><orig>wee</orig><reg>we</reg></choice>allso</orig> Latona, Semele, Europa, Leda, Antiope<pc>-</pc>
                         <lb/>Thalia. And these are the parts of the compound, which before ope
-                        <lb break="no"/>ration is called Stone, and by the name of every <orig>metall</orig>, Magnesia:<pc>-</pc>
+                        <lb break="no"/>ration is called Stone, and by the name of every <choice><orig>wee</orig><reg>we</reg></choice>metall</orig>, Magnesia:<pc>-</pc>
                         <lb/>After operation, Orcus, Pyrrhus, Apollo, <choice><orig>Æsculapius</orig><reg>Esculapius</reg></choice>. The adjuncts are<pc>-</pc>
                         <lb/>Typhon, Python, the Boar: The Artists are Hercules, <choice><orig>Ulissess</orig><reg>Ulysses</reg></choice>, Jason,<pc>-</pc>
-                        <lb/>Theseus, Pyrithous: The <orig>labours</orig> and <choice><orig>perills</orig><reg>perils</reg></choice>, which were undergone by
-                        <lb/>these artists, are innumerable: The <orig>labours</orig> of Hercules, the <orig>errours</orig> of
+                        <lb/>Theseus, Pyrithous: The <choice><orig>wee</orig><reg>we</reg></choice>labours</orig> and <choice><orig>perills</orig><reg>perils</reg></choice>, which were undergone by
+                        <lb/>these artists, are innumerable: The <choice><orig>wee</orig><reg>we</reg></choice>labours</orig> of Hercules, the <choice><orig>wee</orig><reg>we</reg></choice>errours</orig> of
                         <lb/>Ulysses, the <choice><orig>perills</orig><reg>perils</reg></choice> of Jason, the attempts of Theseus, and the remora's of
                         <lb/>Pyrithous may be seen: This is the great volume of matter and doc
-                        <lb break="no"/>trine, through which in every page Vulcan, Mercury, and <orig>Saturne</orig> <orig>doe</orig>
+                        <lb break="no"/>trine, through which in every page Vulcan, Mercury, and <choice><orig>wee</orig><reg>we</reg></choice>Saturne</orig> <choice><orig>wee</orig><reg>we</reg></choice>doe</orig>
                         <lb/><orig>runne</orig> backwards and forwards, the first, as the father and cause of all,
-                        <lb/>without which nothing is effected, the second, as the matter and <orig>forme</orig>,
+                        <lb/>without which nothing is effected, the second, as the matter and <choice><orig>wee</orig><reg>we</reg></choice>forme</orig>,
                         <lb/>the third, as the efficient. Sol takes his sister Luna to wife: Jupiter Juno,
-                        <lb/>as <orig>Saturne</orig> Rhea, and <orig>Osyris</orig> Isis: <orig>Dionysus</orig> is <choice><orig>rippd</orig><reg>ripped</reg></choice> out of his mother Se
+                        <lb/>as <choice><orig>wee</orig><reg>we</reg></choice>Saturne</orig> Rhea, and <choice><orig>wee</orig><reg>we</reg></choice>Osyris</orig> Isis: <choice><orig>wee</orig><reg>we</reg></choice>Dionysus</orig> is <choice><orig>rippd</orig><reg>ripped</reg></choice> out of his mother Se
                         <lb break="no"/>mele being burnt by the lightening of Jove to be matured in the<pc>-</pc>
-                        <lb/>thigh of Jupiter his father, <choice><orig>Æsculapius</orig><reg>Esculapius</reg></choice> out of Coronis his Mother: <orig>Dio
-                        <lb break="no"/>nysus</orig> coming to maturity <orig>shews</orig> men a new way of drinking wine, un
-                        <lb break="no"/>dertaking an expedition even to the <orig>Indyes</orig>; <orig>Osyris</orig> and Triptolemus,
+                        <lb/>thigh of Jupiter his father, <choice><orig>Æsculapius</orig><reg>Esculapius</reg></choice> out of Coronis his Mother: <choice><orig>wee</orig><reg>we</reg></choice>Dio
+                        <lb break="no"/>nysus</orig> coming to maturity <choice><orig>wee</orig><reg>we</reg></choice>shews</orig> men a new way of drinking wine, un
+                        <lb break="no"/>dertaking an expedition even to the <choice><orig>wee</orig><reg>we</reg></choice>Indyes</orig>; <choice><orig>wee</orig><reg>we</reg></choice>Osyris</orig> and Triptolemus,
                         <lb/>the sowing and use of fruit, <choice><orig>Æsculapius</orig><reg>Esculapius</reg></choice>, the administration of Me
                         
                         
                         
                         <pb n="139"/><fw>Discourse 44.</fw><!-- Page number of the actual manuscript, followed by the header on the page. -->
-                        <lb break="no"/>dicine: <orig>Dionysus</orig> <choice><orig>soe</orig><reg>so</reg></choice> <orig>calld</orig> by the Greeks, is Bacchus with the Romans,<pc>-</pc>
-                        <lb/>with the <orig>Ægyptians</orig> <orig>Osyris</orig>, with the Syrians Adonis. <orig>Œdipus</orig> <orig>killd</orig> his father
-                        <lb/>and <orig>marryd</orig> his mother; Perseus slew his Grand=father, Typhon his bro
-                        <lb break="no"/>ther <orig>Osyris</orig>, a Boar Adonis, Ceres the <orig>nurce</orig> of Triptolemus his father
+                        <lb break="no"/>dicine: <choice><orig>wee</orig><reg>we</reg></choice>Dionysus</orig> <choice><orig>soe</orig><reg>so</reg></choice> <choice><orig>wee</orig><reg>we</reg></choice>calld</orig> by the Greeks, is Bacchus with the Romans,<pc>-</pc>
+                        <lb/>with the <choice><orig>wee</orig><reg>we</reg></choice>Ægyptians</orig> <choice><orig>wee</orig><reg>we</reg></choice>Osyris</orig>, with the Syrians Adonis. <choice><orig>wee</orig><reg>we</reg></choice>Œdipus</orig> <choice><orig>wee</orig><reg>we</reg></choice>killd</orig> his father
+                        <lb/>and <choice><orig>wee</orig><reg>we</reg></choice>marryd</orig> his mother; Perseus slew his Grand=father, Typhon his bro
+                        <lb break="no"/>ther <choice><orig>wee</orig><reg>we</reg></choice>Osyris</orig>, a Boar Adonis, Ceres the <choice><orig>wee</orig><reg>we</reg></choice>nurce</orig> of Triptolemus his father
                         <lb/>Eleusius; Hippomenes <subst><del>obtained</del><add>overcame</add></subst> Atalanta by a golden apple. Tantalus
                         <lb/>the father of Pelops obtained Hippodamia by the dispute of a <choice><orig>Chariott</orig><reg>Chariot</reg></choice>.
-                        <lb/><orig>Osyris</orig> was <orig>cutt</orig> in <orig>peices</orig>, and <orig>joyned</orig> together <orig>againe</orig> by Isis his mother,
-                        <lb/>sister, and wife. The child Pelops was <orig>boyld</orig> and <choice><orig>dressd</orig><reg>dressed</reg></choice>, and his shoulder
-                        <lb/>eaten by Ceres, and <orig>againe</orig> <choice><orig>restord</orig><reg>restored</reg></choice> to life, an ivory shoulder being added:
+                        <lb/><orig>Osyris</orig> was <choice><orig>wee</orig><reg>we</reg></choice>cutt</orig> in <choice><orig>wee</orig><reg>we</reg></choice>peices</orig>, and <choice><orig>wee</orig><reg>we</reg></choice>joyned</orig> together <choice><orig>wee</orig><reg>we</reg></choice>againe</orig> by Isis his mother,
+                        <lb/>sister, and wife. The child Pelops was <choice><orig>wee</orig><reg>we</reg></choice>boyld</orig> and <choice><orig>dressd</orig><reg>dressed</reg></choice>, and his shoulder
+                        <lb/>eaten by Ceres, and <choice><orig>wee</orig><reg>we</reg></choice>againe</orig> <choice><orig>restord</orig><reg>restored</reg></choice> to life, an ivory shoulder being added:
                         <lb/>Achilles and Triptolemus were put under coals of fire by night, and in
-                        <lb/>the day time nourished with <orig>milke</orig>, Achilles by Ceres his <orig>Nurce</orig>, <subst><del>Tripto</del><add>Achillis</add></subst>
+                        <lb/>the day time nourished with <choice><orig>wee</orig><reg>we</reg></choice>milke</orig>, Achilles by Ceres his <choice><orig>wee</orig><reg>we</reg></choice>Nurce</orig>, <subst><del>Tripto</del><add>Achillis</add></subst>
                         <lb break="no"/>lemus by his mother Thetis: Achilles and Helena were the causes of the
-                        <lb/><orig>Trojane</orig> <orig>warre</orig>, <seg rend="superscript">1</seg> Achilles, <seg rend="superscript">5</seg> as <seg rend="superscript">6</seg> impulsive, <seg rend="superscript">4</seg> Helena, <seg rend="superscript">2</seg> as <seg rend="superscript">3</seg> efficient; Helena was
-                        <lb/><choice><orig>hatchd</orig><reg>hatched</reg></choice> of an <orig>egge</orig>, and at the <orig>nuptialls</orig> of Peleus and Thetis, from whom
+                        <lb/><orig>Trojane</orig> <choice><orig>wee</orig><reg>we</reg></choice>warre</orig>, <seg rend="superscript">1</seg> Achilles, <seg rend="superscript">5</seg> as <seg rend="superscript">6</seg> impulsive, <seg rend="superscript">4</seg> Helena, <seg rend="superscript">2</seg> as <seg rend="superscript">3</seg> efficient; Helena was
+                        <lb/><choice><orig>hatchd</orig><reg>hatched</reg></choice> of an <choice><orig>wee</orig><reg>we</reg></choice>egge</orig>, and at the <choice><orig>wee</orig><reg>we</reg></choice>nuptialls</orig> of Peleus and Thetis, from whom
                         <lb/>Achilles descended, the apple of Eris, the first cause of the rape of<pc>-</pc>
-                        <lb/>Helena, was <orig>throwne</orig> about. Pollux was with the Argonauts, who (if they
-                        <lb/>lived) are <choice><orig>præsupposed</orig><reg>presupposed</reg></choice> to have lived near fifty years before the <orig>be
-                        <lb break="no"/>gining</orig> of the <orig>Trojane</orig> <orig>warre</orig>, and Helena with Pollux came both
-                        <lb/>out of one <orig>egge</orig>; Helena therefore was an old woman when she was
-                        <lb/><choice><orig>ravishd</orig><reg>ravished</reg></choice> by Paris: Medea was <orig>marryd</orig> to Achilles in the Elysian <choice><orig>feilds</orig><reg>fields</reg></choice>,
-                        <lb/>then an old <choice><orig>toothlesse</orig><reg>toothless</reg></choice> woman: <orig>unlesse</orig> perhaps <orig>Shee</orig> restored youth to
-                        <lb/><orig>herselfe</orig>, as <orig>Shee</orig> did to <choice><orig>Æson</orig><reg>Aeson</reg></choice>, the father of Jason, and as Ceres to Pe
-                        <lb break="no"/>lops, for which reason <orig>hee</orig> is <orig>sayd</orig> to become twice young: Perseus <orig>re
+                        <lb/>Helena, was <choice><orig>wee</orig><reg>we</reg></choice>throwne</orig> about. Pollux was with the Argonauts, who (if they
+                        <lb/>lived) are <choice><orig>præsupposed</orig><reg>presupposed</reg></choice> to have lived near fifty years before the <choice><orig>wee</orig><reg>we</reg></choice>be
+                        <lb break="no"/>gining</orig> of the <choice><orig>wee</orig><reg>we</reg></choice>Trojane</orig> <choice><orig>wee</orig><reg>we</reg></choice>warre</orig>, and Helena with Pollux came both
+                        <lb/>out of one <choice><orig>wee</orig><reg>we</reg></choice>egge</orig>; Helena therefore was an old woman when she was
+                        <lb/><choice><orig>ravishd</orig><reg>ravished</reg></choice> by Paris: Medea was <choice><orig>wee</orig><reg>we</reg></choice>marryd</orig> to Achilles in the Elysian <choice><orig>feilds</orig><reg>fields</reg></choice>,
+                        <lb/>then an old <choice><orig>toothlesse</orig><reg>toothless</reg></choice> woman: <choice><orig>wee</orig><reg>we</reg></choice>unlesse</orig> perhaps <choice><orig>wee</orig><reg>we</reg></choice>Shee</orig> restored youth to
+                        <lb/><orig>herselfe</orig>, as <choice><orig>wee</orig><reg>we</reg></choice>Shee</orig> did to <choice><orig>Æson</orig><reg>Aeson</reg></choice>, the father of Jason, and as Ceres to Pe
+                        <lb break="no"/>lops, for which reason <choice><orig>wee</orig><reg>we</reg></choice>hee</orig> is <choice><orig>wee</orig><reg>we</reg></choice>sayd</orig> to become twice young: Perseus <choice><orig>wee</orig><reg>we</reg></choice>re
                         <lb break="no"/>ceivd</orig> a flying horse from Pallas, and in recompence brought her
-                        <lb/>the head of Medusa, to <orig>whome</orig> Mercury gave a Semitar, and
+                        <lb/>the head of Medusa, to <choice><orig>wee</orig><reg>we</reg></choice>whome</orig> Mercury gave a Semitar, and
                         <lb/>other Gods other weapons; Ceres gave Triptolemus a chariot<pc>-</pc>
-                        <lb/>with flying Dragons: When Pallas was <orig>borne</orig> of Jupiters <orig>braine</orig>,
-                        <lb/>as <orig>allso</orig> when Sol lay with Venus it rained gold at Rhodes;<pc>-</pc>
-                        <lb/>And Jupiter in the <orig>forme</orig> of a golden shower had coition with
+                        <lb/>with flying Dragons: When Pallas was <choice><orig>wee</orig><reg>we</reg></choice>borne</orig> of Jupiters <choice><orig>wee</orig><reg>we</reg></choice>braine</orig>,
+                        <lb/>as <choice><orig>wee</orig><reg>we</reg></choice>allso</orig> when Sol lay with Venus it rained gold at Rhodes;<pc>-</pc>
+                        <lb/>And Jupiter in the <choice><orig>wee</orig><reg>we</reg></choice>forme</orig> of a golden shower had coition with
                         <lb/>Danae, as a <choice><orig>Swanne</orig><reg>Swan</reg></choice> compressed Leda, as a Cuckow his Sister<pc>-</pc>
                         <lb/>Juno, as a Bull Europa, as a <choice><orig>Satyre</orig><reg>Satyr</reg></choice> Antiope, and <choice><orig>soe</orig><reg>so</reg></choice> there
                         <lb/>is <choice><orig>cohærente</orig><reg>coherent</reg></choice> in all<pc>. . . . . . . . . .</pc>

@@ -26,7 +26,7 @@
                 <div type="title" xml:lang="en">
                     <head>
                         <lb/><orig>Embleme</orig> 14. Of the Secrets of Nature.
-                        <lb/>This is the Dragon which devours his <orig>tayle</orig>.
+                        <lb/>This is the Dragon which devours his <choice><orig>wee</orig><reg>we</reg></choice>tayle</orig>.
                     </head>
                 </div>
                 
@@ -36,9 +36,9 @@
                     <lg>
                         <l>Hunger taught Polypus his flesh to eat,</l>
                         <l>And man with man his appetite to treat:</l>
-                        <l>The hungry Dragon feeding on his <orig>tayle</orig>,</l>
-                        <l>His fainting <orig>soule</orig> <choice><orig>releives</orig><reg>relieves</reg></choice>, which <orig>els</orig> would <choice><orig>fayle</orig><reg>fail</reg></choice>;</l>
-                        <l>Hold him to hard meat, till <orig>himselfe</orig> <orig>hee</orig> <orig>doe</orig></l>
+                        <l>The hungry Dragon feeding on his <choice><orig>wee</orig><reg>we</reg></choice>tayle</orig>,</l>
+                        <l>His fainting <choice><orig>wee</orig><reg>we</reg></choice>soule</orig> <choice><orig>releives</orig><reg>relieves</reg></choice>, which <choice><orig>wee</orig><reg>we</reg></choice>els</orig> would <choice><orig>fayle</orig><reg>fail</reg></choice>;</l>
+                        <l>Hold him to hard meat, till <choice><orig>wee</orig><reg>we</reg></choice>himselfe</orig> <choice><orig>wee</orig><reg>we</reg></choice>hee</orig> <choice><orig>wee</orig><reg>we</reg></choice>doe</orig></l>
                         <l>Eat and <choice><orig>devoure</orig><reg>devour</reg></choice>, kill and revive anew.</l>
                     </lg>
                 </div>
@@ -48,68 +48,68 @@
                 <div type="discourse" xml:lang="en">
                     <head>Discourse 14.</head>
                     <ab><!--Our convention will be that if we have break = "no" then it means that the word is broken across the line with a dash--> 
-                        <lb/>It is a saying of the Ancients, that a Serpent, which <orig>hath</orig> <choice><orig>devourd</orig><reg>devoured</reg></choice> a Serpent, be<milestone unit="section" n="e03-01" /> <!-- Change the value of n to "e" plus the number of the emblem (in two digits), followed by a hyphen and then a two-digit count of sentence -->
+                        <lb/>It is a saying of the Ancients, that a Serpent, which <choice><orig>wee</orig><reg>we</reg></choice>hath</orig> <choice><orig>devourd</orig><reg>devoured</reg></choice> a Serpent, be<milestone unit="section" n="e03-01" /> <!-- Change the value of n to "e" plus the number of the emblem (in two digits), followed by a hyphen and then a two-digit count of sentence -->
                         <lb break="no"/>comes a Dragon: for it is <choice><orig>cruell</orig><reg>cruel</reg></choice> to its kind, as a <choice><orig>theife</orig><reg>thief</reg></choice> and Murderer to his: It is<pc>-</pc>
                         <lb/>evident that such are in Africa, of <choice><orig>soe</orig><reg>so</reg></choice> great <choice><orig>bignesse</orig><reg>bigness</reg></choice> and plenty, that they<pc>-</pc>
                         <lb/>destroyed a great part of Alexanders army: Amongst the Asachæi a people<pc>-</pc>
                         <lb/>of <choice><orig>Æthiopia</orig><reg>Ethiopia</reg></choice> are very great produced, which being <choice><orig>wrapd</orig><reg>wrapped</reg></choice> together after<pc>-</pc>
-                        <lb/>the manner of hurdles <orig>doe</orig> with their heads lifted up make way to better<pc>-</pc>
+                        <lb/>the manner of hurdles <choice><orig>wee</orig><reg>we</reg></choice>doe</orig> with their heads lifted up make way to better<pc>-</pc>
                         <lb/>pasture. They report that the Kings of India <choice><orig>maintaind</orig><reg>maintained</reg></choice> two Dragons, one
                         <lb/>of eighty, and the other of ninety cubits in <choice><orig>bignesse</orig><reg>bigness</reg></choice>: by the observation of
-                        <lb/>later writers and <choice><orig>now adayes</orig><reg>nowadays</reg></choice> it is <orig>knowne</orig>, that near Angola are found such
-                        <lb/>as are <orig>æquall</orig> to the great masts of ships: <choice><orig>Soe</orig><reg>So</reg></choice> they report that in some <orig>cer
+                        <lb/>later writers and <choice><orig>now adayes</orig><reg>nowadays</reg></choice> it is <choice><orig>wee</orig><reg>we</reg></choice>knowne</orig>, that near Angola are found such
+                        <lb/>as are <choice><orig>wee</orig><reg>we</reg></choice>æquall</orig> to the great masts of ships: <choice><orig>Soe</orig><reg>So</reg></choice> they report that in some <choice><orig>wee</orig><reg>we</reg></choice>cer
                         <lb break="no"/>taine</orig> mountains of India and Africa there is great store of gold, but kept by
-                        <lb/>dragons, lest any one come thither and take it away: For dragons <orig>doe</orig> resort<pc>-</pc>
-                        <lb/>to fountains or rivers, which fall from the mountains, and <choice><orig>soe</orig><reg>so</reg></choice> are <orig>sayd</orig> to watch
-                        <lb/>the gold by accident: for this reason <orig>doe</orig> the Philosophers ascribe <choice><orig>soe</orig><reg>so</reg></choice> many<pc>-</pc>
+                        <lb/>dragons, lest any one come thither and take it away: For dragons <choice><orig>wee</orig><reg>we</reg></choice>doe</orig> resort<pc>-</pc>
+                        <lb/>to fountains or rivers, which fall from the mountains, and <choice><orig>soe</orig><reg>so</reg></choice> are <choice><orig>wee</orig><reg>we</reg></choice>sayd</orig> to watch
+                        <lb/>the gold by accident: for this reason <choice><orig>wee</orig><reg>we</reg></choice>doe</orig> the Philosophers ascribe <choice><orig>soe</orig><reg>so</reg></choice> many<pc>-</pc>
                         <lb/>dragons or serpents to their treasures, as to the golden Fleece, the garden of the<pc>-</pc>
-                        <lb/>Hesperides, and to other persons or <orig>Chymicall</orig> subjects, to Cadmus, Saturne, <choice><orig>Æscu
+                        <lb/>Hesperides, and to other persons or <choice><orig>wee</orig><reg>we</reg></choice>Chymicall</orig> subjects, to Cadmus, Saturne, <choice><orig>Æscu
                         <lb break="no"/>lapius</orig><reg>Esculapius</reg></choice>, Mercury, whose wand is begirt with two Serpents, male and female: but
-                        <lb/><orig>doe</orig> they <orig>meane</orig> nothing <orig>els</orig> by Dragons, but <orig>Chymicall</orig> subjects? Hereupon<pc>-</pc>
-                        <lb/>say they, the Dragons <orig>yeild</orig> mountains, and the earth fountains to Rebis,<pc>-</pc>
-                        <lb/>and denoting the extreme hunger of the dragon in devouring his <orig>tayle</orig>: which
-                        <lb/>though others may interpret of the year returning into <orig>itselfe</orig>, and resembling
+                        <lb/><orig>doe</orig> they <choice><orig>wee</orig><reg>we</reg></choice>meane</orig> nothing <choice><orig>wee</orig><reg>we</reg></choice>els</orig> by Dragons, but <choice><orig>wee</orig><reg>we</reg></choice>Chymicall</orig> subjects? Hereupon<pc>-</pc>
+                        <lb/>say they, the Dragons <choice><orig>wee</orig><reg>we</reg></choice>yeild</orig> mountains, and the earth fountains to Rebis,<pc>-</pc>
+                        <lb/>and denoting the extreme hunger of the dragon in devouring his <choice><orig>wee</orig><reg>we</reg></choice>tayle</orig>: which
+                        <lb/>though others may interpret of the year returning into <choice><orig>wee</orig><reg>we</reg></choice>itselfe</orig>, and resembling
                         <lb/>a circle, yet it was <choice><orig>accomodated</orig><reg>accommodated</reg></choice> by the Philosophers to their things, who<pc>-</pc>
                         <lb/>by this dragon would have a Serpent understood, which <choice><orig>devoures</orig><reg>devours</reg></choice> another of
-                        <lb/>its <orig>owne</orig> kind, and this is properly called Sulphur, as they all attest in innume
-                        <lb break="no"/>rable places: Lully in his little <orig>booke</orig> chapt. 31. This is, <orig>sayth</orig> <orig>hee</orig>, Sulphur,
-                        <lb/>my <orig>Sonne</orig>! and this the Serpent and dragon devouring his <orig>tayle</orig>, the roar
-                        <lb break="no"/>ing <orig>lyon</orig>, and sharp sword, cutting, mortifying, and tearing all things. And
-                        <lb/>the Rosary: The Dragon <orig>dyes</orig> not, <orig>unlesse</orig> <orig>hee</orig> be <orig>killd</orig> with his brother<pc>-</pc>
+                        <lb/>its <choice><orig>wee</orig><reg>we</reg></choice>owne</orig> kind, and this is properly called Sulphur, as they all attest in innume
+                        <lb break="no"/>rable places: Lully in his little <choice><orig>wee</orig><reg>we</reg></choice>booke</orig> chapt. 31. This is, <choice><orig>wee</orig><reg>we</reg></choice>sayth</orig> <choice><orig>wee</orig><reg>we</reg></choice>hee</orig>, Sulphur,
+                        <lb/>my <choice><orig>wee</orig><reg>we</reg></choice>Sonne</orig>! and this the Serpent and dragon devouring his <choice><orig>wee</orig><reg>we</reg></choice>tayle</orig>, the roar
+                        <lb break="no"/>ing <choice><orig>wee</orig><reg>we</reg></choice>lyon</orig>, and sharp sword, cutting, mortifying, and tearing all things. And
+                        <lb/>the Rosary: The Dragon <choice><orig>wee</orig><reg>we</reg></choice>dyes</orig> not, <choice><orig>wee</orig><reg>we</reg></choice>unlesse</orig> <choice><orig>wee</orig><reg>we</reg></choice>hee</orig> be <choice><orig>wee</orig><reg>we</reg></choice>killd</orig> with his brother<pc>-</pc>
                         <lb/>and Sister. And a little after: The Dragon is Argent vive extracted from
-                        <lb/><orig>bodyes</orig>, having in it a body, <orig>Soule</orig>, and spirit: This is in the same place
+                        <lb/><orig>bodyes</orig>, having in it a body, <choice><orig>wee</orig><reg>we</reg></choice>Soule</orig>, and spirit: This is in the same place
                         <lb/>called by another name <choice><orig>ffæctid</orig><reg>fetid</reg></choice> water, which is produced after the separation
-                        <lb/>of the Elements: Now the Dragon is <orig>sayd</orig> to devour his <orig>tayle</orig>, in consuming
-                        <lb/>the voluble, venomous, and moist part, that after without a <orig>tayle</orig> <orig>hee</orig><pc>-</pc>
-                        <lb/>may seem more corpulent and of <orig>lesse</orig> Speed, for the motion and volu
-                        <lb break="no"/>bility of him consisted <orig>cheifely</orig> in his <orig>tayle</orig>: Other <orig>animalls</orig> depend upon
-                        <lb/>feet, but dragons, Serpents, and <choice><orig>wormes</orig><reg>worms</reg></choice> of that kind <orig>doe</orig> use constriction and
-                        <lb/>explication of body instead of feet, and as it were water <choice><orig>poure</orig><reg>pour</reg></choice> out <orig>doe</orig> di
-                        <lb break="no"/>vide into <orig>certaine</orig> courses, inclining themselves sometimes this way some
-                        <lb break="no"/>times that, as you may see in <orig>allmost</orig> all rivers, how they <orig>turne</orig> their<pc>-</pc>
-                        <lb/>courses like Serpents, and <orig>runne</orig> obliquely in circuits: they did not there
+                        <lb/>of the Elements: Now the Dragon is <choice><orig>wee</orig><reg>we</reg></choice>sayd</orig> to devour his <choice><orig>wee</orig><reg>we</reg></choice>tayle</orig>, in consuming
+                        <lb/>the voluble, venomous, and moist part, that after without a <choice><orig>wee</orig><reg>we</reg></choice>tayle</orig> <choice><orig>wee</orig><reg>we</reg></choice>hee</orig><pc>-</pc>
+                        <lb/>may seem more corpulent and of <choice><orig>wee</orig><reg>we</reg></choice>lesse</orig> Speed, for the motion and volu
+                        <lb break="no"/>bility of him consisted <choice><orig>wee</orig><reg>we</reg></choice>cheifely</orig> in his <choice><orig>wee</orig><reg>we</reg></choice>tayle</orig>: Other <choice><orig>wee</orig><reg>we</reg></choice>animalls</orig> depend upon
+                        <lb/>feet, but dragons, Serpents, and <choice><orig>wormes</orig><reg>worms</reg></choice> of that kind <choice><orig>wee</orig><reg>we</reg></choice>doe</orig> use constriction and
+                        <lb/>explication of body instead of feet, and as it were water <choice><orig>poure</orig><reg>pour</reg></choice> out <choice><orig>wee</orig><reg>we</reg></choice>doe</orig> di
+                        <lb break="no"/>vide into <choice><orig>wee</orig><reg>we</reg></choice>certaine</orig> courses, inclining themselves sometimes this way some
+                        <lb break="no"/>times that, as you may see in <choice><orig>wee</orig><reg>we</reg></choice>allmost</orig> all rivers, how they <choice><orig>wee</orig><reg>we</reg></choice>turne</orig> their<pc>-</pc>
+                        <lb/>courses like Serpents, and <choice><orig>wee</orig><reg>we</reg></choice>runne</orig> obliquely in circuits: they did not there
                         <lb break="no"/>fore without reason call Argent vive a Serpent, and and add serpents to Mer
-                        <lb break="no"/>cury, it <orig>allso</orig> drawing as it were a <orig>tayle</orig>, and running sometimes this<pc>-</pc>
+                        <lb break="no"/>cury, it <choice><orig>wee</orig><reg>we</reg></choice>allso</orig> drawing as it were a <choice><orig>wee</orig><reg>we</reg></choice>tayle</orig>, and running sometimes this<pc>-</pc>
                         <lb/>sometimes that way with a voluble poise: For as a Serpent creeps <choice><orig>soe</orig><reg>so</reg></choice>
-                        <lb/><orig>allso</orig> Mercury, who <orig>hath</orig> therefore wings upon his feet and head.<pc>-</pc>
+                        <lb/><orig>allso</orig> Mercury, who <choice><orig>wee</orig><reg>we</reg></choice>hath</orig> therefore wings upon his feet and head.<pc>-</pc>
                         
                         
                         
                         <pb n="49"/><fw>Discourse 14.</fw><!-- Page number of the actual manuscript, followed by the header on the page. -->
                         <lb/>In <choice><orig>Affrica</orig><reg>Africa</reg></choice> they say are flying Serpents, which would waste and depopu
-                        <lb break="no"/>late all things, if they were not <orig>destroyd</orig> by the bird calld Ibis: For which
-                        <lb/>cause Ibis is erected amongst the sacred <orig>Ægyptian</orig> images, both for the mani
+                        <lb break="no"/>late all things, if they were not <choice><orig>wee</orig><reg>we</reg></choice>destroyd</orig> by the bird calld Ibis: For which
+                        <lb/>cause Ibis is erected amongst the sacred <choice><orig>wee</orig><reg>we</reg></choice>Ægyptian</orig> images, both for the mani
                         <lb break="no"/>fest utility, which it <choice><orig>performes</orig><reg>performs</reg></choice> to the whole country, and for an occult<pc>-</pc>
                         <lb/>reason, which very few men have understood. This dragon biting of his<pc>-</pc>
-                        <lb/><orig>tayle</orig>, and casting his old <orig>skinne</orig> is <orig>sayd</orig> to acquire a new one together with
-                        <lb/>youth, as nature <orig>hath</orig> granted longer life not <orig>onely</orig> to Crows, Ravens, Eagles,
-                        <lb/>and Harts, but <orig>allso</orig> to the Serpentine kind: The Ant growing old <choice><orig>acquireth</orig><reg>acquires</reg></choice><pc>-</pc>
-                        <lb/>wings, <choice><orig>soe</orig><reg>so</reg></choice> <orig>allso</orig> many <orig>wormes</orig>: Man growing old is put into the earth, but
-                        <lb/>being revived from the earth will be consecrated to <orig>æternall</orig> life. Of every<pc>-</pc>
-                        <lb/>Serpent burned is made a powder, which is taken safely against all <orig>poy
-                        <lb break="no"/>sons</orig> with great effect: Such an Alexipharmacum ought <orig>allso</orig> to be made<pc>-</pc>
-                        <lb/>of this dragon (who <orig>hath</orig> <orig>allready</orig> devoured his <orig>tayle</orig>, which is usually <orig>cutt</orig>
-                        <lb/>of in Vipers) a most <orig>effectuall</orig> remedy against the <choice><orig>adversityes</orig><reg>adversities</reg></choice> of for
+                        <lb/><orig>tayle</orig>, and casting his old <choice><orig>wee</orig><reg>we</reg></choice>skinne</orig> is <choice><orig>wee</orig><reg>we</reg></choice>sayd</orig> to acquire a new one together with
+                        <lb/>youth, as nature <choice><orig>wee</orig><reg>we</reg></choice>hath</orig> granted longer life not <choice><orig>wee</orig><reg>we</reg></choice>onely</orig> to Crows, Ravens, Eagles,
+                        <lb/>and Harts, but <choice><orig>wee</orig><reg>we</reg></choice>allso</orig> to the Serpentine kind: The Ant growing old <choice><orig>acquireth</orig><reg>acquires</reg></choice><pc>-</pc>
+                        <lb/>wings, <choice><orig>soe</orig><reg>so</reg></choice> <choice><orig>wee</orig><reg>we</reg></choice>allso</orig> many <choice><orig>wee</orig><reg>we</reg></choice>wormes</orig>: Man growing old is put into the earth, but
+                        <lb/>being revived from the earth will be consecrated to <choice><orig>wee</orig><reg>we</reg></choice>æternall</orig> life. Of every<pc>-</pc>
+                        <lb/>Serpent burned is made a powder, which is taken safely against all <choice><orig>wee</orig><reg>we</reg></choice>poy
+                        <lb break="no"/>sons</orig> with great effect: Such an Alexipharmacum ought <choice><orig>wee</orig><reg>we</reg></choice>allso</orig> to be made<pc>-</pc>
+                        <lb/>of this dragon (who <choice><orig>wee</orig><reg>we</reg></choice>hath</orig> <choice><orig>wee</orig><reg>we</reg></choice>allready</orig> devoured his <choice><orig>wee</orig><reg>we</reg></choice>tayle</orig>, which is usually <choice><orig>wee</orig><reg>we</reg></choice>cutt</orig>
+                        <lb/>of in Vipers) a most <choice><orig>wee</orig><reg>we</reg></choice>effectuall</orig> remedy against the <choice><orig>adversityes</orig><reg>adversities</reg></choice> of for
                         <lb break="no"/>tune and body<pc>. . . . . . . . . . . .</pc>                       
                     </ab>   
                 </div>

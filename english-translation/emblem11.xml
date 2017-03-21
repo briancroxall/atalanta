@@ -34,12 +34,12 @@
                 <div type="epigram" xml:lang="en">
                     <head><orig>Epigramme</orig> 11.</head>
                     <lg>
-                        <l>Ancestors (of truth <orig>noe</orig> doubt) to us relate</l>
+                        <l>Ancestors (of truth <choice><orig>wee</orig><reg>we</reg></choice>noe</orig> doubt) to us relate</l>
                         <l>Latona's <choice><orig>twinns</orig><reg>twins</reg></choice> <choice><orig>producd</orig><reg>produced</reg></choice> from Jove the great.</l>
                         <l>Some say <choice><orig>Shee's</orig><reg>She's</reg></choice> Sol with fair fair Diana <choice><orig>mixt</orig><reg>mixed</reg></choice>,</l>
-                        <l>Having a face most white, some <orig>blacke</orig> betwixt:</l>
+                        <l>Having a face most white, some <choice><orig>wee</orig><reg>we</reg></choice>blacke</orig> betwixt:</l>
                         <l>Study my dear! to wash these spots away,</l>
-                        <l>Then <orig>burne</orig> those books which led your thoughts astray.</l>
+                        <l>Then <choice><orig>wee</orig><reg>we</reg></choice>burne</orig> those books which led your thoughts astray.</l>
                     </lg>
                 </div>
                 
@@ -49,80 +49,80 @@
                     <head>Discourse 11.</head>
                     <ab><!--Our convention will be that if we have break = "no" then it means that the word is broken across the line with a dash--> 
                         <lb/><orig>Soe</orig> great is the diversity of Authors in writing, that the explorators of<pc>-</pc><milestone unit="section" n="e03-01" /> <!-- Change the value of n to "e" plus the number of the emblem (in two digits), followed by a hyphen and then a two-digit count of sentence -->
-                        <lb/>truth <orig>doe</orig> <orig>allmost</orig> <choice><orig>despaire</orig><reg>despair</reg></choice> of finding the end of art: for <orig>Allegoricall</orig> speeches
+                        <lb/>truth <choice><orig>wee</orig><reg>we</reg></choice>doe</orig> <choice><orig>wee</orig><reg>we</reg></choice>allmost</orig> <choice><orig>despaire</orig><reg>despair</reg></choice> of finding the end of art: for <choice><orig>wee</orig><reg>we</reg></choice>Allegoricall</orig> speeches
                         <lb/>being of themselves difficult to be understood, and the causes of many errors,
-                        <lb/>especially then, if the same words be <orig>applyd</orig> to different things, and diffe
-                        <lb break="no"/>rent words to the same things: out of which if a man would extricate <orig>him
-                        <lb break="no"/>selfe</orig>, <orig>hee</orig> must either be of a divine genius, to perceive the truth invol
-                        <lb break="no"/>ved in <choice><orig>soe</orig><reg>so</reg></choice> great <orig>darkenesse</orig>, or of <choice><orig>endlesse</orig><reg>endless</reg></choice> pains and charge in proving what
+                        <lb/>especially then, if the same words be <choice><orig>wee</orig><reg>we</reg></choice>applyd</orig> to different things, and diffe
+                        <lb break="no"/>rent words to the same things: out of which if a man would extricate <choice><orig>wee</orig><reg>we</reg></choice>him
+                        <lb break="no"/>selfe</orig>, <choice><orig>wee</orig><reg>we</reg></choice>hee</orig> must either be of a divine genius, to perceive the truth invol
+                        <lb break="no"/>ved in <choice><orig>soe</orig><reg>so</reg></choice> great <choice><orig>wee</orig><reg>we</reg></choice>darkenesse</orig>, or of <choice><orig>endlesse</orig><reg>endless</reg></choice> pains and charge in proving what
                         <lb/>is true, what not: But the Philosophers say one is not sufficient  without the<pc>-</pc>
                         <lb/>other, an acute genius without <choice><orig>hand=labour</orig><reg>hand=labor</reg></choice>, or this without that, as neither
-                        <lb/>the theory without the practice, and contrarywise: for <orig>noe</orig> man is of <choice><orig>soe</orig><reg>so</reg></choice><pc>-</pc>
-                        <lb/>discreet an understanding as to <orig>avoyd</orig> a hundred thousand circumvagations,
+                        <lb/>the theory without the practice, and contrarywise: for <choice><orig>wee</orig><reg>we</reg></choice>noe</orig> man is of <choice><orig>soe</orig><reg>so</reg></choice><pc>-</pc>
+                        <lb/>discreet an understanding as to <choice><orig>wee</orig><reg>we</reg></choice>avoyd</orig> a hundred thousand circumvagations,
                         <lb/>errors, <choice><orig>falsityes</orig><reg>falsities</reg></choice> as to the word, digressions, and <choice><orig>ambiguityes</orig><reg>ambiguities</reg></choice>, and persist in the
-                        <lb/>true path of nature: wherefore say the Philosophers, <orig>hee</orig> that <orig>hath</orig> not as
-                        <lb/>yet erred, <orig>hath</orig> not yet begun, and that errors are the informers of those<pc>-</pc>
-                        <lb/>things which ought to be done or not. <choice><orig>Soe</orig><reg>So</reg></choice> the same <orig>doe</orig> inculcate, that a<pc>-</pc>
-                        <lb/>man may spend his whole life, though <orig>hee</orig> Should live a thousand years, in
-                        <lb/>distilling and redistilling, before <orig>hee</orig> can <orig>attaine</orig> to truth by experimentation
+                        <lb/>true path of nature: wherefore say the Philosophers, <choice><orig>wee</orig><reg>we</reg></choice>hee</orig> that <choice><orig>wee</orig><reg>we</reg></choice>hath</orig> not as
+                        <lb/>yet erred, <choice><orig>wee</orig><reg>we</reg></choice>hath</orig> not yet begun, and that errors are the informers of those<pc>-</pc>
+                        <lb/>things which ought to be done or not. <choice><orig>Soe</orig><reg>So</reg></choice> the same <choice><orig>wee</orig><reg>we</reg></choice>doe</orig> inculcate, that a<pc>-</pc>
+                        <lb/>man may spend his whole life, though <choice><orig>wee</orig><reg>we</reg></choice>hee</orig> Should live a thousand years, in
+                        <lb/>distilling and redistilling, before <choice><orig>wee</orig><reg>we</reg></choice>hee</orig> can <choice><orig>wee</orig><reg>we</reg></choice>attaine</orig> to truth by experimentation
                         <lb/>alone: That little benefit can be had without study and reading of au
                         <lb break="no"/>thors, the Corrector of fools <choice><orig>signifyes</orig><reg>signifies</reg></choice>, saying: Study <choice><orig>removeth</orig><reg>removes</reg></choice> ignorance,<pc>-</pc>
                         <lb/>and <choice><orig>reduceth</orig><reg>reduces</reg></choice> a mans genius to true understanding, and the knowledge of
                         <lb/>every thing: It is therefore principally necessary to acquire the knowledge of
-                        <lb/>this delectable <orig>worke</orig> by study, and to sharpen the <choice><orig>witt</orig><reg>wit</reg></choice> by <orig>Philosophicall</orig><pc>-</pc>
+                        <lb/>this delectable <choice><orig>wee</orig><reg>we</reg></choice>worke</orig> by study, and to sharpen the <choice><orig>witt</orig><reg>wit</reg></choice> by <choice><orig>wee</orig><reg>we</reg></choice>Philosophicall</orig><pc>-</pc>
                         <lb/>sayings, the knowledge of truth being <choice><orig>centred</orig><reg>centered</reg></choice> in them: If therefore oper
                         <lb break="no"/>tors despise not study, they will sweetly relish the fruit from <reg>theme</reg> <choice><orig>pro
                         <lb break="no"/>ceding</orig><reg>proceeding</reg></choice>: but they that <choice><orig>abhorre</orig><reg>abhor</reg></choice> study, and yet are willing to operate, let them
-                        <lb/><orig>soe</orig> whether that art be the imitation of nature <orig>herselfe</orig>, which the art of
-                        <lb/>her desires to amend: because it is impossible for it to <orig>præpare</orig> the Philoso
-                        <lb break="no"/>phers secrets to a perfect end: Of these men say the Sophi, that they <orig>runne</orig> to
-                        <lb/>practice as an <choice><orig>asse</orig><reg>ass</reg></choice> to hay, not knowing what to lay his nose to, <orig>onely</orig> <choice><orig>soe</orig><reg>so</reg></choice> far
-                        <lb/>as the outward senses <orig>doe</orig> without understanding lead him to food by sight
-                        <lb/>and <choice><orig>tast</orig><reg>taste</reg></choice>: these are his words. But lest a man should macerate <orig>himselfe</orig> with
+                        <lb/><orig>soe</orig> whether that art be the imitation of nature <choice><orig>wee</orig><reg>we</reg></choice>herselfe</orig>, which the art of
+                        <lb/>her desires to amend: because it is impossible for it to <choice><orig>wee</orig><reg>we</reg></choice>præpare</orig> the Philoso
+                        <lb break="no"/>phers secrets to a perfect end: Of these men say the Sophi, that they <choice><orig>wee</orig><reg>we</reg></choice>runne</orig> to
+                        <lb/>practice as an <choice><orig>asse</orig><reg>ass</reg></choice> to hay, not knowing what to lay his nose to, <choice><orig>wee</orig><reg>we</reg></choice>onely</orig> <choice><orig>soe</orig><reg>so</reg></choice> far
+                        <lb/>as the outward senses <choice><orig>wee</orig><reg>we</reg></choice>doe</orig> without understanding lead him to food by sight
+                        <lb/>and <choice><orig>tast</orig><reg>taste</reg></choice>: these are his words. But lest a man should macerate <choice><orig>wee</orig><reg>we</reg></choice>himselfe</orig> with
                         <lb/>overmuch study, which is an inexhaustible sea and of immense profundity
-                        <lb/>and <choice><orig>endeavour</orig><reg>endeavor</reg></choice> (though in <orig>vaine</orig>) to bring every letter, agreeing <orig>allso</orig> with ma
-                        <lb break="no"/>ny other things, into act, in the <orig>meane</orig> time consuming or diminishing his
-                        <lb/>strength, time, reputation, wealth and riches, the Philosophers <orig>doe</orig> use this
+                        <lb/>and <choice><orig>endeavour</orig><reg>endeavor</reg></choice> (though in <choice><orig>wee</orig><reg>we</reg></choice>vaine</orig>) to bring every letter, agreeing <choice><orig>wee</orig><reg>we</reg></choice>allso</orig> with ma
+                        <lb break="no"/>ny other things, into act, in the <choice><orig>wee</orig><reg>we</reg></choice>meane</orig> time consuming or diminishing his
+                        <lb/>strength, time, reputation, wealth and riches, the Philosophers <choice><orig>wee</orig><reg>we</reg></choice>doe</orig> use this
                         <lb/><orig>Emblematicall</orig> speech, that Latona must be whitened, and those books
                         <lb/><choice><orig>torne</orig><reg>torn</reg></choice>, lest their hearts be broken, <seg rend="underline">for there are many books <choice><orig>soe</orig><reg>so</reg></choice> obscurely</seg><pc>-</pc>
-                        <lb/>written, <seg rend="underline">as to be understood by their <orig>owne</orig> Authors <orig>onely</orig>:</seg> not a few left out<note place="margin">!!</note>
+                        <lb/>written, <seg rend="underline">as to be understood by their <choice><orig>wee</orig><reg>we</reg></choice>owne</orig> Authors <choice><orig>wee</orig><reg>we</reg></choice>onely</orig>:</seg> not a few left out<note place="margin">!!</note>
                         <lb/>of envy to seduce others, or rather to retard them, that they may not attain
                         <lb/>to their end without difficulty, or to obscure those things written before by<pc>-</pc>
                         <lb/>themselves: But what is the meaning of whitening Latona? this is the<pc>-</pc>
-                        <lb/><orig>worke</orig> this the <orig>labour</orig> to inquire: Clangor buccinæ affirms Latona to be an
+                        <lb/><orig>worke</orig> this the <choice><orig>wee</orig><reg>we</reg></choice>labour</orig> to inquire: Clangor buccinæ affirms Latona to be an
                         
                         
                         
                         <pb n="40"/><fw>Discourse 11.</fw><!-- Page number of the actual manuscript, followed by the header on the page. -->
                         <lb/>imperfect body compounded of Sol and Luna. The most ancient Poets and
-                        <lb/>writes <orig>affirme</orig> Latona to be the mother of Sol and Luna, or Apollo and<pc>-</pc>
-                        <lb/>Diana, others the <choice><orig>Nurce</orig><reg>Nurse</reg></choice>; and that Diana was first <orig>borne</orig> (for Luna and<pc>-</pc>
-                        <lb/><orig>whitenesse</orig> first appears) and did then <orig>performe</orig> the office of a midwife<pc>-</pc>
+                        <lb/>writes <choice><orig>wee</orig><reg>we</reg></choice>affirme</orig> Latona to be the mother of Sol and Luna, or Apollo and<pc>-</pc>
+                        <lb/>Diana, others the <choice><orig>Nurce</orig><reg>Nurse</reg></choice>; and that Diana was first <choice><orig>wee</orig><reg>we</reg></choice>borne</orig> (for Luna and<pc>-</pc>
+                        <lb/><orig>whitenesse</orig> first appears) and did then <choice><orig>wee</orig><reg>we</reg></choice>performe</orig> the office of a midwife<pc>-</pc>
                         <lb/>the same day in bringing forth her brother Apollo. Latona was indeed one
-                        <note place="margin">!</note><lb/>of the <seg rend="underline">twelve</seg> divine Hieroglyphicks of the <orig>Ægyptians</orig>, by <orig>whome</orig> these<pc>-</pc>
+                        <note place="margin">!</note><lb/>of the <seg rend="underline">twelve</seg> divine Hieroglyphicks of the <choice><orig>wee</orig><reg>we</reg></choice>Ægyptians</orig>, by <choice><orig>wee</orig><reg>we</reg></choice>whome</orig> these<pc>-</pc>
                         <lb/>and other <choice><orig>Allegoryes</orig><reg>Allegories</reg></choice> were propagated amongst other nations, very few of<pc>-</pc>
-                        <lb/>the <orig>Ægyptians</orig> <choice><orig>Preists</orig><reg>Priests</reg></choice>, and those <orig>onely</orig> understanding the true meaning<pc>-</pc>
+                        <lb/>the <choice><orig>wee</orig><reg>we</reg></choice>Ægyptians</orig> <choice><orig>Preists</orig><reg>Priests</reg></choice>, and those <choice><orig>wee</orig><reg>we</reg></choice>onely</orig> understanding the true meaning<pc>-</pc>
                         <lb/>and sense of them, all the rest referring them to other subjects, which were<pc>-</pc>
                         <lb/>not in the nature of things, namely various Gods, Goddesses, and the like:<pc>-</pc>
                         <lb/>Hereupon Latona had there the the most sumptuous temple next to Vulcan, cove
-                        <lb break="no"/>red and adorned with gold, as <orig>Shee</orig> that was the Mother of the <orig>Philosophicall</orig>
-                        <lb/>Apollo and Diana: but this Latona is <choice><orig>browne</orig><reg>brown</reg></choice> and blackish, and <orig>hath</orig> many
+                        <lb break="no"/>red and adorned with gold, as <choice><orig>wee</orig><reg>we</reg></choice>Shee</orig> that was the Mother of the <choice><orig>wee</orig><reg>we</reg></choice>Philosophicall</orig>
+                        <lb/>Apollo and Diana: but this Latona is <choice><orig>browne</orig><reg>brown</reg></choice> and blackish, and <choice><orig>wee</orig><reg>we</reg></choice>hath</orig> many
                         <lb/>moles and blemishes in her face, which must be taken away by art, namely
-                        <lb/>by dealbation: Some <orig>doe</orig> make dealbations of Cerufe, Mercury Sublimate,
-                        <lb/><choice><orig>Talke</orig><reg>Talcum</reg></choice>, reduced into <orig>oyle</orig>, and the like, with which they incrust, cover, and
-                        <lb/><orig>soe</orig> whiten the outside of the <orig>Skinne</orig>; but these whitening incrustations
-                        <lb/>fall of with every wind or liquor, because they <orig>doe</orig> not penetrate to the more
+                        <lb/>by dealbation: Some <choice><orig>wee</orig><reg>we</reg></choice>doe</orig> make dealbations of Cerufe, Mercury Sublimate,
+                        <lb/><choice><orig>Talke</orig><reg>Talcum</reg></choice>, reduced into <choice><orig>wee</orig><reg>we</reg></choice>oyle</orig>, and the like, with which they incrust, cover, and
+                        <lb/><orig>soe</orig> whiten the outside of the <choice><orig>wee</orig><reg>we</reg></choice>Skinne</orig>; but these whitening incrustations
+                        <lb/>fall of with every wind or liquor, because they <choice><orig>wee</orig><reg>we</reg></choice>doe</orig> not penetrate to the more
                         <lb/>inward parts: But the Philosophers care not for such colorations, which are<pc>-</pc>
-                        <lb/><choice><orig>usd</orig><reg>used</reg></choice> more to deceive the eyes, than to tinge the <orig>internall</orig> substance of the
+                        <lb/><choice><orig>usd</orig><reg>used</reg></choice> more to deceive the eyes, than to tinge the <choice><orig>wee</orig><reg>we</reg></choice>internall</orig> substance of the
                         <lb/>body: For they would have the face of Latona whitened thoroughly, and
-                        <lb/>the <orig>Skinne</orig> <orig>itselfe</orig> altered, that is, <orig>truely</orig>, and not superficially: a <orig>Quæstion</orig>
+                        <lb/>the <choice><orig>wee</orig><reg>we</reg></choice>Skinne</orig> <choice><orig>wee</orig><reg>we</reg></choice>itselfe</orig> altered, that is, <choice><orig>wee</orig><reg>we</reg></choice>truely</orig>, and not superficially: a <choice><orig>wee</orig><reg>we</reg></choice>Quæstion</orig>
                         <lb/>might be asked how it can be? I answer, Latona must be first sought out
-                        <lb/>and <orig>knowne</orig>, which though <orig>Shee</orig> be taken out of a vile place, must not
-                        <lb break="no"/>withstanding be sublimed to a more worthy, but if <orig>Shee</orig> be taken out
-                        <lb/>of a more worthy place, <orig>Shee</orig> must be <orig>throwne</orig> into a place more vile,<pc>-</pc>
-                        <lb/>namely into dung: for there will <orig>Shee</orig> become truely white, and be<pc>-</pc>
-                        <lb/>made white lead, which being had, there is <orig>noe</orig> need to doubt of <orig>suc
-                        <lb break="no"/>cesse</orig>, or red lead, which is the <orig>begining</orig> and end of the <orig>worke</orig><pc>. . .</pc>
+                        <lb/>and <choice><orig>wee</orig><reg>we</reg></choice>knowne</orig>, which though <choice><orig>wee</orig><reg>we</reg></choice>Shee</orig> be taken out of a vile place, must not
+                        <lb break="no"/>withstanding be sublimed to a more worthy, but if <choice><orig>wee</orig><reg>we</reg></choice>Shee</orig> be taken out
+                        <lb/>of a more worthy place, <choice><orig>wee</orig><reg>we</reg></choice>Shee</orig> must be <choice><orig>wee</orig><reg>we</reg></choice>throwne</orig> into a place more vile,<pc>-</pc>
+                        <lb/>namely into dung: for there will <choice><orig>wee</orig><reg>we</reg></choice>Shee</orig> become truely white, and be<pc>-</pc>
+                        <lb/>made white lead, which being had, there is <choice><orig>wee</orig><reg>we</reg></choice>noe</orig> need to doubt of <choice><orig>wee</orig><reg>we</reg></choice>suc
+                        <lb break="no"/>cesse</orig>, or red lead, which is the <choice><orig>wee</orig><reg>we</reg></choice>begining</orig> and end of the <choice><orig>wee</orig><reg>we</reg></choice>worke</orig><pc>. . .</pc>
                     </ab>   
                 </div>
                 

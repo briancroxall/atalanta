@@ -26,7 +26,7 @@
                 <div type="title" xml:lang="en">
                     <head>
                         <lb/><orig>Embleme</orig> 45. Of the Secrets of Nature.
-                        <lb/>The <orig>worke</orig> is perfected by Sol and his shade.
+                        <lb/>The <choice><orig>wee</orig><reg>we</reg></choice>worke</orig> is perfected by Sol and his shade.
                     </head>
                 </div>
                 
@@ -34,11 +34,11 @@
                 <div type="epigram" xml:lang="en">
                     <head><orig>Epigramme</orig> 45.</head>
                     <lg>
-                        <l>The <orig>Sunne</orig> <orig>noe</orig> <orig>bodyes</orig> dense can penetrate,</l>
+                        <l>The <choice><orig>wee</orig><reg>we</reg></choice>Sunne</orig> <choice><orig>wee</orig><reg>we</reg></choice>noe</orig> <choice><orig>wee</orig><reg>we</reg></choice>bodyes</orig> dense can penetrate,</l>
                         <l>And <choice><orig>soe</orig><reg>so</reg></choice> the adverse parts a shade create:</l>
-                        <l>Which, though it be of all things least <orig>sett</orig> by,</l>
+                        <l>Which, though it be of all things least <choice><orig>wee</orig><reg>we</reg></choice>sett</orig> by,</l>
                         <l>Is much conducing to Astronomy;</l>
-                        <l>But more to <choice><orig>th'</orig><reg>the</reg></choice> Sophi are the <orig>Sunne</orig> and shade,</l>
+                        <l>But more to <choice><orig>th'</orig><reg>the</reg></choice> Sophi are the <choice><orig>wee</orig><reg>we</reg></choice>Sunne</orig> and shade,</l>
                         <l>Because they perfect the auriferous trade.</l>
                     </lg>
                 </div>
@@ -50,78 +50,78 @@
                     <ab><!--Our convention will be that if we have break = "no" then it means that the word is broken across the line with a dash--> 
                         <lb/>As in a round or <choice><orig>Sphericall</orig><reg>Spherical</reg></choice> Palace, a fire kindled in one place illustrates<milestone unit="section" n="e03-01" /> <!-- Change the value of n to "e" plus the number of the emblem (in two digits), followed by a hyphen and then a two-digit count of sentence -->
                         <lb/>the parts above and below round about all the walls, except those, where
-                        <lb/>a table or the like standing in the <orig>midle</orig> may by its objection and inter
-                        <lb break="no"/>position impede, and <orig>admitt</orig> a <orig>darke</orig> shadow; <choice><orig>Soe</orig><reg>So</reg></choice> <orig>allso</orig> the <orig>Sunne</orig> being<pc>-</pc>
-                        <lb/>placed in that great Palace or carved theater of the heaven <orig>dos</orig> by its<pc>-</pc>
-                        <lb/><orig>rayes</orig> illuminate evry concavity of heaven, the <orig>bodyes</orig> <choice><orig>containd</orig><reg>contained</reg></choice> therein
-                        <lb/>which are diaphanous and receptive of light, that is, all <orig>starrs</orig> whatsoever
-                        <lb/>both <orig>erraticke</orig> and fixed, except where the density of the earth in the<pc>-</pc>
-                        <lb/><orig>midle</orig> may prohibit: For there a <orig>blacke</orig> and <orig>darke</orig> shadow, which is called
+                        <lb/>a table or the like standing in the <choice><orig>wee</orig><reg>we</reg></choice>midle</orig> may by its objection and inter
+                        <lb break="no"/>position impede, and <choice><orig>wee</orig><reg>we</reg></choice>admitt</orig> a <choice><orig>wee</orig><reg>we</reg></choice>darke</orig> shadow; <choice><orig>Soe</orig><reg>So</reg></choice> <choice><orig>wee</orig><reg>we</reg></choice>allso</orig> the <choice><orig>wee</orig><reg>we</reg></choice>Sunne</orig> being<pc>-</pc>
+                        <lb/>placed in that great Palace or carved theater of the heaven <choice><orig>wee</orig><reg>we</reg></choice>dos</orig> by its<pc>-</pc>
+                        <lb/><orig>rayes</orig> illuminate evry concavity of heaven, the <choice><orig>wee</orig><reg>we</reg></choice>bodyes</orig> <choice><orig>containd</orig><reg>contained</reg></choice> therein
+                        <lb/>which are diaphanous and receptive of light, that is, all <choice><orig>wee</orig><reg>we</reg></choice>starrs</orig> whatsoever
+                        <lb/>both <choice><orig>wee</orig><reg>we</reg></choice>erraticke</orig> and fixed, except where the density of the earth in the<pc>-</pc>
+                        <lb/><orig>midle</orig> may prohibit: For there a <choice><orig>wee</orig><reg>we</reg></choice>blacke</orig> and <choice><orig>wee</orig><reg>we</reg></choice>darke</orig> shadow, which is called
                         <lb/>night, continues <choice><orig>soe</orig><reg>so</reg></choice> long, till it be driven away by the <choice><orig>præsence</orig><reg>presence</reg></choice> of<pc>-</pc>
-                        <lb/>the <orig>Sunne</orig>, and light established and made conspicuous in stead thereof:
+                        <lb/>the <choice><orig>wee</orig><reg>we</reg></choice>Sunne</orig>, and light established and made conspicuous in stead thereof:
                         <lb/>A shadow therefore and night is the privation or absence (as day on the<pc>-</pc>
                         <lb/>contrary is the irradiation and circumfusion) of the Solar light. A shadow
-                        <lb/>is that which cannot endure the aspect of the <orig>Sunne</orig>, and therefore<pc>-</pc>
-                        <lb/><orig>avoyds</orig> and absconds <orig>itselfe</orig> sometimes in this sometimes in that part of
-                        <lb/>the earth, as the <orig>Sunne</orig> is in opposition. The <orig>Sunne</orig> and shadow never
-                        <lb/>saw themselves together, though, if nature would <orig>admitt</orig>, they might in
-                        <lb/>every moment, but the <orig>Sunne</orig> considering her as an enemy to <orig>himselfe</orig>,
+                        <lb/>is that which cannot endure the aspect of the <choice><orig>wee</orig><reg>we</reg></choice>Sunne</orig>, and therefore<pc>-</pc>
+                        <lb/><orig>avoyds</orig> and absconds <choice><orig>wee</orig><reg>we</reg></choice>itselfe</orig> sometimes in this sometimes in that part of
+                        <lb/>the earth, as the <choice><orig>wee</orig><reg>we</reg></choice>Sunne</orig> is in opposition. The <choice><orig>wee</orig><reg>we</reg></choice>Sunne</orig> and shadow never
+                        <lb/>saw themselves together, though, if nature would <choice><orig>wee</orig><reg>we</reg></choice>admitt</orig>, they might in
+                        <lb/>every moment, but the <choice><orig>wee</orig><reg>we</reg></choice>Sunne</orig> considering her as an enemy to <choice><orig>wee</orig><reg>we</reg></choice>himselfe</orig>,
                         <lb/><orig>allwayes</orig> pursues her flying, and can never take her weary, <seg rend="underline">as Buchanan<note place="margin">Buchanan?</note>
-                        <lb/>in his <orig>booke</orig> of Spheres</seg> ingeniously <orig>hath</orig> declared: For imitation and<pc>-</pc>
-                        <lb/>example of that great <orig>Sunne</orig>, and shadow thereof, the Philosophers have
-                        <lb/>observed that their <orig>Sunne</orig> <orig>hath</orig> <orig>allso</orig> a <orig>blacke</orig>, cloudy, and flying Shadow:
-                        <lb/>Hereupon <orig>Sayth</orig> Hermes, My <orig>Sonne</orig>! take from the ray its shadow, that is,
-                        <lb/>see that you bring your <orig>Sunne</orig> round about the primum mobile, of<pc>-</pc>
+                        <lb/>in his <choice><orig>wee</orig><reg>we</reg></choice>booke</orig> of Spheres</seg> ingeniously <choice><orig>wee</orig><reg>we</reg></choice>hath</orig> declared: For imitation and<pc>-</pc>
+                        <lb/>example of that great <choice><orig>wee</orig><reg>we</reg></choice>Sunne</orig>, and shadow thereof, the Philosophers have
+                        <lb/>observed that their <choice><orig>wee</orig><reg>we</reg></choice>Sunne</orig> <choice><orig>wee</orig><reg>we</reg></choice>hath</orig> <choice><orig>wee</orig><reg>we</reg></choice>allso</orig> a <choice><orig>wee</orig><reg>we</reg></choice>blacke</orig>, cloudy, and flying Shadow:
+                        <lb/>Hereupon <choice><orig>wee</orig><reg>we</reg></choice>Sayth</orig> Hermes, My <choice><orig>wee</orig><reg>we</reg></choice>Sonne</orig>! take from the ray its shadow, that is,
+                        <lb/>see that you bring your <choice><orig>wee</orig><reg>we</reg></choice>Sunne</orig> round about the primum mobile, of<pc>-</pc>
                         <lb/>which Vulcan is made overseer, that even that part of your Earth, which
-                        <lb/>is now covered with a shady night, may <orig>obtaine</orig> the clear light of the<pc>-</pc>
+                        <lb/>is now covered with a shady night, may <choice><orig>wee</orig><reg>we</reg></choice>obtaine</orig> the clear light of the<pc>-</pc>
                         <lb/><orig>Sunne</orig>: for if the whole Firmament of the heaven with all things con
-                        <lb break="no"/>tained were not every <orig>naturall</orig> day, that is, in twenty four <orig>houres</orig> <orig>alltogether</orig>
-                        <lb/>circumvolved by the first motion, but the <orig>Sunne</orig> <orig>onely</orig> moved by its <orig>owne</orig>
+                        <lb break="no"/>tained were not every <choice><orig>wee</orig><reg>we</reg></choice>naturall</orig> day, that is, in twenty four <choice><orig>wee</orig><reg>we</reg></choice>houres</orig> <choice><orig>wee</orig><reg>we</reg></choice>alltogether</orig>
+                        <lb/>circumvolved by the first motion, but the <choice><orig>wee</orig><reg>we</reg></choice>Sunne</orig> <choice><orig>wee</orig><reg>we</reg></choice>onely</orig> moved by its <choice><orig>wee</orig><reg>we</reg></choice>owne</orig>
                         <lb/>(<orig>calld</orig> the second and <choice><orig>annuall</orig><reg>annual</reg></choice>) motion, it would happen that they, which
-                        <lb/>are Antipodes below us, would for the Space of <orig>allmost</orig> six <orig>moneths</orig> have
-                        <lb/>a night, and <orig>wee</orig> a day, and afterwards on the contrary they a day and<pc>-</pc>
+                        <lb/>are Antipodes below us, would for the Space of <choice><orig>wee</orig><reg>we</reg></choice>allmost</orig> six <choice><orig>wee</orig><reg>we</reg></choice>moneths</orig> have
+                        <lb/>a night, and <choice><orig>wee</orig><reg>we</reg></choice>wee</orig> a day, and afterwards on the contrary they a day and<pc>-</pc>
                         <lb/><orig>wee</orig> a night; <choice><orig>soe</orig><reg>so</reg></choice> that the whole year would consist of one night and<pc>-</pc>
                         <lb/>day, as now these courses are by experience and reason confirmed to be<pc>-</pc>
-                        <lb/>most true under both the Poles: But it <choice><orig>seemd</orig><reg>seemed</reg></choice> <orig>farre</orig> otherwise to divine provi
-                        <lb break="no"/>dence, which therefore <orig>hath</orig> ordained two motions of the Planets, the first
-                        <lb/>and second, and <choice><orig>soe</orig><reg>so</reg></choice> distributed the year into many <orig>dayes</orig>: Now that sha
-                        <lb break="no"/>dow and <orig>Sunne</orig> <orig>doe</orig> together make day and night, which the <orig>Sunne</orig> by
+                        <lb/>most true under both the Poles: But it <choice><orig>seemd</orig><reg>seemed</reg></choice> <choice><orig>wee</orig><reg>we</reg></choice>farre</orig> otherwise to divine provi
+                        <lb break="no"/>dence, which therefore <choice><orig>wee</orig><reg>we</reg></choice>hath</orig> ordained two motions of the Planets, the first
+                        <lb/>and second, and <choice><orig>soe</orig><reg>so</reg></choice> distributed the year into many <choice><orig>wee</orig><reg>we</reg></choice>dayes</orig>: Now that sha
+                        <lb break="no"/>dow and <choice><orig>wee</orig><reg>we</reg></choice>Sunne</orig> <choice><orig>wee</orig><reg>we</reg></choice>doe</orig> together make day and night, which the <choice><orig>wee</orig><reg>we</reg></choice>Sunne</orig> by
                         <lb/><orig>itselfe</orig> alone could not effect, whose property it is to illuminate all opposite
-                        <lb/>places and <orig>bodyes</orig>, but not make a shadow, except accidentally by his absence:
-                        <lb/><orig>Soe</orig> <orig>allso</orig> the <orig>Philosophicall</orig> <orig>Sunne</orig> <orig>dos</orig> with its shadow make a day, that
-                        <lb/>is, light and night or <orig>darkenesse</orig>, namely Latona or Magnesia, whose<pc>-</pc>
-                        <lb/>Shadow Democritus <choice><orig>teacheth</orig><reg>teaches</reg></choice>, as appears in the third <orig>booke</orig> of his<pc>-</pc>
+                        <lb/>places and <choice><orig>wee</orig><reg>we</reg></choice>bodyes</orig>, but not make a shadow, except accidentally by his absence:
+                        <lb/><orig>Soe</orig> <choice><orig>wee</orig><reg>we</reg></choice>allso</orig> the <choice><orig>wee</orig><reg>we</reg></choice>Philosophicall</orig> <choice><orig>wee</orig><reg>we</reg></choice>Sunne</orig> <choice><orig>wee</orig><reg>we</reg></choice>dos</orig> with its shadow make a day, that
+                        <lb/>is, light and night or <choice><orig>wee</orig><reg>we</reg></choice>darkenesse</orig>, namely Latona or Magnesia, whose<pc>-</pc>
+                        <lb/>Shadow Democritus <choice><orig>teacheth</orig><reg>teaches</reg></choice>, as appears in the third <choice><orig>wee</orig><reg>we</reg></choice>booke</orig> of his<pc>-</pc>
                         
                         
                         
                         <pb n="142"/><fw>Discourse 45.</fw><!-- Page number of the actual manuscript, followed by the header on the page. -->
-                        <lb/>Golden table at the <orig>begining</orig>, must be extinguished and consumed by a fiery
-                        <lb/>medicine. The utility of shadows in <orig>Astronomicall</orig> affairs is <choice><orig>soe</orig><reg>so</reg></choice> great, that<pc>-</pc>
-                        <lb/>without them that Science can scarce be perfected; <orig>Chymists</orig> <orig>doe</orig> <orig>allso</orig> ascribe
-                        <lb/>it to their shadows, that their art comes to perfection; for what is this <orig>Sunne</orig><pc>-</pc>
+                        <lb/>Golden table at the <choice><orig>wee</orig><reg>we</reg></choice>begining</orig>, must be extinguished and consumed by a fiery
+                        <lb/>medicine. The utility of shadows in <choice><orig>wee</orig><reg>we</reg></choice>Astronomicall</orig> affairs is <choice><orig>soe</orig><reg>so</reg></choice> great, that<pc>-</pc>
+                        <lb/>without them that Science can scarce be perfected; <choice><orig>wee</orig><reg>we</reg></choice>Chymists</orig> <choice><orig>wee</orig><reg>we</reg></choice>doe</orig> <choice><orig>wee</orig><reg>we</reg></choice>allso</orig> ascribe
+                        <lb/>it to their shadows, that their art comes to perfection; for what is this <choice><orig>wee</orig><reg>we</reg></choice>Sunne</orig><pc>-</pc>
                         <lb/>without a shadow? As a clapper without a bell: That indeed makes the first
                         <lb/>motion to a sound, but this gives the sound; that is the quill, this the instru
                         <lb break="no"/>ment; that the tongue, this the great mouth: A shadow is a most contemptible
-                        <lb/>thing, not next to a Being, <choice><orig>soe</orig><reg>so</reg></choice> <orig>allso</orig> the Philosophers shadow is a thing<pc>-</pc>
-                        <lb/><orig>blacke</orig> blacker than <orig>blacke</orig>, as they <choice><orig>terme</orig><reg>term</reg></choice> it, or of <orig>lesse</orig> esteem than weeds,<pc>-</pc>
-                        <lb/>not in respect of <orig>itselfe</orig>, but the opinion of men and plenty; What more<pc>-</pc>
-                        <lb/><orig>comodious</orig> than fire, what more <orig>pretious</orig> than water, what more amiable<pc>-</pc>
-                        <lb/>than earth, which <orig>yeilds</orig> flowers and all amiable things, what more plea
-                        <lb break="no"/>sant than <orig>aire</orig>, which being <choice><orig>restraind</orig><reg>restrained</reg></choice> and obstructed, all things cease to be
-                        <lb/>pleasant? Yet <orig>neverthelesse</orig>, because they are <orig>exposd</orig> to mens uses in their
+                        <lb/>thing, not next to a Being, <choice><orig>soe</orig><reg>so</reg></choice> <choice><orig>wee</orig><reg>we</reg></choice>allso</orig> the Philosophers shadow is a thing<pc>-</pc>
+                        <lb/><orig>blacke</orig> blacker than <choice><orig>wee</orig><reg>we</reg></choice>blacke</orig>, as they <choice><orig>terme</orig><reg>term</reg></choice> it, or of <choice><orig>wee</orig><reg>we</reg></choice>lesse</orig> esteem than weeds,<pc>-</pc>
+                        <lb/>not in respect of <choice><orig>wee</orig><reg>we</reg></choice>itselfe</orig>, but the opinion of men and plenty; What more<pc>-</pc>
+                        <lb/><orig>comodious</orig> than fire, what more <choice><orig>wee</orig><reg>we</reg></choice>pretious</orig> than water, what more amiable<pc>-</pc>
+                        <lb/>than earth, which <choice><orig>wee</orig><reg>we</reg></choice>yeilds</orig> flowers and all amiable things, what more plea
+                        <lb break="no"/>sant than <choice><orig>wee</orig><reg>we</reg></choice>aire</orig>, which being <choice><orig>restraind</orig><reg>restrained</reg></choice> and obstructed, all things cease to be
+                        <lb/>pleasant? Yet <choice><orig>wee</orig><reg>we</reg></choice>neverthelesse</orig>, because they are <choice><orig>wee</orig><reg>we</reg></choice>exposd</orig> to mens uses in their
                         <lb/>large Spheres, they are esteemed most vile, by a <choice><orig>præposterous</orig><reg>preposterous</reg></choice> imagination:<pc>-</pc>
-                        <lb/><orig>Soe</orig> <orig>allso</orig> is both the common and <orig>Philosophicall</orig> shadow undervalued; They<pc>-</pc>
+                        <lb/><orig>Soe</orig> <choice><orig>wee</orig><reg>we</reg></choice>allso</orig> is both the common and <choice><orig>wee</orig><reg>we</reg></choice>Philosophicall</orig> shadow undervalued; They<pc>-</pc>
                         <lb/>that live long in subterranean shadows, if brought suddenly to the clear<pc>-</pc>
-                        <lb/>light of the <orig>Sunne</orig>, <orig>doe</orig> loose their eye=sight; <choice><orig>Soe</orig><reg>So</reg></choice> they that reside and
-                        <lb/>operate in the <orig>Philosophicall</orig> shadow alone, and <orig>doe</orig> not <orig>joyne</orig> the<pc>-</pc>
-                        <lb/><orig>Sunne</orig> with it, are deprived of <orig>judgement</orig> and the sight of the mind, and
-                        <lb/>frustrated of the effect: The <orig>cælestiall</orig> <orig>Sunne</orig> being elevated upon the<pc>-</pc>
-                        <lb/>South there is greater heat and <orig>lesse</orig> shadow; <choice><orig>soe</orig><reg>so</reg></choice> <orig>allso</orig> here heat being in
-                        <lb break="no"/>creased the shadow is diminished, and on the contrary; <orig>Wee</orig> must there
-                        <lb break="no"/>fore begin the <orig>Sunne</orig> being from the <choice><orig>meridionall</orig><reg>meridional</reg></choice> side bending <orig>itselfe</orig><pc>-</pc>
+                        <lb/>light of the <choice><orig>wee</orig><reg>we</reg></choice>Sunne</orig>, <choice><orig>wee</orig><reg>we</reg></choice>doe</orig> loose their eye=sight; <choice><orig>Soe</orig><reg>So</reg></choice> they that reside and
+                        <lb/>operate in the <choice><orig>wee</orig><reg>we</reg></choice>Philosophicall</orig> shadow alone, and <choice><orig>wee</orig><reg>we</reg></choice>doe</orig> not <choice><orig>wee</orig><reg>we</reg></choice>joyne</orig> the<pc>-</pc>
+                        <lb/><orig>Sunne</orig> with it, are deprived of <choice><orig>wee</orig><reg>we</reg></choice>judgement</orig> and the sight of the mind, and
+                        <lb/>frustrated of the effect: The <choice><orig>wee</orig><reg>we</reg></choice>cælestiall</orig> <choice><orig>wee</orig><reg>we</reg></choice>Sunne</orig> being elevated upon the<pc>-</pc>
+                        <lb/>South there is greater heat and <choice><orig>wee</orig><reg>we</reg></choice>lesse</orig> shadow; <choice><orig>soe</orig><reg>so</reg></choice> <choice><orig>wee</orig><reg>we</reg></choice>allso</orig> here heat being in
+                        <lb break="no"/>creased the shadow is diminished, and on the contrary; <choice><orig>wee</orig><reg>we</reg></choice>Wee</orig> must there
+                        <lb break="no"/>fore begin the <choice><orig>wee</orig><reg>we</reg></choice>Sunne</orig> being from the <choice><orig>meridionall</orig><reg>meridional</reg></choice> side bending <choice><orig>wee</orig><reg>we</reg></choice>itselfe</orig><pc>-</pc>
                         <lb/><orig>againe</orig> to the top of our head, in <choice><orig>Capricorne</orig><reg>Capricorn</reg></choice>; and the first operation will<pc>-</pc>
-                        <lb/>be even finished at Aries, then begins the womens <orig>worke</orig>, even to Leo;<pc>-</pc>
-                        <lb/>and afterwards <orig>labour</orig> proceeds from <orig>labour</orig>, till the year take the <orig>tayle</orig>
+                        <lb/>be even finished at Aries, then begins the womens <choice><orig>wee</orig><reg>we</reg></choice>worke</orig>, even to Leo;<pc>-</pc>
+                        <lb/>and afterwards <choice><orig>wee</orig><reg>we</reg></choice>labour</orig> proceeds from <choice><orig>wee</orig><reg>we</reg></choice>labour</orig>, till the year take the <choice><orig>wee</orig><reg>we</reg></choice>tayle</orig>
                         <lb/>with the head, as a Snake, that is to say, is completed<pc>. . . . . . .</pc>
                     </ab>   
                 </div>

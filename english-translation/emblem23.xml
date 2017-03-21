@@ -26,7 +26,7 @@
                 <div type="title" xml:lang="en">
                     <head>
                         <lb/><orig>Embleme</orig> 23. Of the Secrets of Nature.
-                        <lb/>When Pallas was <orig>borne</orig>, and Sol lay with Venus, it rained gold
+                        <lb/>When Pallas was <choice><orig>wee</orig><reg>we</reg></choice>borne</orig>, and Sol lay with Venus, it rained gold
                         <lb/>at Rhodes.
                     </head>
                 </div>
@@ -36,11 +36,11 @@
                     <head><orig>Epigramme</orig> 23.</head>
                     <lg>
                         <l>This prodigy seems more than strange to us,</l>
-                        <l>Yet <choice><orig>Græce</orig><reg>Greece</reg></choice> for truth <orig>hath</orig> it affirmed thus:</l>
+                        <l>Yet <choice><orig>Græce</orig><reg>Greece</reg></choice> for truth <choice><orig>wee</orig><reg>we</reg></choice>hath</orig> it affirmed thus:</l>
                         <l>The clouds did twice at Rhodes their joy declare,</l>
-                        <l><choice><orig>Show'ring</orig><reg>Showering</reg></choice> <orig>downe</orig> gold through the receding <orig>aire</orig>;</l>
-                        <l>When Sol to Venus <orig>payd</orig> the dues of love,</l>
-                        <l>And Pallas Sprung out of the <orig>braine</orig> of Jove.</l><note place="margin"><choice><orig>yeilding</orig><reg>yielding</reg></choice> air</note>
+                        <l><choice><orig>Show'ring</orig><reg>Showering</reg></choice> <choice><orig>wee</orig><reg>we</reg></choice>downe</orig> gold through the receding <choice><orig>wee</orig><reg>we</reg></choice>aire</orig>;</l>
+                        <l>When Sol to Venus <choice><orig>wee</orig><reg>we</reg></choice>payd</orig> the dues of love,</l>
+                        <l>And Pallas Sprung out of the <choice><orig>wee</orig><reg>we</reg></choice>braine</orig> of Jove.</l><note place="margin"><choice><orig>yeilding</orig><reg>yielding</reg></choice> air</note>
                     </lg>
                 </div>
                 
@@ -49,70 +49,70 @@
                 <div type="discourse" xml:lang="en">
                     <head>Discourse 23.</head>
                     <ab><!--Our convention will be that if we have break = "no" then it means that the word is broken across the line with a dash--> 
-                        <lb/>It would be <choice><orig>madnesse</orig><reg>madness</reg></choice> to <orig>affirme</orig> that gold ever rained upon the earth, except<milestone unit="section" n="e03-01" /> <!-- Change the value of n to "e" plus the number of the emblem (in two digits), followed by a hyphen and then a two-digit count of sentence -->
-                        <lb/>it was allegorically understood: for there are <orig>noe</orig> golden rivers, or <orig>Mynes</orig> of<pc>-</pc>
-                        <lb/>gold veins in the clouds, that it could be <orig>sayd</orig> to be there generated, nor is gold of
-                        <lb/><orig>soe</orig> little weight, as to be thought to be attracted with <orig>vapours</orig>: but a Trope <choice><orig>ad
-                        <lb/>mitts</orig><reg>admits</reg></choice> and <choice><orig>excuseth</orig><reg>excuses</reg></choice> all these things; for <choice><orig>soe</orig><reg>so</reg></choice> <orig>truely</orig> as Pallas actually sprung
-                        <lb/>from Jupiters brain, and Sol <choice><orig>comitted</orig><reg>committed</reg></choice> adultery with Venus, <choice><orig>soe</orig><reg>so</reg></choice> <orig>truely</orig> <orig>allso</orig>
-                        <lb/>fell golden <orig>raine</orig>; not as if <orig>wee</orig> doubt both those things to have happened,<pc>-</pc>
-                        <lb/>but to take away the vulgar and <orig>literall</orig> sense from things allegorically
-                        <lb/>spoken: for if <orig>wee</orig> follow the bare words of this <orig>Embleme</orig>, there is nothing
+                        <lb/>It would be <choice><orig>madnesse</orig><reg>madness</reg></choice> to <choice><orig>wee</orig><reg>we</reg></choice>affirme</orig> that gold ever rained upon the earth, except<milestone unit="section" n="e03-01" /> <!-- Change the value of n to "e" plus the number of the emblem (in two digits), followed by a hyphen and then a two-digit count of sentence -->
+                        <lb/>it was allegorically understood: for there are <choice><orig>wee</orig><reg>we</reg></choice>noe</orig> golden rivers, or <choice><orig>wee</orig><reg>we</reg></choice>Mynes</orig> of<pc>-</pc>
+                        <lb/>gold veins in the clouds, that it could be <choice><orig>wee</orig><reg>we</reg></choice>sayd</orig> to be there generated, nor is gold of
+                        <lb/><orig>soe</orig> little weight, as to be thought to be attracted with <choice><orig>wee</orig><reg>we</reg></choice>vapours</orig>: but a Trope <choice><orig>ad
+                        <lb/>mitts</orig><reg>admits</reg></choice> and <choice><orig>excuseth</orig><reg>excuses</reg></choice> all these things; for <choice><orig>soe</orig><reg>so</reg></choice> <choice><orig>wee</orig><reg>we</reg></choice>truely</orig> as Pallas actually sprung
+                        <lb/>from Jupiters brain, and Sol <choice><orig>comitted</orig><reg>committed</reg></choice> adultery with Venus, <choice><orig>soe</orig><reg>so</reg></choice> <choice><orig>wee</orig><reg>we</reg></choice>truely</orig> <choice><orig>wee</orig><reg>we</reg></choice>allso</orig>
+                        <lb/>fell golden <choice><orig>wee</orig><reg>we</reg></choice>raine</orig>; not as if <choice><orig>wee</orig><reg>we</reg></choice>wee</orig> doubt both those things to have happened,<pc>-</pc>
+                        <lb/>but to take away the vulgar and <choice><orig>wee</orig><reg>we</reg></choice>literall</orig> sense from things allegorically
+                        <lb/>spoken: for if <choice><orig>wee</orig><reg>we</reg></choice>wee</orig> follow the bare words of this <choice><orig>wee</orig><reg>we</reg></choice>Embleme</orig>, there is nothing
                         <lb/>more absurd than them, if the meaning, nothing more true. Now Rhodes<pc>-</pc>
                         <lb/>is an Island, first called Ophinsa by reason of the multitude of Serpents,<pc>-</pc>
-                        <lb/>after that Rhodes from the gardens of roses there flourishing, lastly <orig>allso</orig><pc>-</pc>
-                        <lb/>Colossicula, from the Colosse of the <orig>Sunne</orig>, which being there was esteemd
+                        <lb/>after that Rhodes from the gardens of roses there flourishing, lastly <choice><orig>wee</orig><reg>we</reg></choice>allso</orig><pc>-</pc>
+                        <lb/>Colossicula, from the Colosse of the <choice><orig>wee</orig><reg>we</reg></choice>Sunne</orig>, which being there was esteemd
                         <lb/><orig>amoung</orig> the seven miracles of the world: Hereupon the ancient Philoso
-                        <lb break="no"/>phers, their crude <orig>Mercuriall</orig> matter <orig>Shewing</orig> <orig>itselfe</orig> like a Serpent, but
-                        <lb/>after <orig>præparation</orig> and coction assuming the purple <orig>colour</orig> of a rose,<pc>-</pc>
-                        <lb/><choice><orig>tooke</orig><reg>took</reg></choice> <orig>certaine</orig> similitudes from the Island Rhodes: The same <orig>allso</orig> was
+                        <lb break="no"/>phers, their crude <choice><orig>wee</orig><reg>we</reg></choice>Mercuriall</orig> matter <choice><orig>wee</orig><reg>we</reg></choice>Shewing</orig> <choice><orig>wee</orig><reg>we</reg></choice>itselfe</orig> like a Serpent, but
+                        <lb/>after <choice><orig>wee</orig><reg>we</reg></choice>præparation</orig> and coction assuming the purple <choice><orig>wee</orig><reg>we</reg></choice>colour</orig> of a rose,<pc>-</pc>
+                        <lb/><choice><orig>tooke</orig><reg>took</reg></choice> <choice><orig>wee</orig><reg>we</reg></choice>certaine</orig> similitudes from the Island Rhodes: The same <choice><orig>wee</orig><reg>we</reg></choice>allso</orig> was
                         <lb/>the cause, why they <choice><orig>ascribd</orig><reg>ascribed</reg></choice> a golden shower to it, Sol or Apollo having
                         <lb/>coition with Venus: This thing first tropically spoken gave occasion to
                         <lb/>the Rhodians (growing more proud, because <choice><orig>soe</orig><reg>so</reg></choice> great Gods had begotten
-                        <lb/>children among them) to erect as it were an <choice><orig>idoll</orig><reg>idol</reg></choice> of the <orig>Sunne</orig> of<pc>-</pc>
+                        <lb/>children among them) to erect as it were an <choice><orig>idoll</orig><reg>idol</reg></choice> of the <choice><orig>wee</orig><reg>we</reg></choice>Sunne</orig> of<pc>-</pc>
                         <lb/><choice><orig>stupendious</orig><reg>stupendous</reg></choice> magnitude and charge: for that Colosse, as <choice><orig>hystoryes</orig><reg>histories</reg></choice> re
                         <lb break="no"/>late, was 70 cubits high, <choice><orig>soe</orig><reg>so</reg></choice> placed, that <choice><orig>Shipps</orig><reg>Ships</reg></choice> might <choice><orig>passe</orig><reg>pass</reg></choice> be
                         <lb break="no"/>tween the <choice><orig>leggs</orig><reg>legs</reg></choice> of it with full <choice><orig>Sayle</orig><reg>Sail</reg></choice>: the fingers were as <choice><orig>bigge</orig><reg>big</reg></choice> as<pc>-</pc>
                         <lb/>ordinary statues, and few men could <choice><orig>graspe</orig><reg>grasp</reg></choice> the thumb: the Artist
-                        <lb/>was Chares Lyndius the <orig>Schollar</orig> of Lysippus, by <orig>whome</orig> it was<pc>-</pc>
+                        <lb/>was Chares Lyndius the <choice><orig>wee</orig><reg>we</reg></choice>Schollar</orig> of Lysippus, by <choice><orig>wee</orig><reg>we</reg></choice>whome</orig> it was<pc>-</pc>
                         <lb/>made in twelve years: after the fifty sixth year being overturned
-                        <lb/>by an earth=quake, it was <orig>allso</orig> a miracle lying: The <choice><orig>Soldan</orig><reg>Sultan</reg></choice> of<pc>-</pc>
+                        <lb/>by an earth=quake, it was <choice><orig>wee</orig><reg>we</reg></choice>allso</orig> a miracle lying: The <choice><orig>Soldan</orig><reg>Sultan</reg></choice> of<pc>-</pc>
                         <lb/><orig>Ægypt</orig>, winning and possessing Rhodes, is reported to have laden<pc>-</pc>
-                        <lb/>900 <choice><orig>Camells</orig><reg>Camels</reg></choice> with the <orig>brasse</orig> of this statue: That which Sol is<pc>-</pc>
-                        <lb/>among the Planets, <orig>sayth</orig> a Philosopher, that is gold amongst <orig>metalls</orig>;
-                        <lb/>and this is <orig>cheifely</orig> appropriated to the <orig>Sunne</orig> in respect of heat, <orig>colour</orig>,
+                        <lb/>900 <choice><orig>Camells</orig><reg>Camels</reg></choice> with the <choice><orig>wee</orig><reg>we</reg></choice>brasse</orig> of this statue: That which Sol is<pc>-</pc>
+                        <lb/>among the Planets, <choice><orig>wee</orig><reg>we</reg></choice>sayth</orig> a Philosopher, that is gold amongst <choice><orig>wee</orig><reg>we</reg></choice>metalls</orig>;
+                        <lb/>and this is <choice><orig>wee</orig><reg>we</reg></choice>cheifely</orig> appropriated to the <choice><orig>wee</orig><reg>we</reg></choice>Sunne</orig> in respect of heat, <choice><orig>wee</orig><reg>we</reg></choice>colour</orig>,
                         <lb/>virtue and essence: for this reason is a golden <choice><orig>rayne</orig><reg>rain</reg></choice> ascribed to the<pc>-</pc>
-                        <lb/>generation of Sol: when little <orig>Sunns</orig> are <choice><orig>conceivd</orig><reg>conceived</reg></choice> by Venus: For Ve
-                        <lb break="no"/>nus <orig>hath</orig> a rosy <orig>colour</orig> in her face, and if infused into the seed of<pc>-</pc>
+                        <lb/>generation of Sol: when little <choice><orig>wee</orig><reg>we</reg></choice>Sunns</orig> are <choice><orig>conceivd</orig><reg>conceived</reg></choice> by Venus: For Ve
+                        <lb break="no"/>nus <choice><orig>wee</orig><reg>we</reg></choice>hath</orig> a rosy <choice><orig>wee</orig><reg>we</reg></choice>colour</orig> in her face, and if infused into the seed of<pc>-</pc>
                         <lb/>Sol, the offspring from hence produced must really be a Rhodian:<pc>-</pc>
-                        <lb/><orig>Hee</orig> is <orig>beautifull</orig>, like roses, the <orig>Sonne</orig> of the Philosophers, who<pc>-</pc>
+                        <lb/><orig>Hee</orig> is <choice><orig>wee</orig><reg>we</reg></choice>beautifull</orig>, like roses, the <choice><orig>wee</orig><reg>we</reg></choice>Sonne</orig> of the Philosophers, who<pc>-</pc>
                         <lb/><choice><orig>drawes</orig><reg>draws</reg></choice> and allures the eyes and minds of all men to him, and de
-                        <lb break="no"/>serves love, at whose birth it is <orig>noe</orig> strange thing if miracles hap
-                        <lb break="no"/>pen: for <orig>hee</orig> in all his actions will be miraclous, and excite a<pc>-</pc>
-                        <lb/>golden <choice><orig>rayne</orig><reg>rain</reg></choice>: This is the brother of Augius the <orig>Sonne</orig> of Sol,<pc>-</pc>
+                        <lb break="no"/>serves love, at whose birth it is <choice><orig>wee</orig><reg>we</reg></choice>noe</orig> strange thing if miracles hap
+                        <lb break="no"/>pen: for <choice><orig>wee</orig><reg>we</reg></choice>hee</orig> in all his actions will be miraclous, and excite a<pc>-</pc>
+                        <lb/>golden <choice><orig>rayne</orig><reg>rain</reg></choice>: This is the brother of Augius the <choice><orig>wee</orig><reg>we</reg></choice>Sonne</orig> of Sol,<pc>-</pc>
                         
                         <pb n="76"/><fw>Discourse 23.</fw><!-- Page number of the actual manuscript, followed by the header on the page. -->
                         <lb/>who had Oxen for a patrimony, the dung whereof Hercules purged away
-                        <lb/>in one day: <orig>Hee</orig> <orig>allso</orig> is the brother of Æeta, who possessed the golden
-                        <lb/>fleece obtained by Jason. Of Pallas <orig>proceding</orig> from the <orig>braine</orig> of Jupiter,
-                        <lb/>without a mother, they report, that <orig>shee</orig> was brought forth at the river
-                        <lb/>Triton, and therefore <choice><orig>calld</orig><reg>called</reg></choice> Tritonia: <orig>Shee</orig> is feigned to be the <orig>goddesse</orig>
-                        <lb/>of <orig>wisedome</orig>, who springing from the <orig>braine</orig>, the seat of <orig>wisedome</orig>, is not
-                        <lb/>without reason <choice><orig>soe</orig><reg>so</reg></choice> called: a golden <orig>raine</orig> did <orig>allso</orig> <orig>adorne</orig> her nativity at
-                        <lb/>Rhodes, that after birth <orig>shee</orig> might <orig>remaine</orig> in the memory of men. In
-                        <lb/><orig>publicke</orig> or <choice><orig>solemne</orig><reg>solemn</reg></choice> joy, as at the coronation of a King, or <orig>allso</orig> the birth
-                        <lb/>of the Kings <choice><orig>heire</orig><reg>heir</reg></choice> <choice><orig>peices</orig><reg>pieces</reg></choice> of gold are sometimes <orig>throwne</orig> amongst the<pc>-</pc>
-                        <lb/><orig>comon</orig> people, as golden <orig>raine</orig>: <choice><orig>Soe</orig><reg>So</reg></choice> did the same happen at the birth of
-                        <lb/>Pallas: For Pallas is <orig>wisedome</orig>, who <orig>carryes</orig> health in her right hand, and
+                        <lb/>in one day: <choice><orig>wee</orig><reg>we</reg></choice>Hee</orig> <choice><orig>wee</orig><reg>we</reg></choice>allso</orig> is the brother of Æeta, who possessed the golden
+                        <lb/>fleece obtained by Jason. Of Pallas <choice><orig>wee</orig><reg>we</reg></choice>proceding</orig> from the <choice><orig>wee</orig><reg>we</reg></choice>braine</orig> of Jupiter,
+                        <lb/>without a mother, they report, that <choice><orig>wee</orig><reg>we</reg></choice>shee</orig> was brought forth at the river
+                        <lb/>Triton, and therefore <choice><orig>calld</orig><reg>called</reg></choice> Tritonia: <choice><orig>wee</orig><reg>we</reg></choice>Shee</orig> is feigned to be the <choice><orig>wee</orig><reg>we</reg></choice>goddesse</orig>
+                        <lb/>of <choice><orig>wee</orig><reg>we</reg></choice>wisedome</orig>, who springing from the <choice><orig>wee</orig><reg>we</reg></choice>braine</orig>, the seat of <choice><orig>wee</orig><reg>we</reg></choice>wisedome</orig>, is not
+                        <lb/>without reason <choice><orig>soe</orig><reg>so</reg></choice> called: a golden <choice><orig>wee</orig><reg>we</reg></choice>raine</orig> did <choice><orig>wee</orig><reg>we</reg></choice>allso</orig> <choice><orig>wee</orig><reg>we</reg></choice>adorne</orig> her nativity at
+                        <lb/>Rhodes, that after birth <choice><orig>wee</orig><reg>we</reg></choice>shee</orig> might <choice><orig>wee</orig><reg>we</reg></choice>remaine</orig> in the memory of men. In
+                        <lb/><orig>publicke</orig> or <choice><orig>solemne</orig><reg>solemn</reg></choice> joy, as at the coronation of a King, or <choice><orig>wee</orig><reg>we</reg></choice>allso</orig> the birth
+                        <lb/>of the Kings <choice><orig>heire</orig><reg>heir</reg></choice> <choice><orig>peices</orig><reg>pieces</reg></choice> of gold are sometimes <choice><orig>wee</orig><reg>we</reg></choice>throwne</orig> amongst the<pc>-</pc>
+                        <lb/><orig>comon</orig> people, as golden <choice><orig>wee</orig><reg>we</reg></choice>raine</orig>: <choice><orig>Soe</orig><reg>So</reg></choice> did the same happen at the birth of
+                        <lb/>Pallas: For Pallas is <choice><orig>wee</orig><reg>we</reg></choice>wisedome</orig>, who <choice><orig>wee</orig><reg>we</reg></choice>carryes</orig> health in her right hand, and
                         <lb/>riches in the left, and provides for mens health and <choice><orig>wellfare</orig><reg>welfare</reg></choice>: To her <choice><orig>Per
                         <lb break="no"/>sens</orig><reg>Persons</reg></choice> brought the saxifying head of Medusa, terrible with serpentine and vi
-                        <lb break="no"/>perous <orig>haire</orig>, which <orig>shee</orig> used in a <choice><orig>sheild</orig><reg>shield</reg></choice> against her <choice><orig>enemyes</orig><reg>enemies</reg></choice>, a rude and bar
-                        <lb break="no"/>barous people, transmuting them into stones. And indeed <orig>naturall</orig> <orig>wisedome</orig><pc>-</pc>
+                        <lb break="no"/>perous <choice><orig>wee</orig><reg>we</reg></choice>haire</orig>, which <choice><orig>wee</orig><reg>we</reg></choice>shee</orig> used in a <choice><orig>sheild</orig><reg>shield</reg></choice> against her <choice><orig>enemyes</orig><reg>enemies</reg></choice>, a rude and bar
+                        <lb break="no"/>barous people, transmuting them into stones. And indeed <choice><orig>wee</orig><reg>we</reg></choice>naturall</orig> <choice><orig>wee</orig><reg>we</reg></choice>wisedome</orig><pc>-</pc>
                         <lb/>or Philosophy makes those incredulous and envious despisers stupid and
                         <lb/><orig>voyd</orig> of sense and understanding by that very thing, (from which Chrysaor
                         <lb/>was produced, who was the father of the <choice><orig>tricorporeall</orig><reg>tricorporeal</reg></choice> Geryon <choice><orig>aforesayd</orig><reg>aforesaid</reg></choice>),<pc>-</pc>
-                        <lb/>that is, the petrifying Gorgonian blood, which is nothing <orig>els</orig>, but the<pc>-</pc>
-                        <lb/>tincture of the <orig>Philosophicall</orig> stone<pc>. . . . . . . . .</pc>      
+                        <lb/>that is, the petrifying Gorgonian blood, which is nothing <choice><orig>wee</orig><reg>we</reg></choice>els</orig>, but the<pc>-</pc>
+                        <lb/>tincture of the <choice><orig>wee</orig><reg>we</reg></choice>Philosophicall</orig> stone<pc>. . . . . . . . .</pc>      
                     </ab>   
                 </div>
                 
