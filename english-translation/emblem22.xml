@@ -50,7 +50,7 @@
                     <ab><!--Our convention will be that if we have break = "no" then it means that the word is broken across the line with a dash--> 
                         <lb/>As <orig>Mercuriall</orig> Statues are <orig>comonly</orig> placed in roads where three <orig>wayes</orig> meet, to<milestone unit="section" n="e03-01" /> <!-- Change the value of n to "e" plus the number of the emblem (in two digits), followed by a hyphen and then a two-digit count of sentence -->
                         <lb break="no"/>gether with a title and inscription, to guide <choice><orig>doubtfull</orig><reg>doubtful</reg></choice> travellers into the right
-                        <lb/>way, <choice><orig>soe</orig><reg>so</reg></choice> <orig>allso</orig> are <orig>certaine</orig> acute sentences inferred in many of their books
+                        <lb/>way, <orig>soe</orig> <orig>allso</orig> are <orig>certaine</orig> acute sentences inferred in many of their books
                         <lb/>and <choice><orig>volums</orig><reg>volumes</reg></choice> of the Philosophers, here and there <choice><orig>allegoricall</orig><reg>allegorical</reg></choice> and dubious, that
                         <lb/>the investigator of truth may thereby be admonished, and led as it were by
                         <lb/>the hand into the right path: of these this <choice><orig>emblematicall</orig><reg>emblematical</reg></choice> inscription is one,
@@ -97,7 +97,7 @@
                         <pb n="73"/><fw>Discourse 22.</fw><!-- Page number of the actual manuscript, followed by the header on the page. -->
                         <lb/>that <orig>vessell</orig> above the <orig>vessell</orig>, and the Philosophers <orig>pott</orig>, the Laconian bath,
                         <lb/>in which the old man sweats: Some there are, who <orig>boyle</orig> fish, Lobsters, Crabs,
-                        <lb/>or green Peas in a double, <choice><orig>soe</orig><reg>so</reg></choice> that the <orig>sayd</orig> things are in the upper <orig>pott</orig>, and
+                        <lb/>or green Peas in a double, <orig>soe</orig> that the <orig>sayd</orig> things are in the upper <orig>pott</orig>, and
                         <lb/>water <orig>onely</orig> in the lower, and the <orig>potts</orig> are placed one above the other with
                         <lb/><choice><orig>orbes</orig><reg>orbs</reg></choice>, that the <orig>vapour</orig> may not <orig>goe</orig> forth: by which means the <orig>vapour</orig> of<pc>-</pc>
                         <lb/>the water ascending <orig>onely</orig> penetrates and matures the things contained,<pc>-</pc>

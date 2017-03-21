@@ -35,7 +35,7 @@
                 <div type="epigram" xml:lang="en">
                     <head><orig>Epigramme</orig> 8.</head>
                     <lg>
-                        <l>Rest not till you have found that <orig>egge</orig> <choice><orig>soe</orig><reg>so</reg></choice> rare,</l>
+                        <l>Rest not till you have found that <orig>egge</orig> <orig>soe</orig> rare,</l>
                         <l>Descended from the <choice><orig>loftyest</orig><reg>loftiest</reg></choice> bird <choice><orig>oth'</orig><reg>of the</reg></choice> <orig>aire</orig>:</l>
                         <l>With fire and <orig>steele</orig> (<orig>noe</orig> otherwise) confound</l>
                         <l>The Slimy white which <orig>dos</orig> the <choice><orig>yolke</orig><reg>yolk</reg></choice> surround;</l>
@@ -49,7 +49,7 @@
                 <div type="discourse" xml:lang="en">
                     <head>Discourse 8.</head>
                     <ab><!--Our convention will be that if we have break = "no" then it means that the word is broken across the line with a dash--> 
-                        <lb/>Many and <orig>severall</orig> sorts of birds there are, which as they are indefinite in number, <choice><orig>soe</orig><reg>so</reg></choice><milestone unit="section" n="e03-01" /> <!-- Change the value of n to "e" plus the number of the emblem (in two digits), followed by a hyphen and then a two-digit count of sentence -->
+                        <lb/>Many and <orig>severall</orig> sorts of birds there are, which as they are indefinite in number, <orig>soe</orig><milestone unit="section" n="e03-01" /> <!-- Change the value of n to "e" plus the number of the emblem (in two digits), followed by a hyphen and then a two-digit count of sentence -->
                         <lb/>are they <orig>unknowne</orig> to us by names: Story tells us of a very great bird appearing at a<pc>-</pc>
                         <lb/><orig>certaine</orig> time of the year in a small Isle of the Sea called Ruc, because it can lift
                         <lb/>up an Elephant with it into the <orig>aire</orig>. India and America <orig>doe</orig> <choice><orig>yeild</orig><reg>yield</reg></choice> <choice><orig>Parrotts</orig><reg>Parrots</reg></choice> of va
@@ -78,7 +78,7 @@
                         <lb break="no"/>soned by Vulcan at the <orig>comand</orig> of Mars, and not released, before <orig>hee</orig> was<pc>-</pc>
                         <lb/><orig>wholy</orig> <choice><orig>putrefyd</orig><reg>putrified</reg></choice> and dead: but this death is to him the <orig>begining</orig> of a new life,<pc>-</pc>
                         <lb/>as the corruption or death of an <orig>egge</orig> brings new generation and life to the<pc>-</pc>
-                        <lb/>chicken, <choice><orig>soe</orig><reg>so</reg></choice> an Embryo being freed from that <orig>humane</orig> vegetable life (which
+                        <lb/>chicken, <orig>soe</orig> an Embryo being freed from that <orig>humane</orig> vegetable life (which
                         <lb/>alone <orig>hee</orig> enjoyed in his mothers <orig>wombe</orig>, another more perfect is obtained by
                         <lb/>coming into the light of this world, as by nativity: yea <orig>allso</orig> <orig>wee</orig> being de
                         <lb break="no"/>prived of this present life, which <orig>wee</orig> lead, another most perfect and <choice><orig>æter
@@ -89,9 +89,9 @@
                         <lb/><choice><orig>Stomacke</orig><reg>Stomach</reg></choice> of a Cormorant, which is of all birds most voracious, are found
                         <lb/>long and round <choice><orig>wormes</orig><reg>worms</reg></choice> alive, which are to it as the instrument of heat,
                         <lb/>they forthwith invading, and as most sharp noodles perforating, (as <orig>wee</orig>
-                        <lb/>have sometimes observed) and <choice><orig>soe</orig><reg>so</reg></choice> in a very short time consuming<pc>-</pc>
+                        <lb/>have sometimes observed) and <orig>soe</orig> in a very short time consuming<pc>-</pc>
                         <lb/>the <choice><orig>Eeles</orig><reg>Eels</reg></choice> and other fish taken by it, with a <orig>wonderfull</orig> operation of na
-                        <lb break="no"/>ture: as therefore heat <choice><orig>pricketh</orig><reg>pricks</reg></choice>, <choice><orig>soe</orig><reg>so</reg></choice> a thing pricking sometimes <choice><orig>supplys</orig><reg>supplies</reg></choice> the
+                        <lb break="no"/>ture: as therefore heat <choice><orig>pricketh</orig><reg>pricks</reg></choice>, <orig>soe</orig> a thing pricking sometimes <choice><orig>supplys</orig><reg>supplies</reg></choice> the
                         
                         
                         
