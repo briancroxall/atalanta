@@ -48,7 +48,7 @@
                 <div type="discourse" xml:lang="en">
                     <head>Discourse 24.</head>
                     <ab><!--Our convention will be that if we have break = "no" then it means that the word is broken across the line with a dash--> 
-                        <lb/>It is a thing <orig>comonly</orig> <orig>knowne</orig>, how great the hunger and voracity of a <orig>wolfe</orig> is:<milestone unit="section" n="e03-01" /> <!-- Change the value of n to "e" plus the number of the emblem (in two digits), followed by a hyphen and then a two-digit count of sentence -->
+                        <lb/>It is a thing <orig>coḿonly</orig> <orig>knowne</orig>, how great the hunger and voracity of a <orig>wolfe</orig> is:<milestone unit="section" n="e03-01" /> <!-- Change the value of n to "e" plus the number of the emblem (in two digits), followed by a hyphen and then a two-digit count of sentence -->
                         <note place="margin"><unclear reason="illegible">math the dxojo ancoction hungry</unclear></note><lb/>for when <orig>hee</orig> wants food, <seg rend="underline">in extreme hunger <orig>hee</orig> feeds upon the earth:</seg> which
                         <lb/><orig>allso</orig> <orig>hee</orig> is <orig>sayd</orig> to disgorge, if <orig>hee</orig> come amongst great heards of beasts, that
                         <lb/>being made more heavy with that <choice><orig>packe</orig><reg>pack</reg></choice> as it were, <orig>hee</orig> cannot be <orig>soe</orig> easily

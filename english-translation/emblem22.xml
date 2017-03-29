@@ -48,7 +48,7 @@
                 <div type="discourse" xml:lang="en">
                     <head>Discourse 22.</head>
                     <ab><!--Our convention will be that if we have break = "no" then it means that the word is broken across the line with a dash--> 
-                        <lb/>As <orig>Mercuriall</orig> Statues are <orig>comonly</orig> placed in roads where three <orig>wayes</orig> meet, to<milestone unit="section" n="e03-01" /> <!-- Change the value of n to "e" plus the number of the emblem (in two digits), followed by a hyphen and then a two-digit count of sentence -->
+                        <lb/>As <orig>Mercuriall</orig> Statues are <orig>coḿonly</orig> placed in roads where three <orig>wayes</orig> meet, to<milestone unit="section" n="e03-01" /> <!-- Change the value of n to "e" plus the number of the emblem (in two digits), followed by a hyphen and then a two-digit count of sentence -->
                         <lb break="no"/>gether with a title and inscription, to guide <choice><orig>doubtfull</orig><reg>doubtful</reg></choice> travellers into the right
                         <lb/>way, <orig>soe</orig> <orig>allso</orig> are <orig>certaine</orig> acute sentences inferred in many of their books
                         <lb/>and <choice><orig>volums</orig><reg>volumes</reg></choice> of the Philosophers, here and there <choice><orig>allegoricall</orig><reg>allegorical</reg></choice> and dubious, that
@@ -63,11 +63,11 @@
                         <lb/>under those mountains: for many men, as Arnold in Novum lumen Chapt. 1.
                         <lb/><choice><orig>affirmes</orig><reg>affirms</reg></choice>, <choice><orig>wandring</orig><reg>wandering</reg></choice> in the mountains <orig>doe</orig> not know these <orig>animalls</orig>: but they
                         <lb/>are sold openly at a very small price: In the Summer <orig>allso</orig> Snow is some
-                        <lb break="no"/>times observed on the highest <choice><orig>mountaines</orig><reg>mountains</reg></choice>, and clouds most <orig>comonly</orig>, by<pc>-</pc>
+                        <lb break="no"/>times observed on the highest <choice><orig>mountaines</orig><reg>mountains</reg></choice>, and clouds most <orig>coḿonly</orig>, by<pc>-</pc>
                         <lb/>which as by a <orig>vapour</orig> and water lead being <orig>blacke</orig> is washed, and turned in
                         <lb break="no"/>to <orig>whitenesse</orig>: but their <choice><orig>crystalls</orig><reg>crystals</reg></choice> are found congealed and hardened by ice
                         <lb/>in the lowest <choice><orig>vallyes</orig><reg>valleys</reg></choice> and <choice><orig>mynes</orig><reg>mines</reg></choice>, together with Lapis Specularis, and <choice><orig>Talke</orig><reg>Talcum</reg></choice><pc>-</pc>
-                        <lb/><orig>comended</orig> for making the face white and <choice><orig>beautifull</orig><reg>beautiful</reg></choice>, if an <orig>oyle</orig> be made<pc>-</pc>
+                        <lb/><orig>coḿended</orig> for making the face white and <choice><orig>beautifull</orig><reg>beautiful</reg></choice>, if an <orig>oyle</orig> be made<pc>-</pc>
                         <lb/>thereof: But <choice><orig>cheifely</orig><reg>chiefly</reg></choice> clear and running Mercury, which being well <orig>præpared</orig>
                         <lb/><choice><orig>rectifyes</orig><reg>rectifies</reg></choice> the blemishes of <orig>Saturne</orig>, and <choice><orig>advanceth</orig><reg>advances</reg></choice> him into the throne of
                         <lb/>Jupiter: but they ought not to be meant vulgar <orig>Saturne</orig> and Jupiter, be
