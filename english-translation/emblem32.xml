@@ -35,7 +35,7 @@
                 <div type="epigram" xml:lang="en">
                     <head><orig>Epigramme</orig> 32.</head>
                     <lg>
-                        <l>In the Sicilian waves a Sea=plant <orig>growes</orig>,</l>
+                        <l>In the Sicilian waves a Sea<c rend="double-hyphen">-</c>plant <orig>growes</orig>,</l>
                         <l>Shooting forth many moist and <choice><orig>plyant</orig><reg>pliant</reg></choice> <choice><orig>boughes</orig><reg>boughs</reg></choice>:</l>
                         <l><orig>Corall</orig> it is by name; whose nature's such,</l>
                         <l>That, if exposed to <choice><orig>th'</orig><reg>the</reg></choice> <orig>aire</orig>, it alters much,</l>
@@ -71,7 +71,7 @@
                         <lb/>as to the proper and genuine virtues of either. Besides the sea in other
                         <lb/>places <orig>yeilds</orig> three <orig>medicinall</orig> stones deduced partly from the vegetable
                         <lb/>kind, partly from the <orig>animall</orig>, or rather partly from the secrets of na
-                        <lb break="no"/>ture; as Pearls, <orig>Ambar</orig>, and <choice><orig>Ambar=grise</orig><reg>Ambar=grise</reg></choice>: the production of Pearls,<pc>-</pc>
+                        <lb break="no"/>ture; as Pearls, <orig>Ambar</orig>, and <choice><orig>Ambar<c rend="double-hyphen">-</c>grise</orig><reg>Ambar<c rend="double-hyphen">-</c>grise</reg></choice>: the production of Pearls,<pc>-</pc>
                         <lb/>and the way of taking them have been <orig>knowne</orig> to us, but not of the
                         <lb/>rest: <orig>Ambar</orig> is found and gathered on the Sea coasts of Sudavia, on the
                         <lb/><orig>shoars</orig>, after a most vehement South or westerly wind, which without
@@ -84,7 +84,7 @@
                         <lb/><orig>containe</orig> some <orig>flyes</orig>, <orig>gnatts</orig>, Spiders, <choice><orig>butterflyes</orig><reg>butterflies</reg></choice>, and one particle nine,
                         <lb/>not without a singular miracle of nature) that happens by the influ
                         <lb break="no"/>ence and imagination of the heaven; as <orig>wee</orig> have <orig>elswhere</orig> demon
-                        <lb break="no"/>strated. That <choice><orig>Ambar=grise</orig><reg>Amber=grise</reg></choice> is found after the same manner on the
+                        <lb break="no"/>strated. That <choice><orig>Ambar<c rend="double-hyphen">-</c>grise</orig><reg>Amber<c rend="double-hyphen">-</c>grise</reg></choice> is found after the same manner on the
                         <lb/><orig>Shoars</orig> of the east and west <choice><orig>Indyes</orig><reg>Indies</reg></choice>, cannot be <choice><orig>denyd</orig><reg>denied</reg></choice>, and though<pc>-</pc>
                         <lb/>some declare it to be the juice or <orig>gumme</orig> of trees, as the <orig>Ambar</orig><pc>-</pc>
                         <lb/><orig>aforesayd</orig>, yet they that conceive it to proceed out of veins of the<pc>-</pc>

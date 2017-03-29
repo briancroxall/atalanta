@@ -49,7 +49,7 @@
                     <head>Discourse 33.</head>
                     <ab><!--Our convention will be that if we have break = "no" then it means that the word is broken across the line with a dash--> 
                         <lb/>It is one of the secrets of Nature, that in the cold winter <choice><orig>Froggs</orig><reg>Frogs</reg></choice> and<pc>-</pc><milestone unit="section" n="e03-01" /> <!-- Change the value of n to "e" plus the number of the emblem (in two digits), followed by a hyphen and then a two-digit count of sentence -->
-                        <lb/>Horse=leeches <orig>lye</orig> as it were dead under water, and in the Spring new<pc>-</pc>
+                        <lb/>Horse<c rend="double-hyphen">-</c>leeches <orig>lye</orig> as it were dead under water, and in the Spring new<pc>-</pc>
                         <lb/>heat of the <orig>Sunne</orig> operating recover sense and motion, or <orig>performe</orig><pc>-</pc>
                         <lb/>the actions of a sensitive life: But if they be found in the waters<pc>-</pc>
                         <lb/>in the winter time, and brought into the <orig>aire</orig> or a <orig>warme</orig> house, they

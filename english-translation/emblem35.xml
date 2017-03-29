@@ -49,7 +49,7 @@
                 <div type="discourse" xml:lang="en">
                     <head>Discourse 35.</head>
                     <ab><!--Our convention will be that if we have break = "no" then it means that the word is broken across the line with a dash--> 
-                        <lb/>Lycurgus that Law=maker of the Spartans <orig>Shewed</orig> to the people in<pc>-</pc><milestone unit="section" n="e03-01" /> <!-- Change the value of n to "e" plus the number of the emblem (in two digits), followed by a hyphen and then a two-digit count of sentence -->
+                        <lb/>Lycurgus that Law<c rend="double-hyphen">-</c>maker of the Spartans <orig>Shewed</orig> to the people in<pc>-</pc><milestone unit="section" n="e03-01" /> <!-- Change the value of n to "e" plus the number of the emblem (in two digits), followed by a hyphen and then a two-digit count of sentence -->
                         <lb/>an assembly in the Theater by an ocular example, how <orig>farre</orig> <orig>custome</orig>
                         <lb/>and use whether good or <orig>evill</orig> may <orig>prævayle</orig>, <orig>hee</orig> bringing in two whelps
                         <lb/>produced at one litter, and between both setting a <choice><orig>pott</orig><reg>pot</reg></choice> full of meat,<pc>-</pc>
