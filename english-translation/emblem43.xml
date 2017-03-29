@@ -114,10 +114,16 @@
                         <lb/>forth in one day, Ct. It lives and endures a very long time, and<pc>-</pc>
                         <lb/><orig>multiplyes</orig> <orig>itselfe</orig>. For that which <choice><orig>Virgill</orig><reg>Virgil</reg></choice> writes of the bird <orig>calld</orig>
                         <lb/>a <choice><orig>Phænix</orig><reg>Phoenix</reg></choice>, is as proper to this, because it is the same.
-                        <lb/>Alipedem Cervum Corvus ter vincit, at illum
-                        <lb/>Multiplicat novies <choice><orig>Phænix</orig><reg>Phoenix</reg></choice> reparabilis abes.
-                        <lb/>Three ages of a Hart the Raven lives,
-                        <lb/>Which the rare <choice><orig>Phænix</orig><reg>Phoenix</reg></choice> nine times <choice><orig>o're</orig><reg>over</reg></choice> survives.
+                        <quote rend="indent">
+                            <lg xml:lang="lat">
+                                <l>Alipedem Cervum Corvus ter vincit, at illum</l>
+                                <l>Multiplicat novies <choice><orig>Phænix</orig><reg>Phoenix</reg></choice> reparabilis abes.</l>
+                            </lg>
+                            <lg xml:lang="eng">
+                                <l>Three ages of a Hart the Raven lives,</l>
+                                <l>Which the rare <choice><orig>Phænix</orig><reg>Phoenix</reg></choice> nine times <choice><orig>o're</orig><reg>over</reg></choice> survives.</l>
+                            </lg>
+                        </quote>
                         <lb/>It is very difficult to <orig>climbe</orig> this birds nest: It fights with the <orig>Mercuriall</orig>
                         <lb/>serpent, and overcomes it, that is, Sol with Luna. It is conceived by<pc>-</pc>
                         <lb/>the wind, and <orig>carryed</orig> in its belly, and bred in the <orig>aire</orig>. The<pc>-</pc>
