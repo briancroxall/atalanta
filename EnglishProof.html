@@ -71,7 +71,7 @@
             var contents = JSON.parse(this.response);
             var filesSHA;
             for (var i = 0; i < contents.length; i++) {
-                if (contents[i].name === 'epidoc-files') {
+                if (contents[i].name === 'english-translation') {
                     filesSHA = contents[i].sha;
                 }
             }
