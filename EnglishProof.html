@@ -7,23 +7,24 @@
 </head>
 <body>
 <header>
-    <h2 id="title"></h2>
+    <h2 id="title">Proofreading Atalanta English transcriptions</h2>
+    <p>Pick an emblem number to view that emblem</p>
     Emblem: <select id="inscription_picker" onchange="reload()"></select><br/>
 </header>
     <section>
-        <h3>Diplomatic <a href="#" type="button" class="srcbutton" onclick="toggleSource('diplomatic', event)">show source</a></h3>
+        <h3>Title <a href="#" type="button" class="srcbutton" onclick="toggleSource('diplomatic', event)">show source</a></h3>
         <div id="diplomatic" class="diplomatic transc_block"></div>
         <pre id="diplomatic_src" class="source"></pre>
     </section>
 
     <section>
-        <h3>Transcription <a href="#" type="button" class="srcbutton" onclick="toggleSource('transcription', event)">show source</a></h3>
+        <h3>Epigram <a href="#" type="button" class="srcbutton" onclick="toggleSource('transcription', event)">show source</a></h3>
         <div id="transcription" class="transcription transc_block"></div>
         <pre id="transcription_src" class="source"></pre>
     </section>
 
     <section>
-        <h3>Translation <a href="#" type="button" class="srcbutton" onclick="toggleSource('translation', event)">show source</a></h3>
+        <h3>Discourse <a href="#" type="button" class="srcbutton" onclick="toggleSource('translation', event)">show source</a></h3>
         <div id="translation" class="transc_block"></div>
         <pre id="translation_src" class="source"></pre>
     </section>
