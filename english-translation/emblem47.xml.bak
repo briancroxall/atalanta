@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Title</title>
+            </titleStmt>
+            <publicationStmt>
+                <p>Publication Information</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Information about the source</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    
+    <text>
+        <body>
+            <div type="emblem" n="e47"><!-- Change the value of n to "e" followed by the number of the emblem. Use two digits for all numbers. -->
+                <pb n="146"/><!-- Change to page number of the actual manuscript -->
+                
+                
+                <div type="title" xml:lang="en">
+                    <head>
+                        <lb/><orig>Embleme</orig> 47. Of the Secrets of Nature.
+                        <lb/>A <orig>Wolfe</orig> coming from the East, and a <orig>Dogge</orig> from the West <choice><orig>werry'd</orig><reg>wearied</reg></choice>
+                        <lb/>one another.
+                    </head>
+                </div>
+                
+                
+                <div type="epigram" xml:lang="en">
+                    <head><orig>Epigramme</orig> 47.</head>
+                    <lg>
+                        <l>From <choice><orig>th'</orig><reg>the</reg></choice> East a <orig>Wolfe</orig>, from the West a <orig>Dogge</orig> appears,</l>
+                        <l>Which raging fall together by the ears,</l>
+                        <l>Choler inciting they each other tear,</l>
+                        <l>And gaping seem as if they rabid were:</l>
+                        <l>These are two stones, which you may <orig>soone</orig> acquire,</l>
+                        <l>For all men may <orig>obtaine</orig> them at desire.</l>
+                    </lg>
+                </div>
+                
+                
+                <pb n="147"/> <!-- Change to page number of the actual manuscript -->
+                <div type="discourse" xml:lang="en">
+                    <head>Discourse 47.</head>
+                    <ab><!--Our convention will be that if we have break = "no" then it means that the word is broken across the line with a dash--> 
+                        <lb/>The Philosophers have in many places made mention of two stones given to us<milestone unit="section" n="e03-01" /> <!-- Change the value of n to "e" plus the number of the emblem (in two digits), followed by a hyphen and then a two-digit count of sentence -->
+                        <lb/>gratis, as <choice><orig>Isaack</orig><reg>Isaac</reg></choice>, Arnold, and others, amongst <orig>whome</orig> Avicenne <orig>sayth</orig> they <orig>lye</orig> in<pc>-</pc>
+                        <lb/>dung neglected and rejected by the vulgar, which, if they be <orig>joynd</orig> together, are
+                        <lb/>able to complete the Magistery: Some men <choice><orig>extoll</orig><reg>extol</reg></choice> the <choice><orig>occidentall</orig><reg>occidental</reg></choice> Mercury, which
+                        <lb/><orig>hath</orig> <choice><orig>præferrd</orig><reg>preferred</reg></choice> <orig>itselfe</orig> before gold, and overcome it: But the Author of the ad
+                        <lb break="no"/>vice of the <choice><orig>wedlocke</orig><reg>wedlock</reg></choice> of Sol and Luna out of the epistle of Aristotle <orig>doth</orig><pc>-</pc>
+                        <lb/>best of all describe the two stones, where <orig>hee</orig> <orig>sayth</orig>: That there are two<pc>-</pc>
+                        <lb/><orig>principall</orig> stones of this art, the white and the red of <orig>wonderfull</orig> nature: at
+                        <lb/>the setting of the <orig>Sunne</orig> the white begins to appear upon the surface of the
+                        <lb/>waters, hiding <orig>itselfe</orig> till midnight, and afterwards declines to the <orig>bottome</orig>: But
+                        <lb/>the red operates contrariwise, it beginning to ascend upon the waters at the
+                        <lb/>rising of the <orig>Sunne</orig> till <orig>noone</orig>, and then descends to the <orig>bottome</orig>. These<pc>-</pc>
+                        <lb/>Stones therefore are the <orig>aforesayd</orig> Eagles sent by Jupiter from Delphi;<pc>-</pc>
+                        <lb/>These <orig>allso</orig> are the <orig>wolfe</orig> and <orig>dogge</orig> coming from different or opposite parts<pc>-</pc>
+                        <lb/>of the earth, which <choice><orig>bitt</orig><reg>bit</reg></choice> and <choice><orig>werry'd</orig><reg>wearied</reg></choice> one the other, and both became mad, as<pc>-</pc>
+                        <lb/>Rhasis in his epistle declares: These stones are the most true Bezoar,<pc>-</pc>
+                        <lb/>whereof the east <orig>Indyes</orig> send the best, <orig>drawne</orig> from the <orig>bowells</orig> of<pc>-</pc>
+                        <lb/>wild beasts, the West <orig>Indyes</orig> <orig>yeild</orig> another but of <orig>lesse</orig> efficacy, had
+                        <lb/>at peruana out of <orig>animalls</orig> made tame; <orig>Soe</orig> the East <choice><orig>affoards</orig><reg>affords</reg></choice> a<pc>-</pc>
+                        <lb/>most fierce <orig>wolfe</orig>, the west a <orig>dogge</orig> familiar to men, that is, Sulphur
+                        <lb/>comes from the East, Mercury from the Western tract, whereof this is
+                        <lb/>gentle and tractable, that <choice><orig>cholericke</orig><reg>choleric</reg></choice> and angry; which two, when
+                        <lb/>first the find one another, <orig>doe</orig> fall together by the ears: and<pc>-</pc>
+                        <lb/>the <orig>dogge</orig> being of notable <orig>bignesse</orig> obtains the first victory,<pc>-</pc>
+                        <lb/>prostrating the <orig>wolfe</orig>, and bringing him to deaths <orig>doore</orig>: But the
+                        <lb/><orig>wolfe</orig> recovering strength afterwards <choice><orig>overthrowes</orig><reg>overthrows</reg></choice> the <orig>dogge</orig>, and be
+                        <lb break="no"/>ing cast <orig>downe</orig> never leaves him till <orig>hee</orig> be utterly <orig>killd</orig> and dead;<pc>-</pc>
+                        <lb/>In the <orig>meane</orig> time receiving from the <orig>dogge</orig> <orig>noe</orig> <orig>lesse</orig> wounds nor <orig>lesse</orig>
+                        <lb/><choice><orig>mortall</orig><reg>mortal</reg></choice>, than <orig>hee</orig> gave him, till they <choice><orig>werry</orig><reg>weary</reg></choice> one another to death: As<pc>-</pc>
+                        <lb/>touching the <orig>wolfe</orig> <orig>Sayth</orig> Rosinus to Euthicia: That <orig>hee</orig> is a <choice><orig>fortifyd</orig><reg>fortified</reg></choice>
+                        <lb/><choice><orig>souldier</orig><reg>soldier</reg></choice> the <orig>conquerour</orig> of two, of much <orig>esteeme</orig> and most intense
+                        <lb/>strength, perforating <orig>bodyes</orig> when <orig>hee</orig> meets with them, and is white
+                        <lb/>in apparition, red by experiment, and is the man which <orig>tooke</orig> Luna
+                        <lb/>to wife, <orig>whome</orig> some men suppose to be gold of a most <orig>pretious</orig> <choice><orig>con
+                        <lb break="no"/>nexion</orig><reg>connection</reg></choice> and composition, whose congealed part is never dissolved, nor
+                        <lb/>footsteps or impressions defaced, which God <orig>hath</orig> freely bestowed<pc>-</pc>
+                        <lb/>upon the pious and elect Philosophers: You must know, that nature<pc>-</pc>
+                        <lb/><orig>hath</orig> gotten an <orig>æquall</orig> as an enemy. These are his words. And a little after
+                        <lb/><orig>hee</orig> <orig>sayth</orig>: That Sulphur is most strong, and fighting against fire<pc>-</pc>
+                        <lb/>which it <orig>containes</orig> and is contained: for a most <orig>pretious</orig> <orig>colour</orig> proceeds
+                        <lb/>from them being <orig>joynd</orig> together, and that Sulphur, which is naturally
+                        <lb/>volatile, can never afterwards <orig>flye</orig> away, because the <orig>Soule</orig> <orig>hath</orig><pc>--</pc>
+                        
+                        
+                        
+                        <pb n="148"/><fw>Discourse 47.</fw><!-- Page number of the actual manuscript, followed by the header on the page. -->
+                        <lb/>perforated it, in like manner the tincture of the <orig>Soule</orig> <orig>hath</orig> both perforated
+                        <lb/>and is mixed with the body, and the body <orig>hath</orig> contained the <orig>soule</orig>, and
+                        <lb/>restrained the <orig>naturall</orig> part from flying. And then to one demanding which
+                        <lb/>of the stones was strongest, <orig>hee</orig> answers: That stone which is <orig>noe</orig> stone
+                        <lb/>is stronger than the other enemy: but the red is stronger than that<pc>-</pc>
+                        <lb/>which strengthened its companions by its fortitude. The <choice><orig>Orientall</orig><reg>Oriental</reg></choice> <orig>wolfe</orig> is
+                        <lb/>therefore stronger than the <choice><orig>Occidentall</orig><reg>Occidental</reg></choice> <orig>dogge</orig>, though <orig>hee</orig> <orig>obtaine</orig> not the
+                        <lb/>victory effectually, but <choice><orig>perisheth</orig><reg>perishes</reg></choice> together with the enemy: but the tinging
+                        <lb/><orig>poyson</orig> is <choice><orig>producd</orig><reg>produced</reg></choice> from both: The <choice><orig>differente</orig><reg>different</reg></choice> between a <orig>wolfe</orig> and <orig>dogge</orig> is
+                        <lb/>small, a Mastive or great <orig>dogge</orig> representing the <orig>forme</orig> and shape of a
+                        <lb/><orig>wolfe</orig>, <orig>soe</orig> as to <orig>seeme</orig> a <orig>wolfe</orig> originally, but made tame by long progene
+                        <lb break="no"/>ration: After the same manner Sulphur and Mercury <orig>doe</orig> little differ one
+                        <lb/>from the other, because that proceeds from this, or this from that: Mercury
+                        <lb/>did indeed <choice><orig>begett</orig><reg>beget</reg></choice> Sulphur, but Sulphur purged Mercury and made it <orig>soe</orig>:
+                        <lb/>Concerning these the same Rosinus, the <orig>quæstion</orig> being asked, from<pc>-</pc>
+                        <lb/>whence comes its <orig>colour</orig>? answers, from the most intense <orig>bitternesse</orig> of it:
+                        <lb/>and <orig>againe</orig>. From whence comes its <orig>bitternesse</orig> and intension? <orig>hee</orig> answers
+                        <lb/>from the impurity of its <orig>metall</orig>: And <orig>againe</orig>: Is its red <orig>colour</orig> never su
+                        <lb break="no"/>pereminent? <orig>hee</orig> answers, Yes: And <orig>againe</orig>: Is it <orig>allso</orig> never hotter than<pc>-</pc>
+                        <lb/>fire? <orig>hee</orig> answer; Fire in respect of it is as water in respect of fire: And
+                        <lb/><orig>againe</orig>: Is it not stronger than fire? <orig>hee</orig> answers, not. And <orig>againe</orig>: Why<pc>-</pc>
+                        <lb/>therefore <orig>doe</orig> you <orig>affirme</orig> it to be stronger than fire? <orig>hee</orig> answers, because
+                        <lb/>fires meeting together <orig>doe</orig> one destroy the other. It is therefore manifest<pc>-</pc>
+                        <lb/>that one becomes the food and aliment of the other, and <orig>soe</orig> much as one
+                        <lb/><choice><orig>decreaseth</orig><reg>decreases</reg></choice>, <orig>soe</orig> much the other <choice><orig>increaseth</orig><reg>increases</reg></choice>, till that which <choice><orig>increaseth</orig><reg>increases</reg></choice> <orig>præ
+                        <lb break="no"/>vayles</orig>, and the Dragon <orig>devoures</orig> the serpent: In great fights it often times
+                        <lb/>happens, that they that <choice><orig>undergoe</orig><reg>undergo</reg></choice> the greater slaughter <orig>doe</orig> <choice><orig>winne</orig><reg>win</reg></choice> the
+                        <lb/><choice><orig>feild</orig><reg>field</reg></choice> and victory; <orig>Soe</orig> <orig>allso</orig> though the <orig>dogge</orig> lay prostrate, yet was not<pc>-</pc>
+                        <lb/><orig>alltogether</orig> overcome, <orig>hee</orig> holding his enemy <orig>soe</orig> fast, that <orig>hee</orig> could not
+                        <lb/>line without him, nor <orig>hee</orig> <orig>dye</orig> without the other<pc>. . . . . . .</pc>
+                    </ab>   
+                </div>
+                
+            </div>
+        </body>
+    </text>
+</TEI>

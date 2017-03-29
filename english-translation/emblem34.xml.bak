@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Title</title>
+            </titleStmt>
+            <publicationStmt>
+                <p>Publication Information</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Information about the source</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    
+    <text>
+        <body>
+            <div type="emblem" n="e34"><!-- Change the value of n to "e" followed by the number of the emblem. Use two digits for all numbers. -->
+                <pb n="107"/><!-- Change to page number of the actual manuscript -->
+                
+                
+                <div type="title" xml:lang="en">
+                    <head>
+                        <lb/><orig>Embleme</orig> 34. Of the Secrets of Nature.
+                        <lb/><orig>Hee</orig> is conceived in baths, and <orig>borne</orig> in the <orig>aire</orig>, and being made
+                        <lb/>red walks upon the waters.
+                    </head>
+                </div>
+                
+                
+                <div type="epigram" xml:lang="en">
+                    <head><orig>Epigramme</orig> 34.</head>
+                    <lg>
+                        <l>Sol is in baths <choice><orig>conceiv'd</orig><reg>conceived</reg></choice>, <choice><orig>produc'd</orig><reg>produced</reg></choice> <choice><orig>ith'</orig><reg>in the</reg></choice> <orig>aire</orig>,</l>
+                        <l>And growing red treads water without fear:</l>
+                        <l><orig>Hee</orig>, the Philosophers Supreme delight,</l>
+                        <l>Is on the tops of mountains tinged white;</l>
+                        <l>This <choice><orig>guift</orig><reg>gift</reg></choice> of God <choice><orig>'S</orig><reg>Is</reg></choice> a Stone, and yet not <orig>soe</orig>,</l>
+                        <l><orig>Hee</orig> happy is that shall <orig>attaine</orig> thereto.</l>
+                    </lg>
+                </div>
+                
+                
+                <pb n="108"/> <!-- Change to page number of the actual manuscript -->
+                <div type="discourse" xml:lang="en">
+                    <head>Discourse 34.</head>
+                    <ab><!--Our convention will be that if we have break = "no" then it means that the word is broken across the line with a dash--> 
+                        <lb/>The opinion or flattery of men attributes <orig>wonderfull</orig> births to some<pc>-</pc><milestone unit="section" n="e03-01" /> <!-- Change the value of n to "e" plus the number of the emblem (in two digits), followed by a hyphen and then a two-digit count of sentence -->
+                        <lb/>persons above others, but certainly fabulous, as to Alexander the great,
+                        <lb/>begotten not by Philip King of Macedonia, but Jupiter Hammon; to<pc>-</pc>
+                        <lb/>Romulus and Remus, by Mars; to Plato, <orig>borne</orig> of the virgin Perictione
+                        <lb/>violated by the image of Apollo: <orig>soe</orig> the Heathen would demonstrate
+                        <lb/>themselves to proceed from the Gods, as <orig>allso</orig> Thessulus the <orig>Sonne</orig> of Hippo
+                        <lb break="no"/>crates the Physician <orig>doth</orig> amongst other things <orig>endeavour</orig> to <choice><orig>perswade</orig><reg>persuade</reg></choice><pc>-</pc>
+                        <lb/><orig>himselfe</orig> to descend from Apollo at Athens: but <orig>wee</orig> cannot easily <orig>beleive</orig>
+                        <lb/>them, who know, that they were neither men nor Gods, to <orig>whome</orig> they
+                        <lb/><choice><orig>referre</orig><reg>refer</reg></choice> the <orig>originall</orig> of their lineage: And if the Heroes were amongst
+                        <lb/>men as divine, <orig>wee</orig> conceive all those magnificent actions boasted in<pc>-</pc>
+                        <lb/>the world, through the adulation of Subjects, disciples, or others, were things
+                        <lb/><choice><orig>faigned</orig><reg>feigned</reg></choice> of them, and insinuated into the opinion of the vulgar by<pc>-</pc>
+                        <lb/>forged writings: The thing is different, that the Philosophers ascribe an <choice><orig>unusu
+                        <lb break="no"/>all</orig><reg>unsual</reg></choice> conception and nativity to their <orig>Sonne</orig>; for <orig>hee</orig> <orig>hath</orig> something peculiar<pc>-</pc>
+                        <lb/>above all other things <orig>borne</orig> in the world, <orig>hee</orig> being <orig>conceivd</orig> in baths, and
+                        <lb/><orig>borne</orig> in the <orig>aire</orig>. <orig>Wee</orig> know that women being barren through overmuch
+                        <lb/><orig>coldnesse</orig> and siccity may be much helped by <orig>hott</orig> baths, <orig>soe</orig> as to be made
+                        <lb/>able and <orig>fitt</orig> for conception, but that it should be done in baths is a thing
+                        <lb/>unheard of: that seems to <orig>appertaine</orig> to him alone, by reason of the <orig>won
+                        <lb break="no"/>derfull</orig> power of nature <orig>farre</orig> different from other things. they <orig>elswhere</orig> say,
+                        <lb/>that <orig>hee</orig> must be <orig>conceivd</orig> in the <orig>bottome</orig> of the <orig>vessell</orig>, and <orig>borne</orig> in the<pc>-</pc>
+                        <lb/><orig>Alembicke</orig>: which opinion is more conspicuous: For the waters of baths, if<pc>-</pc>
+                        <lb/>there be any, will not be at the top, nor in the <orig>midle</orig>, but in the <orig>bottome</orig> of
+                        <lb/>the <orig>vessell</orig>, and in the <orig>Alembicke</orig> are airy <orig>vapours</orig>: where therefore con
+                        <lb break="no"/>ception is made, <orig>hee</orig> ascends into the <orig>Alembicke</orig>, and his birth appears in a
+                        <lb/>white <orig>colour</orig>: <orig>Blacknesse</orig> rules in the <orig>bottome</orig>, concerning which <orig>sayth</orig> the
+                        <lb/>Rosary; Conception is, when the earth is dissolved into a <orig>blacke</orig> <choice><orig>pouder</orig><reg>powder</reg></choice>, and
+                        <lb/>begins to <choice><orig>retaine</orig><reg>retain</reg></choice> somewhat of the Mercury; for then the male acts upon
+                        <lb/>the female, that is, Azoth upon the earth. And a little after: Conception<pc>-</pc>
+                        <lb/>and desponsation is made in putrefaction in the <orig>bottome</orig> of the <orig>vessell</orig>,
+                        <lb/>and the generation of things generated will be made in the <orig>aire</orig>, to <orig>witt</orig>,
+                        <lb/>in the head of the <orig>vessell</orig>, that is, the <orig>Alembicke</orig>: And conception in
+                        <lb/>baths is nothing <orig>els</orig> but putrefaction in dung: for <orig>soe</orig> the same Rosary
+                        <lb/><choice><orig>continueth</orig><reg>continues</reg></choice>: The body <orig>dos</orig> nothing, <orig>unlesse</orig> it be <orig>putrefyd</orig>, and it cannot
+                        <lb/>be <orig>putrefyd</orig>, except with Mercury: And <orig>soone</orig> after: Putrefaction must
+                        <lb/>be effected with a most gentle heat of <orig>warme</orig> and moist dung, and by
+                        <lb/><orig>noe</orig> other thing, <orig>soe</orig> that nothing ascend, because if any thing should
+                        <lb/>ascend, there would be a separation of the parts, which ought not to be,
+                        <lb/>till the male and female be perfectly <orig>joynd</orig> together, and one re
+                        <lb break="no"/>ceive the other, the <orig>signe</orig> of which perfect solution is <orig>blacknesse</orig> in<pc>-</pc>
+                        <lb/>the superficies. His birth is white, which is consummated at the top
+                        
+                        
+                        
+                        <pb n="109"/><fw>Discourse 34.</fw><!-- Page number of the actual manuscript, followed by the header on the page. -->
+                        <lb/>of mountains, that is, in the <orig>aire</orig> or <orig>Alembicke</orig>; which is by Rosinus to
+                        <lb/>Euthicia thus explained: The wise man <orig>sayd</orig>. Take things out of their
+                        <lb/><orig>Mynes</orig>, and exalt them to higher places, and send them from the top
+                        <lb/>of their mountains, and reduce them to their roots: And afterwards: But
+                        <lb/>by mountains <orig>hee</orig> <choice><orig>signifyd</orig><reg>signified</reg></choice> Cucurbits, and by the tops of mountains
+                        <lb/><orig>Alembicks</orig>: and to send is according to similitude to receive the water
+                        <lb/>of them by an <orig>Alembicke</orig> in a Receiver: and to reduce to the roots, is to
+                        <lb/>that, from which they proceed: and <orig>hee</orig> named Cucurbits mountains,
+                        <lb/>because Sol and Luna are found in mountains: <orig>soe</orig> <orig>allso</orig> in the moun
+                        <lb break="no"/>tains, which are Cucurbits, are their Sol and Luna generated: These
+                        <lb/>are his words: Afterwards <orig>hee</orig> becomes red, and begins to <orig>goe</orig> upon the
+                        <lb/>waters, that is, upon <orig>metalls</orig> melted by fire, which stand in the <orig>forme</orig>
+                        <lb/>of a <orig>mercuriall</orig> water: For <orig>hee</orig> is the lord of waters, upon which
+                        <lb/><orig>hee</orig> <choice><orig>exerciseth</orig><reg>exercises</reg></choice> authority, as Neptune, and is the king of the Sea,
+                        <lb/>and the possessor of mountains. Of Xerxes King of Persia they<pc>-</pc>
+                        <lb/>report, that being upon an expedition into Greece, <orig>hee</orig> sent an<pc>-</pc>
+                        <lb/>embassy to the Sea, and to the <orig>mountaine</orig> Athos, that they would
+                        <lb/><orig>doe</orig> him <orig>noe</orig> wrong, that by the force of waves, this of fire, other
+                        <lb break="no"/>wise that <orig>hee</orig> would take revenge upon them both: But the tale<pc>-</pc>
+                        <lb/>was told to them that were <choice><orig>deafe</orig><reg>deaf</reg></choice>, and the Sea drowned some of his
+                        <lb/>ships, and Athos <orig>destroyd</orig> not a few by fire. Hereupon the King be
+                        <lb break="no"/>ing angry, did, as lord fo the Sea and mountains, <orig>coḿand</orig> a <orig>cer
+                        <lb break="no"/>taine</orig> number of stripes to be inflicted upon the first, and a great
+                        <lb/>part of the <orig>mountaine</orig> <orig>hee</orig> cast into the sea: but these things <orig>doe</orig>
+                        <lb/>demonstrate the <choice><orig>rashnesse</orig><reg>rashness</reg></choice> rather than the prudence of <orig>soe</orig> great a
+                        <lb/>king: <orig>Hee</orig>, of <orig>whome</orig> <orig>wee</orig> <orig>speake</orig>, <choice><orig>purgeth</orig><reg>purges</reg></choice> all waters from obstacles;<pc>-</pc>
+                        <lb/>and <choice><orig>impurityes</orig><reg>impurities</reg></choice>, not by edict, but fact, and freely <choice><orig>passeth</orig><reg>passes</reg></choice> through them,
+                        <lb/>which <orig>allso</orig> (which is more) <orig>hee</orig> <choice><orig>congealeth</orig><reg>congeals</reg></choice>, <orig>soe</orig> as by their <orig>hardnesse</orig> to
+                        <lb/>bear his chariots, in which ships <choice><orig>sayld</orig><reg>sailed</reg></choice> before: <orig>Hee</orig> makes mountains
+                        <lb/><orig>æquall</orig> with <orig>vallyes</orig>, and fears not the flames of fire, and therefore
+                        <lb/>goes freely wheresoever <orig>hee</orig> please, from the pillars of Hercules in
+                        <lb/>the farthest parts of India, to the pillars of Dionysius<pc>. . . .</pc>
+                    </ab>   
+                </div>
+                
+            </div>
+        </body>
+    </text>
+</TEI>

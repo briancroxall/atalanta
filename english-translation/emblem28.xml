@@ -50,7 +50,7 @@
                     <head>Discourse 3.</head>
                     <ab><!--Our convention will be that if we have break = "no" then it means that the word is broken across the line with a dash--> 
                         <lb/>As there are three concoctions in man, the first in the <orig>Stomacke</orig>, the second<milestone unit="section" n="e03-01" /> <!-- Change the value of n to "e" plus the number of the emblem (in two digits), followed by a hyphen and then a two-digit count of sentence -->
-                        <lb/>in the Liver, the third in the veins, <orig>soe</orig> <orig>allso</orig> <orig>soe</orig> many are the <orig>universall</orig><pc>-</pc>
+                        <lb/>in the Liver, the third in the veins, <choice><orig>soe</orig><reg>so</reg></choice> <orig>allso</orig> <choice><orig>soe</orig><reg>so</reg></choice> many are the <orig>universall</orig><pc>-</pc>
                         <lb/>evacuations of the excrements, which are correspondent to them, and daily
                         <lb/>carry of their <choice><orig>superfluityes</orig><reg>superfluities</reg></choice>, namely the first by <choice><orig>Stoole</orig><reg>Stool</reg></choice>, which is proper to
                         <lb/>the first concoction, the second by urine, which <choice><orig>appertaines</orig><reg>appertains</reg></choice> to the second,
@@ -68,14 +68,14 @@
                         <lb/>through the smallest pores, or are <orig>carryed</orig> out together with the serum of
                         <lb/>the humors, as sweat: These are <choice><orig>helpd</orig><reg>helped</reg></choice> by <orig>sudorificks</orig>, as <add>the</add> antecedent by<pc>-</pc>
                         <lb/><orig>diureticks</orig>: To evacuate these last <orig>fæces</orig> the ancient Greeks and Romans<pc>-</pc>
-                        <lb/>were very solicitous: For to this end were <orig>soe</orig> many sports and exercises used
+                        <lb/>were very solicitous: For to this end were <choice><orig>soe</orig><reg>so</reg></choice> many sports and exercises used
                         <lb/>by them, as chafing of all the parts in the morning, <choice><orig>anoynting</orig><reg>anointing</reg></choice> with <orig>oyle</orig>,<pc>-</pc>
                         <lb/>and <choice><orig>wrasthing</orig><reg>wrestling</reg></choice>, fencing, the exercise of running, of hand=ball, <choice><orig>tennice</orig><reg>tennis</reg></choice>, dai
                         <lb break="no"/>ly washing and bathing in rivers or <orig>artificiall</orig> baths, for the conveniency
-                        <lb/>of which were <orig>soe</orig> many magnificent structures built at Rome, that <orig>wee</orig>
+                        <lb/>of which were <choice><orig>soe</orig><reg>so</reg></choice> many magnificent structures built at Rome, that <orig>wee</orig>
                         <lb/>can rather admire than imitate them: As for example the baths of Dio
                         <lb break="no"/>clesian, which for the most part are yet remaining, and (if I be not<pc>-</pc>
-                        <lb/>mistaken) <choice><orig>pourtrayed</orig><reg>portrayed</reg></choice> with <choice><orig>Archangells</orig><reg>Archangels</reg></choice>, <orig>soe</orig> high, sumptuous, and splendid
+                        <lb/>mistaken) <choice><orig>pourtrayed</orig><reg>portrayed</reg></choice> with <choice><orig>Archangells</orig><reg>Archangels</reg></choice>, <choice><orig>soe</orig><reg>so</reg></choice> high, sumptuous, and splendid
                         <lb/>were the <orig>workes</orig>: The sorts of concoctions in the elaboration of <orig>metalls</orig> are<pc>-</pc>
                         <lb/><orig>allmost</orig> the saine, as those <choice><orig>aforesayd</orig><reg>aforesaid</reg></choice>: for the first is in its way effected<pc>-</pc>
                         <lb/>in annus magnus, that is, the revolution of the highest Sphere, the se
@@ -123,7 +123,7 @@
                         <lb/>obstruct the pores, whereby more damage than utility would ensue, and his malady
                         <lb/>not be cured: As for the Kings garments to be put on after bathing let <orig>noe</orig> man
                         <lb/>be solicitous; for as the daughter of King Alcinous did in times past contribute<pc>-</pc>
-                        <lb/><orig>cloaths</orig> to Ulysses being shipwreckd and naked, <orig>soe</orig> will there be one that will<pc>-</pc>
+                        <lb/><orig>cloaths</orig> to Ulysses being shipwreckd and naked, <choice><orig>soe</orig><reg>so</reg></choice> will there be one that will<pc>-</pc>
                         <lb/>send him most <choice><orig>pretious</orig><reg>precious</reg></choice> robes, that <orig>hee</orig> may deservedly be acknowledged the<pc>-</pc>
                         <lb/><orig>Sonne</orig> of Sol<pc>. . . . . . . . . . . . .</pc>
                         
