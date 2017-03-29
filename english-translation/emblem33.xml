@@ -85,9 +85,13 @@
                         <lb/>found, if <orig>wee</orig> may <orig>beleive</orig> <choice><orig>historyes</orig><reg>histories</reg></choice>, that many men have <orig>allso</orig><pc>-</pc>
                         <lb/><choice><orig>changd</orig><reg>changed</reg></choice> their sex: The <orig>Poetts</orig> make mention of Ceneus, Iphis, and
                         <lb/>Tiresias, as Pontanus in the <orig>Starrs</orig>.
-                        <lb/>Pæniteat generis tamen et se Cenea malint,
-                        <lb/>Aut in fæmineam penitus transire figuram: And Ausonius:
-                        <lb/>Mæret in antiquam Ceneus revocata figuram.
+                        <quote rend="indent">
+                            <lg xml:lang="lat">
+                                <l>Pæniteat generis tamen et se Cenea malint,</l>
+                                <l>Aut in fæmineam penitus transire figuram: And Ausonius:</l>
+                                <l>Mæret in antiquam Ceneus revocata figuram.</l>
+                            </lg>
+                        </quote>
                         <lb/><orig>Soe</orig> in the Consulship of Licinius Crassus, and Caius Cassius Longinus
                         
                         

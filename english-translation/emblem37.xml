@@ -82,11 +82,17 @@
                         <lb break="no"/>fore accuse Lully of vanity, whereas themselves ought rather to be<pc>-</pc>
                         <lb/>reproved of folly, who never tasted <choice><orig>Lullye's</orig><reg>Lully's</reg></choice> wine; but that golden Po
                         <lb break="no"/>et better understood Lully, who in his first <orig>booke</orig> of Aurifaction thus sings:
-                        <lb/>At non ille quidem sensit, quæ dicere prima
-                        <lb/>Est facie visus, neq tum stillantia vina
-                        <lb/>Miscebat, Ct.
-                        <lb/><orig>Hee</orig> thought not what at first <orig>hee</orig> <choice><orig>seemd</orig><reg>seemed</reg></choice> to say,
-                        <lb/>Nor then <orig>mixd</orig> stilling wines, Ct.
+                        <quote rend="indent">
+                            <lg xml:lang="lat">
+                                <l>At non ille quidem sensit, quæ dicere prima</l>
+                                <l>Est facie visus, neq tum stillantia vina</l>
+                                <l>Miscebat, Ct.</l>
+                            </lg>
+                            <lg xml:lang="eng">
+                                <l><orig>Hee</orig> thought not what at first <orig>hee</orig> <choice><orig>seemd</orig><reg>seemed</reg></choice> to say,</l>
+                                <l>Nor then <orig>mixd</orig> stilling wines, Ct.</l>
+                            </lg>
+                        </quote>
                         <lb/>After Aqua <orig>fætida</orig> comes the green <orig>Lyon</orig>: concerning which <orig>sayth</orig> Ro
                         <lb break="no"/>sarius; you have sought for <choice><orig>greennesse</orig><reg>greenness</reg></choice>, supposing, that <orig>brasse</orig> was a<pc>-</pc>
                         <lb/>leprous body, because of that <choice><orig>greenesse</orig><reg>greenness</reg></choice> which it <orig>hath</orig>: and therefore<pc>-</pc>
