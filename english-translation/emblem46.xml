@@ -25,18 +25,18 @@
                 
                 <div type="title" xml:lang="en">
                     <head>
-                        <lb/><orig>Embleme</orig></choice> 46. Of the Secrets of Nature.
+                        <lb/><orig>Embleme</orig><reg>Emblem</reg></choice> 46. Of the Secrets of Nature.
                         <lb/>Two Eagles come together, one from the East, the other from the West.
                     </head>
                 </div>
                 
                 
                 <div type="epigram" xml:lang="en">
-                    <head><orig>Epigramme</orig></choice> 46.</head>
+                    <head><orig>Epigramme</orig><reg>Epigram</reg></choice> 46.</head>
                     <lg>
                         <l>Great Jove two Eagles out of Delphi sent</l>
                         <l>To <choice><orig>th'</orig><reg>the</reg></choice> East and Western parts, for this intent,</l>
-                        <l>That <choice><orig>hee</orig></choice> the <choice><orig>midle</orig></choice> of the earth might find;</l>
+                        <l>That <choice><orig>hee</orig><reg>he</reg></choice> the <choice><orig>midle</orig><reg>middle</reg></choice> of the earth might find;</l>
                         <l>Which there returning, well <choice><orig>resolv'd</orig><reg>resolved</reg></choice> his mind.</l>
                         <l>But those two Eagles are two stones, which <choice><orig>hast</orig><reg>have</reg></choice></l>
                         <l>One from the East, the other from the West.</l>
@@ -48,47 +48,47 @@
                 <div type="discourse" xml:lang="en">
                     <head>Discourse 46.</head>
                     <ab><!--Our convention will be that if we have break = "no" then it means that the word is broken across the line with a dash--> 
-                        <lb/>Cicero in his <choice><orig>booke</orig></choice> of the nature of the Gods declares the most ancient<pc>-</pc><milestone unit="section" n="e03-01" /> <!-- Change the value of n to "e" plus the number of the emblem (in two digits), followed by a hyphen and then a two-digit count of sentence -->
-                        <lb/>Apollo to be the <choice><orig>Sonne</orig></choice> of Vulcan, and keeper of Athens: Which opinion,
+                        <lb/>Cicero in his <choice><orig>booke</orig><reg>book</reg></choice> of the nature of the Gods declares the most ancient<pc>-</pc><milestone unit="section" n="e03-01" /> <!-- Change the value of n to "e" plus the number of the emblem (in two digits), followed by a hyphen and then a two-digit count of sentence -->
+                        <lb/>Apollo to be the <choice><orig>Sonne</orig><reg>Son</reg></choice> of Vulcan, and keeper of Athens: Which opinion,
                         <lb/>if it be, as it ought, <choice><orig>transferrd</orig><reg>transferred</reg></choice> to an Allegory, is indeed most true; because
-                        <lb/>Vulcan <choice><orig>produceth</orig></choice> the <choice><orig>Philosophicall</orig></choice> Sol, which is Apollo. But it <choice><orig>hath</orig><pc>-</pc>
-                        <lb/><orig>prævayld</orig>, that <choice><orig>hee</orig></choice> was <choice><orig>borne</orig></choice> of Jupiter; and that Latona having two
-                        <lb/>children in her <choice><orig>wombe</orig>, Apollo and Diana, which <choice><orig>shee</orig></choice> <choice><orig>conceivd</orig><reg>conceived</reg></choice> of Ju
+                        <lb/>Vulcan <choice><orig>produceth</orig><reg>produces</reg></choice> the <choice><orig>Philosophicall</orig><reg>Philosophical</reg></choice> Sol, which is Apollo. But it <choice><orig>hath</orig><pc>-</pc>
+                        <lb/><orig>prævayld</orig>, that <choice><orig>hee</orig><reg>he</reg></choice> was <choice><orig>borne</orig><reg>born</reg></choice> of Jupiter; and that Latona having two
+                        <lb/>children in her <choice><orig>wombe</orig>, Apollo and Diana, which <choice><orig>shee</orig><reg>she</reg></choice> <choice><orig>conceivd</orig><reg>conceived</reg></choice> of Ju
                         <lb break="no"/>piter, Juno being jealous sent Python a Serpent of prodigious magni
                         <lb break="no"/>tude and malice, to persecute and perplex her being great with child.<pc>-</pc>
                         <lb/>The miserable woman after tedious <choice><orig>wandrings</orig><reg>wanderings</reg></choice> was at length brought
-                        <lb/>by a <choice><orig>Shipp</orig></choice> to the Island Ortygia, to her sister Asteries, who therein
-                        <lb/>reigned: And that Island, being <choice><orig>allmost</orig></choice> all overflowed with the Sea,
+                        <lb/>by a <choice><orig>Shipp</orig><reg>Ship</reg></choice> to the Island Ortygia, to her sister Asteries, who therein
+                        <lb/>reigned: And that Island, being <choice><orig>allmost</orig><reg>almost</reg></choice> all overflowed with the Sea,
                         <lb/>gave place to Latona being in <choice><orig>travell</orig>, whereupon it was called Delos,<pc>-</pc>
                         <lb/>which before was <seg rend="superscript">11</seg> Aδηλος: There therefore being in <choice><orig>labour</orig>, first came forth
-                        <lb/>Diana, and <choice><orig>shee</orig></choice> did the office of a midwife to her mother <choice><orig>labouring</orig><pc>-</pc>
+                        <lb/>Diana, and <choice><orig>shee</orig><reg>she</reg></choice> did the office of a midwife to her mother <choice><orig>labouring</orig><pc>-</pc>
                         <lb/>to bring forth her brother Apollo; From whence it came to <choice><orig>passe</orig><pc>-</pc>
                         <lb/>that women going with Child did in the time of their <choice><orig>labour</orig>
-                        <lb/>invoke her deity, and <choice><orig>calld</orig></choice> her either Lucina or Ilithya, be
-                        <lb break="no"/>cause <choice><orig>shee</orig></choice> <choice><orig>shewd</orig></choice> light to infants <choice><orig>borne</orig></choice> their eyes being opened:
-                        <lb/>Apollo therefore being <choice><orig>borne</orig></choice> and <choice><orig>growne</orig></choice> up slew Python the tor
-                        <lb break="no"/>menter of his mother with arrows, and <choice><orig>killd</orig></choice> the Cyclopes because<pc>-</pc>
-                        <lb/>they made lightening for Jupiter to destroy his <choice><orig>Sonne</orig></choice> <choice><orig>Æsculapius</orig><reg>Esculapius</reg></choice>,
-                        <lb/><orig>whome</orig></choice> Jupiter condemned to hell blasted with lightening, because
-                        <lb/><orig>hee</orig></choice> had <choice><orig>restord</orig><reg>restored</reg></choice> Hippolytus to life being <choice><orig>torne</orig></choice> in <choice><orig>peices</orig></choice> by horses.
-                        <lb/><orig>Wee</orig></choice> have in many places demonstrated these things to be merely
+                        <lb/>invoke her deity, and <choice><orig>calld</orig><reg>called</reg></choice> her either Lucina or Ilithya, be
+                        <lb break="no"/>cause <choice><orig>shee</orig><reg>she</reg></choice> <choice><orig>shewd</orig><reg>showed</reg></choice> light to infants <choice><orig>borne</orig><reg>born</reg></choice> their eyes being opened:
+                        <lb/>Apollo therefore being <choice><orig>borne</orig><reg>born</reg></choice> and <choice><orig>growne</orig><reg>grown</reg></choice> up slew Python the tor
+                        <lb break="no"/>menter of his mother with arrows, and <choice><orig>killd</orig><reg>killed</reg></choice> the Cyclopes because<pc>-</pc>
+                        <lb/>they made lightening for Jupiter to destroy his <choice><orig>Sonne</orig><reg>Son</reg></choice> <choice><orig>Æsculapius</orig><reg>Esculapius</reg></choice>,
+                        <lb/><orig>whome</orig><reg>whom</reg></choice> Jupiter condemned to hell blasted with lightening, because
+                        <lb/><orig>hee</orig><reg>he</reg></choice> had <choice><orig>restord</orig><reg>restored</reg></choice> Hippolytus to life being <choice><orig>torne</orig><reg>torn</reg></choice> in <choice><orig>peices</orig><reg>pieces</reg></choice> by horses.
+                        <lb/><orig>Wee</orig><reg>We</reg></choice> have in many places demonstrated these things to be merely
                         <lb/><orig>Chymicall</orig>: For Latona, Cynthia, Apollo, and Python are requisites of
-                        <lb/>the art, which have such a relation one to the other, as <choice><orig>hath</orig></choice> been
+                        <lb/>the art, which have such a relation one to the other, as <choice><orig>hath</orig><reg>has</reg></choice> been
                         <lb/>declared; but these things being divulged in the writings of the most
                         <lb/>ancient <choice><orig>Poetts</orig>, as <choice><orig>Orphens</orig>, Linus, <choice><orig>Musæus</orig><reg>Musaeus</reg></choice>, Homer, Ct. have given the
                         <lb/>ignorant occasion to ascribe religion and veneration to Apollo: Here
                         <lb break="no"/>upon Apollo is in many places of Europe and Asia worshipped,<pc>-</pc>
                         <lb/>and innumerable temples erected to him; And especially at Delphos
-                        <lb/><orig>hee</orig></choice> had a temple to be worshipped by ancient religion, wherein a great
+                        <lb/><orig>hee</orig><reg>he</reg></choice> had a temple to be worshipped by ancient religion, wherein a great
                         <lb/>number of statues made of solid gold and silver or great weight<pc>-</pc>
                         <lb/>and artifice was reposited by Kings and Princes, with other most
-                        <lb/><orig>pretious</orig></choice> gifts, which were hidden in sacred places for religion sake
+                        <lb/><orig>pretious</orig><reg>precious</reg></choice> gifts, which were hidden in sacred places for religion sake
                         <lb/>by men of all degrees. Pausanias reports that a brazen Skeleton of
                         <lb/>admirable artifice was hung at the top of the temple by Hippocrates.
-                        <lb/>That famous Tripos was <choice><orig>allso</orig></choice> consecrated to Apollo by Pelops, at the
-                        <lb/>time when <choice><orig>hee</orig></choice> <choice><orig>marryed</orig></choice> Hippodamia the daughter <choice><orig>Œnomaus</orig><reg>Oenomaus</reg></choice> King
+                        <lb/>That famous Tripos was <choice><orig>allso</orig><reg>also</reg></choice> consecrated to Apollo by Pelops, at the
+                        <lb/>time when <choice><orig>hee</orig><reg>he</reg></choice> <choice><orig>marryed</orig><reg>married</reg></choice> Hippodamia the daughter <choice><orig>Œnomaus</orig><reg>Oenomaus</reg></choice> King
                         <lb/>of Elis, which Tripos Mulciber made, and gave to Pelops: It was
-                        <lb/>erected in the <choice><orig>midle</orig></choice> of the temple, in which Pythia sitting
+                        <lb/>erected in the <choice><orig>midle</orig><reg>middle</reg></choice> of the temple, in which Pythia sitting
                         
                         
                         
@@ -98,34 +98,34 @@
                         <lb/>to come: Delphos was indeed in <choice><orig>Bœotica</orig><reg>Boeotica</reg></choice> seated about the foot of Parnassus.<pc>-</pc>
                         <lb/>Near to the temple was the divining <choice><orig>fountaine</orig>, named Cassiotis, which, if bur
                         <lb break="no"/>ning torches was brought to it did extinguish them: if they were removed
-                        <lb/><orig>farre</orig></choice> of, they were suddenly kindled, and <choice><orig>tooke</orig></choice> fire; and the water of<pc>-</pc>
-                        <lb/>that <choice><orig>fountaine</orig></choice> being <choice><orig>dranke</orig></choice> <choice><orig>yeilded</orig></choice> the virtue of divining, but not
+                        <lb/><orig>farre</orig><reg>far</reg></choice> of, they were suddenly kindled, and <choice><orig>tooke</orig><reg>took</reg></choice> fire; and the water of<pc>-</pc>
+                        <lb/>that <choice><orig>fountaine</orig><reg>fountain</reg></choice> being <choice><orig>dranke</orig><reg>drank</reg></choice> <choice><orig>yeilded</orig><reg>yielded</reg></choice> the virtue of divining, but not
                         <lb break="no"/>withstanding the drinkers of that water were made of shorter life. Con
                         <lb break="no"/>course therefore being made from all parts of Europe and Asia to the<pc>-</pc>
                         <lb/><choice><orig>Delphicke</orig><reg>Delphic</reg></choice> Oracle, the Poets <choice><orig>feigne</orig><reg>feign</reg></choice> that place, namely Parnassus to be<pc>-</pc>
-                        <lb/>in the <choice><orig>midle</orig></choice> of the earth, and that they proved by an example of Jupi
+                        <lb/>in the <choice><orig>midle</orig><reg>middle</reg></choice> of the earth, and that they proved by an example of Jupi
                         <lb break="no"/>ter, who had experimented it by sending forth two Eagles: But this thing
                         <lb/>not being supported by the reputation of history, it is not derogatory from the
-                        <lb/>truth, to ascribe it to <choice><orig>Chymicall</orig></choice> matters, especially Apollo being, as <choice><orig>hath</orig></choice> been<pc>-</pc>
-                        <lb/>declared, <choice><orig>alltogether</orig></choice> <choice><orig>Chymicall</orig></choice> by <choice><orig>originall</orig>, though the <choice><orig>Devill</orig><reg>Devil</reg></choice> afterwards<pc>-</pc>
-                        <lb/>confirmed the superstition of men, and gave <choice><orig>prophesyes</orig></choice> under that name.
+                        <lb/>truth, to ascribe it to <choice><orig>Chymicall</orig><reg>Chemical</reg></choice> matters, especially Apollo being, as <choice><orig>hath</orig><reg>has</reg></choice> been<pc>-</pc>
+                        <lb/>declared, <choice><orig>alltogether</orig><reg>altogether</reg></choice> <choice><orig>Chymicall</orig><reg>Chemical</reg></choice> by <choice><orig>originall</orig>, though the <choice><orig>Devill</orig><reg>Devil</reg></choice> afterwards<pc>-</pc>
+                        <lb/>confirmed the superstition of men, and gave <choice><orig>prophesyes</orig><reg>prophesies</reg></choice> under that name.
                         <lb/>The two Eagles are two stones, whereof one comes from the East, the<pc>-</pc>
-                        <lb/>other from the West, which the Philosophers have many <choice><orig>wayes</orig></choice> demonstra
+                        <lb/>other from the West, which the Philosophers have many <choice><orig>wayes</orig><reg>ways</reg></choice> demonstra
                         <lb break="no"/>ted. Jupiter sends them forth, as his <choice><orig>Ensigne<c rend="double-hyphen">-</c>bearers</orig><reg>Ensign=bearers</reg></choice>. The Eagle seems in
-                        <lb break="no"/>deed a <choice><orig>freind</orig></choice> to Apollo or the <choice><orig>Sunne</orig>, in proving her chickens at the <choice><orig>Sunne</orig>,<pc>-</pc>
-                        <lb/>which if they cannot endure, <choice><orig>Shee</orig></choice> <choice><orig>disownes</orig><reg>disowns</reg></choice> them as illegitimate. Its feathers
-                        <lb/>being <choice><orig>joyned</orig></choice> with other things are <choice><orig>sayd</orig></choice> not to putrefy, and to <choice><orig>devoure</orig>
+                        <lb break="no"/>deed a <choice><orig>freind</orig><reg>friend</reg></choice> to Apollo or the <choice><orig>Sunne</orig>, in proving her chickens at the <choice><orig>Sunne</orig>,<pc>-</pc>
+                        <lb/>which if they cannot endure, <choice><orig>Shee</orig><reg>She</reg></choice> <choice><orig>disownes</orig><reg>disowns</reg></choice> them as illegitimate. Its feathers
+                        <lb/>being <choice><orig>joyned</orig><reg>joined</reg></choice> with other things are <choice><orig>sayd</orig><reg>said</reg></choice> not to putrefy, and to <choice><orig>devoure</orig>
                         <lb/>the feathers of other birds, easily admitting gilding <choice><orig>allso</orig>: By old age, or
-                        <lb/><choice><orig>sicknesse</orig><reg>sickness</reg></choice> it <choice><orig>dyes</orig></choice> not, but by famine; For the upper <choice><orig>beake</orig></choice> <choice><orig>growes</orig></choice> <choice><orig>soe</orig>
+                        <lb/><choice><orig>sicknesse</orig><reg>sickness</reg></choice> it <choice><orig>dyes</orig><reg>dies</reg></choice> not, but by famine; For the upper <choice><orig>beake</orig><reg>beak</reg></choice> <choice><orig>growes</orig><reg>grows</reg></choice> <choice><orig>soe</orig>
                         <lb/>crooked that it cannot receive food: Which having cast off it <choice><orig>plungeth</orig><reg>plunges</reg></choice> <choice><orig>it
-                        <lb break="no"/>selfe</orig></choice> three times in a <choice><orig>fountaine</orig>, and <choice><orig>soe</orig></choice> is <choice><orig>sayd</orig></choice> to <choice><orig>returne</orig></choice> to youth.<pc>-</pc>
-                        <lb/>Hereupon <choice><orig>sayth</orig></choice> the Psalmist: Your youth shall be renewed as the<pc>-</pc>
+                        <lb break="no"/>selfe</orig><reg>itself</reg></choice> three times in a <choice><orig>fountaine</orig>, and <choice><orig>soe</orig><reg>so</reg></choice> is <choice><orig>sayd</orig><reg>said</reg></choice> to <choice><orig>returne</orig><reg>return</reg></choice> to youth.<pc>-</pc>
+                        <lb/>Hereupon <choice><orig>sayth</orig><reg>says</reg></choice> the Psalmist: Your youth shall be renewed as the<pc>-</pc>
                         <lb/>youth of an Eagle: This of all birds is never affected with Lightening:
-                        <lb/>It <choice><orig>warrs</orig></choice> with the dragon, which hunts after its eggs for the sake of<pc>-</pc>
+                        <lb/>It <choice><orig>warrs</orig><reg>wars</reg></choice> with the dragon, which hunts after its eggs for the sake of<pc>-</pc>
                         <lb/>them: All the endowments of whose nature have <choice><orig>affoarded</orig><reg>afforded</reg></choice> the Philo
                         <lb break="no"/>sophers reason to <choice><orig>prædicate</orig><reg>predicate</reg></choice> the Eagle in their art, and assimilate the
                         <lb/>stone to it, whereof innumerable examples being obvious in their<pc>-</pc>
-                        <lb/>books, <choice><orig>wee</orig></choice> will not here <choice><orig>alleadge</orig><reg>alleged</reg></choice> more<pc>. . . . . . . . . .</pc>
+                        <lb/>books, <choice><orig>wee</orig><reg>we</reg></choice> will not here <choice><orig>alleadge</orig><reg>alleged</reg></choice> more<pc>. . . . . . . . . .</pc>
                     </ab>   
                 </div>
                 
