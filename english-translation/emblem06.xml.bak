@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Title</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   
+   <text>
+      <body>
+         <div type="emblem" n="e06"><!-- Change the value of n to "e" followed by the number of the emblem. Use two digits for all numbers. -->
+            <pb n="23"/><!-- Page number of the actual manuscript -->
+            
+            
+            <div type="title" xml:lang="en">
+               <head>
+                 <lb/><choice><orig>Embleme</orig><reg>Emblem</reg></choice> 6. Of the Secrets of Nature.
+                 <lb/><choice><orig>Sowe</orig><reg>Sow</reg></choice> your gold in the white foliated earth.
+                  
+               </head>
+            </div>
+            
+            
+            <div type="epigram" xml:lang="en">
+               <head><orig>Epigramme</orig> 6.</head>
+               <lg>
+                  <l><orig>Rusticks</orig> their seed to <choice><orig>th'</orig><reg>the</reg></choice> fertile earth <choice><orig>committ</orig>,</l>
+                  <l>When with their harrows they have made it <choice><orig>fitt</orig>:</l>
+                  <l>The Sophi thus their golden seed <choice><orig>doe</orig> <choice><orig>sowe</orig></l>
+                  <l>In foliated earth as white as Snow:</l>
+                  <l>This method well observe, and <choice><orig>you'le</orig><reg>you'll</reg></choice> behold,</l>
+                  <l>As in a <choice><orig>glasse</orig>, by wheat, your budding gold.</l>
+               </lg>
+            </div>
+            
+            
+            <pb n="24"/> <!-- Page number of the actual manuscript -->
+            <div type="discourse" xml:lang="en">
+               <head>Discourse 6.</head>
+               <ab><!--Our convention will be that if we have break = "no" then it means that the word is broken across the line with a dash--> 
+                  <lb/><milestone unit="section" n="e06-01" />A City <choice><orig>sayth</orig> Plato <choice><orig>subsiste</orig><reg>subsist</reg></choice> not by Physician and Physician, but by Physician and
+                  <lb/>husbandman, that is, men of <choice><orig>divers</orig> functions, but here mentions the Husbandman
+                  <lb/>and Physician first, because their <choice><orig>worke</orig> are very conspicuous in the imitation,<pc>-</pc>
+                  <lb/>emendation, and perfection of nature: for they both take a <choice><orig>naturall</orig> subject,
+                  <lb/>in which they attending to art add some <choice><orig>certaine</orig> things necessary being wanting,
+                  <lb/>or <choice><orig>allso</orig> remove those things which are superfluous: <choice><orig>soe</orig> that the art of both may
+                  <lb/>(as medicine by Hippocrates) be defined by the addition of defect, and subtract
+                  <lb break="no"/>tion of superfluity: for what <choice><orig>dos</orig> the Husbandman more than add ploughing, ridging
+                  <lb/>furrowing, harrowing, dunging or manuring, sowing, et. to land left by nature, that
+                  <lb/>is, commit the increase and good <choice><orig>successe</orig> to nature, which <choice><orig>administreth</orig> the heat
+                  <lb/>of the <choice><orig>Sunne</orig>, and <choice><orig>raine</orig>, and <choice><orig>multiplyes</orig><reg>multiplies</reg></choice> the seeds by them, and promotes them to
+                  <lb/>standing <choice><orig>corne</orig> soon after to be reaped: in the <choice><orig>meane</orig> time whilst the <choice><orig>herbe</orig> is<pc>-</pc>
+                  <lb/>Springing the husbandman weeds out thistles and all impediments, gathers<pc>-</pc>
+                  <lb/>the <choice><orig>corne</orig> being ripe, takes away things superfluous from it being reaped, namely
+                  <lb/>straw, <choice><orig>chaffe</orig><reg>chaff</reg></choice>, and such other things: <choice><orig>Soe</orig> <choice><orig>allso</orig> a Physician (as <choice><orig>allso</orig> a <choice><orig>Chymist</orig> in
+                  <lb/>a different respect) <choice><orig>teacheth</orig><reg>teaches</reg></choice> how to <choice><orig>præserve</orig> <choice><orig>præsent</orig> health to many body, being
+                  <lb/>wanting to recover it by <choice><orig>severall</orig> <choice><orig>remedyes</orig><reg>remedies</reg></choice>, takes away the <choice><orig>morbificke</orig><reg>morbific</reg></choice> cause,
+                  <lb/>cures the disease, <choice><orig>assuageth</orig><reg>assuages</reg></choice> symptoms, abates superfluous blood by opening
+                  <lb/>a <choice><orig>veyne</orig>, being wanting restores it by <choice><orig>apointing</orig><reg>appointing</reg></choice> good order of <choice><orig>dyet</orig><reg>diet</reg></choice>, evacua
+                  <lb break="no"/>ates noxious humors by purgation, and <choice><orig>soe</orig> imitates, <choice><orig>supplyes</orig><reg>supplies</reg></choice>, and amends
+                  <lb/>nature a thousand ways by the works of the understanding and art; which
+                  <lb/>being notorious, <choice><orig>Chymicall</orig> things are rather to be considered by us: for <choice><orig>Chy
+                  <lb break="no"/>mistry</orig> <choice><orig>doth</orig> first declare the operations of agriculture by its secret bounds<pc>-</pc>
+                  <lb/>and <choice><orig>wayes</orig> of operating: Husbandmen have land, wherein to sow seed, <choice><orig>soe</orig> <choice><orig>allso</orig>
+                  <lb/>the <choice><orig>Chymists</orig>: They have dung wherewith to manure their ground, <choice><orig>soe</orig><pc>-</pc>
+                  <lb/><orig>allso</orig> these, without which nothing could be done, nor any successe expected:
+                  <lb/>They have seed, the multiplication of which they desire: <seg rend="underline">if <choice><orig>Chymists</orig><pc>-</pc>
+                  <lb/>had not the like</seg>, they would (as Lully <choice><orig>sayth</orig>) imitate the painter, that<pc>-</pc>
+                  <lb/><choice><orig>endeavoures</orig><reg>endeavors</reg></choice> to <choice><orig>expresse</orig><reg>express</reg></choice> the fate of a <choice><orig>certaine</orig> man, <choice><orig>whome</orig> <choice><orig>hee</orig> had never
+                  <lb/>seen, nor the image of him: Husbandmen expect <choice><orig>raine</orig>, and heat of the<pc>-</pc>
+                  <lb/><orig>Sunne</orig>, <choice><orig>soe</orig> <choice><orig>allso</orig> <choice><orig>doe</orig> the <choice><orig>Chymists</orig> <choice><orig>truely</orig> administer <seg rend="underline">heat convenient to
+                  <lb/>their <choice><orig>worke</orig>, and <choice><orig>raine</orig></seg>: I need say <choice><orig>noe</orig> more: <note place="margin" n="X">X <choice><orig>Chymistry</orig> is exactly parallell to agriculture, and its deputy,
+                  <lb/>which in all things <choice><orig>expresseth</orig><reg>expresses</reg></choice> its offices, but under a most absolute alle
+                  <lb break="no"/>gory<pc>-----</pc></note>From hence the Ancients pro
+                  <lb break="no"/>duces Ceres, Triptolemus, Osiris, Dionysus, the golden Gods, as relating to <choice><orig>Chy
+                  <lb break="no"/>mistry</orig>, teaching as it were men how to cast the seeds of fruits into their<pc>-</pc>
+                  <lb/>earth, showing tillage, with the propagation of vines, and use of wine,<pc>-</pc>
+                  <lb/>all which things the ignorant have interpreted to <choice><orig>rusticall</orig><reg>rustical</reg></choice> operations, but
+                  <lb/>erroneously: for those things, which are absconded from the vulgar, and<pc>-</pc>
+                  <lb/>declares to the Learned under these veils of agriculture, are most abstruse<pc>-</pc>
+                  <lb/><choice><orig>mysteryes</orig><reg>mysteries</reg></choice> of nature: To this end say the Philosophers that their gold must<pc>-</pc>
+                  <lb/>be sowed upon white foliated earth, as if they meant that the Sowing of <choice><orig>corne</orig>
+                  <lb/>Should be observed and imitated for example, <seg rend="underline">which the author of the trea
+                  <note place="margin">?</note><lb break="no"/>tise of <choice><orig>corne</orig> and Jodoc. Greverus have most excellently performed in their</seg><pc>-</pc>
+                  <lb/>descriptions, for they have both most elegantly <choice><orig>accomodated</orig><reg>accommodated</reg></choice> every operation of
+                  <lb/>agriculture in the producing of <choice><orig>corne</orig> to the semination of gold, or generation of
+                  
+       
+                  <pb n="25"/><fw>Discourse 6.</fw><!-- Page number of the actual manuscript, followed by the header on the page. -->
+                  <lb/>the tincture: White earth, because sandy, <choice><orig>yeilds</orig> little fruit to the countrymen, by
+                  <lb/><orig>whome</orig> that which is <choice><orig>blacke</orig> and <choice><orig>fatt</orig> is more desired, but the white principally
+                  <lb/><choice><orig>conduceth</orig><reg>conduces</reg></choice> to the Philosophers, if it be foliated, that is well præpared, because<pc>-</pc>
+                  <lb/>they know how to enrich it with their dung, the other not at all: Now sowing is
+                  <lb/>the propagation of the world, whereby that, which cannot long endure in an
+                  <lb/><orig>individuall</orig>, is caused to persist in the Species: This is in man, <choice><orig>animalls</orig>, and
+                  <lb/>plants, in these hermaphroditically, in them under two distinct sexes: but in
+                  <lb/><orig>metalls</orig> <choice><orig>farre</orig> otherwise: <seg rend="underline">for in them a line is made of the flux of a point, a<pc>-</pc>
+                  <lb/>superficies of the flux of a line, a body of the flux of a superficies:</seg> But<pc>-</pc>
+                  <lb/>the <choice><orig>Starrs</orig> produced that point before the line, superficies, and body, because<pc>-</pc>
+                  <lb/>it is the principle of them all: Nature added the flux a long time after, that is,<pc>-</pc>
+                  <lb/>the <choice><orig>cælestiall</orig> <choice><orig>Sunne</orig> did in the earth generate a <choice><orig>Sonne</orig>, <choice><orig>whome</orig> Mercury <choice><orig>coḿitted</orig><reg>committed</reg></choice>
+                  <lb/>to Vulcan and Chiron to be educated, that is, to <choice><orig>manuall</orig> artifice, to be instructed,
+                  <lb/>even as they write of Achilles, who was held and hardened in fire by his mother
+                  <lb/>Thetys: <choice><orig>hee</orig>, amongst other things, learned <choice><orig>Musicke</orig>, and the art of playing on the <note place="margin">For this reason <choice><orig>sayth</orig> <lb/>Ovid. Phyllirides <lb/>made the youth <lb/>Achilles an excellent <lb/><orig>Harpe</orig></note>
+                  <lb/>Harp from Chiron: but Achilles being <choice><orig>noe</orig> other than the <choice><orig>Philosphicall</orig> subject (
+                  <lb/>whose <choice><orig>Sonne</orig> was was Pyrrhus with red <choice><orig>haire</orig>, without which two Troy could not be<pc>-</pc>
+                  <lb/>taken and subdued, as <choice><orig>wee</orig> have abundantly demonstrated in our <choice><orig>Hieroglyphicks</orig><reg>Hieroglyphics</reg></choice><pc>-</pc>
+                  <lb/>booke 6.) therefore <choice><orig>doe</orig> <choice><orig>wee</orig> not without reason touch (though cursorily) upon <choice><orig>Musicke</orig>
+                  <lb/>in this our <choice><orig>worke</orig>, where <choice><orig>wee</orig> describe Achilles, and his <choice><orig>heroicke</orig> virtues and en
+                  <lb break="no"/>terprises: For if <choice><orig>Musicke</orig> adorned <choice><orig>soe</orig> great a <choice><orig>Heroe</orig>, why may it not <choice><orig>allso</orig><pc>-</pc>
+                  <lb/>make this our <choice><orig>worke</orig> more complete and acceptable: For the <choice><orig>Angells</orig><reg>Angels</reg></choice> sing (as the
+                  <lb/>sacred scriptures attest<supplied>)</supplied>, the heavens sing, as Pythagoras <choice><orig>affirmes</orig><reg>affirms</reg></choice>, and, as the<pc>-</pc>
+                  <lb/>Psalmist <choice><orig>sayth</orig>, declare the glory of God, the Muses and Apollo sing, as<pc>-</pc>
+                  <lb/>the <choice><orig>Poetts</orig>, men even infants sing, birds sing, Sheep and geese sing in<pc>-</pc>
+                  <lb/><orig>musicall</orig> instruments, if therefore <choice><orig>wee</orig> <choice><orig>allso</orig> sing, there is reason for it<pc>. . .</pc>
+               </ab>   
+            </div>
+            
+         </div>
+      </body>
+   </text>
+</TEI>

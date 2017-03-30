@@ -25,20 +25,20 @@
                 
                 <div type="title" xml:lang="en">
                     <head>
-                        <lb/><orig>Embleme</orig> 49. Of the Secrets of Nature.
-                        <lb/>The <orig>Philosophicall</orig> infant is, as Orion, the <orig>Sonne</orig> of three fathers.
+                        <lb/><orig>Embleme</orig></choice> 49. Of the Secrets of Nature.
+                        <lb/>The <choice><orig>Philosophicall</orig></choice> infant is, as Orion, the <choice><orig>Sonne</orig></choice> of three fathers.
                     </head>
                 </div>
                 
                 
                 <div type="epigram" xml:lang="en">
-                    <head><orig>Epigramme</orig> 49.</head>
+                    <head><orig>Epigramme</orig></choice> 49.</head>
                     <lg>
                         <l>Vulcan with Hermes and Apollo did</l>
                         <l>Their seed inject into an oxes hide,</l>
                         <l>Whence produced was the great Orion:</l>
-                        <l>Three fathers <orig>allso</orig> <orig>hath</orig> the <orig>Sophicke</orig> <orig>Sonne</orig>;</l>
-                        <l>The <orig>Sunne</orig> is first, Vulcan the next is <choice><orig>stil'd</orig><reg>stilled</reg></choice></l>
+                        <l>Three fathers <choice><orig>allso</orig></choice> <choice><orig>hath</orig></choice> the <choice><orig>Sophicke</orig></choice> <choice><orig>Sonne</orig>;</l>
+                        <l>The <choice><orig>Sunne</orig></choice> is first, Vulcan the next is <choice><orig>stil'd</orig><reg>stilled</reg></choice></l>
                         <l>The artist is third father of this Child.</l>
                     </lg>
                 </div>
@@ -48,12 +48,12 @@
                 <div type="discourse" xml:lang="en">
                     <head>Discourse 49.</head>
                     <ab><!--Our convention will be that if we have break = "no" then it means that the word is broken across the line with a dash--> 
-                        <lb/>Those women, which prostitute themselves to variety of men, <orig>doe</orig> <orig>sel<milestone unit="section" n="e03-01" /> <!-- Change the value of n to "e" plus the number of the emblem (in two digits), followed by a hyphen and then a two-digit count of sentence -->
-                        <lb break="no"/>dome</orig> conceive lively children through the confusion of <orig>divers</orig> seeds:<pc>-</pc>
-                        <lb/>for nature in the generation of man and the most part of <orig>animalls</orig> <orig>ad
-                        <lb break="no"/>mitts</orig> <orig>noe</orig> <choice><orig>superfætation</orig><reg>superfetation</reg></choice>, except perhaps very rarely: and therefore<pc>-</pc>
-                        <lb/>every offspring is produced from one <orig>onely</orig> father and mother, whether
-                        <lb/>it be one or more, as is <orig>allso</orig> manifest by <orig>historyes</orig> and the event of<pc>-</pc>
+                        <lb/>Those women, which prostitute themselves to variety of men, <choice><orig>doe</orig></choice> <choice><orig>sel<milestone unit="section" n="e03-01" /> <!-- Change the value of n to "e" plus the number of the emblem (in two digits), followed by a hyphen and then a two-digit count of sentence -->
+                        <lb break="no"/>dome</orig></choice> conceive lively children through the confusion of <choice><orig>divers</orig></choice> seeds:<pc>-</pc>
+                        <lb/>for nature in the generation of man and the most part of <choice><orig>animalls</orig></choice> <choice><orig>ad
+                        <lb break="no"/>mitts</orig></choice> <choice><orig>noe</orig></choice> <choice><orig>superfætation</orig><reg>superfetation</reg></choice>, except perhaps very rarely: and therefore<pc>-</pc>
+                        <lb/>every offspring is produced from one <choice><orig>onely</orig></choice> father and mother, whether
+                        <lb/>it be one or more, as is <choice><orig>allso</orig></choice> manifest by <choice><orig>historyes</orig></choice> and the event of<pc>-</pc>
                         <lb/>some supposing otherwise; in the first place of Margarett the wife of
                         <lb/>Herman <choice><orig>Earle</orig><reg>Earl</reg></choice> of Henneberge, who, in the year 1276, brought forth
                         <lb/>three hundred and sixty five children, which were all baptized,<pc>-</pc>
@@ -62,59 +62,59 @@
                         <lb break="no"/>dune, one mile distant from the Hague towards the Sea in Holland,
                         <lb/>together with the brazen bason, in which they were baptized, and an
                         <lb/>inscription of the story: The cause <choice><orig>alleadgd</orig><reg>alleged</reg></choice> was, that the <choice><orig>Countesse</orig><reg>Countess</reg></choice>,
-                        <lb/><orig>seing</orig> a poor woman carry two children <choice><orig>twinns</orig><reg>twins</reg></choice> in her <orig>armes</orig>, <orig>calld</orig> her
-                        <lb/><choice><orig>adulteresse</orig><reg>adulteress</reg></choice>, as if it was impossible for more children to be <orig>borne</orig> at one
-                        <lb/>conception by one man, but necessarily by <orig>severall</orig>: Whereupon an im
-                        <lb break="no"/>precation being made by the poor woman, who knew her <orig>selfe</orig> clear<pc>-</pc>
-                        <lb/>of that accusation, the <choice><orig>Countesse</orig><reg>Countess</reg></choice> conceived in her <orig>wombe</orig> at one time
-                        <lb/>and by one man <orig>soe</orig> many children, as there are <orig>dayes</orig> in the year:
-                        <lb/>This is indeed a miracle, but a <orig>naturall</orig> <orig>worke</orig>, which happened<pc>-</pc>
-                        <lb/>through the vengeance of God: But in the <orig>Philosophicall</orig> <orig>worke</orig><pc>-</pc>
+                        <lb/><orig>seing</orig></choice> a poor woman carry two children <choice><orig>twinns</orig><reg>twins</reg></choice> in her <choice><orig>armes</orig>, <choice><orig>calld</orig></choice> her
+                        <lb/><choice><orig>adulteresse</orig><reg>adulteress</reg></choice>, as if it was impossible for more children to be <choice><orig>borne</orig></choice> at one
+                        <lb/>conception by one man, but necessarily by <choice><orig>severall</orig>: Whereupon an im
+                        <lb break="no"/>precation being made by the poor woman, who knew her <choice><orig>selfe</orig></choice> clear<pc>-</pc>
+                        <lb/>of that accusation, the <choice><orig>Countesse</orig><reg>Countess</reg></choice> conceived in her <choice><orig>wombe</orig></choice> at one time
+                        <lb/>and by one man <choice><orig>soe</orig></choice> many children, as there are <choice><orig>dayes</orig></choice> in the year:
+                        <lb/>This is indeed a miracle, but a <choice><orig>naturall</orig></choice> <choice><orig>worke</orig>, which happened<pc>-</pc>
+                        <lb/>through the vengeance of God: But in the <choice><orig>Philosophicall</orig></choice> <choice><orig>worke</orig><pc>-</pc>
                         <lb/>that, which is otherwise contrary to nature, is easily admitted under
-                        <lb/>the <choice><orig>veyle</orig><reg>veil</reg></choice> of an allegory: For here one infant is <orig>sayd</orig> to have three fa
-                        <lb break="no"/>thers, or <orig>allso</orig> two, as <orig>allso</orig> mothers: Hereupon <orig>sayth</orig> Raymund cited by the<pc>-</pc>
-                        <lb/>Rosary; Our infant <orig>hath</orig> two fathers and two mothers, and because <orig>hee</orig>
-                        <lb/>with his whole substance is tenderly nourished in fire, <orig>hee</orig> therefore<pc>-</pc>
-                        <lb/>never <orig>dyes</orig>: <orig>Soe</orig> <orig>Dionysus</orig> or Bacchus is <orig>sayd</orig> to have two mothers, who<pc>-</pc>
+                        <lb/>the <choice><orig>veyle</orig><reg>veil</reg></choice> of an allegory: For here one infant is <choice><orig>sayd</orig></choice> to have three fa
+                        <lb break="no"/>thers, or <choice><orig>allso</orig></choice> two, as <choice><orig>allso</orig></choice> mothers: Hereupon <choice><orig>sayth</orig></choice> Raymund cited by the<pc>-</pc>
+                        <lb/>Rosary; Our infant <choice><orig>hath</orig></choice> two fathers and two mothers, and because <choice><orig>hee</orig>
+                        <lb/>with his whole substance is tenderly nourished in fire, <choice><orig>hee</orig></choice> therefore<pc>-</pc>
+                        <lb/>never <choice><orig>dyes</orig>: <choice><orig>Soe</orig></choice> <choice><orig>Dionysus</orig></choice> or Bacchus is <choice><orig>sayd</orig></choice> to have two mothers, who<pc>-</pc>
                         <lb/>was <choice><orig>rip'd</orig><reg>ripped</reg></choice> out of his mothers belly (being burned) before the time of his
-                        <lb/>maturity, and matured in his fathers thigh, <orig>soe</orig> that the father became
+                        <lb/>maturity, and matured in his fathers thigh, <choice><orig>soe</orig></choice> that the father became
                         <lb/>a mother: But these things are better declared in the conception of<pc>-</pc>
-                        <lb/>Orion, who is <orig>sayd</orig> to be produced from the seed of Apollo, Vulcan,<pc>-</pc>
-                        <lb/>and Mercury <orig>mixd</orig> together, and <orig>præservd</orig> in the hide of an Oxe for
-                        <lb/>the space of <orig>tenne</orig> <orig>moneths</orig>: These things would be <orig>alltogether</orig> mon<note place="margin"><unclear reason="illegible">NBow</unclear></note>
-                        <lb break="no"/>strous, not <orig>onely</orig> fabulous, if a secret of nature were not compre
+                        <lb/>Orion, who is <choice><orig>sayd</orig></choice> to be produced from the seed of Apollo, Vulcan,<pc>-</pc>
+                        <lb/>and Mercury <choice><orig>mixd</orig></choice> together, and <choice><orig>præservd</orig></choice> in the hide of an Oxe for
+                        <lb/>the space of <choice><orig>tenne</orig></choice> <choice><orig>moneths</orig>: These things would be <choice><orig>alltogether</orig></choice> mon<note place="margin"><unclear reason="illegible">NBow</unclear></note>
+                        <lb break="no"/>strous, not <choice><orig>onely</orig></choice> fabulous, if a secret of nature were not compre
                         <lb break="no"/>hended under these shrouds, not obvious to all Men. Lully in the<pc>-</pc>
-                        <lb/><choice><orig>Theoricke</orig><reg>Theoric</reg></choice> of his Testament attributes to the same <orig>Philosophicall</orig><pc>-</pc>
-                        <lb/>infant <orig>soe</orig> many and <orig>allmost</orig> the same fathers, namely Sol, who
-                        <lb/>is Apollo, or the <orig>cælestiall</orig> Sol is the first author of this generation,<pc>-</pc>
-                        <lb/><orig>certaine</orig> matter <orig>knowne</orig> to the Philosophers, as upon the matrix<pc>-</pc>
+                        <lb/><choice><orig>Theoricke</orig><reg>Theoric</reg></choice> of his Testament attributes to the same <choice><orig>Philosophicall</orig><pc>-</pc>
+                        <lb/>infant <choice><orig>soe</orig></choice> many and <choice><orig>allmost</orig></choice> the same fathers, namely Sol, who
+                        <lb/>is Apollo, or the <choice><orig>cælestiall</orig></choice> Sol is the first author of this generation,<pc>-</pc>
+                        <lb/><orig>certaine</orig></choice> matter <choice><orig>knowne</orig></choice> to the Philosophers, as upon the matrix<pc>-</pc>
                         
                         
                         
                         <pb n="154"/><fw>Discourse 49.</fw><!-- Page number of the actual manuscript, followed by the header on the page. -->
-                        <lb/>of a woman, and therein <choice><orig>produceth</orig><reg>produces</reg></choice> a <orig>Sonne</orig> or infant like to <orig>himselfe</orig>,
-                        <lb/>to <orig>whome</orig> afterwards <orig>hee</orig> will leave and <choice><orig>resigne</orig><reg>resign</reg></choice> his <orig>armes</orig> and ensigns<pc>-</pc>
+                        <lb/>of a woman, and therein <choice><orig>produceth</orig><reg>produces</reg></choice> a <choice><orig>Sonne</orig></choice> or infant like to <choice><orig>himselfe</orig>,
+                        <lb/>to <choice><orig>whome</orig></choice> afterwards <choice><orig>hee</orig></choice> will leave and <choice><orig>resigne</orig><reg>resign</reg></choice> his <choice><orig>armes</orig></choice> and ensigns<pc>-</pc>
                         <lb/>of virtues, by <choice><orig>paternall</orig><reg>paternal</reg></choice> right, that is, the faculty of maturing things im
                         <lb break="no"/>mature, and the energy of tinging and purging things not tinged nor
                         <lb/>purged. For whatsoever Sol is able to perfect in a thousand years, that
-                        <lb/>will his <orig>Sonne</orig> <orig>performe</orig> in <choice><orig>halfe</orig><reg>half</reg></choice> an <orig>houre</orig>; That therefore virtue<pc>-</pc>
+                        <lb/>will his <choice><orig>Sonne</orig></choice> <choice><orig>performe</orig></choice> in <choice><orig>halfe</orig><reg>half</reg></choice> an <choice><orig>houre</orig>; That therefore virtue<pc>-</pc>
                         <lb/>may be made a thousand times stronger in him, than in Sol, his fa
                         <lb break="no"/>ther delivers him to Vulcan and the Artist together for education, that<pc>-</pc>
-                        <lb/>his generous disposition may be polished and <orig>multiplyd</orig> in virtues by
+                        <lb/>his generous disposition may be polished and <choice><orig>multiplyd</orig></choice> in virtues by
                         <lb/>their means; for manifest it is that to practice from a child <choice><orig>conduceth</orig><reg>conduces</reg></choice>
-                        <lb/>much: <orig>Soe</orig> Achilles, Jason, Hercules were <orig>coḿitted</orig> to Chiron to be in
+                        <lb/>much: <choice><orig>Soe</orig></choice> Achilles, Jason, Hercules were <choice><orig>coḿitted</orig></choice> to Chiron to be in
                         <lb break="no"/>structed for the same end. For Milo the Crotonian, who being a boy<pc>-</pc>
-                        <lb/><orig>carryed</orig> a <choice><orig>calfe</orig><reg>calf</reg></choice>, when a man <orig>carryed</orig> an Oxe by <orig>custome</orig>. Besides Sol,
+                        <lb/><orig>carryed</orig></choice> a <choice><orig>calfe</orig><reg>calf</reg></choice>, when a man <choice><orig>carryed</orig></choice> an Oxe by <choice><orig>custome</orig>. Besides Sol,
                         <lb/>Vulcan and the artist are not <choice><orig>erroniously</orig><reg>erroneously</reg></choice> reputed the fathers of this
-                        <lb/>child, because as <orig>hee</orig> was the first, they made him to be such and <orig>soe</orig>
-                        <lb/>great: <orig>Noe</orig> <orig>æquivalent</orig> compensation can be made to Masters for in
+                        <lb/>child, because as <choice><orig>hee</orig></choice> was the first, they made him to be such and <choice><orig>soe</orig>
+                        <lb/>great: <choice><orig>Noe</orig></choice> <choice><orig>æquivalent</orig></choice> compensation can be made to Masters for in
                         <lb break="no"/>stitution, as neither reward to parents for generation. These compose
-                        <lb/>the body, those the mind. If the mind be better than the body, <orig>noe</orig>
-                        <lb/><orig>lesse</orig> <choice><orig>recompence</orig><reg>recompense</reg></choice> is due to those, than to these. In the production of<pc>-</pc>
-                        <lb/>Orion Mercury contributed matter, Apollo <orig>forme</orig>, and Vulcan heat, or
-                        <lb/>the <orig>externall</orig> efficient cause: <orig>Soe</orig> <orig>allso</orig> in the <orig>Philosophicall</orig> <orig>worke</orig>
+                        <lb/>the body, those the mind. If the mind be better than the body, <choice><orig>noe</orig>
+                        <lb/><orig>lesse</orig></choice> <choice><orig>recompence</orig><reg>recompense</reg></choice> is due to those, than to these. In the production of<pc>-</pc>
+                        <lb/>Orion Mercury contributed matter, Apollo <choice><orig>forme</orig>, and Vulcan heat, or
+                        <lb/>the <choice><orig>externall</orig></choice> efficient cause: <choice><orig>Soe</orig></choice> <choice><orig>allso</orig></choice> in the <choice><orig>Philosophicall</orig></choice> <choice><orig>worke</orig>
                         <lb/>it is proper for three fathers to be seen to have conspired for the pro
-                        <lb break="no"/>creation of one infant, in <orig>whome</orig> the Philosophers take great delight.
+                        <lb break="no"/>creation of one infant, in <choice><orig>whome</orig></choice> the Philosophers take great delight.
                     </ab>   
                 </div>
                 

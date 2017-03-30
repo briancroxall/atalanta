@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Title</title>
+            </titleStmt>
+            <publicationStmt>
+                <p>Publication Information</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Information about the source</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    
+    <text>
+        <body>
+            <div type="emblem" n="e41"><!-- Change the value of n to "e" followed by the number of the emblem. Use two digits for all numbers. -->
+                <pb n="128"/><!-- Change to page number of the actual manuscript -->
+                
+                
+                <div type="title" xml:lang="en">
+                    <head>
+                        <lb/><orig>Embleme</orig> 41. Of the Secrets of Nature.
+                        <lb/>Adonis is <choice><orig>killd</orig> by a Boar, to <choice><orig>whome</orig> Venus <choice><orig>hasting</orig><reg>having</reg></choice> tinged the
+                        <lb/>Roses with her blood.
+                    </head>
+                </div>
+                
+                
+                <div type="epigram" xml:lang="en">
+                    <head><orig>Epigramme</orig> 4i.</head>
+                    <lg>
+                        <l>Myrrha, conspiring with her Sire, gave breath</l>
+                        <l>To <choice><orig>th'</orig><reg>the</reg></choice> fair Adonis, <choice><orig>tushd</orig><reg>tushed</reg></choice> by a Boar to death:</l>
+                        <l>Fond Venus <choice><orig>runns</orig>, with <choice><orig>thorne</orig><reg>thorn</reg></choice> in foot, which bled,</l>
+                        <l>And therewith <choice><orig>tingd</orig><reg>tinged</reg></choice> the lilly Roses red;</l>
+                        <l>The <choice><orig>Goddesse</orig> weeps, the Syrians can't <choice><orig>refraine</orig>,</l>
+                        <l><choice><orig>Hee's</orig><reg>He's</reg></choice> <choice><orig>layd</orig> amongst the lettice being <choice><orig>Slayne</orig></l>
+                    </lg>
+                </div>
+                
+                
+                <pb n="129"/> <!-- Change to page number of the actual manuscript -->
+                <div type="discourse" xml:lang="en">
+                    <head>Discourse 4i.</head>
+                    <ab><!--Our convention will be that if we have break = "no" then it means that the word is broken across the line with a dash--> 
+                        <lb/>How improperly some of the Mythologists resolve the Allegory of<pc>-</pc><milestone unit="section" n="e03-01" /> <!-- Change the value of n to "e" plus the number of the emblem (in two digits), followed by a hyphen and then a two-digit count of sentence -->
+                        <lb/>Adonis, and ascribe him sometimes to the <choice><orig>Sunne</orig>, the <choice><orig>Boare</orig><reg>Boar</reg></choice>, by which
+                        <lb/><orig>hee</orig> was <choice><orig>slayne</orig>, to a hard winter, sometimes to the seed of wheat,<pc>-</pc>
+                        <lb/>which is six <choice><orig>moneths</orig> with Proserpina under the earth, and as many
+                        <lb/>above the earth with Venus, is <choice><orig>elswhere</orig> sufficiently explained and
+                        <lb/>refuted by us. Here <choice><orig>wee</orig> <choice><orig>doe</orig> with the consent of all men declare the
+                        <lb/><orig>Philosophicall</orig> <choice><orig>Sunne</orig> to be meant by Adonis: From whence the Versicle:
+                        <quote rend="indent"><lg xml:lang="lat"><l>Omnia sunt idem, Dionysus, Sol, et Adonis:</l>
+                                <l>And <choice><orig>Orphens</orig>:<pc>------</pc>Qui vario Cætaris nomine Adoni,</l>
+                                <l>Germinum et idem author, pariter puer atq puella.</l>
+                            </lg>
+                        </quote>
+                        <lb/>All which are by <choice><orig>noe</orig> means to be understood of the <choice><orig>cælestiall</orig>, but<pc>-</pc>
+                        <lb/><orig>Philosophicall</orig> <choice><orig>Sunne</orig>; for this <choice><orig>expresseth</orig><reg>expresses</reg></choice> both sexes, that not: <choice><orig>Soe</orig> <choice><orig>all
+                        <lb break="no"/>so</orig> they attribute the very same thing to Dionysus, and the <choice><orig>Sunne</orig>,<pc>-</pc>
+                        <lb/>as to Adonis, and on the contrary, as <choice><orig>allso</orig> to Osiris. Adonis is <choice><orig>killd</orig> by a
+                        <lb/><choice><orig>Boare</orig><reg>Boar</reg></choice>, that is, by Acetum acerrimum, or the solutive water, which <choice><orig>hath</orig>
+                        <lb/>terrible teeth like a boar, with which <choice><orig>hee</orig> <choice><orig>tusheth</orig><reg>tushes</reg></choice> Adonis; because the<pc>-</pc>
+                        <lb/><orig>Philosophicall</orig> Sol is <choice><orig>mortalls</orig> wounded by that boar, loosened in the
+                        <lb/>members and <choice><orig>cutt</orig> of; But Venus <choice><orig>endeavours</orig> to helpe her Paramour,<pc>-</pc>
+                        <lb/>who being dead, <choice><orig>shee</orig> <choice><orig>layd</orig> him amongst Lettices, and <choice><orig>watchd</orig><reg>watched</reg></choice> him. After
+                        <lb/>the same manner is Osiris <choice><orig>killd</orig> by Typhon, and cut into <choice><orig>severall</orig> <choice><orig>peices</orig>,
+                        <lb/>which Isis, the wife of Osiris, gathered up, and being <choice><orig>joynd</orig> together <choice><orig>bu
+                        <lb break="no"/>ryed</orig>. The same mourning, which followed the death of Osiris every<pc>-</pc>
+                        <lb/>year in <choice><orig>Ægypt</orig>, was <choice><orig>allso</orig> celebrated after the death of Adonis in Syria
+                        <lb/>and the bordering kingdoms; where for some <choice><orig>dayes</orig> weeping and wailing
+                        <lb/>being heard, afterwards were signs of joy given, and dancing, as if <choice><orig>hee</orig>,
+                        <lb/>that was dead, now lived anew being conveyed to heaven: From whence
+                        <lb/>arose the vanity of their religion or heathenish superstition, which<pc>-</pc>
+                        <lb/>grew to an excessive height, the <choice><orig>Devill</orig><reg>Devil</reg></choice> giving occasion, and procuring
+                        <lb/>false miracles. Adonis was (as they <choice><orig>feigne</orig><reg>feign</reg></choice>) <choice><orig>borne</orig> of Cinyre King of
+                        <lb/>Cyprus, and Myrrha his daughter, <choice><orig>hee</orig> is <choice><orig>sayd</orig> to be <choice><orig>borne</orig> in <choice><orig>incæst</orig><reg>incest</reg></choice> (if
+                        <lb/>history be considered) wicked, if an allegory, not <choice><orig>unlawfull</orig><reg>unlawful</reg></choice>, but prin
+                        <lb break="no"/>cipally necessary: For if the mother and <choice><orig>Sonne</orig>, or the father and<pc>-</pc>
+                        <lb/>daughter be not <choice><orig>joynd</orig> together, and an offspring produced from thence,
+                        <lb/>nothing is perfected in this art. For here, the nearer the man and
+                        <lb/>wife are one to the other in blood, in the first degree of consan
+                        <lb break="no"/>guinity, or second, the more <choice><orig>fruitfull</orig> they are, and on the con
+                        <lb break="no"/>trary, the more remote, the more <choice><orig>unfruitfull</orig><reg>unfruitful</reg></choice>, which is not tolerable
+                        <lb/>in the matrimony of men. For this cause <choice><orig>Œdypus</orig> <choice><orig>marryd</orig> his <choice><orig>owne</orig>
+                        <lb/>mother, Jupiter his Sister, <choice><orig>soe</orig> <choice><orig>allso</orig> Osiris, <choice><orig>Saturne</orig>, Sol, the red
+                        <lb/>servant, Gabritius; Sol (in a Metaphor of Belinus in the Rosary)<pc>-</pc>
+                        
+                        
+                        
+                        <pb n="130"/><fw>Discourse 4i.</fw><!-- Page number of the actual manuscript, followed by the header on the page. -->
+                        <lb/>speaks thus of Adonis, that is, of <choice><orig>himselfe</orig>: Know yee, that my father Sol
+                        <lb/><orig>hath</orig> given <choice><orig>mee</orig> power above all power, and <choice><orig>cloathed</orig> <choice><orig>mee</orig> with the gar
+                        <lb break="no"/>ment of glory: And a little after: For I am his <choice><orig>onely</orig> <choice><orig>Sonne</orig> and more
+                        <lb/>like my father, Ct: I divest my servants of their power and nature,<pc>-</pc>
+                        <lb/>and <choice><orig>cloath</orig> them with my <choice><orig>beautifull</orig> <choice><orig>splendour</orig><reg>splendor</reg></choice> and light (which my
+                        <lb/>father gave <choice><orig>mee</orig>) in all their works: For I am excellent, who <choice><orig>doe</orig> exalt
+                        <lb/>and <choice><orig>depresse</orig><reg>depress</reg></choice> all things, and none of my servants is above <choice><orig>mee</orig>, but one,<pc>-</pc>
+                        <lb/>who is permitted to be repugnant and contrary to <choice><orig>mee</orig>: And <choice><orig>hee</orig> <choice><orig>destroyes</orig><reg>destroys</reg></choice>
+                        <lb/><orig>mee</orig>, yet <choice><orig>destroyes</orig> not my nature: And <choice><orig>hee</orig> is <choice><orig>Saturne</orig>, who separates all
+                        <lb/>my parts: Afterwards I <choice><orig>goe</orig> to my mother, who gathers together all my<pc>-</pc>
+                        <lb/>divided and separated members: I illuminate all those things that<pc>-</pc>
+                        <lb/><orig>appertaine</orig> to <choice><orig>mee</orig>, and cause light to appear openly in the way from
+                        <lb/>my father <choice><orig>Saturne</orig>, as <choice><orig>allso</orig> from my mother, who is an enemy to <choice><orig>mee</orig>.
+                        <lb/>The words hitherto spoken are <choice><orig>soe</orig> clear, as to <choice><orig>discusse</orig><reg>discuss</reg></choice> <choice><orig>darkenesse</orig> from
+                        <lb/>the eyes of the mind even to him that is but meanly conversant in<pc>-</pc>
+                        <lb/>the reading of authors, and discover the light of the <choice><orig>Sunne</orig>, which is
+                        <lb/>abundantly perspicuous in the <choice><orig>cohærencyes</orig><reg>coherencies</reg></choice> insinuated of things and per
+                        <lb break="no"/>sons: For those things which are true, though shaded under the <choice><orig>veyle</orig><reg>veil</reg></choice>
+                        <lb/>of an allegory, <choice><orig>doe</orig> consent in <choice><orig>wonderfull</orig> harmony one with another,<pc>-</pc>
+                        <lb/>but those things which are false are repugnant, and inconsistent with
+                        <lb/>themselves, and others<pc>. . . . . . . . .</pc>
+                    </ab>   
+                </div>
+                
+            </div>
+        </body>
+    </text>
+</TEI>

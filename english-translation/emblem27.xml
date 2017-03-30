@@ -25,19 +25,19 @@
                 
                 <div type="title" xml:lang="en">
                     <head>
-                        <lb/><orig>Embleme</orig> 27. Of the Secrets of Nature.
-                        <lb/><orig>Hee</orig> that <orig>endeavours</orig> to enter into the Philosophers Rosary without
-                        <lb/>a key, is like him that would <orig>walke</orig> without feet.
+                        <lb/><orig>Embleme</orig></choice> 27. Of the Secrets of Nature.
+                        <lb/><orig>Hee</orig></choice> that <choice><orig>endeavours</orig></choice> to enter into the Philosophers Rosary without
+                        <lb/>a key, is like him that would <choice><orig>walke</orig></choice> without feet.
                     </head>
                 </div>
                 
                 
                 <div type="epigram" xml:lang="en">
-                    <head><orig>Epigramme</orig> 27.</head>
+                    <head><orig>Epigramme</orig></choice> 27.</head>
                     <lg>
-                        <l>Roses in <choice><orig>wisedom's</orig><reg>wisdom's</reg></choice> garden <orig>doe</orig> abound,</l>
-                        <l>But <orig>allwayes</orig> under locks and bolts is found:</l>
-                        <l>One <orig>onely</orig> key it <orig>hath</orig>, of means <orig>esteeme</orig>,</l>
+                        <l>Roses in <choice><orig>wisedom's</orig><reg>wisdom's</reg></choice> garden <choice><orig>doe</orig></choice> abound,</l>
+                        <l>But <choice><orig>allwayes</orig></choice> under locks and bolts is found:</l>
+                        <l>One <choice><orig>onely</orig></choice> key it <choice><orig>hath</orig>, of means <choice><orig>esteeme</orig>,</l>
                         <l>Yet without that you swim against the <choice><orig>streame</orig><reg>stream</reg></choice>.</l>
                         <l>He, that can scarce upon a <choice><orig>levell</orig><reg>level</reg></choice> stand,</l>
                         <l>In <choice><orig>vaine</orig><reg>vain</reg></choice> attempts Parnassus to ascend.</l>
@@ -49,71 +49,71 @@
                 <div type="discourse" xml:lang="en">
                     <head>Discourse 27.</head>
                     <ab><!--Our convention will be that if we have break = "no" then it means that the word is broken across the line with a dash--> 
-                        <lb/>Concerning Erichthonius they write, that <orig>hee</orig> sprung from the seed of Vulcan<pc>-</pc><milestone unit="section" n="e03-01" /> <!-- Change the value of n to "e" plus the number of the emblem (in two digits), followed by a hyphen and then a two-digit count of sentence -->
-                        <lb/>cast upon the earth striving with Pallas the <orig>Goddesse</orig> of <orig>wisedome</orig>, with ser
-                        <lb break="no"/>pentine and without <orig>humane</orig> feet. Very like him are those, who, depending upon
-                        <lb/>the means of Vulcan alone, without the <orig>wisedome</orig> of Pallas, <orig>doe</orig> <choice><orig>begett</orig><reg>beget</reg></choice> monstrous
-                        <lb/>children, namely, without feet and abortive, which can neither <orig>sustaine</orig><pc>-</pc>
-                        <lb/>themselves, nor profit others: It is a miserable thing for a man to <orig>goe</orig> on all
-                        <lb/><choice><orig>foure</orig><reg>four</reg></choice>, that is, hands and feet together, but much more miserable to be <orig>all
-                        <lb break="no"/>together</orig> destitute of feet, and to use <choice><orig>armes</orig><reg>arms</reg></choice> instead thereof: for they seem to
-                        <lb/>have degenerated to the nature of <orig>wormes</orig>, who <orig>goe</orig> after the manner of <choice><orig>crea
-                        <lb break="no"/>ping</orig><reg>creeping</reg></choice> <orig>wormes</orig>: But the two <orig>leggs</orig> are the <orig>organicke</orig> parts in man, without which
-                        <lb/><orig>hee</orig> cannot <orig>truely</orig> <orig>walke</orig>, as neither see without eyes, or touch things tangible
-                        <lb/>without hands: <orig>soe</orig> likewise Medicine and every operative art is <choice><orig>supposd</orig><reg>supposed</reg></choice> to
-                        <lb/>have two <orig>leggs</orig>, whereon to stand, namely experience and reason, without<pc>-</pc>
+                        <lb/>Concerning Erichthonius they write, that <choice><orig>hee</orig></choice> sprung from the seed of Vulcan<pc>-</pc><milestone unit="section" n="e03-01" /> <!-- Change the value of n to "e" plus the number of the emblem (in two digits), followed by a hyphen and then a two-digit count of sentence -->
+                        <lb/>cast upon the earth striving with Pallas the <choice><orig>Goddesse</orig></choice> of <choice><orig>wisedome</orig>, with ser
+                        <lb break="no"/>pentine and without <choice><orig>humane</orig></choice> feet. Very like him are those, who, depending upon
+                        <lb/>the means of Vulcan alone, without the <choice><orig>wisedome</orig></choice> of Pallas, <choice><orig>doe</orig></choice> <choice><orig>begett</orig><reg>beget</reg></choice> monstrous
+                        <lb/>children, namely, without feet and abortive, which can neither <choice><orig>sustaine</orig><pc>-</pc>
+                        <lb/>themselves, nor profit others: It is a miserable thing for a man to <choice><orig>goe</orig></choice> on all
+                        <lb/><choice><orig>foure</orig><reg>four</reg></choice>, that is, hands and feet together, but much more miserable to be <choice><orig>all
+                        <lb break="no"/>together</orig></choice> destitute of feet, and to use <choice><orig>armes</orig><reg>arms</reg></choice> instead thereof: for they seem to
+                        <lb/>have degenerated to the nature of <choice><orig>wormes</orig>, who <choice><orig>goe</orig></choice> after the manner of <choice><orig>crea
+                        <lb break="no"/>ping</orig><reg>creeping</reg></choice> <choice><orig>wormes</orig>: But the two <choice><orig>leggs</orig></choice> are the <choice><orig>organicke</orig></choice> parts in man, without which
+                        <lb/><orig>hee</orig></choice> cannot <choice><orig>truely</orig></choice> <choice><orig>walke</orig>, as neither see without eyes, or touch things tangible
+                        <lb/>without hands: <choice><orig>soe</orig></choice> likewise Medicine and every operative art is <choice><orig>supposd</orig><reg>supposed</reg></choice> to
+                        <lb/>have two <choice><orig>leggs</orig>, whereon to stand, namely experience and reason, without<pc>-</pc>
                         <lb/>either of which that art is lame, and imperfect in its traditions and <choice><orig>præ
-                        <lb break="no"/>cepts</orig><reg>precepts</reg></choice>, nor correspondent to the proposed end: <orig>Chymistry</orig> indeed <orig>cheifely</orig> de
-                        <lb break="no"/>lights in two subjects (as <orig>leggs</orig>) whereof one is the key, the other the string of
-                        <lb/>the <choice><orig>barre</orig><reg>bar</reg></choice>; by these the <orig>Philosophicall</orig> Rosary <choice><orig>lockd</orig><reg>locked</reg></choice> on all sides is opened,<pc>-</pc>
+                        <lb break="no"/>cepts</orig><reg>precepts</reg></choice>, nor correspondent to the proposed end: <choice><orig>Chymistry</orig></choice> indeed <choice><orig>cheifely</orig></choice> de
+                        <lb break="no"/>lights in two subjects (as <choice><orig>leggs</orig>) whereof one is the key, the other the string of
+                        <lb/>the <choice><orig>barre</orig><reg>bar</reg></choice>; by these the <choice><orig>Philosophicall</orig></choice> Rosary <choice><orig>lockd</orig><reg>locked</reg></choice> on all sides is opened,<pc>-</pc>
                         <lb/>and passage admitted into it to those that have right to enter: But if one
                         <lb/>be wanting to him that is about to enter herein it will be the same thing, as
-                        <lb/>for a man whose feet are bound to <orig>endeavour</orig> to <choice><orig>outrunne</orig><reg>outrun</reg></choice> a hare: <orig>hee</orig> that
+                        <lb/>for a man whose feet are bound to <choice><orig>endeavour</orig></choice> to <choice><orig>outrunne</orig><reg>outrun</reg></choice> a hare: <choice><orig>hee</orig></choice> that
                         <lb/>enters into the garden, which is every way enclosed or fenced, without a Key,
-                        <lb/>imitates a <choice><orig>theife</orig><reg>thief</reg></choice>, who coming in a <orig>darke</orig> night can <choice><orig>discerne</orig><reg>discern</reg></choice> nothing that<pc>-</pc>
-                        <lb/><orig>growes</orig> in the garden, nor enjoy the things stolen away: But the key is a thing
-                        <lb/>of very little <orig>esteeme</orig> or value, which is properly called a stone <orig>knowne</orig> in the
+                        <lb/>imitates a <choice><orig>theife</orig><reg>thief</reg></choice>, who coming in a <choice><orig>darke</orig></choice> night can <choice><orig>discerne</orig><reg>discern</reg></choice> nothing that<pc>-</pc>
+                        <lb/><orig>growes</orig></choice> in the garden, nor enjoy the things stolen away: But the key is a thing
+                        <lb/>of very little <choice><orig>esteeme</orig></choice> or value, which is properly called a stone <choice><orig>knowne</orig></choice> in the
                         <lb/>chapters, and is the root of Rhodes, without which a twig is not put forth, nor<pc>-</pc>
-                        <lb/><orig>doth</orig> the bud swell, nor the Rose become green, or discover multitude of<pc>-</pc>
-                        <lb/>leaves: But a <orig>quæstion</orig> might be <orig>askd</orig>, where must this key be sought for?
+                        <lb/><orig>doth</orig></choice> the bud swell, nor the Rose become green, or discover multitude of<pc>-</pc>
+                        <lb/>leaves: But a <choice><orig>quæstion</orig></choice> might be <choice><orig>askd</orig>, where must this key be sought for?
                         <lb/>I anwser with the oracle, that is must be there investigated, where the<pc>-</pc>
-                        <lb/>bones of Orestes are <orig>sayd</orig> to be found, namely, where winds, the Striker, that
-                        <lb/>which is beaten <orig>backe</orig>, and the destruction of men are found together, that is,
-                        <lb/>as Lychas <orig>hath</orig> interpreted it, in the Brasiers Shop or <choice><orig>workehouse</orig><reg>workhouse</reg></choice>: For the oracle
+                        <lb/>bones of Orestes are <choice><orig>sayd</orig></choice> to be found, namely, where winds, the Striker, that
+                        <lb/>which is beaten <choice><orig>backe</orig>, and the destruction of men are found together, that is,
+                        <lb/>as Lychas <choice><orig>hath</orig></choice> interpreted it, in the Brasiers Shop or <choice><orig>workehouse</orig><reg>workhouse</reg></choice>: For the oracle
                         <lb/>would have <choice><orig>bellowes</orig><reg>bellows</reg></choice> understood by winds; a hammer by the striker an <choice><orig>anvile</orig><reg>anvil</reg></choice>
-                        <lb/>by that which is beaten <orig>backe</orig>; by the destruction of men iron: if a man <orig>knowes</orig>
-                        <lb/>how to number well and distinguish the signs, <orig>hee</orig> will certainly find this key
-                        <lb/>in the <choice><orig>northerne</orig><reg>northern</reg></choice> hemisphere of the <choice><orig>Zodiacke</orig><reg>Zodiac</reg></choice>, and the string of the <orig>barre</orig> in
-                        <lb/>the <choice><orig>Southerne</orig><reg>Southern</reg></choice>: Which having <orig>obtaind</orig>, it will be easy to open the <orig>doore</orig> and enter:
-                        <lb/>and in the very entrance <orig>hee</orig> will see Venus with her Paramour Adonis: for <orig>shee</orig>
-                        <lb/><orig>hath</orig> tinged the white roses of a purple <orig>colour</orig> with her blood: In the same place
-                        <lb/><orig>allso</orig> a dragon is observed, as in the Hesperian gardens, which watched to <orig>præ
-                        <lb break="no"/>serve</orig> the roses: The scent of the roses is <orig>sayd</orig> to be increased by <choice><orig>garlicke</orig><reg>garlic</reg></choice><pc>-</pc>
+                        <lb/>by that which is beaten <choice><orig>backe</orig>; by the destruction of men iron: if a man <choice><orig>knowes</orig>
+                        <lb/>how to number well and distinguish the signs, <choice><orig>hee</orig></choice> will certainly find this key
+                        <lb/>in the <choice><orig>northerne</orig><reg>northern</reg></choice> hemisphere of the <choice><orig>Zodiacke</orig><reg>Zodiac</reg></choice>, and the string of the <choice><orig>barre</orig></choice> in
+                        <lb/>the <choice><orig>Southerne</orig><reg>Southern</reg></choice>: Which having <choice><orig>obtaind</orig>, it will be easy to open the <choice><orig>doore</orig></choice> and enter:
+                        <lb/>and in the very entrance <choice><orig>hee</orig></choice> will see Venus with her Paramour Adonis: for <choice><orig>shee</orig>
+                        <lb/><orig>hath</orig></choice> tinged the white roses of a purple <choice><orig>colour</orig></choice> with her blood: In the same place
+                        <lb/><orig>allso</orig></choice> a dragon is observed, as in the Hesperian gardens, which watched to <choice><orig>præ
+                        <lb break="no"/>serve</orig></choice> the roses: The scent of the roses is <choice><orig>sayd</orig></choice> to be increased by <choice><orig>garlicke</orig><reg>garlic</reg></choice><pc>-</pc>
                         <lb/>planted near, and that by reason of an <choice><orig>exceding</orig><reg>exceeding</reg></choice> degree of heat, which appears
-                        <lb/>in <choice><orig>garlicke</orig><reg>garlic</reg></choice>, in which respect it is a remedy against cold <orig>poysons</orig>: for Roses<pc>-</pc>
+                        <lb/>in <choice><orig>garlicke</orig><reg>garlic</reg></choice>, in which respect it is a remedy against cold <choice><orig>poysons</orig>: for Roses<pc>-</pc>
                         
                         
                         <pb n="88"/><fw>Discourse 27.</fw><!-- Page number of the actual manuscript, followed by the header on the page. -->
-                        <lb/>require the heat of the <orig>Sunne</orig> and earth, before they can <orig>attaine</orig> to <orig>colour</orig> and
-                        <lb/>scent most <orig>gratefull</orig> to the eyes and nose: Moreover the fume of <orig>coḿon</orig> Sulphur
+                        <lb/>require the heat of the <choice><orig>Sunne</orig></choice> and earth, before they can <choice><orig>attaine</orig></choice> to <choice><orig>colour</orig></choice> and
+                        <lb/>scent most <choice><orig>gratefull</orig></choice> to the eyes and nose: Moreover the fume of <choice><orig>coḿon</orig></choice> Sulphur
                         <lb/>makes red roses white, where it <choice><orig>toucheth</orig><reg>touches</reg></choice>, on the contrary the spirit of <choice><orig>Vitrioll</orig><reg>Vitriol</reg></choice>
-                        <lb/>or Aqua fortis restores them to a deep red <orig>colour</orig>, which <choice><orig>endureth</orig><reg>endures</reg></choice>: For <orig>coḿon</orig><pc>-</pc>
-                        <lb/>Sulphur is an enemy to the <orig>Philosophicall</orig> Sulphur, though it cannot destroy it,
-                        <lb/>but the Solutive water is <orig>freindly</orig>, and <orig>præserves</orig> its <orig>colour</orig>: The rose is conse
+                        <lb/>or Aqua fortis restores them to a deep red <choice><orig>colour</orig>, which <choice><orig>endureth</orig><reg>endures</reg></choice>: For <choice><orig>coḿon</orig><pc>-</pc>
+                        <lb/>Sulphur is an enemy to the <choice><orig>Philosophicall</orig></choice> Sulphur, though it cannot destroy it,
+                        <lb/>but the Solutive water is <choice><orig>freindly</orig>, and <choice><orig>præserves</orig></choice> its <choice><orig>colour</orig>: The rose is conse
                         <lb break="no"/>crated to Venus in regard of beauty, in which it <choice><orig>surpasseth</orig><reg>surpasses</reg></choice> all other flowers:<pc>-</pc>
-                        <lb/>for it is a Virgin, which nature <orig>hath</orig> armed, that it might not be violated with
-                        <lb break="no"/>out revenge and <choice><orig>punnishment</orig><reg>punishment</reg></choice>: Violets are <orig>voyd</orig> of weapons, and trodden under
-                        <lb/>foot; Roses being comprised within prickles have yellow <orig>haire</orig> inwardly; and
-                        <lb/>outwardly a green garment: <orig>Noe</orig> man can <choice><orig>plucke</orig><reg>pluck</reg></choice>, and separate them from<pc>-</pc>
-                        <lb/>the prickles but <orig>hee</orig> that is wife, if otherwise, <orig>hee</orig> will <orig>feele</orig> a sting in his<pc>-</pc>
-                        <lb/>fingers: <orig>Soe</orig> none but a most wary Philosopher will <choice><orig>plucke</orig><reg>pluck</reg></choice> the flowers, ex
-                        <lb break="no"/>cept <orig>hee</orig> would find bees and stings in the hives, and gull with honey. Many<pc>-</pc>
+                        <lb/>for it is a Virgin, which nature <choice><orig>hath</orig></choice> armed, that it might not be violated with
+                        <lb break="no"/>out revenge and <choice><orig>punnishment</orig><reg>punishment</reg></choice>: Violets are <choice><orig>voyd</orig></choice> of weapons, and trodden under
+                        <lb/>foot; Roses being comprised within prickles have yellow <choice><orig>haire</orig></choice> inwardly; and
+                        <lb/>outwardly a green garment: <choice><orig>Noe</orig></choice> man can <choice><orig>plucke</orig><reg>pluck</reg></choice>, and separate them from<pc>-</pc>
+                        <lb/>the prickles but <choice><orig>hee</orig></choice> that is wife, if otherwise, <choice><orig>hee</orig></choice> will <choice><orig>feele</orig></choice> a sting in his<pc>-</pc>
+                        <lb/>fingers: <choice><orig>Soe</orig></choice> none but a most wary Philosopher will <choice><orig>plucke</orig><reg>pluck</reg></choice> the flowers, ex
+                        <lb break="no"/>cept <choice><orig>hee</orig></choice> would find bees and stings in the hives, and gull with honey. Many<pc>-</pc>
                         <lb/>men have secretly and feloniously <choice><orig>entred</orig><reg>entered</reg></choice> into the Rosary, but reaped nothing<pc>-</pc>
-                        <lb/>from <orig>theme</orig> but misery; that is, lost their <orig>labour</orig>. Hereupon <orig>Sayth</orig> Bacusser in<pc>-</pc>
-                        <lb/>Turba; Our <orig>bookes</orig> <orig>seeme</orig> to be very injurious to those, who read our writings
-                        <lb/><orig>onely</orig> once, twice, or thrice, whereas being frustrated in their understanding and<pc>-</pc>
-                        <lb/>they have spend any in this art. And a little after, For when a man thinks <orig>hee</orig>
-                        <lb/><orig>hath</orig> done, <orig>hath</orig> the world, <orig>hee</orig> will find nothing his hands<pc>. . . . .</pc>    
+                        <lb/>from <choice><orig>theme</orig></choice> but misery; that is, lost their <choice><orig>labour</orig>. Hereupon <choice><orig>Sayth</orig></choice> Bacusser in<pc>-</pc>
+                        <lb/>Turba; Our <choice><orig>bookes</orig></choice> <choice><orig>seeme</orig></choice> to be very injurious to those, who read our writings
+                        <lb/><orig>onely</orig></choice> once, twice, or thrice, whereas being frustrated in their understanding and<pc>-</pc>
+                        <lb/>they have spend any in this art. And a little after, For when a man thinks <choice><orig>hee</orig>
+                        <lb/><orig>hath</orig></choice> done, <choice><orig>hath</orig></choice> the world, <choice><orig>hee</orig></choice> will find nothing his hands<pc>. . . . .</pc>    
                     </ab>   
                 </div>
                 
