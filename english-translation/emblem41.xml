@@ -25,22 +25,22 @@
                 
                 <div type="title" xml:lang="en">
                     <head>
-                        <lb/><orig>Embleme</orig></choice> 41. Of the Secrets of Nature.
-                        <lb/>Adonis is <choice><orig>killd</orig></choice> by a Boar, to <choice><orig>whome</orig></choice> Venus <choice><orig>hasting</orig><reg>having</reg></choice> tinged the
+                        <lb/><orig>Embleme</orig><reg>Emblem</reg></choice> 41. Of the Secrets of Nature.
+                        <lb/>Adonis is <choice><orig>killd</orig><reg>killed</reg></choice> by a Boar, to <choice><orig>whome</orig><reg>whom</reg></choice> Venus <choice><orig>hasting</orig><reg>having</reg></choice> tinged the
                         <lb/>Roses with her blood.
                     </head>
                 </div>
                 
                 
                 <div type="epigram" xml:lang="en">
-                    <head><orig>Epigramme</orig></choice> 4i.</head>
+                    <head><orig>Epigramme</orig><reg>Epigram</reg></choice> 4i.</head>
                     <lg>
                         <l>Myrrha, conspiring with her Sire, gave breath</l>
                         <l>To <choice><orig>th'</orig><reg>the</reg></choice> fair Adonis, <choice><orig>tushd</orig><reg>tushed</reg></choice> by a Boar to death:</l>
                         <l>Fond Venus <choice><orig>runns</orig>, with <choice><orig>thorne</orig><reg>thorn</reg></choice> in foot, which bled,</l>
                         <l>And therewith <choice><orig>tingd</orig><reg>tinged</reg></choice> the lilly Roses red;</l>
-                        <l>The <choice><orig>Goddesse</orig></choice> weeps, the Syrians can't <choice><orig>refraine</orig>,</l>
-                        <l><choice><orig>Hee's</orig><reg>He's</reg></choice> <choice><orig>layd</orig></choice> amongst the lettice being <choice><orig>Slayne</orig></l>
+                        <l>The <choice><orig>Goddesse</orig><reg>Goddess</reg></choice> weeps, the Syrians can't <choice><orig>refraine</orig>,</l>
+                        <l><choice><orig>Hee's</orig><reg>He's</reg></choice> <choice><orig>layd</orig><reg>laid</reg></choice> amongst the lettice being <choice><orig>Slayne</orig></l>
                     </lg>
                 </div>
                 
@@ -51,9 +51,9 @@
                     <ab><!--Our convention will be that if we have break = "no" then it means that the word is broken across the line with a dash--> 
                         <lb/>How improperly some of the Mythologists resolve the Allegory of<pc>-</pc><milestone unit="section" n="e03-01" /> <!-- Change the value of n to "e" plus the number of the emblem (in two digits), followed by a hyphen and then a two-digit count of sentence -->
                         <lb/>Adonis, and ascribe him sometimes to the <choice><orig>Sunne</orig>, the <choice><orig>Boare</orig><reg>Boar</reg></choice>, by which
-                        <lb/><orig>hee</orig></choice> was <choice><orig>slayne</orig>, to a hard winter, sometimes to the seed of wheat,<pc>-</pc>
-                        <lb/>which is six <choice><orig>moneths</orig></choice> with Proserpina under the earth, and as many
-                        <lb/>above the earth with Venus, is <choice><orig>elswhere</orig></choice> sufficiently explained and
+                        <lb/><orig>hee</orig><reg>he</reg></choice> was <choice><orig>slayne</orig>, to a hard winter, sometimes to the seed of wheat,<pc>-</pc>
+                        <lb/>which is six <choice><orig>moneths</orig><reg>months</reg></choice> with Proserpina under the earth, and as many
+                        <lb/>above the earth with Venus, is <choice><orig>elswhere</orig><reg>elsewhere</reg></choice> sufficiently explained and
                         <lb/>refuted by us. Here <choice><orig>wee</orig></choice> <choice><orig>doe</orig></choice> with the consent of all men declare the
                         <lb/><orig>Philosophicall</orig></choice> <choice><orig>Sunne</orig></choice> to be meant by Adonis: From whence the Versicle:
                         <quote rend="indent"><lg xml:lang="lat"><l>Omnia sunt idem, Dionysus, Sol, et Adonis:</l>
