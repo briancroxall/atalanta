@@ -36,15 +36,15 @@
       content: "]"
   }
   
-  choice {
+  .choice {
       color: #FFEBCD;
   }
   
-  choice:before {
+  .choice:before {
       content: "[";
   }
   
- choice:after {
+ .choice:after {
        content: "]" ;
    }
   
