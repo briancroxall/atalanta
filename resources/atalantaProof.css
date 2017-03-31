@@ -7,17 +7,25 @@
  * 
  */
  
+ body {
+     width: 75%;
+     margin-left: 100px;
+     line-height: 175%;
+     font-family: "Garamond", "Georgia", serif;
+ }
+ 
  .pageTitle {
      
  }
 
- .title {
-     
+ h3.title {
+    font-style: oblique;   
  }
  
-  .epigram {}
+  h3.epigram {
+  }
   
-  .discourse {}
+  h3.discourse {}
   
   .lg {}
   
@@ -29,24 +37,29 @@
   }
   
   .pb:before {
-      content: "[Page: ";
+      content: "––– Page: ";
   }
   
   .pb:after {
-      content: "]"
+      content: " –––"
+  }
+  
+  .milestone {
+      font-style: italic;
+      color: grey;
+  }
+  
+  .milestone:before {
+      content: " [§ ";
+  }
+  
+    .milestone:after {
+      content: "] ";
   }
   
   .choice {
-      color: #FFEBCD;
+      color: #8B4513;
   }
-  
-  .choice:before {
-      content: "[";
-  }
-  
- .choice:after {
-       content: "]" ;
-   }
   
   orig {
       
@@ -62,6 +75,22 @@
   
    .reg:before {
       content: " | ";
+  }
+  
+  .subst {
+      color: #8B4513;
+  }
+  
+  .del {
+      text-decoration: line-through;
+  }
+  
+  .add:before {
+      content: "<";
+  }
+  
+   .add:after {
+      content: ">";
   }
   
   .unclear {
@@ -96,4 +125,11 @@
       text-decoration: underline;
   }
   
+  .pc {
+      
+  }
   
+  .fw {
+      font-style: italic;
+      display: block;
+  }
