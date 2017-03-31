@@ -25,7 +25,7 @@
                 
                 <div type="title" xml:lang="en">
                     <head>
-                        <lb/><orig>Embleme</orig><reg>Emblem</reg></choice> 38. Of the Secrets of Nature.
+                        <lb/><choice><orig>Embleme</orig><reg>Emblem</reg></choice> 38. Of the Secrets of Nature.
                         <lb/>Rebis is, as Hermaphroditus, produced from the two moun
                         <lb break="no"/>tains of Mercury and Venus.
                     </head>
@@ -33,7 +33,7 @@
                 
                 
                 <div type="epigram" xml:lang="en">
-                    <head><orig>Epigramme</orig><reg>Epigram</reg></choice> 38.</head>
+                    <head><choice><orig>Epigramme</orig><reg>Epigram</reg></choice> 38.</head>
                     <lg>
                         <l>Rebis is by the Ancients calld a <choice><orig>Twinne</orig><reg>Twin</reg></choice>,</l>
                         <l>Containing male and female sex therein:</l>
@@ -82,7 +82,7 @@
                         <lb/>the <choice><orig>sayd</orig><reg>said</reg></choice> Mountains of Rebis, provided they can <choice><orig>learne</orig><reg>learn</reg></choice> where<pc>-</pc>
                         <lb/>they may be found: With how great study and care did Morienus<pc>-</pc>
                         <lb/>being departed from Rome <choice><orig>seeke</orig><reg>seek</reg></choice> and at length find Adferus Alexan
-                        <lb break="no"/>drinus, <choice><orig>hee</orig><reg>he</reg></choice> <choice><orig>himselfe</orig><reg>himself</reg></choice> declares in his <choice><orig>booke</orig>, and therefore was to be<pc>-</pc>
+                        <lb break="no"/>drinus, <choice><orig>hee</orig><reg>he</reg></choice> <choice><orig>himselfe</orig><reg>himself</reg></choice> declares in his <choice><orig>booke</orig><reg>book</reg></choice>, and therefore was to be<pc>-</pc>
                         <lb/>esteemed more happy, and acceptable to God, in that <choice><orig>hee</orig><reg>he</reg></choice> had from a<pc>-</pc>
                         <lb/>living teacher, and not from <choice><orig>dumbe</orig><reg>dumb</reg></choice> masters learnt, and beheld this
                         <lb/>thing, that is, the native place of Rebis; <choice><orig>noe</orig><reg>no</reg></choice> <choice><orig>lesse</orig><reg>less</reg></choice> assiduity and<pc>-</pc>
@@ -104,11 +104,11 @@
                         <lb/>from the first Meridian, which is next to the fortunate Islands; <choice><orig>soe</orig><pc>-</pc>
                         <lb/>that they are <choice><orig>uncertaine</orig><reg>uncertain</reg></choice> in what place they may be between west<pc>-</pc>
                         <lb/>and east: What therefore is here to be done? That which the same<pc>-</pc>
-                        <lb/>Mariners use to <choice><orig>doe</orig>, consult experience with reason, and thereby<pc>-</pc>
+                        <lb/>Mariners use to <choice><orig>doe</orig><reg>do</reg></choice>, consult experience with reason, and thereby<pc>-</pc>
                         <lb/><orig>learne</orig><reg>learn</reg></choice> how to determine a long voyage by particular signs, <choice><orig>promon
                         <lb break="no"/>toryes</orig><reg>promontories</reg></choice>, Islands, and other things, that they may not for want of consi
                         <lb break="no"/>deration fall upon Sands and rocks: But here is <choice><orig>lesse</orig><reg>less</reg></choice> danger, if the
-                        <lb/>thing prosper not, but if <choice><orig>soe</orig>, greater <choice><orig>gaine</orig>, than there, where goods<pc>-</pc>
+                        <lb/>thing prosper not, but if <choice><orig>soe</orig><reg>so</reg></choice>, greater <choice><orig>gaine</orig><reg>gain</reg></choice>, than there, where goods<pc>-</pc>
                         <lb/>and life are lost in an <choice><orig>houre</orig>: But the <choice><orig>mountaine</orig><reg>mountain</reg></choice> of the <choice><orig>Philoso
                         <lb break="no"/>phicall</orig><reg>Philosophical</reg></choice> Mercury is not Nonacris, nor Atlas, where sometimes it is reported
                         <lb/>to be brought forth, but Parnassus with two tops, in one of which<pc>-</pc>
@@ -126,8 +126,8 @@
                             </lg>
                         </quote>
                         <lb/>Wherefore it is <choice><orig>noe</orig><reg>no</reg></choice> strange thing, if <choice><orig>onely</orig><reg>only</reg></choice> one of <choice><orig>tenne</orig><reg>ten</reg></choice> thousand un
-                        <lb break="no"/>dertake these Herculean <choice><orig>labours</orig>, <choice><orig>soe</orig><reg>so</reg></choice> as to <choice><orig>sett</orig><reg>set</reg></choice> foot on the top of the
-                        <lb/><orig>mountaine</orig>, and enjoy the <choice><orig>immortall</orig><reg>immortal</reg></choice> reward of a <choice><orig>laurell</orig><reg>laurel</reg></choice> garland,
+                        <lb break="no"/>dertake these Herculean <choice><orig>labours</orig><reg>labors</reg></choice>, <choice><orig>soe</orig><reg>so</reg></choice> as to <choice><orig>sett</orig><reg>set</reg></choice> foot on the top of the
+                        <lb/><orig>mountaine</orig><reg>mountain</reg></choice>, and enjoy the <choice><orig>immortall</orig><reg>immortal</reg></choice> reward of a <choice><orig>laurell</orig><reg>laurel</reg></choice> garland,
                         <lb/>which that all those that are upright, docible, and addicted to vir
                         <lb break="no"/>tue and learning may receive with joy, but the <choice><orig>vaine</orig><reg>vain</reg></choice> and envi
                         <lb break="no"/>ous <choice><orig>depriv'd</orig><reg>deprived</reg></choice> thereof, is much to be desired<pc>. . . . . . .</pc>

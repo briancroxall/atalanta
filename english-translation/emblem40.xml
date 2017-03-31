@@ -25,14 +25,14 @@
                 
                 <div type="title" xml:lang="en">
                     <head>
-                        <lb/><orig>Embleme</orig><reg>Emblem</reg></choice> 40. Of the Secrets of Nature.
+                        <lb/><choice><orig>Embleme</orig><reg>Emblem</reg></choice> 40. Of the Secrets of Nature.
                         <lb/>Of two waters make one, and that will be the water of Sanctity.
                     </head>
                 </div>
                 
                 
                 <div type="epigram" xml:lang="en">
-                    <head><orig>Epigramme</orig><reg>Epigram</reg></choice> 40.</head>
+                    <head><choice><orig>Epigramme</orig><reg>Epigram</reg></choice> 40.</head>
                     <lg>
                         <l>Two streaming fountains here you may behold,</l>
                         <l>One with <choice><orig>hott</orig><reg>hot</reg></choice> water, but the other cold:</l>
@@ -54,7 +54,7 @@
                         <lb break="no"/>ters are celebrated with that name, because they <choice><orig>doe</orig><reg>do</reg></choice> as it were not <choice><orig>one
                         <lb break="no"/>ly</orig><reg>only</reg></choice> <choice><orig>æmulate</orig><reg>emulate</reg></choice>, but <choice><orig>allso</orig><reg>also</reg></choice> exceed the virtues and <choice><orig>propertyes</orig><reg>properties</reg></choice> of all the rest.<pc>-</pc>
                         <lb/>The rivers Sybaris, Axus of Macedonia, and Melas of <choice><orig>Bœotia</orig><reg>Boeotia</reg></choice> make<pc>-</pc>
-                        <lb/>Cattle <choice><orig>blacke</orig>, if they <choice><orig>drinke</orig><reg>drink</reg></choice> thereof; but the rivers Crathis, Clitummus
+                        <lb/>Cattle <choice><orig>blacke</orig><reg>black</reg></choice>, if they <choice><orig>drinke</orig><reg>drink</reg></choice> thereof; but the rivers Crathis, Clitummus
                         <lb/>of Mevania, and Cephisus make <choice><orig>blacke</orig><reg>black</reg></choice> Cattle white. The waters of<pc>-</pc>
                         <lb/>Sinnessa in the country of Campania takes away <choice><orig>barrennesse</orig><reg>barrenness</reg></choice> from<pc>-</pc>
                         <lb/>both sexes. The river Afrodisius makes women barren: Cabura a <choice><orig>foun
@@ -71,7 +71,7 @@
                         <lb break="no"/>cond liquor is hardened, fixed, and congealed by the first: from both<pc>-</pc>
                         <lb/>which liquors results one stone congealed, fixed, and hardened, which
                         <lb/><orig>hath</orig><reg>has</reg></choice> the virtue of congealing not a thing congealed, to harden a thing
-                        <lb/><orig>mollifyed</orig>, and to mollify a hard thing: From which it is evident,<pc>-</pc>
+                        <lb/><orig>mollifyed</orig><reg>mollified</reg></choice>, and to mollify a hard thing: From which it is evident,<pc>-</pc>
                         <lb/>what those two waters are, and why to be reduced into one water:<pc>-</pc>
                         <lb/>For the Stone is called water, because fusible, and on the contrary,
                         <lb/>water stone, because frangible: But these waters are <choice><orig>drawne</orig><reg>drawn</reg></choice> out of<pc>-</pc>
@@ -82,14 +82,14 @@
                         <lb/>they will acquire <choice><orig>mixd</orig><reg>mixed</reg></choice> virtues, and after a <choice><orig>wonderfull</orig><reg>wonderful</reg></choice> manner re
                         <lb break="no"/>gulate one the other: From hence are most excellent <choice><orig>medicinall</orig><reg>medicinal</reg></choice> and
                         <lb/>bath waters to be produced, which will profligate all sorts of diseases<pc>-</pc>
-                        <lb/>and <choice><orig>maladyes</orig>, and restore a man to <choice><orig>firme</orig><reg>firm</reg></choice> health. Nature <choice><orig>doth</orig><reg>does</reg></choice> in
+                        <lb/>and <choice><orig>maladyes</orig><reg>maladies</reg></choice>, and restore a man to <choice><orig>firme</orig><reg>firm</reg></choice> health. Nature <choice><orig>doth</orig><reg>does</reg></choice> in
                         <lb break="no"/>deed by her occult artifice of composition confound and mix many<pc>-</pc>
-                        <lb/>waters in the <choice><orig>bowells</orig><reg>bowels</reg></choice> of the earth with <choice><orig>severall</orig><reg>several</reg></choice> virtues of <choice><orig>Mynes</orig>, which
+                        <lb/>waters in the <choice><orig>bowells</orig><reg>bowels</reg></choice> of the earth with <choice><orig>severall</orig><reg>several</reg></choice> virtues of <choice><orig>Mynes</orig><reg>Mines</reg></choice>, which
                         <lb/>are wholesome and <choice><orig>coḿodious</orig><reg>commodious</reg></choice> to many <choice><orig>sicke</orig><reg>sick</reg></choice> and <choice><orig>infirme</orig><reg>infirm</reg></choice> persons, but
                         <lb/>if art be added with due regiment, all evacuations being <choice><orig>præmises</orig><reg>premises</reg></choice> and
                         <lb/>other things to be <choice><orig>prætermitted</orig><reg>pretermitted</reg></choice>, and mix those things that are to be<pc>-</pc>
                         <lb/>mixed together, that composition will be <choice><orig>farre</orig><reg>far</reg></choice> more <choice><orig>effectuall</orig>:<pc>-</pc>
-                        <lb/>Which, though it seem <choice><orig>artificiall</orig>, is notwithstanding merely <choice><orig>naturall</orig>,
+                        <lb/>Which, though it seem <choice><orig>artificiall</orig><reg>artificial</reg></choice>, is notwithstanding merely <choice><orig>naturall</orig><reg>natural</reg></choice>,
                         <lb/>because of things different it is made one simple homogeneous matter,
                         
                         
@@ -111,9 +111,9 @@
                         <lb/>fourth <choice><orig>qualityes</orig>? Probable it is that all the <choice><orig>qualityes</orig><reg>qualities</reg></choice> are yet <choice><orig>inhærent</orig><reg>inherent</reg></choice>
                         <lb/>in their <choice><orig>owne</orig><reg>own</reg></choice> subjects, and not compounded together by a true <choice><orig>natu
                         <lb break="no"/>rall</orig><reg>natural</reg></choice> mixtion; otherwise, if the <choice><orig>qualityes</orig><reg>qualities</reg></choice> should relinquish their <choice><orig>bo
-                        <lb/>dyes</orig>, there would be four Quintessences in every <seg rend="superscript">2</seg> composition <seg rend="superscript">1</seg> <choice><orig>arti
-                        <lb break="no"/>ficiall</orig>, according to the number of the order of the <choice><orig>qualityes</orig>, first,<pc>-</pc>
-                        <lb/>second Ct. without their <choice><orig>bodyes</orig>, and separable; which they say
+                        <lb/>dyes</orig><reg>bodies</reg></choice>, there would be four Quintessences in every <seg rend="superscript">2</seg> composition <seg rend="superscript">1</seg> <choice><orig>arti
+                        <lb break="no"/>ficiall</orig><reg>artificial</reg></choice>, according to the number of the order of the <choice><orig>qualityes</orig><reg>qualities</reg></choice>, first,<pc>-</pc>
+                        <lb/>second Ct. without their <choice><orig>bodyes</orig><reg>bodies</reg></choice>, and separable; which they say
                         <lb/>is not <choice><orig>soe</orig><reg>so</reg></choice> with the coagulum of a hare, which being in flux<pc>-</pc>
                         <lb/>by the tenuity of the blood stops and as it were coagulates it,<pc>-</pc>
                         <lb/>but in the coagulation and concretion <choice><orig>cutts</orig><reg>cuts</reg></choice> and resolves the same;

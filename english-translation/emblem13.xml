@@ -25,7 +25,7 @@
                 
                 <div type="title" xml:lang="en">
                     <head>
-                        <lb/><orig>Embleme</orig><reg>Emblem</reg></choice> 13. Of the Secrets of Nature.
+                        <lb/><choice><orig>Embleme</orig><reg>Emblem</reg></choice> 13. Of the Secrets of Nature.
                         <lb/>The Philosophers <choice><orig>brasse</orig><reg>brass</reg></choice> is <choice><orig>hydropicall</orig><reg>hydropical</reg></choice>, and desires to be seven
                         <lb/>times <choice><orig>washd</orig><reg>washed</reg></choice> in a river, as Naaman the leper in jordan.
                     </head>
@@ -33,14 +33,14 @@
                 
                 
                 <div type="epigram" xml:lang="en">
-                    <head><orig>Epigramme</orig><reg>Epigram</reg></choice> 13.</head>
+                    <head><choice><orig>Epigramme</orig><reg>Epigram</reg></choice> 13.</head>
                     <lg>
                         <l>Humors <choice><orig>Hydropicall</orig><reg>Hydropical</reg></choice> the Sophian <choice><orig>brasse</orig></l>
                         <l>Infesting, has <choice><orig>noe</orig><reg>no</reg></choice> cure but one alas:</l>
                         <l>Naaman the leper did <choice><orig>himselfe</orig><reg>himself</reg></choice> restore,</l>
                         <l>Bathing his limbs in Jordan <choice><orig>o're</orig><reg>over</reg></choice> and <choice><orig>o're</orig><reg>over</reg></choice>;</l>
                         <l><orig>Soe</orig><reg>So</reg></choice> if your <choice><orig>brasse</orig><reg>brass</reg></choice> be <choice><orig>washd</orig><reg>washed</reg></choice> in water pure,</l>
-                        <l>Its <choice><orig>præsent</orig>, Hydropsy will not endure.</l>
+                        <l>Its <choice><orig>præsent</orig><reg>present</reg></choice>, Hydropsy will not endure.</l>
                     </lg>
                 </div>
                 
@@ -59,7 +59,7 @@
                         <lb/>manner that the Philosophers <choice><orig>brasse</orig><reg>brass</reg></choice> diseased with an Hydropsy, Should be
                         <lb/>freed from it by the washings of water, yea that being imperfect it Should be
                         <lb/>reduced to perfection, and being <choice><orig>sicke</orig><reg>sick</reg></choice> to health, <choice><orig>soe</orig><reg>so</reg></choice> as to be able to <choice><orig>coḿunicate</orig><reg>communicate</reg></choice>
-                        <lb/>the same to other <choice><orig>sicke</orig><reg>sick</reg></choice> <choice><orig>bodyes</orig>, is next to a miracle: For such an example is
+                        <lb/>the same to other <choice><orig>sicke</orig><reg>sick</reg></choice> <choice><orig>bodyes</orig><reg>bodies</reg></choice>, is next to a miracle: For such an example is
                         <lb/>not <choice><orig>elswhere</orig><reg>elsewhere</reg></choice> extant in nature, nor is it the ordinary way of nature to pro
                         <lb break="no"/>duce the Philosophers most absolute tincture, <choice><orig>unlesse</orig><reg>unless</reg></choice> it be governed by art,<pc>-</pc>
                         <lb/>and <choice><orig>fitt</orig><reg>fit</reg></choice> subjects <choice><orig>administred</orig><reg>administered</reg></choice> to it with the <choice><orig>externall</orig><reg>external</reg></choice> efficient. <choice><orig>Soe</orig><reg>So</reg></choice> the resti
@@ -70,12 +70,12 @@
                         <lb/>should be perfected, may <choice><orig>seeme</orig><reg>seem</reg></choice> to be a thing <choice><orig>supernaturall</orig><reg>supernatural</reg></choice>, though really
                         <lb/>it is <choice><orig>naturall</orig>: Wherefore <choice><orig>sayth</orig><reg>says</reg></choice> a Philosopher in the Rosary, You must know<pc>-</pc>
                         <lb/>that our stone is airy and volatile, externally cold and moist, internally<pc>-</pc>
-                        <lb/><orig>hott</orig><reg>hot</reg></choice> and dry: and that <choice><orig>coldnesse</orig><reg>coldness</reg></choice> and moisture which is <choice><orig>externall</orig>, is a <choice><orig>watry</orig><reg>watery</reg></choice>
+                        <lb/><orig>hott</orig><reg>hot</reg></choice> and dry: and that <choice><orig>coldnesse</orig><reg>coldness</reg></choice> and moisture which is <choice><orig>externall</orig><reg>external</reg></choice>, is a <choice><orig>watry</orig><reg>watery</reg></choice>
                         <lb/>fume, corrupting, blacking, and destroying <choice><orig>itselfe</orig><reg>itself</reg></choice> and all things, and <choice><orig>flyes</orig><reg>flies</reg></choice>
-                        <lb/>from fire: and that heat and siccity which is <choice><orig>internall</orig>, is gold <choice><orig>hott</orig><reg>hot</reg></choice> and dry,
-                        <lb/>and is a most pure <choice><orig>oyle</orig>, penetrating <choice><orig>bodyes</orig>, and is not fugitive, because the
+                        <lb/>from fire: and that heat and siccity which is <choice><orig>internall</orig><reg>internal</reg></choice>, is gold <choice><orig>hott</orig><reg>hot</reg></choice> and dry,
+                        <lb/>and is a most pure <choice><orig>oyle</orig><reg>oil</reg></choice>, penetrating <choice><orig>bodyes</orig><reg>bodies</reg></choice>, and is not fugitive, because the
                         <lb/>heat and siccity of <choice><orig>Alchymy</orig><reg>Alchemy</reg></choice> <choice><orig>tingeth</orig><reg>tinges</reg></choice>, and nothing <choice><orig>els</orig>: Cause therefore the
-                        <lb/><orig>externall</orig>, <choice><orig>coldnesse</orig><reg>coldness</reg></choice> and <choice><orig>watry</orig><reg>watery</reg></choice> moisture, to be like to the <choice><orig>internall</orig><reg>internal</reg></choice> heat and
+                        <lb/><orig>externall</orig><reg>external</reg></choice>, <choice><orig>coldnesse</orig><reg>coldness</reg></choice> and <choice><orig>watry</orig><reg>watery</reg></choice> moisture, to be like to the <choice><orig>internall</orig><reg>internal</reg></choice> heat and
                         <lb/>siccity, <choice><orig>soe</orig><reg>so</reg></choice> that they may agree and be united together, and all at once be
                         <lb break="no"/>made one penetrating, tinging, and fixing body: but these moistures must be
                         <lb/><choice><orig>destroyd</orig><reg>destroyed</reg></choice> by fire, and degrees of fire with soft temperament, and a congruous
@@ -84,7 +84,7 @@
                         <lb/><orig>hott</orig><reg>hot</reg></choice> and dry in quality, such as are many baths, in which it must be Phi
                         <lb break="no"/>losophically washed: For this is that which they say, wash with fire, and<pc>-</pc>
                         <lb/><orig>burne</orig><reg>burn</reg></choice> with water; for that fire, which <choice><orig>washeth</orig><reg>washes</reg></choice>, and that water, which <choice><orig>bur
-                        <lb break="no"/>neth</orig><reg>burns</reg></choice>, differ one from the other in name <choice><orig>onely</orig>, but agree in effect and ope
+                        <lb break="no"/>neth</orig><reg>burns</reg></choice>, differ one from the other in name <choice><orig>onely</orig><reg>only</reg></choice>, but agree in effect and ope
                         <lb break="no"/>ration: That <choice><orig>brasse</orig><reg>brass</reg></choice> therefore must be <choice><orig>washd</orig><reg>washed</reg></choice>, that is, <choice><orig>dryed</orig><reg>dried</reg></choice> from its super
                         <lb break="no"/>fluous moistures by this water, or this fire: Wee have <choice><orig>knowne</orig><reg>known</reg></choice> experiments<pc>-</pc>
                         <lb/>of <choice><orig>Hydropicall</orig><reg>Hydropical</reg></choice> <choice><orig>bodyes</orig><reg>bodies</reg></choice> cured by six <choice><orig>moneths</orig><reg>months</reg></choice> absence from any <choice><orig>drinke</orig><reg>drink</reg></choice>,<pc>-</pc>
@@ -99,20 +99,20 @@
                         <lb/>and by abstaining from <choice><orig>drinke</orig>: for these are most <choice><orig>effectuall</orig><reg>effectual</reg></choice> <choice><orig>remedyes</orig><reg>remedies</reg></choice> in both
                         <lb/>cases, here and there to be used: but in all these things heat is the operator,<pc>-</pc>
                         <lb/>which <choice><orig>drawes</orig><reg>draws</reg></choice> forth and consumes the superfluous water by the <choice><orig>Emunctoryes</orig><reg>Emunctories</reg></choice>
-                        <lb/>or <choice><orig>allso</orig><reg>also</reg></choice> pores of the body: For <choice><orig>externall</orig><reg>external</reg></choice> heat quickens the <choice><orig>internall</orig>, that is,
+                        <lb/>or <choice><orig>allso</orig><reg>also</reg></choice> pores of the body: For <choice><orig>externall</orig><reg>external</reg></choice> heat quickens the <choice><orig>internall</orig><reg>internal</reg></choice>, that is,
                         <lb/>the <choice><orig>vitall</orig><reg>vital</reg></choice> Spirits, to <choice><orig>expell</orig><reg>expel</reg></choice> that moisture which is noxious to it, as an unpro
                         <lb break="no"/>fitable excrement, by which the <choice><orig>naturall</orig><reg>natural</reg></choice> heat was before <choice><orig>suppressd</orig><reg>suppressed</reg></choice> as by<pc>-</pc>
-                        <lb/>an enemy: In this cure there is need of great diligence and <choice><orig>præcaution</orig>,<pc>-</pc>
+                        <lb/>an enemy: In this cure there is need of great diligence and <choice><orig>præcaution</orig><reg>precaution</reg></choice>,<pc>-</pc>
                         <lb/>lest whilst one <choice><orig>bowell</orig><reg>bowel</reg></choice> is <choice><orig>helpd</orig><reg>helped</reg></choice>, another be hurt: In a Quartan (the <choice><orig>Plato
                         <lb break="no"/>micke</orig><reg>Platonic</reg></choice> probation of a Physician) <choice><orig>wee</orig><reg>we</reg></choice> find, that <choice><orig>thicke</orig><reg>thick</reg></choice> and viscous humors,
                         <lb/>like the <choice><orig>gumme</orig><reg>gum</reg></choice> or <choice><orig>glew</orig><reg>glue</reg></choice> of trees, being gathered together from all the veins<pc>-</pc>
                         <lb/>and <choice><orig>masse</orig><reg>mass</reg></choice> of blood, <choice><orig>doe</orig><reg>do</reg></choice> descend through the hollow or great veins even to the
-                        <lb/><choice><orig>bottome</orig><reg>bottom</reg></choice> of the <choice><orig>backe</orig>, where obstructing the emulgent veins, which draw
+                        <lb/><choice><orig>bottome</orig><reg>bottom</reg></choice> of the <choice><orig>backe</orig><reg>back</reg></choice>, where obstructing the emulgent veins, which draw
                         <lb/>the serous humor out of the blood, or the passages of them, they are <choice><orig>lesse</orig><pc>-</pc>
                         <lb/>able to operate, and more serous liquor <choice><orig>remaines</orig><reg>remains</reg></choice> in the body, and <choice><orig>soe</orig><reg>so</reg></choice> in
                         <lb/>a short time, if care be not taken, a Dropsy may happen, the other <choice><orig>bowells</orig>
                         <lb/>being <choice><orig>allso</orig><reg>also</reg></choice> untainted at first: <choice><orig>Diureticks</orig><reg>Diuretics</reg></choice> <choice><orig>doe</orig><reg>do</reg></choice> here little or <choice><orig>noe</orig><reg>no</reg></choice> good, purgatives
-                        <lb/>yet <choice><orig>lesse</orig>, <choice><orig>unlesse</orig><reg>unless</reg></choice> diminution and eduction be made in some <choice><orig>certaine</orig><reg>certain</reg></choice> series of<pc>-</pc>
+                        <lb/>yet <choice><orig>lesse</orig><reg>less</reg></choice>, <choice><orig>unlesse</orig><reg>unless</reg></choice> diminution and eduction be made in some <choice><orig>certaine</orig><reg>certain</reg></choice> series of<pc>-</pc>
                         <lb/>time: <choice><orig>Sudorificks</orig><reg>Sudorifics</reg></choice> are <choice><orig>allso</orig><reg>also</reg></choice> manifestly <choice><orig>hurtfull</orig><reg>hurtful</reg></choice>, because they draw out the more<pc>-</pc>
                         <lb/><choice><orig>subtill</orig><reg>subtle</reg></choice> parts, leaving the thicker, and being continued debilitate the body: for<pc>-</pc>
                         <lb/>the <choice><orig>custome</orig><reg>custom</reg></choice> of nature is to find that way to evacuate <choice><orig>serosityes</orig><reg>serosities</reg></choice> through the pores
@@ -123,7 +123,7 @@
                         <lb/><orig>brasse</orig><reg>brass</reg></choice> the cure is not impossible, the distemper being rather by accident,<pc>-</pc>
                         <lb/>and secundary, than <choice><orig>essentiall</orig><reg>essential</reg></choice> or primary, provided it be cautiously be
                         <lb break="no"/>gun, as <choice><orig>wee</orig><reg>we</reg></choice> have <choice><orig>sayd</orig><reg>said</reg></choice> concerning the plenty of serum in a Quartan, to<pc>-</pc>
-                        <lb/><orig>witt</orig>, that it may not by overmuch exiccation fall into a consumption, or
+                        <lb/><orig>witt</orig><reg>wit</reg></choice>, that it may not by overmuch exiccation fall into a consumption, or
                         <lb/>by humectation into a Dropsy difficult to be cured<pc>. . . . . .</pc>
                     </ab>   
                 </div>

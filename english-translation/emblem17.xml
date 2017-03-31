@@ -25,14 +25,14 @@
                 
                 <div type="title" xml:lang="en">
                     <head>
-                        <lb/><orig>Embleme</orig><reg>Emblem</reg></choice> 17. Of the Secrets of Nature.
+                        <lb/><choice><orig>Embleme</orig><reg>Emblem</reg></choice> 17. Of the Secrets of Nature.
                         <lb/>Tower <choice><orig>orbes</orig><reg>orbs</reg></choice> <choice><orig>governe</orig><reg>govern</reg></choice> this <choice><orig>worke</orig><reg>work</reg></choice> of fire.
                     </head>
                 </div>
                 
                 
                 <div type="epigram" xml:lang="en">
-                    <head><orig>Epigramme</orig><reg>Epigram</reg></choice> 17.</head>
+                    <head><choice><orig>Epigramme</orig><reg>Epigram</reg></choice> 17.</head>
                     <lg>
                         <l>Consult with Nature, and four <choice><orig>orbes</orig><reg>orbs</reg></choice> acquire,</l>
                         <l>Excited with a soft <choice><orig>internall</orig><reg>internal</reg></choice> fire:</l>
@@ -49,7 +49,7 @@
                     <head>Discourse 17.</head>
                     <ab><!--Our convention will be that if we have break = "no" then it means that the word is broken across the line with a dash--> 
                         <lb/>The Philosophers have in many places made mention of four sorts of fire<milestone unit="section" n="e03-01" /> <!-- Change the value of n to "e" plus the number of the emblem (in two digits), followed by a hyphen and then a two-digit count of sentence -->
-                        <lb/>necessary to the <choice><orig>naturall</orig><reg>natural</reg></choice> <choice><orig>worke</orig>, namely Lully, the Author of Scala, Ripley,
+                        <lb/>necessary to the <choice><orig>naturall</orig><reg>natural</reg></choice> <choice><orig>worke</orig><reg>work</reg></choice>, namely Lully, the Author of Scala, Ripley,
                         <lb/>and many others: and to this end Raymund speaking of fires (<orig>Sayth</orig><reg>Says</reg></choice> Scala).
                         <lb/>You must note, that here are contrary operations: because as the fire<pc>-</pc>
                         <lb/>against nature dissolves the Spirit of a fixed body into the water of a<pc>-</pc>
@@ -58,15 +58,15 @@
                         <lb/>body into a globous earth, and resolves the fixed body of a volatile<pc>-</pc>
                         <lb/>Spirit by fire against nature, not into the water of a cloud, but into <choice><orig>Phi
                         <lb break="no"/>losophicall</orig><reg>Philosophical</reg></choice> water. Ripley speaks more clearly of these fires in gate 3. thus:
-                        <lb/>There are four sorts of fires, which you ought to know, the <choice><orig>naturall</orig>, u<orig>nna
-                        <lb break="no"/>turall</orig>, fire against nature, and <choice><orig>elementall</orig>, which <choice><orig>kindleth</orig><reg>kindles</reg></choice> wood: These
+                        <lb/>There are four sorts of fires, which you ought to know, the <choice><orig>naturall</orig><reg>natural</reg></choice>, <choice><orig>unna
+                        <lb break="no"/>turall</orig><reg>unnatural</reg></choice>, fire against nature, and <choice><orig>elementall</orig><reg>elemental</reg></choice>, which <choice><orig>kindleth</orig><reg>kindles</reg></choice> wood: These
                         <lb/>fires <choice><orig>wee</orig><reg>we</reg></choice> use, and <choice><orig>noe</orig><reg>no</reg></choice> more. Fire against nature ought to excruciate<pc>-</pc>
-                        <lb/><orig>bodyes</orig>, that is the dragon, as I tell you, violently burning, as the fire of hell.
+                        <lb/><orig>bodyes</orig><reg>bodies</reg></choice>, that is the dragon, as I tell you, violently burning, as the fire of hell.
                         <lb/>The fire of nature is the third menstruum, that fire is naturally in every
-                        <lb/>thing: Occasioned fire <choice><orig>wee</orig><reg>we</reg></choice> call <choice><orig>unnaturall</orig>, as the heat of ashes and baths
+                        <lb/>thing: Occasioned fire <choice><orig>wee</orig><reg>we</reg></choice> call <choice><orig>unnaturall</orig><reg>unnatural</reg></choice>, as the heat of ashes and baths
                         <lb/>to putrefy: Without these fires you can bring nothing to putrefaction, where
                         <lb break="no"/>by your matter may be separated, that it may at once be proportioned<pc>-</pc>
-                        <lb/>for a new conjunction: Make therefore a fire within in your <choice><orig>glasse</orig>, which
+                        <lb/>for a new conjunction: Make therefore a fire within in your <choice><orig>glasse</orig><reg>glass</reg></choice>, which
                         <lb/>can <choice><orig>burne</orig><reg>burn</reg></choice> <choice><orig>bodyes</orig><reg>bodies</reg></choice> more effectually, than <choice><orig>elementall</orig><reg>elemental</reg></choice> fire: these are their
                         <lb/>sayings. They are indeed called fires, because they have a fiery virtue,<pc>-</pc>
                         <lb/>the <choice><orig>naturall</orig><reg>natural</reg></choice> in coagulating, the <choice><orig>unnaturall</orig><reg>unnatural</reg></choice> in dissolving, the fire against
@@ -94,13 +94,13 @@
                         
                         
                         <pb n="58"/><fw>Discourse 17.</fw><!-- Page number of the actual manuscript, followed by the header on the page. -->
-                        <lb/>Menstruums, the vegetable, and <choice><orig>minerall</orig>, Ripley in his <choice><orig>Præface</orig><reg>Preface</reg></choice> of the gates <choice><orig>hath</orig>
+                        <lb/>Menstruums, the vegetable, and <choice><orig>minerall</orig><reg>mineral</reg></choice>, Ripley in his <choice><orig>Præface</orig><reg>Preface</reg></choice> of the gates <choice><orig>hath</orig>
                         <lb/>three, which are really one and <choice><orig>doe</orig><reg>do</reg></choice> agree: for the generation of the infant
-                        <lb/>is made of them <choice><orig>alltogether</orig>, and a while water <choice><orig>præceeds</orig><reg>preceeds</reg></choice> the birth of it, which
+                        <lb/>is made of them <choice><orig>alltogether</orig><reg>altogether</reg></choice>, and a while water <choice><orig>præceeds</orig><reg>preceeds</reg></choice> the birth of it, which
                         <lb/>is not of the substance but superfluity of the infant, and therefore to be<pc>-</pc>
                         <lb/>separated: They are waters, because in fire they <choice><orig>Shew</orig><reg>Show</reg></choice> a <choice><orig>watry</orig><reg>watery</reg></choice> nature, that
                         <lb/>is, flowing and liquidity, which agrees with water: Manifest it is that the<pc>-</pc>
-                        <lb/><choice><orig>propertyes</orig><reg>properties</reg></choice> of waters are different and <choice><orig>wonderfull</orig>, whereof some <choice><orig>doe</orig><reg>do</reg></choice> <choice><orig>petrefy</orig><reg>petrify</reg></choice>, be
+                        <lb/><choice><orig>propertyes</orig><reg>properties</reg></choice> of waters are different and <choice><orig>wonderfull</orig><reg>wonderful</reg></choice>, whereof some <choice><orig>doe</orig><reg>do</reg></choice> <choice><orig>petrefy</orig><reg>petrify</reg></choice>, be
                         <lb break="no"/>ing coagulated into very hard stones <choice><orig>fitt</orig><reg>fit</reg></choice> for building: Very like these are the<pc>-</pc>
                         <lb/>Philosophers <choice><orig>minerall</orig><reg>mineral</reg></choice> waters, which <choice><orig>doe</orig><reg>do</reg></choice> condense, and <choice><orig>turne</orig><reg>turn</reg></choice> into a stony con
                         <lb break="no"/>sistence: They are <choice><orig>allso</orig><reg>also</reg></choice> called Sulphurs because of the virtue of Sulphur,<pc>-</pc>
@@ -121,7 +121,7 @@
                         <lb/>Cambar is the Magnesia, but Argent vive or Auripigment is that Sulphur
                         <lb/>which ascends from a <choice><orig>mixd</orig><reg>mixed</reg></choice> compound: But I will <choice><orig>omitt</orig><reg>omit</reg></choice> the inference of
                         <lb/>more <choice><orig>testimonyes</orig><reg>testimonies</reg></choice>, they being infinite and obvious to every man: These <choice><orig>foure</orig><reg>four</reg></choice>
-                        <lb/>fires are included as it were in Spheres and <choice><orig>orbes</orig>, that is, every one <choice><orig>hath</orig><reg>has</reg></choice> a
+                        <lb/>fires are included as it were in Spheres and <choice><orig>orbes</orig><reg>orbs</reg></choice>, that is, every one <choice><orig>hath</orig><reg>has</reg></choice> a
                         <lb/>particular center, from which or to which their motion tends, but <choice><orig>neverthelesse</orig>
                         <lb/>they are kept <choice><orig>soe</orig><reg>so</reg></choice> bound together partly by nature, partly by art, that one
                         <lb/>can operate little or nothing without another, yea the action of one is the

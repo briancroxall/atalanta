@@ -25,7 +25,7 @@
                 
                 <div type="title" xml:lang="en">
                     <head>
-                        <lb/><orig>Embleme</orig><reg>Emblem</reg></choice> 8. Of the Secrets of Nature.
+                        <lb/><choice><orig>Embleme</orig><reg>Emblem</reg></choice> 8. Of the Secrets of Nature.
                         <lb/>Take an <choice><orig>egge</orig><reg>egg</reg></choice> and smite it with a fiery sword.
                         
                     </head>
@@ -33,7 +33,7 @@
                 
                 
                 <div type="epigram" xml:lang="en">
-                    <head><orig>Epigramme</orig><reg>Epigram</reg></choice> 8.</head>
+                    <head><choice><orig>Epigramme</orig><reg>Epigram</reg></choice> 8.</head>
                     <lg>
                         <l>Rest not till you have found that <choice><orig>egge</orig><reg>egg</reg></choice> <choice><orig>soe</orig><reg>so</reg></choice> rare,</l>
                         <l>Descended from the <choice><orig>loftyest</orig><reg>loftiest</reg></choice> bird <choice><orig>oth'</orig><reg>of the</reg></choice> <choice><orig>aire</orig>:</l>
@@ -53,14 +53,14 @@
                         <lb/>are they <choice><orig>unknowne</orig><reg>unknown</reg></choice> to us by names: Story tells us of a very great bird appearing at a<pc>-</pc>
                         <lb/><orig>certaine</orig><reg>certain</reg></choice> time of the year in a small Isle of the Sea called Ruc, because it can lift
                         <lb/>up an Elephant with it into the <choice><orig>aire</orig>. India and America <choice><orig>doe</orig><reg>do</reg></choice> <choice><orig>yeild</orig><reg>yield</reg></choice> <choice><orig>Parrotts</orig><reg>Parrots</reg></choice> of va
-                        <lb break="no"/>rious <choice><orig>colour</orig>, Crows, and the like: but it is not the <choice><orig>Philosophicall</orig><reg>Philosophical</reg></choice> intention to in
+                        <lb break="no"/>rious <choice><orig>colour</orig><reg>color</reg></choice>, Crows, and the like: but it is not the <choice><orig>Philosophicall</orig><reg>Philosophical</reg></choice> intention to in
                         <lb break="no"/>quire after the eggs of these birds: The <choice><orig>Ægyptians</orig><reg>Egyptians</reg></choice> <choice><orig>doe</orig><reg>do</reg></choice> yearly infest, and as it<pc>-</pc>
                         <lb/>were with a <choice><orig>publicke</orig><reg>public</reg></choice> <choice><orig>warre</orig><reg>war</reg></choice> denounced prosecute the Eggs of Crocodiles with<pc>-</pc>
                         <lb/>weapons of iron; the Philosophers <choice><orig>doe</orig><reg>do</reg></choice> <choice><orig>burne</orig><reg>burn</reg></choice> their <choice><orig>egge</orig><reg>egg</reg></choice> with fire, not to mortify<pc>-</pc>
                         <lb/>and destroy it, but that it may receive life and growth; for when a chicken is<pc>-</pc>
                         <lb/>from <choice><orig>theme</orig><reg>them</reg></choice> produced animated and living, it cannot be <choice><orig>sayd</orig><reg>said</reg></choice> to be the corruption
                         <lb/>but generation of it: it <choice><orig>ceaseth</orig><reg>ceases</reg></choice> indeed to be an <choice><orig>egge</orig><reg>egg</reg></choice> by the privation of the <choice><orig>ovall</orig><reg>oval</reg></choice>
-                        <lb/><orig>forme</orig>, and begins to be an <choice><orig>animall</orig><reg>animal</reg></choice> with two feet and volatile by the introduction
+                        <lb/><orig>forme</orig><reg>form</reg></choice>, and begins to be an <choice><orig>animall</orig><reg>animal</reg></choice> with two feet and volatile by the introduction
                         <lb/>of a more noble <choice><orig>forme</orig>: In an <choice><orig>egge</orig><reg>egg</reg></choice> are the seeds of both male and female<pc>-</pc>
                         <lb/><orig>joyned</orig><reg>joined</reg></choice> together under one cover or shell: The <choice><orig>yolke</orig><reg>yolk</reg></choice> constitutes the chicken,<pc>-</pc>
                         <lb/>and the <choice><orig>radicall</orig><reg>radical</reg></choice> parts and <choice><orig>bowells</orig><reg>bowels</reg></choice> thereof, the seed of the male being the<pc>-</pc>
@@ -68,9 +68,9 @@
                         <lb break="no"/>ment to the rudiment as it were to the warp of the chicken: <choice><orig>Externall</orig><reg>External</reg></choice> heat
                         <lb/>is the first mover, which <choice><orig>doth</orig><reg>does</reg></choice> by a <choice><orig>certaine</orig><reg>certain</reg></choice> circulation of the Elements, toge
                         <lb break="no"/>ther with instinct and guidance of nature introduce a new <choice><orig>forme</orig><reg>form</reg></choice> by<pc>-</pc>
-                        <lb/>changing one thing into another: for water turnes into <choice><orig>aire</orig>, <choice><orig>aire</orig><reg>air</reg></choice> into fire, and
+                        <lb/>changing one thing into another: for water turnes into <choice><orig>aire</orig><reg>air</reg></choice>, <choice><orig>aire</orig><reg>air</reg></choice> into fire, and
                         <lb/>fire into earth, upon the conjunction of which, a <choice><orig>specificke</orig><reg>specific</reg></choice> <choice><orig>forme</orig><reg>form</reg></choice> being trans
-                        <lb break="no"/>mitted by the <choice><orig>Starrs</orig>, an <choice><orig>individuall</orig><reg>individual</reg></choice> is made of a <choice><orig>certaine</orig><reg>certain</reg></choice> kind of bird, namely
+                        <lb break="no"/>mitted by the <choice><orig>Starrs</orig><reg>Stars</reg></choice>, an <choice><orig>individuall</orig><reg>individual</reg></choice> is made of a <choice><orig>certaine</orig><reg>certain</reg></choice> kind of bird, namely
                         <lb/>of that, whose <choice><orig>egge</orig><reg>egg</reg></choice> it was, and seed infused in it. Is it indeed <choice><orig>sayd</orig><reg>said</reg></choice> to be smitten
                         <lb/>with a fiery sword, whilst Vulcan officiating the duty of a midwife gives pas
                         <lb break="no"/>sage or <choice><orig>egresse</orig><reg>egress</reg></choice> to the chicken by his axe, as to Pallas out of the <choice><orig>braine</orig><reg>brain</reg></choice> of Ju
@@ -79,11 +79,11 @@
                         <lb/><orig>wholy</orig><reg>wholly</reg></choice> <choice><orig>putrefyd</orig><reg>putrified</reg></choice> and dead: but this death is to him the <choice><orig>begining</orig><reg>beginning</reg></choice> of a new life,<pc>-</pc>
                         <lb/>as the corruption or death of an <choice><orig>egge</orig><reg>egg</reg></choice> brings new generation and life to the<pc>-</pc>
                         <lb/>chicken, <choice><orig>soe</orig><reg>so</reg></choice> an Embryo being freed from that <choice><orig>humane</orig><reg>human</reg></choice> vegetable life (which
-                        <lb/>alone <choice><orig>hee</orig><reg>he</reg></choice> enjoyed in his mothers <choice><orig>wombe</orig>, another more perfect is obtained by
+                        <lb/>alone <choice><orig>hee</orig><reg>he</reg></choice> enjoyed in his mothers <choice><orig>wombe</orig><reg>womb</reg></choice>, another more perfect is obtained by
                         <lb/>coming into the light of this world, as by nativity: yea <choice><orig>allso</orig><reg>also</reg></choice> <choice><orig>wee</orig><reg>we</reg></choice> being de
                         <lb break="no"/>prived of this present life, which <choice><orig>wee</orig><reg>we</reg></choice> lead, another most perfect and <choice><orig>æter
                         <lb break="no"/>nall</orig><reg>eternal</reg></choice> is at hand: Thus Lully <choice><orig>doth</orig><reg>does</reg></choice> in many places call this fiery sword a<pc>-</pc>
-                        <lb/>Sharp Spear; because fire <choice><orig>doth</orig><reg>does</reg></choice> as a Sharp Spear or sword perforate <choice><orig>bodyes</orig>,<pc>-</pc>
+                        <lb/>Sharp Spear; because fire <choice><orig>doth</orig><reg>does</reg></choice> as a Sharp Spear or sword perforate <choice><orig>bodyes</orig><reg>bodies</reg></choice>,<pc>-</pc>
                         <lb/>and make them porous and pervious, that water can penetrate to dissolve
                         <lb/>and reduce them from <choice><orig>hardnesse</orig><reg>hardness</reg></choice> to <choice><orig>softnesse</orig><reg>softness</reg></choice> and tractability. In the
                         <lb/><choice><orig>Stomacke</orig><reg>Stomach</reg></choice> of a Cormorant, which is of all birds most voracious, are found
@@ -99,15 +99,15 @@
                         <lb/>place of heat: upon which consideration that, wherewith the Philosophers <choice><orig>egge</orig><pc>-</pc>
                         <lb/>ought to be pieced and smitten, may not undeservedly be called a fiery sword:
                         <lb/>but the Philosophers had rather have it understood of a temperate heat, where
-                        <lb break="no"/>by the <choice><orig>egge</orig><reg>egg</reg></choice> is kept <choice><orig>warme</orig>, as Morfolens in Turba declares, saying, wise men
+                        <lb break="no"/>by the <choice><orig>egge</orig><reg>egg</reg></choice> is kept <choice><orig>warme</orig><reg>warm</reg></choice>, as Morfolens in Turba declares, saying, wise men
                         <lb/>ought to <choice><orig>burne</orig><reg>burn</reg></choice> away moisture first with a slow fire, as is <choice><orig>Shewed</orig><reg>Showed</reg></choice> to us by an
                         <lb/>example in the generation of a chicken, and where the fire is augmented,<pc>-</pc>
-                        <lb/>the <choice><orig>vessell</orig><reg>vessel</reg></choice> must be <choice><orig>stopd</orig><reg>stopped</reg></choice> on all sides, that the body of the <choice><orig>brasse</orig>, and the
+                        <lb/>the <choice><orig>vessell</orig><reg>vessel</reg></choice> must be <choice><orig>stopd</orig><reg>stopped</reg></choice> on all sides, that the body of the <choice><orig>brasse</orig><reg>brass</reg></choice>, and the
                         <lb/>fugitive Spirit thereof may not exhale. But what birds was the <choice><orig>egge</orig>? Mos
-                        <lb break="no"/>cus in the same plate; now I Say, <choice><orig>sayth</orig><reg>says</reg></choice> <choice><orig>hee</orig>, that <choice><orig>noe</orig><reg>no</reg></choice> instruments are<pc>-</pc>
+                        <lb break="no"/>cus in the same plate; now I Say, <choice><orig>sayth</orig><reg>says</reg></choice> <choice><orig>hee</orig><reg>he</reg></choice>, that <choice><orig>noe</orig><reg>no</reg></choice> instruments are<pc>-</pc>
                         <lb/>made, except of our white, starry, splendid powder, and of the white<pc>-</pc>
                         <lb/>stone, of which powder are made <choice><orig>fitt</orig><reg>fit</reg></choice> instruments for the <choice><orig>egge</orig>; yet they
-                        <lb/>have not named the <choice><orig>egge</orig>, nor what birds the <choice><orig>egge</orig><reg>egg</reg></choice> was<pc>. . . . .</pc>
+                        <lb/>have not named the <choice><orig>egge</orig><reg>egg</reg></choice>, nor what birds the <choice><orig>egge</orig><reg>egg</reg></choice> was<pc>. . . . .</pc>
                     </ab>   
                 </div>
                 

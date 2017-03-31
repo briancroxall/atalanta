@@ -25,20 +25,20 @@
                 
                 <div type="title" xml:lang="en">
                     <head>
-                        <lb/><orig>Embleme</orig><reg>Emblem</reg></choice> 33. of the Secrets of Nature.
-                        <lb/>The Hermaphrodite lying like a dead man in <choice><orig>darknesse</orig>, wants fire.
+                        <lb/><choice><orig>Embleme</orig><reg>Emblem</reg></choice> 33. of the Secrets of Nature.
+                        <lb/>The Hermaphrodite lying like a dead man in <choice><orig>darknesse</orig><reg>darkness</reg></choice>, wants fire.
                     </head>
                 </div>
                 
                 
                 <div type="epigram" xml:lang="en">
-                    <head><orig>Epigramme</orig><reg>Epigram</reg></choice> 33.</head>
+                    <head><choice><orig>Epigramme</orig><reg>Epigram</reg></choice> 33.</head>
                     <lg>
                         <l>See here the cold and dry Hermaphrodite,</l>
                         <l>Appears as <choice><orig>dismall</orig><reg>dismal</reg></choice> as a ghost by night:</l>
                         <l>Fire is the thing <choice><orig>hee</orig><reg>he</reg></choice> wants, if that you give,</l>
                         <l>His Spirits feeling warmth will <choice><orig>soone</orig><reg>soon</reg></choice> revive.</l>
-                        <l>The Stone's whole virtue in God Vulcan <choice><orig>lyes</orig>,</l>
+                        <l>The Stone's whole virtue in God Vulcan <choice><orig>lyes</orig><reg>lies</reg></choice>,</l>
                         <l>Sulphurs in Sol, in Luna <choice><orig>Mercurye's</orig><reg>Mercury's</reg></choice>.</l>
                     </lg>
                 </div>
@@ -57,14 +57,14 @@
                         <lb/>it appears, that they want nothing but <choice><orig>externall</orig><reg>external</reg></choice> heat, to excite the
                         <lb/><orig>naturall</orig><reg>natural</reg></choice> <choice><orig>internall</orig><reg>internal</reg></choice> heat, and bring it to action: After the same man
                         <lb break="no"/>ner <choice><orig>doe</orig><reg>do</reg></choice> the Philosophers <choice><orig>speake</orig><reg>speak</reg></choice> of their Hermaphrodite, who, if <choice><orig>hee</orig>
-                        <lb/>appears dead lying in <choice><orig>darkenesse</orig>, requires the heat of fire: Now <choice><orig>hee</orig><pc>-</pc>
-                        <lb/>is <choice><orig>sayd</orig><reg>said</reg></choice> to <choice><orig>lye</orig><reg>lie</reg></choice> in <choice><orig>darkenesse</orig>, being left in a <choice><orig>darke</orig><reg>dark</reg></choice> and most cold win
-                        <lb break="no"/>ters night, that is, remaining in <choice><orig>blacknesse</orig>, which is a <choice><orig>signe</orig><reg>sign</reg></choice> of <choice><orig>coldnesse</orig>,
+                        <lb/>appears dead lying in <choice><orig>darkenesse</orig><reg>darkness</reg></choice>, requires the heat of fire: Now <choice><orig>hee</orig><pc>-</pc>
+                        <lb/>is <choice><orig>sayd</orig><reg>said</reg></choice> to <choice><orig>lye</orig><reg>lie</reg></choice> in <choice><orig>darkenesse</orig><reg>darkness</reg></choice>, being left in a <choice><orig>darke</orig><reg>dark</reg></choice> and most cold win
+                        <lb break="no"/>ters night, that is, remaining in <choice><orig>blacknesse</orig><reg>blackness</reg></choice>, which is a <choice><orig>signe</orig><reg>sign</reg></choice> of <choice><orig>coldnesse</orig><reg>coldness</reg></choice>,
                         <lb/>from which <choice><orig>hee</orig><reg>he</reg></choice> ought to be brought to <choice><orig>whitenesse</orig><reg>whiteness</reg></choice> by a greater intension
-                        <lb/>of fire, and by yet a greater, to <choice><orig>rednesse</orig>: For, as Bodillus in Turba <choice><orig>sayth</orig>,
+                        <lb/>of fire, and by yet a greater, to <choice><orig>rednesse</orig>: For, as Bodillus in Turba <choice><orig>sayth</orig><reg>says</reg></choice>,
                         <lb/>nothing is generated without heat, and a bath of vehement heat <choice><orig>causeth</orig><reg>causes</reg></choice><pc>-</pc>
                         <lb/>a body to perish, if it be cold it drives it away, but if it be temperate, it
-                        <lb/>becomes <choice><orig>agreable</orig><reg>agreeable</reg></choice> and pleasant to the body. Bonellus in the same <choice><orig>sayth</orig>,
+                        <lb/>becomes <choice><orig>agreable</orig><reg>agreeable</reg></choice> and pleasant to the body. Bonellus in the same <choice><orig>sayth</orig><reg>says</reg></choice>,
                         <lb/>All things that live <choice><orig>doe</orig><reg>do</reg></choice> <choice><orig>allso</orig><reg>also</reg></choice> (God <choice><orig>soe</orig><reg>so</reg></choice> pleasing) <choice><orig>dye</orig>: that nature there
                         <lb break="no"/>fore, which is <choice><orig>depriv'd</orig><reg>deprived</reg></choice> of moisture, being <choice><orig>exposd</orig><reg>exposed</reg></choice> by night, seems like
                         <lb/>a dead man, and then that nature requires fire, till the body and Spi
@@ -78,10 +78,10 @@
                         <lb/>ashes, and this being <choice><orig>knowne</orig><reg>known</reg></choice> to the Philosophers <choice><orig>onely</orig><reg>only</reg></choice> is burnt and
                         <lb/>restored to life, whatsoever other men <choice><orig>dreame</orig><reg>dream</reg></choice> of a bird, I know not<pc>-</pc>
                         <lb/>what, that <choice><orig>flyeth</orig><reg>flies</reg></choice>, residing <choice><orig>noe</orig><reg>no</reg></choice> where, nor seen, but as a fable. The
-                        <lb/>Hermaphrodite, of which the Philosophers <choice><orig>speake</orig>, is of a <choice><orig>mixd</orig><reg>mixed</reg></choice> na
+                        <lb/>Hermaphrodite, of which the Philosophers <choice><orig>speake</orig><reg>speak</reg></choice>, is of a <choice><orig>mixd</orig><reg>mixed</reg></choice> na
                         <lb break="no"/>ture, male and female, whereof one <choice><orig>passeth</orig><reg>passes</reg></choice> into another by the<pc>-</pc>
                         <lb/>operation of heat, for the female is converted into a male, which<pc>-</pc>
-                        <lb/>ought not to seem <choice><orig>soe</orig><reg>so</reg></choice> strange in the Philosophers <choice><orig>worke</orig>, it being<pc>-</pc>
+                        <lb/>ought not to seem <choice><orig>soe</orig><reg>so</reg></choice> strange in the Philosophers <choice><orig>worke</orig><reg>work</reg></choice>, it being<pc>-</pc>
                         <lb/>found, if <choice><orig>wee</orig><reg>we</reg></choice> may <choice><orig>beleive</orig><reg>believe</reg></choice> <choice><orig>historyes</orig><reg>histories</reg></choice>, that many men have <choice><orig>allso</orig><pc>-</pc>
                         <lb/><choice><orig>changd</orig><reg>changed</reg></choice> their sex: The <choice><orig>Poetts</orig><reg>Poets</reg></choice> make mention of Ceneus, Iphis, and
                         <lb/>Tiresias, as Pontanus in the <choice><orig>Starrs</orig>.

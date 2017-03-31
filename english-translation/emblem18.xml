@@ -25,18 +25,18 @@
                 
                 <div type="title" xml:lang="en">
                     <head>
-                        <lb/><orig>Embleme</orig><reg>Emblem</reg></choice> 18. Of the Secrets of Nature.
-                        <lb/>Fire loves to <choice><orig>burne</orig>, not to aurify, but gold.
+                        <lb/><choice><orig>Embleme</orig><reg>Emblem</reg></choice> 18. Of the Secrets of Nature.
+                        <lb/>Fire loves to <choice><orig>burne</orig><reg>burn</reg></choice>, not to aurify, but gold.
                     </head>
                 </div>
                 
                 
                 <div type="epigram" xml:lang="en">
-                    <head><orig>Epigramme</orig><reg>Epigram</reg></choice> 18.</head>
+                    <head><choice><orig>Epigramme</orig><reg>Epigram</reg></choice> 18.</head>
                     <lg>
                         <l>All Natures agents <choice><orig>doe</orig><reg>do</reg></choice> their seed diffuse,</l>
                         <l>That thus they may their species produce:</l>
-                        <l><orig>Soe</orig><reg>So</reg></choice> fire makes all things fire, nor ever was</l>
+                        <l><choice><orig>Soe</orig><reg>So</reg></choice> fire makes all things fire, nor ever was</l>
                         <l>A true effect without its proper cause:</l>
                         <l>Gold generates <choice><orig>noe</orig><reg>no</reg></choice> fire, fire <choice><orig>noe</orig><reg>no</reg></choice> gold indeed;</l>
                         <l>All things are propagated by their seed.</l>
@@ -52,10 +52,10 @@
                         <lb/>single <choice><orig>processe</orig><reg>process</reg></choice> to complete and perfect one single motion, as appears in the
                         <lb/>Anatomy of mans body, in which one muscle serves <choice><orig>onely</orig><reg>only</reg></choice> for one motion,<pc>-</pc>
                         <lb/>that is, the attractive, but for the expansive another opposite to the first, <choice><orig>soe</orig>
-                        <lb/>that if any part or member be to be brought into a circular <choice><orig>forme</orig>, it must
+                        <lb/>that if any part or member be to be brought into a circular <choice><orig>forme</orig><reg>form</reg></choice>, it must
                         <lb/>be effected by various muscles placed circle<c rend="double-hyphen">-</c>wise: <choice><orig>soe</orig><reg>so</reg></choice> the operation of fire<pc>-</pc>
-                        <lb/>is one and single, that is to say, to heat and fire, yea assimilate to <choice><orig>itselfe</orig>, and
-                        <lb/><orig>burne</orig><reg>burn</reg></choice> all things, to which it is <choice><orig>applyed</orig>, if they be combustible: Hereupon<pc>-</pc>
+                        <lb/>is one and single, that is to say, to heat and fire, yea assimilate to <choice><orig>itselfe</orig><reg>itself</reg></choice>, and
+                        <lb/><orig>burne</orig><reg>burn</reg></choice> all things, to which it is <choice><orig>applyed</orig><reg>applied</reg></choice>, if they be combustible: Hereupon<pc>-</pc>
                         <lb/><orig>Sayth</orig><reg>Says</reg></choice> Avicenne in his <choice><orig>booke</orig><reg>book</reg></choice> of the congelation of stones: That which falls into <choice><orig>Salt
                         <lb break="no"/>pitts</orig><reg>Saltpits</reg></choice>, becomes Salt, and that which into fire, becomes fire, but somethings sooner,<pc>-</pc>
                         <lb/>some Slower, according to the power of atives, and the resisteme of passives: And<pc>-</pc>
@@ -64,11 +64,11 @@
                         <lb/>it acts upon things <choice><orig>mixd</orig><reg>mixed</reg></choice> or <choice><orig>applyed</orig><reg>applied</reg></choice> to it, assimilating and altering their nature
                         <lb/>and <choice><orig>forme</orig>: That which is generation in vegetables and <choice><orig>animalls</orig><reg>animals</reg></choice> by the pro
                         <lb break="no"/>pagation of seeds, is the infusion of virtue and assimilation in single <choice><orig>bodyes</orig><pc>-</pc>
-                        <lb/>or singly <choice><orig>mixd</orig>: the <choice><orig>Sunne</orig>, the light of heaven, projects its <choice><orig>rayes</orig><reg>rays</reg></choice> upon the
-                        <lb/>earth, which, being gathered together in concavous or burning <choice><orig>glasses</orig>, <choice><orig>doe</orig><reg>do</reg></choice> demon
+                        <lb/>or singly <choice><orig>mixd</orig>: the <choice><orig>Sunne</orig><reg>Sun</reg></choice>, the light of heaven, projects its <choice><orig>rayes</orig><reg>rays</reg></choice> upon the
+                        <lb/>earth, which, being gathered together in concavous or burning glasses, <choice><orig>doe</orig><reg>do</reg></choice> demon
                         <lb break="no"/>strate themselves to be produced from such a cause, as to appear to be the<pc>-</pc>
                         <lb/>projectible <choice><orig>formes</orig><reg>forms</reg></choice> of the <choice><orig>Sunne</orig>: Whereby it is manifest that the <choice><orig>rayes</orig><reg>rays</reg></choice> of the
-                        <lb/><orig>Sunne</orig><reg>Sun</reg></choice> are nothing <choice><orig>els</orig>, but a fiery flame extended and dispersed into an ample
+                        <lb/><orig>Sunne</orig><reg>Sun</reg></choice> are nothing <choice><orig>els</orig><reg>else</reg></choice>, but a fiery flame extended and dispersed into an ample
                         <lb/>latitude, which being dilated and <choice><orig>againe</orig><reg>again</reg></choice> contracted by concavous, diaphanous<pc>-</pc>
                         <lb/>and circular or repercussive instruments, <choice><orig>doth</orig><reg>does</reg></choice> in concavous and <choice><orig>steele</orig><reg>steel</reg></choice> mirrors
                         <lb/>Shine as a flame, and <choice><orig>burne</orig><reg>burn</reg></choice> things obvious to it: after the same manner, a<pc>-</pc>
@@ -87,22 +87,22 @@
                         <lb/>done by revocation of the dispersed virtues as it were into one point or pole,<pc>-</pc>
                         <lb/>or by the attraction of the same out of a great body into a <choice><orig>lesse</orig>: Others are
                         <lb/>found, who say that a plumbifying Stone may be made by the Sulphurous
-                        <lb/>breath of <choice><orig>Saturne</orig>, infused and retained, till it be thereby converted into
+                        <lb/>breath of <choice><orig>Saturne</orig><reg>Saturn</reg></choice>, infused and retained, till it be thereby converted into
                         <lb/><orig>coḿon</orig><reg>common</reg></choice> Mercury, which continually converts <choice><orig>coḿon</orig><reg>common</reg></choice> Mercury into lead.<pc>-</pc>
                         <lb/>Some boast that they can by Antimony, or the stellated Regulus there
                         <lb break="no"/>of make Copper from the fume of Copper, in that time wherein a
-                        <lb/>man may eat an <choice><orig>egge</orig>, yea that they have made all <choice><orig>metalls</orig>: but
+                        <lb/>man may eat an <choice><orig>egge</orig><reg>egg</reg></choice>, yea that they have made all <choice><orig>metalls</orig>: but
                         <lb/>I will not detract from their reputation, though to <choice><orig>mee</orig><reg>me</reg></choice> it seems not
                         
                         
                         
                         <pb n="6i"/><fw>Discourse 18.</fw><!-- Page number of the actual manuscript, followed by the header on the page. -->
                         <lb/>likely to be true: I know not whether they are more confident or<pc>-</pc>
-                        <lb/><orig>successefull</orig>, who <choice><orig>endeavour</orig><reg>endeavor</reg></choice> to deduce gold from gold, according to the
+                        <lb/><orig>successefull</orig><reg>successful</reg></choice>, who <choice><orig>endeavour</orig><reg>endeavor</reg></choice> to deduce gold from gold, according to the
                         <lb/>saying of the golden <choice><orig>Poett</orig>: <choice><orig>Hee</orig><reg>He</reg></choice> that desires barley <choice><orig>sowes</orig><reg>sows</reg></choice> <choice><orig>onely</orig><reg>only</reg></choice> barley,
                         <lb/>in gold is the seed of gold: Every <choice><orig>naturall</orig><reg>natural</reg></choice> thing <choice><orig>hath</orig><reg>has</reg></choice> indeed a <choice><orig>certaine</orig>
-                        <lb/>virtue of multiplying <choice><orig>itselfe</orig>, but these things are brought into action
-                        <lb/>in Vegetables and <choice><orig>animalls</orig><reg>animals</reg></choice> <choice><orig>onely</orig>, not at all in <choice><orig>Metalls</orig>, <choice><orig>Mineralls</orig>, things
+                        <lb/>virtue of multiplying <choice><orig>itselfe</orig><reg>itself</reg></choice>, but these things are brought into action
+                        <lb/>in Vegetables and <choice><orig>animalls</orig><reg>animals</reg></choice> <choice><orig>onely</orig><reg>only</reg></choice>, not at all in <choice><orig>Metalls</orig><reg>Metals</reg></choice>, <choice><orig>Mineralls</orig><reg>Minerals</reg></choice>, things
                         <lb/><choice><orig>dugge</orig><reg>dug</reg></choice> out of the earth, or Meteor: Some plants sprung from a small
                         <lb/><choice><orig>graine</orig><reg>grain</reg></choice> of seed <choice><orig>doe</orig><reg>do</reg></choice> oftentimes <choice><orig>yeild</orig><reg>yield</reg></choice> a thousand or more grains of seed,
                         <lb/>and <choice><orig>soe</orig><reg>so</reg></choice> multiply and propagate themselves, and that yearly; <choice><orig>Ani
