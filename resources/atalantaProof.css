@@ -36,6 +36,18 @@
       content: "]"
   }
   
+  choice {
+      color: #FFEBCD;
+  }
+  
+  choice:before {
+      content: "[";
+  }
+  
+ choice:after {
+       content: "]" ;
+   }
+  
   orig {
       
   }
