@@ -1,0 +1,87 @@
+/* 
+ * CSS for Transcription of English translation of Atalanta. Designed mostly for proofreading.
+ * Almost all elements are styled, but often so that they can be proofread.
+ * 
+ * HISTORY
+ * EM initial styling 2017-03-31
+ * 
+ */
+ 
+ .pageTitle {
+     
+ }
+
+ .title {
+     
+ }
+ 
+  .epigram {}
+  
+  .discourse {}
+  
+  .lg {}
+  
+  .l {}
+  
+  .pb {
+      display: block;
+      text-align: center;
+  }
+  
+  .pb:before {
+      content: "[Page: ";
+  }
+  
+  .pb:after {
+      content: "]"
+  }
+  
+  orig {
+      
+  }
+  
+  .orig-solo {
+      color: red;
+  }
+  
+  reg {
+      
+  }
+  
+   .reg:before {
+      content: " | ";
+  }
+  
+  .unclear {
+      font-style: italic;
+  }
+ 
+  .unclear:before {
+      content: "[? ";
+  }
+  
+  .unclear:after {
+      content: "]";
+  }
+  
+  .supplied {
+      
+  }
+  
+  .supplied:before {
+      content: "<";
+  }
+  
+   .supplied:after {
+      content: ">";
+  }
+  
+  seg.superscript {
+      vertical-align: super;
+  }
+  
+  seg.underline {
+      text-decoration: underline;
+  }
+  
+  
