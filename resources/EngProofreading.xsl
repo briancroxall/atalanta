@@ -24,7 +24,7 @@
         <html>
             <head>
                 <title>Atalanta Transcription Proofreading</title></head>
-            <link rel="stylesheet" type="text/css" href="/Users/elli/Projects/atalanta/resources/atalantaProof.css" media="screen" />
+            <link rel="stylesheet" type="text/css" href="https://raw.githubusercontent.com/briancroxall/atalanta/master/resources/atalantaProof.css" media="screen" />
             <body>
                <xsl:apply-templates/>
             </body>
