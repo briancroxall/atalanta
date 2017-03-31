@@ -24,7 +24,7 @@
         <html>
             <head>
                 <title>Atalanta Transcription Proofreading</title></head>
-                <link rel="stylesheet" type="text/css" href="atalanta-proof.css" media="screen" />
+            <link rel="stylesheet" type="text/css" href="/Users/elli/Projects/atalanta/resources/atalantaProof.css" media="screen" />
             <body>
                <xsl:apply-templates/>
             </body>
@@ -40,27 +40,15 @@
         <xsl:apply-templates/>
     </xsl:template>
 
-    <xsl:template match="af:div[@type='title']">
-        <div class="title">
+    <xsl:template match="af:div[@type='title | epigram | discourse']">
+        <h3 class="label"><xsl:value-of select="upper-case(@type)"/></h3>
+        <div class="{name()}">
             <xsl:apply-templates/>
         </div>
     </xsl:template>
     
-    <xsl:template match="af:div[@type='epigram']">
-        <div class="epigram">
-        <xsl:apply-templates/>
-        </div>
-    </xsl:template>
-    
-       <xsl:template match="af:div[@type='discourse']">
-           <div class="discourse">
-               <xsl:apply-templates/>
-           </div>
-    </xsl:template>
-    
     <xsl:template match="af:head">
-        <h3 class="label"><xsl:value-of select="upper-case(parent::af:div/@type)"/></h3>
-        <xsl:apply-templates/>
+        <h3 class="{parent::af:div/@type}"><xsl:apply-templates/></h3>
     </xsl:template>
     
     <xsl:template match="af:lg">
@@ -73,10 +61,13 @@
        <br />
         <xsl:apply-templates/>
     </xsl:template>
-
+    
+    <xsl:template match="af:milestone">
+        <span class="milestone"><xsl:value-of select="@n"/></span>
+    </xsl:template>
     
     <xsl:template match="af:pb">
-        <xsl:value-of select="@n"/>
+        <span class="pb"><xsl:value-of select="@n"/></span>
     </xsl:template>
     
     <xsl:template match="af:lb">
@@ -90,8 +81,8 @@
         </div>
     </xsl:template>
     
-    <xsl:template match="af:choice">  <!-- choice/orig/reg -->
-       [ <xsl:apply-templates/> ]
+    <xsl:template match="af:choice | af:reg">  <!-- choice/orig/reg -->
+        <span class="{name()}"><xsl:apply-templates/></span>
     </xsl:template>
     
     <xsl:template match="af:orig">      
@@ -100,20 +91,12 @@
             <xsl:otherwise><span class="orig-solo"><xsl:apply-templates/></span></xsl:otherwise>
         </xsl:choose>      
     </xsl:template>
-    
-    <xsl:template match="af:reg">
-        <span class="reg"><xsl:apply-templates/></span>
-    </xsl:template>
-   
-   <xsl:template match="af:unclear">
-       <span class="unclear">
+       
+    <xsl:template match="af:unclear | af:supplied | af:subst | af:add | af:del | af:pc | af:fw">
+       <span class="{name()}">
            <xsl:apply-templates/>
        </span>
    </xsl:template>
-    
-    <xsl:template match="af:supplied">
-        <span class="supplied"><xsl:apply-templates/></span>
-    </xsl:template>
     
     <xsl:template match="af:seg[@rend='underline']">
         <span class="underline"><xsl:apply-templates/></span>
@@ -122,6 +105,5 @@
     <xsl:template match="af:seg[@rend='superscript']">
         <span class="superscript"><xsl:apply-templates/></span>
     </xsl:template>
-    
-    
+        
 </xsl:stylesheet>
