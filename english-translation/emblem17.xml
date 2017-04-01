@@ -50,10 +50,10 @@
                     <ab><!--Our convention will be that if we have break = "no" then it means that the word is broken across the line with a dash--> 
                         <lb/>The Philosophers have in many places made mention of four sorts of fire<milestone unit="section" n="e03-01" /> <!-- Change the value of n to "e" plus the number of the emblem (in two digits), followed by a hyphen and then a two-digit count of sentence -->
                         <lb/>necessary to the <choice><orig>naturall</orig><reg>natural</reg></choice> <choice><orig>worke</orig><reg>work</reg></choice>, namely Lully, the Author of Scala, Ripley,
-                        <lb/>and many others: and to this end Raymund speaking of fires (<orig>Sayth</orig><reg>Says</reg></choice> Scala).
+                        <lb/>and many others: and to this end Raymund speaking of fires (<choice><orig>Sayth</orig><reg>Says</reg></choice> Scala).
                         <lb/>You must note, that here are contrary operations: because as the fire<pc>-</pc>
                         <lb/>against nature dissolves the Spirit of a fixed body into the water of a<pc>-</pc>
-                        <lb/>cloud, and binds the body of a volatile spirit into a congealed earth, <choice><orig>soe</orig>
+                        <lb/>cloud, and binds the body of a volatile spirit into a congealed earth, <choice><orig>soe</orig><reg>so</reg></choice>
                         <lb/><choice><orig>contrarywise</orig><reg>contrariwise</reg></choice> the fire of nature <choice><orig>congeales</orig><reg>congeals</reg></choice> the dissolved spirit of a fixed
                         <lb/>body into a globous earth, and resolves the fixed body of a volatile<pc>-</pc>
                         <lb/>Spirit by fire against nature, not into the water of a cloud, but into <choice><orig>Phi
@@ -61,7 +61,7 @@
                         <lb/>There are four sorts of fires, which you ought to know, the <choice><orig>naturall</orig><reg>natural</reg></choice>, <choice><orig>unna
                         <lb break="no"/>turall</orig><reg>unnatural</reg></choice>, fire against nature, and <choice><orig>elementall</orig><reg>elemental</reg></choice>, which <choice><orig>kindleth</orig><reg>kindles</reg></choice> wood: These
                         <lb/>fires <choice><orig>wee</orig><reg>we</reg></choice> use, and <choice><orig>noe</orig><reg>no</reg></choice> more. Fire against nature ought to excruciate<pc>-</pc>
-                        <lb/><orig>bodyes</orig><reg>bodies</reg></choice>, that is the dragon, as I tell you, violently burning, as the fire of hell.
+                        <lb/><choice><orig>bodyes</orig><reg>bodies</reg></choice>, that is the dragon, as I tell you, violently burning, as the fire of hell.
                         <lb/>The fire of nature is the third menstruum, that fire is naturally in every
                         <lb/>thing: Occasioned fire <choice><orig>wee</orig><reg>we</reg></choice> call <choice><orig>unnaturall</orig><reg>unnatural</reg></choice>, as the heat of ashes and baths
                         <lb/>to putrefy: Without these fires you can bring nothing to putrefaction, where
@@ -77,15 +77,15 @@
                         <lb/>the other the patient, and the same both agent and patient in different
                         <lb/>respect: That which is observed in iron rings or pillars held together by a
                         <lb/>Magnet, and <choice><orig>joyned</orig><reg>joined</reg></choice> by <choice><orig>mutuall</orig><reg>mutual</reg></choice> contact, the same in these fires: for the
-                        <lb/><orig>elementall</orig>reg>elemental</choice> <choice><orig>doth</orig><reg>does</reg></choice> like the Magnet immit its virtue though the second
-                        <lb/>and third even to the fourth, and <choice><orig>joynes</orig><reg>joins</reg></choice> one to another by <choice><orig>mutuall</orig><pc>-</pc>
+                        <lb/><choice><orig>elementall</orig><reg>elemental</reg></choice> <choice><orig>doth</orig><reg>does</reg></choice> like the Magnet immit its virtue though the second
+                        <lb/>and third even to the fourth, and <choice><orig>joynes</orig><reg>joins</reg></choice> one to another by <choice><orig>mutuall</orig><reg>mutual</reg></choice><pc>-</pc>
                         <lb/>operations, and <choice><orig>causeth</orig><reg>causes</reg></choice> them to <choice><orig>sticke</orig><reg>stick</reg></choice> together, till <choice><orig>internall</orig><reg>internal</reg></choice> action be
                         <lb/>effected amongst the uppermost: The first is <choice><orig>elementall</orig><reg>elemental</reg></choice> fire indeed<pc>-</pc>
                         <lb/>and name, the second is <choice><orig>aire</orig><reg>air</reg></choice> or airy, the third <choice><orig>watry</orig><reg>watery</reg></choice> or of a Lunar na
                         <lb break="no"/>ture, the fourth earthy: It is <choice><orig>needlesse</orig><reg>needless</reg></choice> to say any thing of the first,<pc>-</pc>
                         <lb/>because it is <choice><orig>knowne</orig><reg>known</reg></choice> to every mans eye and touch: The three other are
-                        <lb/>dragons, menstrua's, waters, Sulphurs, and <choice><orig>Mercuryes</orig>: Dragons, because<pc>-</pc>
-                        <lb/>being participants of venenosity, they <choice><orig>devoure</orig><reg>devour</reg></choice> serpents of their <choice><orig>owne</orig>
+                        <lb/>dragons, menstrua's, waters, Sulphurs, and <choice><orig>Mercuryes</orig><reg>Mercuries</reg></choice>: Dragons, because<pc>-</pc>
+                        <lb/>being participants of venenosity, they <choice><orig>devoure</orig><reg>devour</reg></choice> serpents of their <choice><orig>owne</orig><reg>own</reg></choice>
                         <lb/>kind, frett and alter, that is, dissolve and coagulate <choice><orig>bodyes</orig><reg>bodies</reg></choice> incorporated<pc>-</pc>
                         <lb/>and mixed with them: They are called Menstrua's, because the <choice><orig>Philoso
                         <lb break="no"/>phicall</orig><reg>Philosophical</reg></choice> infant is produced from them, and nourished therewith even to
@@ -94,7 +94,7 @@
                         
                         
                         <pb n="58"/><fw>Discourse 17.</fw><!-- Page number of the actual manuscript, followed by the header on the page. -->
-                        <lb/>Menstruums, the vegetable, and <choice><orig>minerall</orig><reg>mineral</reg></choice>, Ripley in his <choice><orig>Præface</orig><reg>Preface</reg></choice> of the gates <choice><orig>hath</orig>
+                        <lb/>Menstruums, the vegetable, and <choice><orig>minerall</orig><reg>mineral</reg></choice>, Ripley in his <choice><orig>Præface</orig><reg>Preface</reg></choice> of the gates <choice><orig>hath</orig><reg>has</reg></choice>
                         <lb/>three, which are really one and <choice><orig>doe</orig><reg>do</reg></choice> agree: for the generation of the infant
                         <lb/>is made of them <choice><orig>alltogether</orig><reg>altogether</reg></choice>, and a while water <choice><orig>præceeds</orig><reg>preceeds</reg></choice> the birth of it, which
                         <lb/>is not of the substance but superfluity of the infant, and therefore to be<pc>-</pc>
@@ -107,22 +107,22 @@
                         <lb/>which they comprehend in them, for the Sulphur of nature is mixed and<pc>-</pc>
                         <lb/>made one with the other Sulphur, and the two Sulphurs are dissolved by one,
                         <lb/>and one is separated from two, and the Sulphurs are <choice><orig>præserved</orig><reg>preserved</reg></choice> and contained
-                        <lb/>by Sulphur, as Yximidius in Turba <choice><orig>sayth</orig>: Now what Sulphurs are Dardaris
+                        <lb/>by Sulphur, as Yximidius in Turba <choice><orig>sayth</orig><reg>says</reg></choice>: Now what Sulphurs are Dardaris
                         <lb/>there declares in these words: Sulphurs are Souls hidden in the fower elements,
                         <lb/>which being extracted by art <choice><orig>doe</orig><reg>do</reg></choice> naturally <choice><orig>containe</orig><reg>contain</reg></choice> one another and are<pc>-</pc>
-                        <lb/><orig>joyned</orig><reg>joined</reg></choice> together: if you can by water <choice><orig>governe</orig><reg>govern</reg></choice> and purify well that which<pc>-</pc>
-                        <lb/>is hidden in the belly of Sulphur, that hidden thing meeting with its <choice><orig>owne</orig><pc>-</pc>
-                        <lb/>nature <choice><orig>rejoyceth</orig><reg>rejoices</reg></choice>, even as water with its like. I will now tell you (<orig>Sayth</orig><reg>Says</reg></choice> Mosius
+                        <lb/><choice><orig>joyned</orig><reg>joined</reg></choice> together: if you can by water <choice><orig>governe</orig><reg>govern</reg></choice> and purify well that which<pc>-</pc>
+                        <lb/>is hidden in the belly of Sulphur, that hidden thing meeting with its <choice><orig>owne</orig><reg>own</reg></choice><pc>-</pc>
+                        <lb/>nature <choice><orig>rejoyceth</orig><reg>rejoices</reg></choice>, even as water with its like. I will now tell you (<choice><orig>Sayth</orig><reg>Says</reg></choice> Mosius
                         <lb break="no"/><orig>allso</orig>) what it is: the first indeed, which is fiery Argent vive, the second, the<pc>-</pc>
                         <lb/>body compounded in it, and the third is the water of Sulphur, by which the
                         <lb/>first is <choice><orig>washd</orig><reg>washed</reg></choice>, and dilacerated, and governed, till the <choice><orig>worke</orig><reg>work</reg></choice> be accomplished:
-                        <lb/>That which is <choice><orig>sayd</orig><reg>said</reg></choice> of Sulphurs, the same may be understood of <choice><orig>soe</orig><pc>-</pc>
-                        <lb/>many <choice><orig>Mercuryes</orig>: For this <choice><orig>sayth</orig><reg>says</reg></choice> the same Mosius afterwards: Argent vive
+                        <lb/>That which is <choice><orig>sayd</orig><reg>said</reg></choice> of Sulphurs, the same may be understood of <choice><orig>soe</orig><reg>so</reg></choice><pc>-</pc>
+                        <lb/>many <choice><orig>Mercuryes</orig><reg>Mercuries</reg></choice>: For this <choice><orig>sayth</orig><reg>says</reg></choice> the same Mosius afterwards: Argent vive
                         <lb/>Cambar is the Magnesia, but Argent vive or Auripigment is that Sulphur
                         <lb/>which ascends from a <choice><orig>mixd</orig><reg>mixed</reg></choice> compound: But I will <choice><orig>omitt</orig><reg>omit</reg></choice> the inference of
                         <lb/>more <choice><orig>testimonyes</orig><reg>testimonies</reg></choice>, they being infinite and obvious to every man: These <choice><orig>foure</orig><reg>four</reg></choice>
                         <lb/>fires are included as it were in Spheres and <choice><orig>orbes</orig><reg>orbs</reg></choice>, that is, every one <choice><orig>hath</orig><reg>has</reg></choice> a
-                        <lb/>particular center, from which or to which their motion tends, but <choice><orig>neverthelesse</orig>
+                        <lb/>particular center, from which or to which their motion tends, but <choice><orig>neverthelesse</orig><reg>nevertheless</reg></choice>
                         <lb/>they are kept <choice><orig>soe</orig><reg>so</reg></choice> bound together partly by nature, partly by art, that one
                         <lb/>can operate little or nothing without another, yea the action of one is the
                         <lb/>passion of another, and on the contrary<pc>. . . . . . .</pc>

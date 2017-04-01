@@ -25,7 +25,7 @@
                 
                 <div type="title" xml:lang="en">
                     <head>
-                        <lb/><orig>Embleme</orig><reg>Emblem</reg></choice> 48. Of the Secrets of Nature.
+                        <lb/><choice><orig>Embleme</orig><reg>Emblem</reg></choice> 48. Of the Secrets of Nature.
                         <lb/>The King falls <choice><orig>sicke</orig><reg>sick</reg></choice> by drinking water, and is restored to health
                         <lb/>by Physicians.
                     </head>
@@ -33,10 +33,10 @@
                 
                 
                 <div type="epigram" xml:lang="en">
-                    <head><orig>Epigramme</orig><reg>Epigram</reg></choice> 48.</head>
+                    <head><choice><orig>Epigramme</orig><reg>Epigram</reg></choice> 48.</head>
                     <lg>
                         <l>In wealth nor people <choice><orig>dos</orig><reg>does</reg></choice> the King delight,</l>
-                        <l><orig>Soe</orig><reg>So</reg></choice> much as to have water brought in sight.</l>
+                        <l><choice><orig>Soe</orig><reg>So</reg></choice> much as to have water brought in sight.</l>
                         <l>Cup after cup <choice><orig>hee</orig><reg>he</reg></choice> drinks, <choice><orig>growes</orig><reg>grows</reg></choice> <choice><orig>swelld</orig><reg>swelled</reg></choice> and <choice><orig>wanne</orig><reg>wan</reg></choice></l>
                         <l>Urging <choice><orig>releife</orig><reg>relief</reg></choice> from his Physician,</l>
                         <l>Where finding art by various means <choice><orig>essayd</orig><reg>essayed</reg></choice>,</l>
@@ -53,30 +53,30 @@
                         <lb/>and rugged places in <choice><orig>hott</orig><reg>hot</reg></choice> weather, being thirsty, refused not a draught<pc>-</pc>
                         <lb/>of muddy water offered by a <choice><orig>souldier</orig><reg>soldier</reg></choice>, but <choice><orig>dranke</orig><reg>drank</reg></choice> most freely, and rewarded
                         <lb/>him that brought it very amply. And indeed if a man at this very time
-                        <lb/>(as some of the latest historians <choice><orig>affirme</orig>) <choice><orig>travell</orig><reg>travel</reg></choice> through the borders of
+                        <lb/>(as some of the latest historians <choice><orig>affirme</orig><reg>affirm</reg></choice>) <choice><orig>travell</orig><reg>travel</reg></choice> through the borders of
                         <lb/>Persia, it is <choice><orig>sayd</orig><reg>said</reg></choice> that fountains of sweet water are very rarely found,
                         <lb/>standing waters being brackish, and the <choice><orig>Soyle</orig><reg>Soil</reg></choice> <choice><orig>itselfe</orig><reg>itself</reg></choice> in the surface<pc>-</pc>
-                        <lb/><orig>yeilding</orig><reg>yielding</reg></choice> much <choice><orig>saltnesse</orig><reg>saltness</reg></choice>: After the same manner the King, which the
+                        <lb/><choice><orig>yeilding</orig><reg>yielding</reg></choice> much <choice><orig>saltnesse</orig><reg>saltness</reg></choice>: After the same manner the King, which the
                         <lb/>Philosophers have made mention of being perplexed with thirst, com
-                        <lb break="no"/>manded plenty of sweet water to be brought him, of which <choice><orig>hee</orig><reg>he</reg></choice> <choice><orig>dranke</orig>
+                        <lb break="no"/>manded plenty of sweet water to be brought him, of which <choice><orig>hee</orig><reg>he</reg></choice> <choice><orig>dranke</orig><reg>drank</reg></choice>
                         <lb/>his fill; as if manifest to any man by the Allegory of Merlinus. The
                         <lb/>cure of the <choice><orig>sicke</orig><reg>sick</reg></choice> and <choice><orig>discoloured</orig><reg>discolored</reg></choice> King is undertaken by <choice><orig>severall</orig><reg>several</reg></choice> Physi
                         <lb break="no"/>tians: The <choice><orig>Ægyptians</orig><reg>Egyptians</reg></choice> <choice><orig>administring</orig><reg>administering</reg></choice> their medicines stirred the humors
                         <lb/>being yet crude, which Hippocrates affirms ought to be purged being<pc>-</pc>
-                        <lb/>first concocted, <choice><orig>unlesse</orig><reg>unless</reg></choice> they be fluxible and <choice><orig>uncertaine</orig>: For then they
+                        <lb/>first concocted, <choice><orig>unlesse</orig><reg>unless</reg></choice> they be fluxible and <choice><orig>uncertaine</orig><reg>uncertain</reg></choice>: For then they
                         <lb/>must be forthwith expelled, that they may not peradventure make an
-                        <lb/>assault upon the more noble parts or <choice><orig>bowells</orig>. Hereupon dangerous Symp
+                        <lb/>assault upon the more noble parts or <choice><orig>bowells</orig><reg>bowels</reg></choice>. Hereupon dangerous Symp
                         <lb break="no"/>toms, such as Hipothymy and Syncope happened to the King, but the Phy
-                        <lb break="no"/>sicians of Alexandria coming last of all, and esteemed more <choice><orig>successfull</orig>
+                        <lb break="no"/>sicians of Alexandria coming last of all, and esteemed more <choice><orig>successfull</orig><reg>successful</reg></choice>
                         <lb/>in a <choice><orig>chronicke</orig><reg>chronic</reg></choice> disease, restored the King to his former health. It is well<pc>-</pc>
                         <lb/>worth while to cure <choice><orig>soe</orig><reg>so</reg></choice> great a King, who being made sound extends a
                         <lb/><choice><orig>liberall</orig><reg>liberal</reg></choice> hand and a serene aspect to his Physician. <choice><orig>Wee</orig><reg>We</reg></choice> have read that<pc>-</pc>
                         <lb/>many mens cures have been very nobly rewarded by <choice><orig>severall</orig><reg>several</reg></choice> Kings, as<pc>-</pc>
                         <lb/>that of Domocides by Polycrates a tyrant of Samos with two talents, of
                         <lb/>Erasiscratus (who, as Pliny writes, was <choice><orig>Schollar</orig><reg>Scholar</reg></choice> of Chrysippus, begotten<pc>-</pc>
-                        <lb/>upon the daughter of Aristotle) for curing King Antiochus being <choice><orig>sicke</orig>
+                        <lb/>upon the daughter of Aristotle) for curing King Antiochus being <choice><orig>sicke</orig><reg>sick</reg></choice>
                         <lb/>for the love of his Stepmother Stratonice, with a hundred talents by his
-                        <lb/><orig>Sonne</orig><reg>Son</reg></choice> Ptolemy, of Jacob Cocterius, Physician of Lewis the 2d <!-- unsure if this is right --> King of<pc>-</pc>
+                        <lb/><choice><orig>Sonne</orig><reg>Son</reg></choice> Ptolemy, of Jacob Cocterius, Physician of Lewis the 2d <!-- unsure if this is right --> King of<pc>-</pc>
                         <lb/>France, from <choice><orig>whome</orig><reg>whom</reg></choice> <choice><orig>hee</orig><reg>he</reg></choice> <choice><orig>receivd</orig><reg>received</reg></choice> four thousand Crowns every <choice><orig>moneth</orig><reg>month</reg></choice> as
                         <lb/>a stipend, and other later <choice><orig>wee</orig><reg>we</reg></choice> make <choice><orig>noe</orig><reg>no</reg></choice> mention of; but the cure of
                         <lb/>this King is recompensed with yet a <choice><orig>farre</orig><reg>far</reg></choice> greater gratuity or reward. For
@@ -90,7 +90,7 @@
                         <lb/>army of Xerxes, and Pythius a man <choice><orig>exceding</orig><reg>exceeding</reg></choice> wealthy offered to the<pc>-</pc>
                         <lb/>same pay for his whole army, and <choice><orig>victuall</orig><reg>victual</reg></choice> for five <choice><orig>moneths</orig><reg>months</reg></choice>, provided<pc>-</pc>
                         <lb/>that the youngest of his five <choice><orig>sonns</orig><reg>sons</reg></choice>, which was the comfort of his old<pc>-</pc>
-                        <lb/>age, might be permitted to stay at home, and not be <choice><orig>constraind</orig><reg>constrained</reg></choice> to <choice><orig>goe</orig><pc>-</pc>
+                        <lb/>age, might be permitted to stay at home, and not be <choice><orig>constraind</orig><reg>constrained</reg></choice> to <choice><orig>goe</orig><reg>go</reg></choice><pc>-</pc>
                         
                         
                         
