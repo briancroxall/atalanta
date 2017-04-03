@@ -23,8 +23,10 @@
         
         <html>
             <head>
-                <title>Atalanta Transcription Proofreading</title></head>
+                <title>Atalanta Transcription Proofreading</title>
             <link rel="stylesheet" type="text/css" href="https://raw.githubusercontent.com/briancroxall/atalanta/master/resources/atalantaProof.css" media="screen" />
+            </head>
+            
             <body>
                <xsl:apply-templates/>
             </body>
